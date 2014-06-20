@@ -8,7 +8,8 @@
 	var game = {
 		ship: ship,
 		starSystems: [],
-		currentStarSystem: 0
+		currentStarSystem: 0,
+		currentPlanet: 1
 	};
 
 	game.starSystems[0] = {
