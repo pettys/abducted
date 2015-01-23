@@ -5,6 +5,10 @@ window.addEventListener('load', function (e) {
 
 	var game = window.game = newAbductionGame();
 
+	game.on('arrivedAtStarSystem', function (args) {
+		Q.stageScene("starSystem", 0, args);
+	});
+
 	var shownPlanetSprites = [];
 
 	var Q = Quintus({ development: true })
@@ -32,10 +36,7 @@ window.addEventListener('load', function (e) {
 			y: Q.el.height / 6,
 			type: Q.SPRITE_UI
 		});
-		startButton.on('touch', function () {
-			game = game || newAbductionGame();
-			Q.stageScene("starSystem");
-		});
+		startButton.on('touch', function () { game.start(); });
 		stage.insert(startButton, splash);
 	}));
 
@@ -48,7 +49,7 @@ window.addEventListener('load', function (e) {
 		Q.clearColor = '#111111';
 
 		// Create a sprite for the star in this star system.
-		var starSystem = game.starSystems[game.currentStarSystem];
+		var starSystem = stage.options.starSystem;
 		if (starSystem.star !== 'yellow') throw "Unhandled star type " + starSystem.star;
 		stage.insert(new Q.Sprite({
 			asset: 'yellow-star.png',
@@ -64,15 +65,13 @@ window.addEventListener('load', function (e) {
 			var sprite = new Q.PlanetSprite({ model: planet });
 			stage.insert(sprite);
 			shownPlanetSprites.push(sprite);
-			//planetSprite.on('touch', function (sprite) {
-			//	console.log(sprite.planetIndex);
-			//});
 		}
 		
-		var mark = new Q.LocationMarker({});
+		var mark = new Q.LocationMarker({
+			currentPlanet: starSystem.planets[stage.options.planetIndex]
+		});
 		stage.insert(mark);
 		mark.add("tween");
-
 	}));
 
 	Q.Sprite.extend("LocationMarker", {
@@ -81,25 +80,26 @@ window.addEventListener('load', function (e) {
 				asset: 'crosshairs.png',
 				type: Q.SPRITE_NONE
 			});
+			console.log(this);
 		},
 		step: function (dt) {
 			this.p.angle += dt * 50;
-			if (this.targetPlanet === game.currentPlanet) {
+			if (this.targetPlanet === this.p.currentPlanet) {
 				return;
 			}
-			this.targetPlanet = game.currentPlanet;
-			var markSprite = shownPlanetSprites[game.currentPlanet];
-			var targetX = markSprite.p.x;
-			var targetScale =  1.1 * markSprite.p.r / this.p.cx;
-			this.p.y = markSprite.p.y;
+			this.targetPlanet = this.p.currentPlanet;
+			//var markSprite = shownPlanetSprites[this.p.currentPlanet];
+			var targetX = this.p.currentPlanet.x * Q.el.width;
+			//var targetScale =  1.1 * markSprite.p.r / this.p.cx;
+			this.p.y = Q.el.height / 2;
 			if (!this.started) {
 				this.p.x = targetX;
-				this.p.scale = targetScale;
+				//this.p.scale = targetScale;
 				this.started = true;
 			} else {
 				var time = Math.abs(this.p.x - targetX) / 140;
 				this.stop();
-				this.animate({ x: targetX, scale: targetScale }, time, Q.Easing.Quadratic.InOut);
+				this.animate({ x: targetX/*, scale: targetScale*/ }, time, Q.Easing.Quadratic.InOut);
 			}
 		}
 	});
@@ -138,36 +138,36 @@ window.addEventListener('load', function (e) {
 				});
 				this.on('touch');
 			},
-			touch: function (touch) {
-				var self = this;
-				killContextMenu();
-				activeContextMenu.push(this.stage.insert(new Q.UI.Container({
-					fill: 'gray',
-					border: 5,
-					shadow: 10,
-					shadowColor: 'rgba(0,0,0,0.5)',
-					y: this.p.y + this.p.cy,
-					x: this.p.x,
-				})));
-				activeContextMenu.push(this.stage.insert(new Q.UI.Text({
-					label: this.p.model.type,
-					color: 'white',
-					x: 0, y: 0
-				}), activeContextMenu[0]));
-				activeContextMenu.push(this.stage.insert(new Q.UI.Button({
-					label: 'Orbit',
-					x: 0, y: 50,
-					fill: '#990000',
-					border: 5,
-					shadow: 10,
-					shadowColor: 'rgba(0,0,0,0.5)'
-				}, function () {
-					var index = game.starSystems[game.currentStarSystem].planets.indexOf(self.p.model);
-					game.currentPlanet = index;
-					killContextMenu();
-				}), activeContextMenu[0]));
-				activeContextMenu[0].fit(20, 20);
-			}
+			touch: function (touch) { game.touchPlanet(this.p.model); }
+				//var self = this;
+				//killContextMenu();
+				//activeContextMenu.push(this.stage.insert(new Q.UI.Container({
+				//	fill: 'gray',
+				//	border: 5,
+				//	shadow: 10,
+				//	shadowColor: 'rgba(0,0,0,0.5)',
+				//	y: this.p.y + this.p.cy,
+				//	x: this.p.x,
+				//})));
+				//activeContextMenu.push(this.stage.insert(new Q.UI.Text({
+				//	label: this.p.model.type,
+				//	color: 'white',
+				//	x: 0, y: 0
+				//}), activeContextMenu[0]));
+				//activeContextMenu.push(this.stage.insert(new Q.UI.Button({
+				//	label: 'Orbit',
+				//	x: 0, y: 50,
+				//	fill: '#990000',
+				//	border: 5,
+				//	shadow: 10,
+				//	shadowColor: 'rgba(0,0,0,0.5)'
+				//}, function () {
+				//	var index = game.starSystems[game.currentStarSystem].planets.indexOf(self.p.model);
+				//	game.currentPlanet = index;
+				//	killContextMenu();
+				//}), activeContextMenu[0]));
+				//activeContextMenu[0].fit(20, 20);
+				//}
 		};
 
 	})());
