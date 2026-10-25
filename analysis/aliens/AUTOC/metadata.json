@@ -1,0 +1,261 @@
+{
+  "source": "AUTOC.PAN",
+  "viewport": [
+    0,
+    0,
+    319,
+    199,
+    1
+  ],
+  "sprite_count": 49,
+  "sprites": [
+    {
+      "index": 0,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 1,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 2,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 3,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 4,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 5,
+      "width": 33,
+      "height": 20
+    },
+    {
+      "index": 6,
+      "width": 13,
+      "height": 26
+    },
+    {
+      "index": 7,
+      "width": 13,
+      "height": 26
+    },
+    {
+      "index": 8,
+      "width": 13,
+      "height": 26
+    },
+    {
+      "index": 9,
+      "width": 13,
+      "height": 26
+    },
+    {
+      "index": 11,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 12,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 13,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 14,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 15,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 16,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 17,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 18,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 19,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 20,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 21,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 22,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 23,
+      "width": 23,
+      "height": 12
+    },
+    {
+      "index": 24,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "index": 25,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "index": 26,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "index": 27,
+      "width": 17,
+      "height": 17
+    },
+    {
+      "index": 28,
+      "width": 25,
+      "height": 26
+    },
+    {
+      "index": 33,
+      "width": 96,
+      "height": 48
+    },
+    {
+      "index": 34,
+      "width": 96,
+      "height": 48
+    },
+    {
+      "index": 35,
+      "width": 12,
+      "height": 9
+    },
+    {
+      "index": 36,
+      "width": 12,
+      "height": 9
+    },
+    {
+      "index": 37,
+      "width": 12,
+      "height": 9
+    },
+    {
+      "index": 40,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 41,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 42,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 43,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 44,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 45,
+      "width": 16,
+      "height": 3
+    },
+    {
+      "index": 50,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 51,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 52,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 53,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 54,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 55,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 56,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 57,
+      "width": 4,
+      "height": 17
+    },
+    {
+      "index": 60,
+      "width": 77,
+      "height": 58
+    },
+    {
+      "index": 61,
+      "width": 39,
+      "height": 29
+    }
+  ],
+  "animation_file_offset": 8378,
+  "animation_bytes": 1408,
+  "note": "Sprite sheet only; animation bytecode not executed."
+}

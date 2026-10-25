@@ -1,0 +1,37 @@
+{
+  "source": "TEREGA.PIC",
+  "source_sha256": "0b4e4d96a5ff64d1c185cb3c3dec84f6d3a6d9987f18908b57765384a751f885",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 256,
+  "used_colors": 15,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 770
+    },
+    {
+      "tag": "E0",
+      "offset": 774,
+      "length": 258
+    },
+    {
+      "tag": "C0",
+      "offset": 1036,
+      "length": 258
+    },
+    {
+      "tag": "X1",
+      "offset": 1298,
+      "length": 7915
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+  "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+}

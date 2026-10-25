@@ -1,0 +1,444 @@
+{
+  "source": "AUTO2.BIN",
+  "count": 12,
+  "text_file_offset": 268,
+  "declared_text_bytes": 1475,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "A) Information\nB) Combat\nC) Depart\nD) Join the Love Alliance",
+      "speech_text_offset": 12,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        12,
+        4,
+        0
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "A) Information\nB) Combat\nC) Depart\nD) Join the Love Alliance\nE) Install Philanthropy Circuit",
+      "speech_text_offset": 73,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "E",
+          "text_offset": 8
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        -1,
+        -1,
+        -1,
+        73,
+        5,
+        0
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "A) Information\nB) Altruism\nC) Combat *\nD) Depart\nE) Join the Love Alliance\n* NOTE: Disables altruism function",
+      "speech_text_offset": 166,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "E",
+          "text_offset": 8
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        -1,
+        -1,
+        -1,
+        166,
+        5,
+        0
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "A) Information\nB) Combat\nC) Depart",
+      "speech_text_offset": 276,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        276,
+        3,
+        0
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "A) Information\nB) Combat\nC) Depart\nD) Install Philanthropy Circuit",
+      "speech_text_offset": 311,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        311,
+        4,
+        0
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "A) Information\nB) Altruism\nC) Combat *\nD) Depart\n* NOTE: Disables altruism function",
+      "speech_text_offset": 378,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        378,
+        4,
+        0
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "1. The act of permitting an entry into the Love Alliance. \n2. Consent required, especially formal consent. \n3. Authorization via Jot essential to success. ",
+      "speech_text_offset": 462,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONE",
+          "text_offset": 1377
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        1377,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        462,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Select a subject:\nA) The Freedom Alliance\nB) The Love Alliance\nC) The Peace Alliance\nD) Done",
+      "speech_text_offset": 1382,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "B",
+          "text_offset": 2
+        },
+        {
+          "result": 2,
+          "text": "C",
+          "text_offset": 4
+        },
+        {
+          "result": 3,
+          "text": "D",
+          "text_offset": 6
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        0,
+        2,
+        4,
+        6,
+        -1,
+        -1,
+        -1,
+        -1,
+        1382,
+        4,
+        0
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "1. A personal foe, opposed to the Love Alliance. 2. An \nenemy in war *. 3. An antagonist; opponent. 4. Entities\nthat serve to harm, oppose, or impede. \n* note: a state of peace currently exists between the Love\nand Freedom Alliances.",
+      "speech_text_offset": 618,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONE",
+          "text_offset": 1377
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        1377,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        618,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "1. (a) A formal pact of confederation between alien species\nin common cause. (b) The species so conjoined, i.e., \nAutomata, Jot, and Venge. 2. A union or connection \nstimulated by shared interest. 3. A congruence of quality;\naffinity. 4. The state of being allied with this group. ",
+      "speech_text_offset": 852,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONE",
+          "text_offset": 1377
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        1377,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        852,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "1. A group wishing to equal or surpass the Love Alliance,\nand which desires many of the same goals as the Love \nAlliance. 2. A rival.",
+      "speech_text_offset": 1134,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONE",
+          "text_offset": 1377
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        1377,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1134,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "1. (a) A formal pact of confederation between alien species\nin common cause.  This pact is no longer extant.",
+      "speech_text_offset": 1268,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONE",
+          "text_offset": 1377
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        1377,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1268,
+        1,
+        0
+      ]
+    }
+  ],
+  "overlay": "ovl_24",
+  "animation": "autoc.pan"
+}

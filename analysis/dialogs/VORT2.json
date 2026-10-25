@@ -1,0 +1,941 @@
+{
+  "source": "VORT2.BIN",
+  "count": 21,
+  "text_file_offset": 466,
+  "declared_text_bytes": 4375,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "oh powerful Captain We the Vorticella abase\nOurselves before your Might We beg\npermission to serve You your Potency in\nBattle is recognized by all worthy Opponents\nYou have many powerful Enemies You must\ncontinually enforce your Will go forth and\nexplode all Challengers to your\nPre-eminence!",
+      "speech_text_offset": 306,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHAT CHALLENGERS?",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I WISH TO TRADE",
+          "text_offset": 18
+        },
+        {
+          "result": 2,
+          "text": "I WISH A PEACE TREATY",
+          "text_offset": 34
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        0,
+        18,
+        34,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        306,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "welcome to the Vorticella Planet You have\ngotten off to a good Start keep destroying\nwould-be Rivals and soon no One will dare\noppose You!",
+      "speech_text_offset": 599,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHAT RIVALS?",
+          "text_offset": 69
+        },
+        {
+          "result": 1,
+          "text": "I WISH TO TRADE",
+          "text_offset": 18
+        },
+        {
+          "result": 2,
+          "text": "I WISH A PEACE TREATY",
+          "text_offset": 34
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        69,
+        18,
+        34,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        599,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "We are the noble Vorticella your Problem is\ninsufficient Respect to get the other\nSpecies in this Cluster to pay attention to\nYou and your Needs You must first explode\ntheir Ships then They will Notice You!",
+      "speech_text_offset": 738,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHOSE SHIPS SHOULD I EXPLODE?",
+          "text_offset": 82
+        },
+        {
+          "result": 1,
+          "text": "I WISH TO TRADE",
+          "text_offset": 18
+        },
+        {
+          "result": 2,
+          "text": "I WISH A PEACE TREATY",
+          "text_offset": 34
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        82,
+        18,
+        34,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        738,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "We are the noble Vorticella You are unfit to\ncleanse the Dust beneath Us You meek and\ninferior being You cannot improve Yourself\nin this cruel Universe without Struggle shoot\nup the next three or four Ships You meet\nthat is the best advice you need right now.",
+      "speech_text_offset": 945,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 1,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        945,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "know You that We the Vorticella are willing\nto trade with You despite the Fact that You\nhave not yet fully proven Yourself in noble\nBattle but after the Trade You must fight Us\nin this Manner We will test You.",
+      "speech_text_offset": 1205,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 112
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        112,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        56,
+        -1,
+        1205,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "You are unworthy to deal in Trade Matters\nwith Us the noble Vorticella go and destroy\nlesser Beings before You return then maybe\nWe will have altered our Opinion.",
+      "speech_text_offset": 1415,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CAN YOU GIVE ME SOME INFORMATION?",
+          "text_offset": 118
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 2,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        118,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        1415,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "We the Vorticella are horrified and scorn\nyour cowardly Attempt to suborn our Honor\nhow dare You use such foul Language and\nblaspheme before our very Ears know You not\nthat \"Peace\" (oh how We befoul our own\nTongues by saying the vile Word) is the most\nnefarious Concept depart oh Villain.",
+      "speech_text_offset": 1578,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 63
+        },
+        {
+          "result": 1,
+          "text": "FIGHT ",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        63,
+        56,
+        1578,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "We Know all of the alien Ships and We know\nhow to Explode them Whom would You like to\nExplode?",
+      "speech_text_offset": 4280,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WORTHY OPPONENTS",
+          "text_offset": 152
+        },
+        {
+          "result": 1,
+          "text": "FEEBLE RACES",
+          "text_offset": 169
+        },
+        {
+          "result": 2,
+          "text": "FOES OF MODERATE VALOR",
+          "text_offset": 182
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        152,
+        169,
+        182,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        4280,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "the Automata orbiting Energy Plates give Them\nmuch Protection You should seek out and\nengage Them in noblest Battle though the\nBroodmasters are craven their Warships are\nquite powerful and most Fun to fight so\nfight Them on every Occasion the Dignee\noften Refuse to do Battle but if You can\nprovoke Them then their Ship is mighty\nenough for the most profound relaxing\nEntertainment in Fact They can be relaxing\nunto Death if you can engage the Jot Dtri\nVessel It can be quite the Frolic finally\nthe Venge are among our favorite Foes They\neagerly engage Us in Battle and are both\nPersistent and Tough.",
+      "speech_text_offset": 1867,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WORTHY OPPONENTS",
+          "text_offset": 152
+        },
+        {
+          "result": 1,
+          "text": "FEEBLE RACES",
+          "text_offset": 169
+        },
+        {
+          "result": 2,
+          "text": "FOES OF MODERATE VALOR",
+          "text_offset": 182
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        152,
+        169,
+        182,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        1867,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "the Acari and the Halicot are Weak and\nInferior not worth the Energy for a manly\nBattle the Balathide do not even have any\nWarships what Honor can They possess?",
+      "speech_text_offset": 2468,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WORTHY OPPONENTS",
+          "text_offset": 152
+        },
+        {
+          "result": 1,
+          "text": "FEEBLE RACES",
+          "text_offset": 169
+        },
+        {
+          "result": 2,
+          "text": "FOES OF MODERATE VALOR",
+          "text_offset": 182
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        152,
+        169,
+        182,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        2468,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "the Athdalde the Cicisbeos the Dacians are\nnot really strong enough for a manly Battle\nThey are really no more than a\nDivertissement for a Warrior of your\nCaliber.",
+      "speech_text_offset": 2629,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WORTHY OPPONENTS",
+          "text_offset": 152
+        },
+        {
+          "result": 1,
+          "text": "FEEBLE RACES",
+          "text_offset": 169
+        },
+        {
+          "result": 2,
+          "text": "FOES OF MODERATE VALOR",
+          "text_offset": 182
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        152,
+        169,
+        182,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        2629,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "We would be happy to battle should You so\nwish as only the Threat of Vaporization\nmakes Existence meaningful.",
+      "speech_text_offset": 2793,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WORTHY OPPONENTS",
+          "text_offset": 152
+        },
+        {
+          "result": 1,
+          "text": "FEEBLE RACES",
+          "text_offset": 169
+        },
+        {
+          "result": 2,
+          "text": "FOES OF MODERATE VALOR",
+          "text_offset": 182
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        152,
+        169,
+        182,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        2793,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "We Know all of the alien Ships and We know\nhow to Explode them Whom would You like to\nExplode?",
+      "speech_text_offset": 4280,
+      "choices": [
+        {
+          "result": 0,
+          "text": "COMPETENT ENEMIES",
+          "text_offset": 216
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO WEAK FOR ME",
+          "text_offset": 234
+        },
+        {
+          "result": 2,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        216,
+        234,
+        255,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        4280,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "It is enjoyable to dodge the Athdalde's\nProton Stalker Pods We recommend the Sport\nthough the Balathide are individually puny\nthe Result of losing to Them is so Bad that\nthe Fight may hold some Interest the\nCicisbeo and Dacians would also be worthy\nOpponents for the likes of You.",
+      "speech_text_offset": 2903,
+      "choices": [
+        {
+          "result": 0,
+          "text": "COMPETENT ENEMIES",
+          "text_offset": 216
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO WEAK FOR ME",
+          "text_offset": 234
+        },
+        {
+          "result": 2,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        216,
+        234,
+        255,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        2903,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "the Acari are not Strong or Fast They make\ngood Foes for our Children the Halicot too\nare no match for even You in Your Weakness.",
+      "speech_text_offset": 3184,
+      "choices": [
+        {
+          "result": 0,
+          "text": "COMPETENT ENEMIES",
+          "text_offset": 216
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO WEAK FOR ME",
+          "text_offset": 234
+        },
+        {
+          "result": 2,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        216,
+        234,
+        255,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        3184,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We do not think that You have achieved the\nSkill needed to conquer the Automata\nconsistently nor the Broodmasters though if\nYou can destroy their strongest Ship then the\nRest are handicapped the Dignee the Jot and\nthe Venge too are fearsome Foes.",
+      "speech_text_offset": 3314,
+      "choices": [
+        {
+          "result": 0,
+          "text": "COMPETENT ENEMIES",
+          "text_offset": 216
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO WEAK FOR ME",
+          "text_offset": 234
+        },
+        {
+          "result": 2,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        216,
+        234,
+        255,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        3314,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "We would be happy to battle should You so\nwish as only the Threat of Vaporization\nmakes Existence meaningful.",
+      "speech_text_offset": 2793,
+      "choices": [
+        {
+          "result": 0,
+          "text": "COMPETENT ENEMIES",
+          "text_offset": 216
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO WEAK FOR ME",
+          "text_offset": 234
+        },
+        {
+          "result": 2,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        216,
+        234,
+        255,
+        205,
+        -1,
+        -1,
+        4275,
+        -1,
+        2793,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "We Know all of the alien Ships and We know\nhow to Explode them Whom would You like to\nExplode?",
+      "speech_text_offset": 4280,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ENEMIES I SHOULD SEEK OUT",
+          "text_offset": 280
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 2,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        280,
+        255,
+        205,
+        -1,
+        -1,
+        -1,
+        4275,
+        -1,
+        4280,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "You should restrict Yourself to the Acari the\nBalathide and the Halicot for now as only\nThey have Ships puny enough for You to\novercome.",
+      "speech_text_offset": 3561,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ENEMIES I SHOULD SEEK OUT",
+          "text_offset": 280
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 2,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        280,
+        255,
+        205,
+        -1,
+        -1,
+        -1,
+        4275,
+        -1,
+        3561,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "almost every Species in the Cluster would\npresent a difficult Task for Someone as new\nand meek as are You perhaps You should leave\nUs and seek out an easier Place the\nAthdalde's Pods will chase and crush You\nthe Automata orbiting Shields impossible for\nYou to penetrate the Broodmasters have mighty\nWarships and are very aggressive in Battle\nTactics the Cicisbeo and the Dacians have\nfast and dangerous Fighters that come in\nmultiple Quantity the Dignee may not even\ndeign to fight You in their Might the Jot\nand the Venge possess very large Ships that\ncan easily explode You.",
+      "speech_text_offset": 3698,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ENEMIES I SHOULD SEEK OUT",
+          "text_offset": 280
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 2,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        280,
+        255,
+        205,
+        -1,
+        -1,
+        -1,
+        4275,
+        -1,
+        3698,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "We would be happy to battle should You so\nwish as only the Threat of Vaporization\nmakes Existence meaningful.",
+      "speech_text_offset": 2793,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ENEMIES I SHOULD SEEK OUT",
+          "text_offset": 280
+        },
+        {
+          "result": 1,
+          "text": "FOES TOO POWERFUL FOR ME",
+          "text_offset": 255
+        },
+        {
+          "result": 2,
+          "text": "YOURSELVES",
+          "text_offset": 205
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4275
+        }
+      ],
+      "raw_words": [
+        280,
+        255,
+        205,
+        -1,
+        -1,
+        -1,
+        4275,
+        -1,
+        2793,
+        3,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_34",
+  "animation": "vortc.pan"
+}

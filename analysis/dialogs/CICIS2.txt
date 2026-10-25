@@ -1,0 +1,383 @@
+CICIS2.BIN | ovl_27 | cicisc.pan
+
+RECORD 0 (0x0002)
+Felicitations, fortunate one. The glory you behold is named
+Gold Moon Rising of the Cicisbeo. Our gratification at your
+wonderful acts is intense and our condescension most great.
+What reward do you desire?
+  [0] PERPETUAL PEACE BETWEEN OUR NATIONS.
+  [1] INFORMATION
+  [2] TRADE
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 1 (0x0018)
+Felicitations, fortunate one. The glory you behold is named
+Gold Moon Rising of the Cicisbeo. Our gratification at your
+wonderful acts is intense and our condescension most great.
+What reward do you desire?
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 2 (0x002e)
+You are welcome. Your wondering eyes behold Jade Flowerbud.
+We of the Cicisbeo consider you a friend. In what manner
+can we interact?
+  [0] INFORMATION
+  [1] I'D LIKE TO OPEN TRADING
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 3 (0x0044)
+You are welcome. Your wondering eyes behold Jade Flowerbud
+Avenger. We of the Cicisbeo consider you a friend, and
+command you to destroy the starbase of the Halicot, whose
+presence befouls the universe.
+  [0] I HEAR AND OBEY.
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 4 (0x005a)
+You now descry the glorious form of Summer Breeze. I belong
+to the Cicisbeo, who grace the cosmos with our presence.
+How have you chosen to serve us?
+  [0] I SERVE BEST WHEN PROPERLY INFORMED.
+  [1] I'D LIKE TO OPEN TRADING
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 5 (0x0070)
+You now descry the glorious form of Summer Breeze Avenger.
+I belong to the Cicisbeo, who grace the cosmos with our
+presence.  If you wish to further experience our
+loveliness, you must go to and destroy the starbase of the
+Halicot, which have disgusting personal habits, and dare to
+be more lovely than ourselves. 
+  [0] I'LL GO AT ONCE TO DESTROY THE HALICOT BASE
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 6 (0x0086)
+No doubt unwittingly, you have offended our calm existence.
+The entity of wondrous color whom you now witness is titled
+Silver Whip. Go, and do not return until you have redeemed
+yourself.
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 7 (0x009c)
+You have deeply violated our contentment. The entity of
+wondrous color whom you now witness is named Silver Whip
+Avenger. If you desire to make amends for your crimes, you
+must destroy the starbase of our rivals, the Halicot. Their
+sin is great, for they aspire to greater gorgeousness than
+our own.
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 8 (0x00b2)
+Granted. We of the Cicisbeo happily concede the slight 
+abridgement of our personal liberty necessary to ensure
+peace and prosperity between yourselves and us. The peace
+agreement is now considered to be in effect. Are there
+other humble wishes of yours which we can grant?
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 9 (0x00c8)
+We of the Cicisbeo value our treasures highly, and are
+careful only to deal in sordid mercantile matters with
+those that have demonstrated their faithfulness and
+fortitude.  Were you to serve us by destroying our foes or
+bringing us useful data, your status might improve.
+  [0] WHICH FOES DO YOU REFER TO ?
+  [1] WHAT TYPE OF DATA ?
+  [2] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 10 (0x00de)
+We of the Cicisbeo value our treasures highly, and are
+careful only to deal in sordid mercantile matters with
+those that have demonstrated their faithfulness and
+fortitude.  Were you to serve us by destroying our foes or
+bringing us useful data, your status might improve.
+  [0] WHICH FOES DO YOU REFER TO ?
+  [1] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 11 (0x00f4)
+The Athdalde are abhorred by all civilized worlds. In
+addition, it is possible that the Freedom and Love alliance
+members are dangerous. At least, such word has reached our
+delicate, shell-like ears.
+  [0] INFORMATION
+  [1] YOU MENTIONED DATA EARLIER. WHAT TYPE OF DATA ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 12 (0x010a)
+We know little about the Halicot and Monad species. More
+information on these entities would certainly be beneficial
+to our lovely brains.
+  [0] INFORMATION
+  [1] YOU MENTIONED FOES EARLIER. WHO ARE THEY ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 13 (0x0120)
+This information is most fascinating. It will take some time
+to digest. Please leave and return at a more opportune
+time. If you require equipment before your departure, you
+may purchase it.
+  [0] TRADE FOR EQUIPMENT
+  [1] WAIT! BEFORE I GO, I'D LIKE SOME INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 14 (0x0136)
+Our beneficent wishes go with you.
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 15 (0x014c)
+We comprehend that you have been in touch with the %s.
+Inform us at once of their nature and appearance.
+  [0] INFORM CICISBEO ABOUT ALIEN SPECIES
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 16 (0x0162)
+Your courageous action in destroying the vulgar Halicot is 
+well-appreciated. You have served us well.
+  [0] YOU'RE WELCOME
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 17 (0x0178)
+In what manner can we best enlighten your benighted mind?
+There are many species that inhabit our cluster.
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 18 (0x018e)
+In what manner can we best enlighten your benighted mind?
+There are many species that inhabit our cluster.
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 19 (0x01a4)
+An unimpressive race. They are suitably humble about their
+condition, however, and seem appropriately grateful for our
+aid to them. 
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 20 (0x01ba)
+Barbarous individuals whose own world was long ago
+destroyed through greed. Their forms are scabrous, and
+their actions completely devoid of etiquette. Destroying
+their revolting ships is an act of kindness to the
+Universe, and earns our thanks.
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 21 (0x01d0)
+Their minds are filled with lust for ascendancy rather than
+adornment. We feel sorrow for their appalling condition,
+not anger. The Dacians are their comrades. 
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 22 (0x01e6)
+Unimportant beings. It is very peculiar that they are not
+dominant politically over the Broodmasters. After all, the
+Dacians are certainly physically more perfect. Perhaps they
+are afflicted with a malformation of the brain.
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 23 (0x01fc)
+Fine beings, and quite comely for non-Cicisbeo. They have
+agreed to serve us by undergoing the tedium of operating
+and governing the Peace Alliance.
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 24 (0x0212)
+Androids which are not truly alive, so have little esthetic
+sense. They are allies of that terminally dull race, the
+Jot.
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BROODMASTERS
+  [3] THE DACIANS
+  [4] THE DIGNEE
+  [5] THE AUTOMATA
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 25 (0x0228)
+We know little of the Halicot. But the rumors that come to
+us are disturbing. If you come across them in your travels,
+please tell us of their nature. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 26 (0x023e)
+Horrible, horrible entities who have the audacity to be
+more beautiful than our perfect selves. We adjure you to
+seek them out, destroy their star station, and earn our
+thanks.
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 27 (0x0254)
+As you know, vile entities who attempted to compete with
+ourselves. Fortunately, their star station is now blotted
+from memory, and our ships patrol their system,
+quarantining their venom and preventing any other species
+from discovering the Halicot's despicable nature. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 28 (0x026a)
+Similar to the Dignee in personality, but cruder in morals
+and manners. The hapless Automata and Venge can do no
+better than to ally with these fulsome entities in an
+attempt to protect themselves from the Broodmasters. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 29 (0x0280)
+We know little of the Monad. But the rumors that come to us
+are disturbing. If you come across it in your travels,
+please tell us of its nature. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 30 (0x0296)
+What we know of the Monad we have learned from you. They
+seem content to lurk in their corner of the universe, and
+should not interfere with other species' ambitions. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 31 (0x02ac)
+Ugliforms whose deformed bodies have poisoned their
+philosophy.  You would be wise never to deal with them. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 32 (0x02c2)
+Raiders who wisely have never chosen to assault our perfect
+forms. Lesser beings fear them. 
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT
+
+RECORD 33 (0x02d8)
+We are Deity's perfect creation, the gift of Nature to the
+universe. Behold our beauty.
+  [0] THE HALICOT
+  [1] THE JOT
+  [2] THE MONAD
+  [3] THE VENGE
+  [4] THE VORTICELLA
+  [5] YOURSELVES
+  [6] PREV...
+  [7] EXIT

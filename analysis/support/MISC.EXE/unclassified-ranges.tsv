@@ -1,0 +1,5 @@
+region	start	end	bytes	status
+CODE_0	1000:0000	1000:000f	16	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:004e	1000:014f	258	not decoded; may be data, padding, or undiscovered code
+CODE_1	1015:0000	1015:0083	132	not decoded; may be data, padding, or undiscovered code
+HEADER	HEADER::00000000	HEADER::000001ff	512	data

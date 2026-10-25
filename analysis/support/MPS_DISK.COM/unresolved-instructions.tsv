@@ -1,0 +1,4 @@
+address	instruction	reason
+1000:0103	INT 0x11	indirect control flow; targets require validation
+1000:011b	INT 0x21	indirect control flow; targets require validation
+1000:012b	INT 0x21	indirect control flow; targets require validation

@@ -1,0 +1,22 @@
+{
+  "source": "PLANEGA2.PIC",
+  "source_sha256": "d76e820a814d58f65cbd1506b59bf17a9f6d2dd4b200b79e5149e58e64859918",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 0,
+  "used_colors": 11,
+  "blocks": [
+    {
+      "tag": "X1",
+      "offset": 0,
+      "length": 6976
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+  "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+}

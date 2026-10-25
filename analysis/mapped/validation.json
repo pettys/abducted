@@ -1,0 +1,81 @@
+{
+  "main": {
+    "functions": 1443,
+    "decompiled": 1314,
+    "aliases": 129,
+    "modules": 53
+  },
+  "code_overlays": 52,
+  "overlay_dispatch_stubs": 129,
+  "file_partition": {
+    "LIGHTSPD.EXE": {
+      "bytes": 139582,
+      "partitioned_bytes": 139582,
+      "sha256": "adcb7d093a5225ca2b6f688a50d3eb27b44ce647bad73df55027aed3935f921c"
+    },
+    "LIGHTSPD.OVL": {
+      "bytes": 166836,
+      "partitioned_bytes": 166836,
+      "sha256": "29173ba3d6dd844055365d35fe457d7aa1ea9801d2b75d28adddacc78dbc3393"
+    }
+  },
+  "instruction_count": 75930,
+  "instruction_length_agreements": 75930,
+  "instruction_length_disagreements": [],
+  "decoded_overlay_bytes": 141493,
+  "overlay_payload_bytes": 156340,
+  "failed_functions": [],
+  "indirect_or_unmapped_instructions": 326,
+  "support": [
+    {
+      "name": "CGRAPHIC.EXE",
+      "functions": 31,
+      "decompiled": 31,
+      "modules": 1,
+      "path": "support\\CGRAPHIC.EXE"
+    },
+    {
+      "name": "EGRAPHIC.EXE",
+      "functions": 33,
+      "decompiled": 33,
+      "modules": 1,
+      "path": "support\\EGRAPHIC.EXE"
+    },
+    {
+      "name": "MGRAPHIC.EXE",
+      "functions": 30,
+      "decompiled": 30,
+      "modules": 1,
+      "path": "support\\MGRAPHIC.EXE"
+    },
+    {
+      "name": "MISC.EXE",
+      "functions": 1,
+      "decompiled": 1,
+      "modules": 1,
+      "path": "support\\MISC.EXE"
+    },
+    {
+      "name": "MPS_DISK.COM",
+      "functions": 1,
+      "decompiled": 1,
+      "modules": 1,
+      "path": "support\\MPS_DISK.COM"
+    },
+    {
+      "name": "MPS_FILE.COM",
+      "functions": 1,
+      "decompiled": 1,
+      "modules": 1,
+      "path": "support\\MPS_FILE.COM"
+    },
+    {
+      "name": "TGRAPHIC.EXE",
+      "functions": 31,
+      "decompiled": 31,
+      "modules": 1,
+      "path": "support\\TGRAPHIC.EXE"
+    }
+  ],
+  "original_game_files_unchanged": true
+}

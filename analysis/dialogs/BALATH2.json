@@ -1,0 +1,1551 @@
+{
+  "source": "BALATH2.BIN",
+  "count": 29,
+  "text_file_offset": 642,
+  "declared_text_bytes": 4251,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Welcome to our system, tasty Earthman. We are\nBalathide. We wish to help you. To receive\nour benefit, you must lower your shields.\nPlease lower your shields. ",
+      "speech_text_offset": 255,
+      "choices": [
+        {
+          "result": 0,
+          "text": "LOWER SHIELDS",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        0,
+        14,
+        20,
+        32,
+        -1,
+        -1,
+        51,
+        45,
+        255,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Please lower your shields at once. We and our\ngrubs cannot assist you until you do so.",
+      "speech_text_offset": 414,
+      "choices": [
+        {
+          "result": 0,
+          "text": "LOWER SHIELDS",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        0,
+        14,
+        20,
+        32,
+        -1,
+        -1,
+        51,
+        45,
+        414,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Now that you have cooperated, our grubs can\ngreatly enhance your pleasure and security.\nWe will make beautiful together. Our grubs\nsignal that your energy systems are just\nfine. You are even tastier than we had\nimagined. ",
+      "speech_text_offset": 501,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHAT DID YOU DO?",
+          "text_offset": 57
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        },
+        {
+          "result": 4,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 6,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        57,
+        14,
+        20,
+        74,
+        32,
+        -1,
+        51,
+        45,
+        501,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "We are Balathide. We are happy to serve you,\nand to have you serve our grubs. Our grubs\nappreciate the great service you and your\nstarship are doing for us. ",
+      "speech_text_offset": 723,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REMOVE YOUR GRUBS!",
+          "text_offset": 92
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        },
+        {
+          "result": 4,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 6,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        92,
+        14,
+        20,
+        74,
+        32,
+        -1,
+        51,
+        45,
+        723,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "As per your request, we assisted you. Now you\npossess the great benefit of Balathide grubs\nin your engine room. When you return to your\nship, you may bask in the pleasure of this\njoyful union. ",
+      "speech_text_offset": 881,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REMOVE YOUR GRUBS!",
+          "text_offset": 92
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 6,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        92,
+        14,
+        20,
+        32,
+        74,
+        -1,
+        51,
+        45,
+        881,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "We are a non-technological species and\npossess no components for trade. Also, the\nplanets under our control have been sucked\ndry by the fecundity of our grubs, so we\ncannot even provide goods for commerce. All\nwe can give is two things: birth and advice.",
+      "speech_text_offset": 1075,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REMOVE YOUR GRUBS!",
+          "text_offset": 92
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        92,
+        20,
+        32,
+        74,
+        -1,
+        -1,
+        51,
+        45,
+        1075,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "We are a peaceful species and never engage in\nwar. A treaty with us would be superfluous. ",
+      "speech_text_offset": 1330,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REMOVE YOUR GRUBS!",
+          "text_offset": 92
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        92,
+        14,
+        20,
+        74,
+        -1,
+        -1,
+        51,
+        45,
+        1330,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Vile human! What heartless monsters you must\nbe to remove helpless grubs from their home.\nWhat audacity you possess to return devoid\nof the grubs with which we entrusted you.\nDepart in vileness!",
+      "speech_text_offset": 1421,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 51
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        51,
+        -1,
+        1421,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "We cannot comprehend such an attitude. How\ncould one refuse a gift so grand as that of\nlife itself! Thriving, teeming life, inside\nyour very own engine room! What a tremendous\nbenefit. No, we could not deprive you of the\njoys of watching your ship give birth to a\nmature Balathide.",
+      "speech_text_offset": 1616,
+      "choices": [
+        {
+          "result": 0,
+          "text": "IT WILL GIVE BIRTH?",
+          "text_offset": 111
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 6,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        111,
+        14,
+        20,
+        32,
+        74,
+        -1,
+        51,
+        45,
+        1616,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "Do not worry, you are assured of the jolly\ncompanionship and pleasure of the grubs for\nmany many years to come. The completion of\nthe Balathide life cycle takes approximately\n4.7 million years. At that time, they will\nbe mature, and your vessel will become the\ncenter of a wondrous world composed of\nspawn-matter.  Endless spawning -- the stuff\nof legend!",
+      "speech_text_offset": 1898,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 14
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 20
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "KNOW ANY SECRETS?",
+          "text_offset": 74
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 51
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 45
+        }
+      ],
+      "raw_words": [
+        14,
+        20,
+        32,
+        74,
+        -1,
+        -1,
+        51,
+        45,
+        1898,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "We Balathide are a long-lived species, and\nhave accumulated a great deal of\ninformation. Here is what we can tell you. ",
+      "speech_text_offset": 2254,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2254,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "We Balathide are a long-lived species, and\nhave accumulated a great deal of\ninformation. Here is what we can tell you. ",
+      "speech_text_offset": 2254,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        2254,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "They are sex-crazed. If you give in to them,\nthey will obey you.",
+      "speech_text_offset": 2374,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2374,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "They are mad for profit. If you destroy the\nstarbase they indicate, they will give you\nmetal, organics, radioactives, and water. ",
+      "speech_text_offset": 2439,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2439,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "They are robots. If you can obtain a\nphilanthropy circuit and give it to them,\nthey will henceforth be willing to trade. ",
+      "speech_text_offset": 2569,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2569,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "They are power-hungry. Destroy their enemies\nto make them your friends. ",
+      "speech_text_offset": 2691,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2691,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "They are vain and will make unreasonable\nrequests on you. Obey them to gain their\nfriendship. ",
+      "speech_text_offset": 2764,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2764,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "They serve the Broodmasters. Destroy the\nBroodmasters' foes to please them. ",
+      "speech_text_offset": 2859,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ATHDALDE",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "AUTOMATA",
+          "text_offset": 153
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 162
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 175
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 184
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 242
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        153,
+        162,
+        175,
+        184,
+        242,
+        250,
+        2859,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "They are aristocratic. You must visit their\nhome planet to gain a peace treaty. ",
+      "speech_text_offset": 2936,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        2936,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "They are innocuous but tasty. ",
+      "speech_text_offset": 3017,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        3017,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "They have amazing mental powers. They can\nactually control your actions and responses.",
+      "speech_text_offset": 3048,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        3048,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "He is annoyingly judgmental. Do not visit him\nif you have been destroying starbases, even\nif you were justified. ",
+      "speech_text_offset": 3135,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        3135,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "They are vindictive. Once they are your\nfriends, they will make continual demands.\nObey these demands to maintain the\nfriendship.  Once they are hostile to you,\nthey will remain that way forever. ",
+      "speech_text_offset": 3249,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        3249,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "They are impressionable. If you regularly run\naway from your enemies, they will scorn you.",
+      "speech_text_offset": 3446,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 192
+        },
+        {
+          "result": 1,
+          "text": "HALICOT",
+          "text_offset": 199
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 207
+        },
+        {
+          "result": 3,
+          "text": "MONAD",
+          "text_offset": 211
+        },
+        {
+          "result": 4,
+          "text": "VENGE",
+          "text_offset": 217
+        },
+        {
+          "result": 5,
+          "text": "VORTICELLA",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 234
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 250
+        }
+      ],
+      "raw_words": [
+        192,
+        199,
+        207,
+        211,
+        217,
+        223,
+        234,
+        250,
+        3446,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "The Dignee are pleased when you destroy bases\nof the Freedom Alliance. You may not attack\nthe Dignee unless they permit it.  They know\nthe location of a secret world. ",
+      "speech_text_offset": 3537,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "THANKS",
+          "text_offset": 131
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        131,
+        -1,
+        3537,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "The Venge are personified vindictiveness.\nAvoid them. Do not befriend them or visit\nthem, as you value your life. ",
+      "speech_text_offset": 3705,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "THANKS",
+          "text_offset": 131
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        131,
+        -1,
+        3705,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "The Broodmasters have a secret enemy that\nthey are not aware of.  If you cozen up to\nthem and their allies, you may find this\nenemy, and use his envy to your advantage.",
+      "speech_text_offset": 3820,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "THANKS",
+          "text_offset": 131
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        131,
+        -1,
+        3820,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "Once you have signed a peace treaty with the\nJot, you must refrain from attacking other\nLove Alliance ships, or they may break the\ntreaty. ",
+      "speech_text_offset": 3989,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "THANKS",
+          "text_offset": 131
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        131,
+        -1,
+        3989,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "The Monad adjudges you on what destruction\nyou have wreaked in the cluster. If you are\nharmless, he may even reward you. ",
+      "speech_text_offset": 4129,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "THANKS",
+          "text_offset": 131
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        131,
+        -1,
+        4129,
+        0,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_25",
+  "animation": "bathc.pan"
+}

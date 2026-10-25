@@ -1,0 +1,37 @@
+{
+  "source": "GSPRITE1.PIC",
+  "source_sha256": "81cb2a01c59e8f1a24b1bc80774ffee93311d17344e2b7cd140fe8bfc3d34c7f",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 256,
+  "used_colors": 15,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 770
+    },
+    {
+      "tag": "E0",
+      "offset": 774,
+      "length": 258
+    },
+    {
+      "tag": "C0",
+      "offset": 1036,
+      "length": 258
+    },
+    {
+      "tag": "X1",
+      "offset": 1298,
+      "length": 7136
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+  "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+}

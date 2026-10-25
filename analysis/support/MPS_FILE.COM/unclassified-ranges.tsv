@@ -1,0 +1,5 @@
+region	start	end	bytes	status
+ram	1000:0130	1000:0130	1	not decoded; may be data, padding, or undiscovered code
+ram	1000:0154	1000:0154	1	not decoded; may be data, padding, or undiscovered code
+ram	1000:018c	1000:01c9	62	not decoded; may be data, padding, or undiscovered code
+ram	1000:01ec	1000:036a	383	not decoded; may be data, padding, or undiscovered code

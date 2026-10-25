@@ -1,0 +1,407 @@
+{
+  "source": "LUTIN1.BIN",
+  "count": 10,
+  "text_file_offset": 224,
+  "declared_text_bytes": 1670,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "I am self Lutin hunter. You are human warship\npilot. Query interchange is permissible?\nQuery you are desirous of interchange?",
+      "speech_text_offset": 339,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INTERCHANGE AFFIRMATIVE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INTERCHANGE NEGATIVE",
+          "text_offset": 24
+        },
+        {
+          "result": 2,
+          "text": "WHAT DOES \"INTERCHANGE\" MEAN ?",
+          "text_offset": 45
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        0,
+        24,
+        45,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        339,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Query you seek what interchange pattern?\nPossibilities: aggressive, mutualistic,\ninstructive.",
+      "speech_text_offset": 465,
+      "choices": [
+        {
+          "result": 0,
+          "text": "IMPRESS VIA SHOW OF FORCE",
+          "text_offset": 88
+        },
+        {
+          "result": 1,
+          "text": "OFFER TO EXCHANGE GOODS",
+          "text_offset": 114
+        },
+        {
+          "result": 2,
+          "text": "OFFER PEACE TREATY",
+          "text_offset": 138
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        88,
+        114,
+        138,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        465,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Query you intend reaction aggressive?\nOr reaction cautious?",
+      "speech_text_offset": 559,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REACTION AGGRESSIVE",
+          "text_offset": 157
+        },
+        {
+          "result": 1,
+          "text": "REACTION CAUTIOUS",
+          "text_offset": 177
+        },
+        {
+          "result": 2,
+          "text": "WHAT DO YOU MEAN BY \"REACTION\" ?",
+          "text_offset": 195
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        157,
+        177,
+        195,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        559,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Interchange means reciprocal activity. Query\ninterchange is permissible and desirous by\nyourself?",
+      "speech_text_offset": 619,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INTERCHANGE AFFIRMATIVE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INTERCHANGE NEGATIVE",
+          "text_offset": 24
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        0,
+        24,
+        -1,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        619,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "\"Peace\" unrecognized vocable. Search initiated\nin human history banks for definition. Query\nyou will await results of \"Peace\" vocable\ncheck?",
+      "speech_text_offset": 717,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WAIT FOR COMPUTER CHECK",
+          "text_offset": 228
+        },
+        {
+          "result": 1,
+          "text": "COMPUTER CHECK UNNECESSARY. PLEASE CONTINUE.",
+          "text_offset": 252
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        228,
+        252,
+        -1,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        717,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Responses exhausted. Query you are desirous\nof?",
+      "speech_text_offset": 858,
+      "choices": [
+        {
+          "result": 0,
+          "text": "OFFER PEACE TREATY",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "ASK FOR INFORMATION",
+          "text_offset": 297
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        138,
+        297,
+        -1,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        858,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Computer check unequivocal. \"Peace\" vocable\nused by human historians to indicate periods\nof preparation for warfare. Destruction\ninteraction confirmed desirable by human\nwarship pilot. Laser battery lock-on 100%.\nSpinal gun arming sequences initiated.\nBattle-sights operable. Begin combat.",
+      "speech_text_offset": 906,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        76,
+        -1,
+        906,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Reaction: human warship pilot response. Query\nyou intend aggression or you intend caution?",
+      "speech_text_offset": 1196,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REACTION AGGRESSIVE",
+          "text_offset": 157
+        },
+        {
+          "result": 1,
+          "text": "REACTION CAUTIOUS",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 82
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        157,
+        177,
+        -1,
+        -1,
+        -1,
+        -1,
+        82,
+        76,
+        1196,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Inappropriate. Memory banks inaccessible and\nforbidden to human warship pilot. Departure\nnow necessitated.",
+      "speech_text_offset": 1287,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 82
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        82,
+        -1,
+        1287,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "Destructive interaction confirmed desirable\nby human warship pilot. Laser battery lock-on\n100%. Spinal gun arming sequence initiated.\nBattle-sights operable. Begin combat.",
+      "speech_text_offset": 1498,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 76
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        76,
+        -1,
+        1498,
+        0,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_21",
+  "animation": "lutinc.pan"
+}

@@ -1,0 +1,300 @@
+BROOD1.BIN | ovl_16 | brooc.pan
+
+RECORD 0 (0x0002)
+I welcome you, friend Earthman. Let us plot together, and this
+star cluster shall be ours to share between our two species.
+  [0] TELL ME MORE.
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 1 (0x0018)
+I welcome you, friend Earthman. Let us plot together, and this
+star cluster shall be ours to share between our two species.
+  [0] PEACE TREATY
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 2 (0x002e)
+I welcome you powerful Earthman. I am Broodmaster, humble
+governor of this poor worldlet. How may I best serve your
+honorable self ?
+  [0] REQUEST PEACE TREATY
+  [1] TRADE
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 3 (0x0044)
+I welcome you powerful Earthling. I am a Broodmaster, humble
+governor of this poor worldlet. Have mercy upon me and I will
+be your slave.
+  [0] REQUEST PEACE TREATY
+  [1] REQUEST TRADE
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 4 (0x005a)
+I welcome you powerful Earthling. I am a Broodmaster, humble
+governor of this poor worldlet. Have mercy upon me and I will
+be your slave.
+  [0] EXTORT GOODS
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 5 (0x0070)
+WARNING! The item just taken on board contained a concealed TDX
+bomb.  Its detonation has caused extensive damage,
+  [0] LEAVE
+
+RECORD 6 (0x0086)
+Clearly, there are too many lesser species cluttering up this
+area.  Unfortunately, I lack the physical courage necessary to
+exterminate other races except when I possess overwhelming
+force.  However, you Earthlings lack this disability, so you
+could destroy them with relative ease.  With our assistance.
+The plan is simple : we shall destroy the starbases of the
+Cicisbeo, the Fel, and the Lutin.  To perform this feat, I can
+provide ample supplies and support.
+  [0] REQUEST PEACE TREATY
+  [1] INFORMATION
+  [2] TRADE
+  [3] REFUEL AND LEAVE
+  [4] LEAVE
+  [5] FIGHT
+
+RECORD 7 (0x009c)
+After careful consideration, I have determined that a treaty
+at this time would be counterproductive. The threats and the
+machinations of the Cicisbeo, Fel, and Lutin are such that we
+cannot currently agree to a treaty.  However, if you could
+destroy the starbases of these enemies, we could agree to
+certain mutually beneficial arrangements.
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 8 (0x00b2)
+Clearly such an agreement would be premature.  If you could
+demonstrate your benign nature by assisting us in a few simple
+tasks and dealings with our neighbors within this cluster ... ?
+  [0] WHICH NEIGHBORS ?
+  [1] REQUEST TRADE INSTEAD
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 9 (0x00c8)
+We are as yet unsure of you and your motives. Hence we
+hesitate to deal with you. If you could demonstrate your
+benign nature by assisting us in a few simple tasks and
+dealings with our neighbors within this cluster ... ?
+  [0] WHICH NEIGHBORS ?
+  [1] REQUEST PEACE TREATY INSTEAD
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 10 (0x00de)
+The Cicisbeo, Fel, and Lutin are all species that this cluster
+can do without. Destroy their ships and starbases, and our
+gratitude would be heartfelt.
+  [0] REQUEST TRADE
+  [1] REQUEST PEACE TREATY
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 11 (0x00f4)
+We now dominate this cluster to the near-exclusion of other
+beings. You have served us well, and we choose to reward
+you by agreeing to such a treaty, thus permitting your species
+to establish a colony in this our cluster.
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 12 (0x010a)
+Greetings, Friend Earthling.
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 13 (0x0120)
+The Didinium and Stentor are pragmatic entities. Cicisbeo, Fel,
+and Lutin encumber certain planetary surfaces, which could be
+put to much better use.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 14 (0x0136)
+Self-centered beings whose brains are consumed by fripperies.
+Their combat craft are light-weight and destroyed with ease.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 15 (0x014c)
+Beings of great worth. They are not easy to trade with, but we
+have the secret - simply give them the coordinates of an
+undefended world, and they will cheerfully provide you with
+goods.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 16 (0x0162)
+Unimportant weaklings. Someday we will have overwhelming
+military superiority. Then we shall eliminate them.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 17 (0x0178)
+Pesky raiders that are impossible to deal intelligently with.
+Their ships are armed with a devastating weapon that you must
+take care to avoid.  It only fires straight forwards.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 18 (0x018e)
+An enigmatic being. His ships are to be feared, since they
+evince extreme cooperation and have no fear of destruction.
+He is rumored to be capable of time travel.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 19 (0x01a4)
+We Broodmasters are an adaptable species, which can function 
+in almost any environment. I would be glad to reserve planets
+suitable for Earthling life, signalling my fellow Broodmasters
+that they must not colonize such worlds.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 20 (0x01ba)
+The Universe is a wide and dangerous place. Listen carefully
+to my advice, and you will be safer, however, I cannot
+guarantee success.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 21 (0x01d0)
+A pirate race that makes its living by preying on the weak and
+helpless. Your destruction of their evil base will make the
+universe safer.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 22 (0x01e6)
+Dangerous beings, with a unique secret weapon. Their weapon
+works by superceding your own ship's engine flux, and turning
+your own engines against yourself.  The best way to foil them
+is to completely turn off your engines.  Then you can just
+float in space and blast them with your cannons.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 23 (0x01fc)
+Galactic fodder. These beings are cowardly and flee at the
+first sign of combat. In an attempt to distract you, they'll
+drop small packets of cargo behind their ship as they flee.
+Steer your ship into these packets to collect them. If you
+destroy their starbase, we will favor you.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 24 (0x0212)
+A fast and dangerous foe. They respect only force and strength.
+If you impress them with a show of force, or act aggressively
+when talking to them, they'll calm down and become much easier
+to manipulate. The destruction of their bases will ease travel
+in the cluster, and we will be most grateful.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 25 (0x0228)
+Merchants. If you can talk them into trading with you, they
+have some great stuff available.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 26 (0x023e)
+We Broodmasters are an adaptable species, which can function in
+almost any environment. I would be glad to reserve planets suit-
+able for Earthling life, signalling my fellow Broodmasters that
+they must not colonize such worlds.
+  [0] CICISBEO
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT

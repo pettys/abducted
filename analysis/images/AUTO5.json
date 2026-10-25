@@ -1,0 +1,26 @@
+{
+  "source": "AUTO5.PIC",
+  "source_sha256": "e0ecb7fa28b86c243ffa7e100407516e5e257500a9c5597417d1f038d58fae0b",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 128,
+  "used_colors": 72,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 386
+    },
+    {
+      "tag": "X0",
+      "offset": 390,
+      "length": 7555
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+}

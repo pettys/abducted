@@ -1,0 +1,26 @@
+{
+  "source": "JUNGLE4.PIC",
+  "source_sha256": "b8c3cea5e0ff65c3b84dbb8f7ea7ecc44ba185c1a3038de322eb9baad5b9804d",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 128,
+  "used_colors": 55,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 386
+    },
+    {
+      "tag": "X0",
+      "offset": 390,
+      "length": 13711
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+}

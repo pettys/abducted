@@ -1,0 +1,26 @@
+{
+  "source": "STONE4.PIC",
+  "source_sha256": "379fffceb4764442f1d3f2c353dadb76d35240cd45f9edb774c08d8133d15c6a",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 128,
+  "used_colors": 45,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 386
+    },
+    {
+      "tag": "X0",
+      "offset": 390,
+      "length": 16970
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+}

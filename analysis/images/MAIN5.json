@@ -1,0 +1,26 @@
+{
+  "source": "MAIN5.PIC",
+  "source_sha256": "c970ae8d6bd2bbdf393ff2305601f9326c77c58e499ce162a5597eebea700860",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 256,
+  "used_colors": 92,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 770
+    },
+    {
+      "tag": "X0",
+      "offset": 774,
+      "length": 7356
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+}

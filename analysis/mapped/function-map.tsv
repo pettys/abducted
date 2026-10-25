@@ -1,0 +1,1444 @@
+address	name	region	body_bytes	decompiled	error	source	source_file_offset	module	recovery
+1000:0000	game_main	CODE_0	232	true		LIGHTSPD.EXE	0x1400	resident	candidate_function; static analysis, not runtime verified
+1000:00ea	FUN_1000_00ea	CODE_0	385	true		LIGHTSPD.EXE	0x14ea	resident	candidate_function; static analysis, not runtime verified
+1000:026c	FUN_1000_026c	CODE_0	160	true		LIGHTSPD.EXE	0x166c	resident	candidate_function; static analysis, not runtime verified
+1000:030e	FUN_1000_030e	CODE_0	35	true		LIGHTSPD.EXE	0x170e	resident	candidate_function; static analysis, not runtime verified
+1000:0332	FUN_1000_0332	CODE_0	29	true		LIGHTSPD.EXE	0x1732	resident	candidate_function; static analysis, not runtime verified
+1000:0350	FUN_1000_0350	CODE_0	30	true		LIGHTSPD.EXE	0x1750	resident	candidate_function; static analysis, not runtime verified
+1000:036e	FUN_1000_036e	CODE_0	30	true		LIGHTSPD.EXE	0x176e	resident	candidate_function; static analysis, not runtime verified
+1000:038c	FUN_1000_038c	CODE_0	240	true		LIGHTSPD.EXE	0x178c	resident	candidate_function; static analysis, not runtime verified
+1000:047c	FUN_1000_047c	CODE_0	217	true		LIGHTSPD.EXE	0x187c	resident	candidate_function; static analysis, not runtime verified
+1000:0556	FUN_1000_0556	CODE_0	66	true		LIGHTSPD.EXE	0x1956	resident	candidate_function; static analysis, not runtime verified
+1000:0598	FUN_1000_0598	CODE_0	479	true		LIGHTSPD.EXE	0x1998	resident	candidate_function; static analysis, not runtime verified
+1000:07a6	FUN_1000_07a6	CODE_0	55	true		LIGHTSPD.EXE	0x1ba6	resident	candidate_function; static analysis, not runtime verified
+1000:07de	FUN_1000_07de	CODE_0	173	true		LIGHTSPD.EXE	0x1bde	resident	candidate_function; static analysis, not runtime verified
+1000:088c	FUN_1000_088c	CODE_0	49	true		LIGHTSPD.EXE	0x1c8c	resident	candidate_function; static analysis, not runtime verified
+1000:08be	FUN_1000_08be	CODE_0	66	true		LIGHTSPD.EXE	0x1cbe	resident	candidate_function; static analysis, not runtime verified
+1090:0002	FUN_1090_0002	CODE_1	163	true		LIGHTSPD.EXE	0x1d02	resident	candidate_function; static analysis, not runtime verified
+1090:00a6	FUN_1090_00a6	CODE_1	48	true		LIGHTSPD.EXE	0x1da6	resident	candidate_function; static analysis, not runtime verified
+1090:00d6	FUN_1090_00d6	CODE_1	39	true		LIGHTSPD.EXE	0x1dd6	resident	candidate_function; static analysis, not runtime verified
+1090:00fe	FUN_1090_00fe	CODE_1	28	true		LIGHTSPD.EXE	0x1dfe	resident	candidate_function; static analysis, not runtime verified
+1090:011a	FUN_1090_011a	CODE_1	28	true		LIGHTSPD.EXE	0x1e1a	resident	candidate_function; static analysis, not runtime verified
+1090:0136	FUN_1090_0136	CODE_1	120	true		LIGHTSPD.EXE	0x1e36	resident	candidate_function; static analysis, not runtime verified
+1090:01ae	FUN_1090_01ae	CODE_1	718	true		LIGHTSPD.EXE	0x1eae	resident	candidate_function; static analysis, not runtime verified
+1090:047e	FUN_1090_047e	CODE_1	104	true		LIGHTSPD.EXE	0x217e	resident	candidate_function; static analysis, not runtime verified
+1090:04e6	FUN_1090_04e6	CODE_1	105	true		LIGHTSPD.EXE	0x21e6	resident	candidate_function; static analysis, not runtime verified
+1090:0550	FUN_1090_0550	CODE_1	95	true		LIGHTSPD.EXE	0x2250	resident	candidate_function; static analysis, not runtime verified
+1090:05b0	FUN_1090_05b0	CODE_1	158	true		LIGHTSPD.EXE	0x22b0	resident	candidate_function; static analysis, not runtime verified
+1090:064e	FUN_1090_064e	CODE_1	101	true		LIGHTSPD.EXE	0x234e	resident	candidate_function; static analysis, not runtime verified
+1090:06b4	FUN_1090_06b4	CODE_1	17	true		LIGHTSPD.EXE	0x23b4	resident	candidate_function; static analysis, not runtime verified
+1090:06c6	FUN_1090_06c6	CODE_1	81	true		LIGHTSPD.EXE	0x23c6	resident	candidate_function; static analysis, not runtime verified
+1090:073a	FUN_1090_073a	CODE_1	65	true		LIGHTSPD.EXE	0x243a	resident	candidate_function; static analysis, not runtime verified
+1090:077c	FUN_1090_077c	CODE_1	251	true		LIGHTSPD.EXE	0x247c	resident	candidate_function; static analysis, not runtime verified
+1090:087a	FUN_1090_087a	CODE_1	396	true		LIGHTSPD.EXE	0x257a	resident	candidate_function; static analysis, not runtime verified
+1090:0a08	FUN_1090_0a08	CODE_1	341	true		LIGHTSPD.EXE	0x2708	resident	candidate_function; static analysis, not runtime verified
+1090:0b5e	FUN_1090_0b5e	CODE_1	520	true		LIGHTSPD.EXE	0x285e	resident	candidate_function; static analysis, not runtime verified
+1090:0d8a	FUN_1090_0d8a	CODE_1	538	true		LIGHTSPD.EXE	0x2a8a	resident	candidate_function; static analysis, not runtime verified
+1090:0fa6	FUN_1090_0fa6	CODE_1	532	true		LIGHTSPD.EXE	0x2ca6	resident	candidate_function; static analysis, not runtime verified
+1090:11ba	FUN_1090_11ba	CODE_1	151	true		LIGHTSPD.EXE	0x2eba	resident	candidate_function; static analysis, not runtime verified
+1090:1252	FUN_1090_1252	CODE_1	153	true		LIGHTSPD.EXE	0x2f52	resident	candidate_function; static analysis, not runtime verified
+1090:12ec	FUN_1090_12ec	CODE_1	272	true		LIGHTSPD.EXE	0x2fec	resident	candidate_function; static analysis, not runtime verified
+1090:1428	FUN_1090_1428	CODE_1	9	true		LIGHTSPD.EXE	0x3128	resident	candidate_function; static analysis, not runtime verified
+1090:147c	FUN_1090_147c	CODE_1	85	true		LIGHTSPD.EXE	0x317c	resident	candidate_function; static analysis, not runtime verified
+1090:14d2	FUN_1090_14d2	CODE_1	74	true		LIGHTSPD.EXE	0x31d2	resident	candidate_function; static analysis, not runtime verified
+11e1:000e	FUN_11e1_000e	CODE_2	27	true		LIGHTSPD.EXE	0x321e	resident	candidate_function; static analysis, not runtime verified
+11e1:002a	FUN_11e1_002a	CODE_2	202	true		LIGHTSPD.EXE	0x323a	resident	candidate_function; static analysis, not runtime verified
+11e1:00f6	FUN_11e1_00f6	CODE_2	18	true		LIGHTSPD.EXE	0x3306	resident	candidate_function; static analysis, not runtime verified
+11e1:0108	FUN_11e1_0108	CODE_2	136	true		LIGHTSPD.EXE	0x3318	resident	candidate_function; static analysis, not runtime verified
+11e1:019c	FUN_11e1_019c	CODE_2	66	true		LIGHTSPD.EXE	0x33ac	resident	candidate_function; static analysis, not runtime verified
+11e1:01de	FUN_11e1_01de	CODE_2	42	true		LIGHTSPD.EXE	0x33ee	resident	candidate_function; static analysis, not runtime verified
+11e1:0208	FUN_11e1_0208	CODE_2	80	true		LIGHTSPD.EXE	0x3418	resident	candidate_function; static analysis, not runtime verified
+11e1:02ec	FUN_11e1_02ec	CODE_2	41	true		LIGHTSPD.EXE	0x34fc	resident	candidate_function; static analysis, not runtime verified
+11e1:0342	FUN_11e1_0342	CODE_2	83	true		LIGHTSPD.EXE	0x3552	resident	candidate_function; static analysis, not runtime verified
+11e1:0396	FUN_11e1_0396	CODE_2	174	true		LIGHTSPD.EXE	0x35a6	resident	candidate_function; static analysis, not runtime verified
+11e1:044c	FUN_11e1_044c	CODE_2	89	true		LIGHTSPD.EXE	0x365c	resident	candidate_function; static analysis, not runtime verified
+11e1:04a6	FUN_11e1_04a6	CODE_2	52	true		LIGHTSPD.EXE	0x36b6	resident	candidate_function; static analysis, not runtime verified
+11e1:04da	FUN_11e1_04da	CODE_2	50	true		LIGHTSPD.EXE	0x36ea	resident	candidate_function; static analysis, not runtime verified
+11e1:050c	FUN_11e1_050c	CODE_2	162	true		LIGHTSPD.EXE	0x371c	resident	candidate_function; static analysis, not runtime verified
+11e1:05b0	FUN_11e1_05b0	CODE_2	52	true		LIGHTSPD.EXE	0x37c0	resident	candidate_function; static analysis, not runtime verified
+11e1:05e6	FUN_11e1_05e6	CODE_2	49	true		LIGHTSPD.EXE	0x37f6	resident	candidate_function; static analysis, not runtime verified
+11e1:0618	FUN_11e1_0618	CODE_2	53	true		LIGHTSPD.EXE	0x3828	resident	candidate_function; static analysis, not runtime verified
+11e1:064e	FUN_11e1_064e	CODE_2	879	true		LIGHTSPD.EXE	0x385e	resident	candidate_function; static analysis, not runtime verified
+11e1:09f8	FUN_11e1_09f8	CODE_2	57	true		LIGHTSPD.EXE	0x3c08	resident	candidate_function; static analysis, not runtime verified
+11e1:0a32	FUN_11e1_0a32	CODE_2	43	true		LIGHTSPD.EXE	0x3c42	resident	candidate_function; static analysis, not runtime verified
+11e1:0a5e	FUN_11e1_0a5e	CODE_2	228	true		LIGHTSPD.EXE	0x3c6e	resident	candidate_function; static analysis, not runtime verified
+11e1:0b44	FUN_11e1_0b44	CODE_2	34	true		LIGHTSPD.EXE	0x3d54	resident	candidate_function; static analysis, not runtime verified
+11e1:0b66	FUN_11e1_0b66	CODE_2	126	true		LIGHTSPD.EXE	0x3d76	resident	candidate_function; static analysis, not runtime verified
+11e1:0be4	FUN_11e1_0be4	CODE_2	54	true		LIGHTSPD.EXE	0x3df4	resident	candidate_function; static analysis, not runtime verified
+11e1:0c1a	FUN_11e1_0c1a	CODE_2	132	true		LIGHTSPD.EXE	0x3e2a	resident	candidate_function; static analysis, not runtime verified
+11e1:0ca2	FUN_11e1_0ca2	CODE_2	63	true		LIGHTSPD.EXE	0x3eb2	resident	candidate_function; static analysis, not runtime verified
+11e1:0ce2	FUN_11e1_0ce2	CODE_2	176	true		LIGHTSPD.EXE	0x3ef2	resident	candidate_function; static analysis, not runtime verified
+11e1:0d94	FUN_11e1_0d94	CODE_2	464	true		LIGHTSPD.EXE	0x3fa4	resident	candidate_function; static analysis, not runtime verified
+11e1:0f84	FUN_11e1_0f84	CODE_2	37	true		LIGHTSPD.EXE	0x4194	resident	candidate_function; static analysis, not runtime verified
+11e1:0faa	FUN_11e1_0faa	CODE_2	166	true		LIGHTSPD.EXE	0x41ba	resident	candidate_function; static analysis, not runtime verified
+11e1:1052	FUN_11e1_1052	CODE_2	587	true		LIGHTSPD.EXE	0x4262	resident	candidate_function; static analysis, not runtime verified
+11e1:129e	FUN_11e1_129e	CODE_2	489	true		LIGHTSPD.EXE	0x44ae	resident	candidate_function; static analysis, not runtime verified
+11e1:1488	FUN_11e1_1488	CODE_2	29	true		LIGHTSPD.EXE	0x4698	resident	candidate_function; static analysis, not runtime verified
+132b:0006	FUN_132b_0006	CODE_3	394	true		LIGHTSPD.EXE	0x46b6	resident	candidate_function; static analysis, not runtime verified
+132b:01be	FUN_132b_01be	CODE_3	588	true		LIGHTSPD.EXE	0x486e	resident	candidate_function; static analysis, not runtime verified
+132b:0410	FUN_132b_0410	CODE_3	86	true		LIGHTSPD.EXE	0x4ac0	resident	candidate_function; static analysis, not runtime verified
+132b:0466	FUN_132b_0466	CODE_3	479	true		LIGHTSPD.EXE	0x4b16	resident	candidate_function; static analysis, not runtime verified
+132b:064a	FUN_132b_064a	CODE_3	675	true		LIGHTSPD.EXE	0x4cfa	resident	candidate_function; static analysis, not runtime verified
+132b:08f2	FUN_132b_08f2	CODE_3	547	true		LIGHTSPD.EXE	0x4fa2	resident	candidate_function; static analysis, not runtime verified
+132b:0b4a	FUN_132b_0b4a	CODE_3	695	true		LIGHTSPD.EXE	0x51fa	resident	candidate_function; static analysis, not runtime verified
+132b:0e08	FUN_132b_0e08	CODE_3	140	true		LIGHTSPD.EXE	0x54b8	resident	candidate_function; static analysis, not runtime verified
+132b:0e94	FUN_132b_0e94	CODE_3	15	true		LIGHTSPD.EXE	0x5544	resident	candidate_function; static analysis, not runtime verified
+132b:0ea4	FUN_132b_0ea4	CODE_3	162	true		LIGHTSPD.EXE	0x5554	resident	candidate_function; static analysis, not runtime verified
+132b:0f46	FUN_132b_0f46	CODE_3	110	true		LIGHTSPD.EXE	0x55f6	resident	candidate_function; static analysis, not runtime verified
+132b:0fb4	FUN_132b_0fb4	CODE_3	440	true		LIGHTSPD.EXE	0x5664	resident	candidate_function; static analysis, not runtime verified
+132b:116c	FUN_132b_116c	CODE_3	620	true		LIGHTSPD.EXE	0x581c	resident	candidate_function; static analysis, not runtime verified
+132b:13d8	FUN_132b_13d8	CODE_3	1	true		LIGHTSPD.EXE	0x5a88	resident	candidate_function; static analysis, not runtime verified
+132b:13da	FUN_132b_13da	CODE_3	106	true		LIGHTSPD.EXE	0x5a8a	resident	candidate_function; static analysis, not runtime verified
+132b:1458	FUN_132b_1458	CODE_3	1	true		LIGHTSPD.EXE	0x5b08	resident	candidate_function; static analysis, not runtime verified
+132b:145a	FUN_132b_145a	CODE_3	308	true		LIGHTSPD.EXE	0x5b0a	resident	candidate_function; static analysis, not runtime verified
+132b:1592	FUN_132b_1592	CODE_3	90	true		LIGHTSPD.EXE	0x5c42	resident	candidate_function; static analysis, not runtime verified
+132b:15ec	FUN_132b_15ec	CODE_3	132	true		LIGHTSPD.EXE	0x5c9c	resident	candidate_function; static analysis, not runtime verified
+132b:1672	FUN_132b_1672	CODE_3	322	true		LIGHTSPD.EXE	0x5d22	resident	candidate_function; static analysis, not runtime verified
+132b:17b4	FUN_132b_17b4	CODE_3	303	true		LIGHTSPD.EXE	0x5e64	resident	candidate_function; static analysis, not runtime verified
+14b9:0004	FUN_14b9_0004	CODE_4	41	true		LIGHTSPD.EXE	0x5f94	resident	candidate_function; static analysis, not runtime verified
+14b9:002e	FUN_14b9_002e	CODE_4	24	true		LIGHTSPD.EXE	0x5fbe	resident	candidate_function; static analysis, not runtime verified
+14b9:0046	FUN_14b9_0046	CODE_4	102	true		LIGHTSPD.EXE	0x5fd6	resident	candidate_function; static analysis, not runtime verified
+14b9:00ac	FUN_14b9_00ac	CODE_4	383	true		LIGHTSPD.EXE	0x603c	resident	candidate_function; static analysis, not runtime verified
+14b9:0230	FUN_14b9_0230	CODE_4	28	true		LIGHTSPD.EXE	0x61c0	resident	candidate_function; static analysis, not runtime verified
+14b9:024c	FUN_14b9_024c	CODE_4	22	true		LIGHTSPD.EXE	0x61dc	resident	candidate_function; static analysis, not runtime verified
+14b9:0262	FUN_14b9_0262	CODE_4	32	true		LIGHTSPD.EXE	0x61f2	resident	candidate_function; static analysis, not runtime verified
+14b9:0284	FUN_14b9_0284	CODE_4	29	true		LIGHTSPD.EXE	0x6214	resident	candidate_function; static analysis, not runtime verified
+14b9:02b2	FUN_14b9_02b2	CODE_4	34	true		LIGHTSPD.EXE	0x6242	resident	candidate_function; static analysis, not runtime verified
+14b9:02d4	FUN_14b9_02d4	CODE_4	233	true		LIGHTSPD.EXE	0x6264	resident	candidate_function; static analysis, not runtime verified
+14b9:03be	FUN_14b9_03be	CODE_4	233	true		LIGHTSPD.EXE	0x634e	resident	candidate_function; static analysis, not runtime verified
+14b9:04a8	FUN_14b9_04a8	CODE_4	29	true		LIGHTSPD.EXE	0x6438	resident	candidate_function; static analysis, not runtime verified
+1505:0006	FUN_1505_0006	CODE_5	56	true		LIGHTSPD.EXE	0x6456	resident	candidate_function; static analysis, not runtime verified
+1505:00dc	FUN_1505_00dc	CODE_5	330	true		LIGHTSPD.EXE	0x652c	resident	candidate_function; static analysis, not runtime verified
+1505:0228	FUN_1505_0228	CODE_5	141	true		LIGHTSPD.EXE	0x6678	resident	candidate_function; static analysis, not runtime verified
+1505:02b8	FUN_1505_02b8	CODE_5	272	true		LIGHTSPD.EXE	0x6708	resident	candidate_function; static analysis, not runtime verified
+1505:03d4	FUN_1505_03d4	CODE_5	525	true		LIGHTSPD.EXE	0x6824	resident	candidate_function; static analysis, not runtime verified
+1505:05e8	FUN_1505_05e8	CODE_5	161	true		LIGHTSPD.EXE	0x6a38	resident	candidate_function; static analysis, not runtime verified
+1505:068a	FUN_1505_068a	CODE_5	499	true		LIGHTSPD.EXE	0x6ada	resident	candidate_function; static analysis, not runtime verified
+1505:0886	FUN_1505_0886	CODE_5	969	true		LIGHTSPD.EXE	0x6cd6	resident	candidate_function; static analysis, not runtime verified
+1505:0c52	FUN_1505_0c52	CODE_5	630	true		LIGHTSPD.EXE	0x70a2	resident	candidate_function; static analysis, not runtime verified
+1505:0ecc	FUN_1505_0ecc	CODE_5	149	true		LIGHTSPD.EXE	0x731c	resident	candidate_function; static analysis, not runtime verified
+1505:0f62	FUN_1505_0f62	CODE_5	65	true		LIGHTSPD.EXE	0x73b2	resident	candidate_function; static analysis, not runtime verified
+1505:0fa4	FUN_1505_0fa4	CODE_5	27	true		LIGHTSPD.EXE	0x73f4	resident	candidate_function; static analysis, not runtime verified
+1505:0fc0	FUN_1505_0fc0	CODE_5	356	true		LIGHTSPD.EXE	0x7410	resident	candidate_function; static analysis, not runtime verified
+1505:1126	FUN_1505_1126	CODE_5	122	true		LIGHTSPD.EXE	0x7576	resident	candidate_function; static analysis, not runtime verified
+1505:11a4	FUN_1505_11a4	CODE_5	483	true		LIGHTSPD.EXE	0x75f4	resident	candidate_function; static analysis, not runtime verified
+1505:140c	FUN_1505_140c	CODE_5	111	true		LIGHTSPD.EXE	0x785c	resident	candidate_function; static analysis, not runtime verified
+1505:1488	FUN_1505_1488	CODE_5	506	true		LIGHTSPD.EXE	0x78d8	resident	candidate_function; static analysis, not runtime verified
+1505:1684	FUN_1505_1684	CODE_5	270	true		LIGHTSPD.EXE	0x7ad4	resident	candidate_function; static analysis, not runtime verified
+1505:1792	FUN_1505_1792	CODE_5	268	true		LIGHTSPD.EXE	0x7be2	resident	candidate_function; static analysis, not runtime verified
+1505:18a0	FUN_1505_18a0	CODE_5	135	true		LIGHTSPD.EXE	0x7cf0	resident	candidate_function; static analysis, not runtime verified
+1697:0008	FUN_1697_0008	CODE_6	64	true		LIGHTSPD.EXE	0x7d78	resident	candidate_function; static analysis, not runtime verified
+1697:0048	FUN_1697_0048	CODE_6	39	true		LIGHTSPD.EXE	0x7db8	resident	candidate_function; static analysis, not runtime verified
+1697:0070	FUN_1697_0070	CODE_6	165	true		LIGHTSPD.EXE	0x7de0	resident	candidate_function; static analysis, not runtime verified
+1697:0116	FUN_1697_0116	CODE_6	61	true		LIGHTSPD.EXE	0x7e86	resident	candidate_function; static analysis, not runtime verified
+1697:0154	FUN_1697_0154	CODE_6	87	true		LIGHTSPD.EXE	0x7ec4	resident	candidate_function; static analysis, not runtime verified
+1697:01ac	FUN_1697_01ac	CODE_6	86	true		LIGHTSPD.EXE	0x7f1c	resident	candidate_function; static analysis, not runtime verified
+1697:0202	FUN_1697_0202	CODE_6	165	true		LIGHTSPD.EXE	0x7f72	resident	candidate_function; static analysis, not runtime verified
+1697:02a8	FUN_1697_02a8	CODE_6	47	true		LIGHTSPD.EXE	0x8018	resident	candidate_function; static analysis, not runtime verified
+1697:02d8	FUN_1697_02d8	CODE_6	155	true		LIGHTSPD.EXE	0x8048	resident	candidate_function; static analysis, not runtime verified
+1697:0374	FUN_1697_0374	CODE_6	72	true		LIGHTSPD.EXE	0x80e4	resident	candidate_function; static analysis, not runtime verified
+1697:03bc	FUN_1697_03bc	CODE_6	33	true		LIGHTSPD.EXE	0x812c	resident	candidate_function; static analysis, not runtime verified
+1697:03de	FUN_1697_03de	CODE_6	217	true		LIGHTSPD.EXE	0x814e	resident	candidate_function; static analysis, not runtime verified
+1697:04ba	FUN_1697_04ba	CODE_6	1102	true		LIGHTSPD.EXE	0x822a	resident	candidate_function; static analysis, not runtime verified
+1697:0914	FUN_1697_0914	CODE_6	103	true		LIGHTSPD.EXE	0x8684	resident	candidate_function; static analysis, not runtime verified
+1697:097c	FUN_1697_097c	CODE_6	93	true		LIGHTSPD.EXE	0x86ec	resident	candidate_function; static analysis, not runtime verified
+1697:09da	FUN_1697_09da	CODE_6	642	true		LIGHTSPD.EXE	0x874a	resident	candidate_function; static analysis, not runtime verified
+1697:0c5e	FUN_1697_0c5e	CODE_6	638	true		LIGHTSPD.EXE	0x89ce	resident	candidate_function; static analysis, not runtime verified
+1697:0ede	FUN_1697_0ede	CODE_6	324	true		LIGHTSPD.EXE	0x8c4e	resident	candidate_function; static analysis, not runtime verified
+1697:1024	FUN_1697_1024	CODE_6	82	true		LIGHTSPD.EXE	0x8d94	resident	candidate_function; static analysis, not runtime verified
+1697:1076	FUN_1697_1076	CODE_6	39	true		LIGHTSPD.EXE	0x8de6	resident	candidate_function; static analysis, not runtime verified
+1697:109e	FUN_1697_109e	CODE_6	151	true		LIGHTSPD.EXE	0x8e0e	resident	candidate_function; static analysis, not runtime verified
+1697:1138	FUN_1697_1138	CODE_6	76	true		LIGHTSPD.EXE	0x8ea8	resident	candidate_function; static analysis, not runtime verified
+1697:1186	FUN_1697_1186	CODE_6	51	true		LIGHTSPD.EXE	0x8ef6	resident	candidate_function; static analysis, not runtime verified
+1697:11ba	FUN_1697_11ba	CODE_6	54	true		LIGHTSPD.EXE	0x8f2a	resident	candidate_function; static analysis, not runtime verified
+1697:11f2	FUN_1697_11f2	CODE_6	67	true		LIGHTSPD.EXE	0x8f62	resident	candidate_function; static analysis, not runtime verified
+17ba:0006	FUN_17ba_0006	CODE_7	350	true		LIGHTSPD.EXE	0x8fa6	resident	candidate_function; static analysis, not runtime verified
+17ba:016a	FUN_17ba_016a	CODE_7	352	true		LIGHTSPD.EXE	0x910a	resident	candidate_function; static analysis, not runtime verified
+17ba:02cc	FUN_17ba_02cc	CODE_7	172	true		LIGHTSPD.EXE	0x926c	resident	candidate_function; static analysis, not runtime verified
+17ba:037a	FUN_17ba_037a	CODE_7	56	true		LIGHTSPD.EXE	0x931a	resident	candidate_function; static analysis, not runtime verified
+17ba:03b2	FUN_17ba_03b2	CODE_7	23	true		LIGHTSPD.EXE	0x9352	resident	candidate_function; static analysis, not runtime verified
+17ba:03ca	FUN_17ba_03ca	CODE_7	109	true		LIGHTSPD.EXE	0x936a	resident	candidate_function; static analysis, not runtime verified
+17ba:0438	FUN_17ba_0438	CODE_7	178	true		LIGHTSPD.EXE	0x93d8	resident	candidate_function; static analysis, not runtime verified
+17ba:04ea	FUN_17ba_04ea	CODE_7	192	true		LIGHTSPD.EXE	0x948a	resident	candidate_function; static analysis, not runtime verified
+17ba:05aa	FUN_17ba_05aa	CODE_7	99	true		LIGHTSPD.EXE	0x954a	resident	candidate_function; static analysis, not runtime verified
+17ba:060e	FUN_17ba_060e	CODE_7	237	true		LIGHTSPD.EXE	0x95ae	resident	candidate_function; static analysis, not runtime verified
+1859:0008	FUN_1859_0008	CODE_8	340	true		LIGHTSPD.EXE	0x9998	resident	candidate_function; static analysis, not runtime verified
+186e:000c	FUN_186e_000c	CODE_9	17	true		LIGHTSPD.EXE	0x9aec	resident	candidate_function; static analysis, not runtime verified
+186e:001e	FUN_186e_001e	CODE_9	285	true		LIGHTSPD.EXE	0x9afe	resident	candidate_function; static analysis, not runtime verified
+186e:013e	FUN_186e_013e	CODE_9	337	true		LIGHTSPD.EXE	0x9c1e	resident	candidate_function; static analysis, not runtime verified
+1897:0000	FUN_1897_0000	CODE_10	124	true		LIGHTSPD.EXE	0x9d70	resident	candidate_function; static analysis, not runtime verified
+1897:007c	FUN_1897_007c	CODE_10	144	true		LIGHTSPD.EXE	0x9dec	resident	candidate_function; static analysis, not runtime verified
+1897:010c	FUN_1897_010c	CODE_10	158	true		LIGHTSPD.EXE	0x9e7c	resident	candidate_function; static analysis, not runtime verified
+1897:01ac	FUN_1897_01ac	CODE_10	64	true		LIGHTSPD.EXE	0x9f1c	resident	candidate_function; static analysis, not runtime verified
+1897:01ee	FUN_1897_01ee	CODE_10	193	true		LIGHTSPD.EXE	0x9f5e	resident	candidate_function; static analysis, not runtime verified
+1897:02b0	FUN_1897_02b0	CODE_10	159	true		LIGHTSPD.EXE	0xa020	resident	candidate_function; static analysis, not runtime verified
+1897:0350	FUN_1897_0350	CODE_10	77	true		LIGHTSPD.EXE	0xa0c0	resident	candidate_function; static analysis, not runtime verified
+1897:039e	FUN_1897_039e	CODE_10	23	true		LIGHTSPD.EXE	0xa10e	resident	candidate_function; static analysis, not runtime verified
+1897:03b6	FUN_1897_03b6	CODE_10	136	true		LIGHTSPD.EXE	0xa126	resident	candidate_function; static analysis, not runtime verified
+1897:043e	FUN_1897_043e	CODE_10	195	true		LIGHTSPD.EXE	0xa1ae	resident	candidate_function; static analysis, not runtime verified
+1897:0502	FUN_1897_0502	CODE_10	413	true		LIGHTSPD.EXE	0xa272	resident	candidate_function; static analysis, not runtime verified
+1897:0820	FUN_1897_0820	CODE_10	54	true		LIGHTSPD.EXE	0xa590	resident	candidate_function; static analysis, not runtime verified
+1897:0856	FUN_1897_0856	CODE_10	668	true		LIGHTSPD.EXE	0xa5c6	resident	candidate_function; static analysis, not runtime verified
+1897:0af2	FUN_1897_0af2	CODE_10	178	true		LIGHTSPD.EXE	0xa862	resident	candidate_function; static analysis, not runtime verified
+1951:0006	FUN_1951_0006	CODE_11	49	true		LIGHTSPD.EXE	0xa916	resident	candidate_function; static analysis, not runtime verified
+1951:0038	FUN_1951_0038	CODE_11	44	true		LIGHTSPD.EXE	0xa948	resident	candidate_function; static analysis, not runtime verified
+1951:0064	FUN_1951_0064	CODE_11	33	true		LIGHTSPD.EXE	0xa974	resident	candidate_function; static analysis, not runtime verified
+1951:0086	FUN_1951_0086	CODE_11	44	true		LIGHTSPD.EXE	0xa996	resident	candidate_function; static analysis, not runtime verified
+1951:00b2	FUN_1951_00b2	CODE_11	56	true		LIGHTSPD.EXE	0xa9c2	resident	candidate_function; static analysis, not runtime verified
+1951:00ea	FUN_1951_00ea	CODE_11	140	true		LIGHTSPD.EXE	0xa9fa	resident	candidate_function; static analysis, not runtime verified
+1951:017a	FUN_1951_017a	CODE_11	23	true		LIGHTSPD.EXE	0xaa8a	resident	candidate_function; static analysis, not runtime verified
+1951:0192	FUN_1951_0192	CODE_11	157	true		LIGHTSPD.EXE	0xaaa2	resident	candidate_function; static analysis, not runtime verified
+1951:0230	FUN_1951_0230	CODE_11	68	true		LIGHTSPD.EXE	0xab40	resident	candidate_function; static analysis, not runtime verified
+1951:0274	FUN_1951_0274	CODE_11	55	true		LIGHTSPD.EXE	0xab84	resident	candidate_function; static analysis, not runtime verified
+1951:02ac	FUN_1951_02ac	CODE_11	24	true		LIGHTSPD.EXE	0xabbc	resident	candidate_function; static analysis, not runtime verified
+197d:0004	FUN_197d_0004	CODE_12	62	true		LIGHTSPD.EXE	0xabd4	resident	candidate_function; static analysis, not runtime verified
+197d:0042	FUN_197d_0042	CODE_12	33	true		LIGHTSPD.EXE	0xac12	resident	candidate_function; static analysis, not runtime verified
+197d:0150	FUN_197d_0150	CODE_12	148	true		LIGHTSPD.EXE	0xad20	resident	candidate_function; static analysis, not runtime verified
+197d:01e5	FUN_197d_01e5	CODE_12	47	true		LIGHTSPD.EXE	0xadb5	resident	candidate_function; static analysis, not runtime verified
+197d:0214	FUN_197d_0214	CODE_12	4	true		LIGHTSPD.EXE	0xade4	resident	candidate_function; static analysis, not runtime verified
+197d:0218	FUN_197d_0218	CODE_12	6	true		LIGHTSPD.EXE	0xade8	resident	candidate_function; static analysis, not runtime verified
+199e:000e	FUN_199e_000e	CODE_13	4	true		LIGHTSPD.EXE	0xadee	resident	candidate_function; static analysis, not runtime verified
+199e:0012	FUN_199e_0012	CODE_13	6	true		LIGHTSPD.EXE	0xadf2	resident	candidate_function; static analysis, not runtime verified
+19b0:0002	FUN_19b0_0002	CODE_14	57	true		LIGHTSPD.EXE	0xaf02	resident	candidate_function; static analysis, not runtime verified
+19b0:003b	FUN_19b0_003b	CODE_14	35	true		LIGHTSPD.EXE	0xaf3b	resident	candidate_function; static analysis, not runtime verified
+19b0:006c	FUN_19b0_006c	CODE_14	5	true		LIGHTSPD.EXE	0xaf6c	resident	candidate_function; static analysis, not runtime verified
+19b7:0002	FUN_19b7_0002	CODE_15	18	true		LIGHTSPD.EXE	0xaf72	resident	candidate_function; static analysis, not runtime verified
+19b7:0014	FUN_19b7_0014	CODE_15	131	true		LIGHTSPD.EXE	0xaf84	resident	candidate_function; static analysis, not runtime verified
+19b7:0097	FUN_19b7_0097	CODE_15	24	true		LIGHTSPD.EXE	0xb007	resident	candidate_function; static analysis, not runtime verified
+19b7:00af	FUN_19b7_00af	CODE_15	36	true		LIGHTSPD.EXE	0xb01f	resident	candidate_function; static analysis, not runtime verified
+19b7:00d3	FUN_19b7_00d3	CODE_15	21	true		LIGHTSPD.EXE	0xb043	resident	candidate_function; static analysis, not runtime verified
+19c5:0008	FUN_19c5_0008	CODE_16	11	true		LIGHTSPD.EXE	0xb058	resident	candidate_function; static analysis, not runtime verified
+19c5:0013	FUN_19c5_0013	CODE_16	6	true		LIGHTSPD.EXE	0xb063	resident	candidate_function; static analysis, not runtime verified
+19c7:001a	FUN_19c7_001a	CODE_17	18	true		LIGHTSPD.EXE	0xb08a	resident	candidate_function; static analysis, not runtime verified
+19c7:003e	FUN_19c7_003e	CODE_17	18	true		LIGHTSPD.EXE	0xb0ae	resident	candidate_function; static analysis, not runtime verified
+19c7:0050	FUN_19c7_0050	CODE_17	18	true		LIGHTSPD.EXE	0xb0c0	resident	candidate_function; static analysis, not runtime verified
+19c7:0062	FUN_19c7_0062	CODE_17	16	true		LIGHTSPD.EXE	0xb0d2	resident	candidate_function; static analysis, not runtime verified
+19c7:0072	FUN_19c7_0072	CODE_17	18	true		LIGHTSPD.EXE	0xb0e2	resident	candidate_function; static analysis, not runtime verified
+19c7:0084	FUN_19c7_0084	CODE_17	18	true		LIGHTSPD.EXE	0xb0f4	resident	candidate_function; static analysis, not runtime verified
+19c7:0096	FUN_19c7_0096	CODE_17	194	true		LIGHTSPD.EXE	0xb106	resident	candidate_function; static analysis, not runtime verified
+19c7:0159	FUN_19c7_0159	CODE_17	157	true		LIGHTSPD.EXE	0xb1c9	resident	candidate_function; static analysis, not runtime verified
+19c7:01f6	FUN_19c7_01f6	CODE_17	33	true		LIGHTSPD.EXE	0xb266	resident	candidate_function; static analysis, not runtime verified
+19c7:0217	FUN_19c7_0217	CODE_17	20	true		LIGHTSPD.EXE	0xb287	resident	candidate_function; static analysis, not runtime verified
+19c7:022b	FUN_19c7_022b	CODE_17	101	true		LIGHTSPD.EXE	0xb29b	resident	candidate_function; static analysis, not runtime verified
+19c7:0290	FUN_19c7_0290	CODE_17	281	true		LIGHTSPD.EXE	0xb300	resident	candidate_function; static analysis, not runtime verified
+19c7:03ab	FUN_19c7_03ab	CODE_17	137	true		LIGHTSPD.EXE	0xb41b	resident	candidate_function; static analysis, not runtime verified
+19c7:0434	FUN_19c7_0434	CODE_17	42	true		LIGHTSPD.EXE	0xb4a4	resident	candidate_function; static analysis, not runtime verified
+19c7:045e	FUN_19c7_045e	CODE_17	38	true		LIGHTSPD.EXE	0xb4ce	resident	candidate_function; static analysis, not runtime verified
+19c7:04c8	FUN_19c7_04c8	CODE_17	274	true		LIGHTSPD.EXE	0xb538	resident	candidate_function; static analysis, not runtime verified
+19c7:0599	FUN_19c7_0599	CODE_17	32	true		LIGHTSPD.EXE	0xb609	resident	candidate_function; static analysis, not runtime verified
+19c7:05b9	FUN_19c7_05b9	CODE_17	65	true		LIGHTSPD.EXE	0xb629	resident	candidate_function; static analysis, not runtime verified
+19c7:05fa	FUN_19c7_05fa	CODE_17	274	true		LIGHTSPD.EXE	0xb66a	resident	candidate_function; static analysis, not runtime verified
+19c7:075a	FUN_19c7_075a	CODE_17	239	true		LIGHTSPD.EXE	0xb7ca	resident	candidate_function; static analysis, not runtime verified
+19c7:07fd	FUN_19c7_07fd	CODE_17	100	true		LIGHTSPD.EXE	0xb86d	resident	candidate_function; static analysis, not runtime verified
+19c7:0861	FUN_19c7_0861	CODE_17	27	true		LIGHTSPD.EXE	0xb8d1	resident	candidate_function; static analysis, not runtime verified
+19c7:087c	FUN_19c7_087c	CODE_17	74	true		LIGHTSPD.EXE	0xb8ec	resident	candidate_function; static analysis, not runtime verified
+19c7:08c6	FUN_19c7_08c6	CODE_17	193	true		LIGHTSPD.EXE	0xb936	resident	candidate_function; static analysis, not runtime verified
+19c7:0987	FUN_19c7_0987	CODE_17	316	true		LIGHTSPD.EXE	0xb9f7	resident	candidate_function; static analysis, not runtime verified
+19c7:0ac3	FUN_19c7_0ac3	CODE_17	50	true		LIGHTSPD.EXE	0xbb33	resident	candidate_function; static analysis, not runtime verified
+19c7:0af5	FUN_19c7_0af5	CODE_17	29	true		LIGHTSPD.EXE	0xbb65	resident	candidate_function; static analysis, not runtime verified
+19c7:0b36	FUN_19c7_0b36	CODE_17	407	true		LIGHTSPD.EXE	0xbba6	resident	candidate_function; static analysis, not runtime verified
+19c7:0ca9	FUN_19c7_0ca9	CODE_17	142	true		LIGHTSPD.EXE	0xbd19	resident	candidate_function; static analysis, not runtime verified
+19c7:0d3c	FUN_19c7_0d3c	CODE_17	169	true		LIGHTSPD.EXE	0xbdac	resident	candidate_function; static analysis, not runtime verified
+19c7:0e8c	FUN_19c7_0e8c	CODE_17	45	true		LIGHTSPD.EXE	0xbefc	resident	candidate_function; static analysis, not runtime verified
+19c7:0eb9	FUN_19c7_0eb9	CODE_17	48	true		LIGHTSPD.EXE	0xbf29	resident	candidate_function; static analysis, not runtime verified
+19c7:0ee9	FUN_19c7_0ee9	CODE_17	117	true		LIGHTSPD.EXE	0xbf59	resident	candidate_function; static analysis, not runtime verified
+19c7:0f5e	FUN_19c7_0f5e	CODE_17	65	true		LIGHTSPD.EXE	0xbfce	resident	candidate_function; static analysis, not runtime verified
+19c7:0f9f	FUN_19c7_0f9f	CODE_17	68	true		LIGHTSPD.EXE	0xc00f	resident	candidate_function; static analysis, not runtime verified
+19c7:0fe3	FUN_19c7_0fe3	CODE_17	48	true		LIGHTSPD.EXE	0xc053	resident	candidate_function; static analysis, not runtime verified
+19c7:1013	FUN_19c7_1013	CODE_17	79	true		LIGHTSPD.EXE	0xc083	resident	candidate_function; static analysis, not runtime verified
+19c7:1062	FUN_19c7_1062	CODE_17	53	true		LIGHTSPD.EXE	0xc0d2	resident	candidate_function; static analysis, not runtime verified
+19c7:1097	FUN_19c7_1097	CODE_17	69	true		LIGHTSPD.EXE	0xc107	resident	candidate_function; static analysis, not runtime verified
+19c7:1144	FUN_19c7_1144	CODE_17	36	true		LIGHTSPD.EXE	0xc1b4	resident	candidate_function; static analysis, not runtime verified
+19c7:1168	FUN_19c7_1168	CODE_17	56	true		LIGHTSPD.EXE	0xc1d8	resident	candidate_function; static analysis, not runtime verified
+19c7:11a0	FUN_19c7_11a0	CODE_17	50	true		LIGHTSPD.EXE	0xc210	resident	candidate_function; static analysis, not runtime verified
+19c7:11d2	FUN_19c7_11d2	CODE_17	26	true		LIGHTSPD.EXE	0xc242	resident	candidate_function; static analysis, not runtime verified
+19c7:11ec	FUN_19c7_11ec	CODE_17	123	true		LIGHTSPD.EXE	0xc25c	resident	candidate_function; static analysis, not runtime verified
+19c7:1267	FUN_19c7_1267	CODE_17	290	true		LIGHTSPD.EXE	0xc2d7	resident	candidate_function; static analysis, not runtime verified
+19c7:1389	FUN_19c7_1389	CODE_17	99	true		LIGHTSPD.EXE	0xc3f9	resident	candidate_function; static analysis, not runtime verified
+19c7:13ec	FUN_19c7_13ec	CODE_17	99	true		LIGHTSPD.EXE	0xc45c	resident	candidate_function; static analysis, not runtime verified
+19c7:144f	FUN_19c7_144f	CODE_17	69	true		LIGHTSPD.EXE	0xc4bf	resident	candidate_function; static analysis, not runtime verified
+19c7:1494	FUN_19c7_1494	CODE_17	43	true		LIGHTSPD.EXE	0xc504	resident	candidate_function; static analysis, not runtime verified
+19c7:14bf	FUN_19c7_14bf	CODE_17	18	true		LIGHTSPD.EXE	0xc52f	resident	candidate_function; static analysis, not runtime verified
+19c7:14d1	FUN_19c7_14d1	CODE_17	54	true		LIGHTSPD.EXE	0xc541	resident	candidate_function; static analysis, not runtime verified
+19c7:1507	FUN_19c7_1507	CODE_17	288	true		LIGHTSPD.EXE	0xc577	resident	candidate_function; static analysis, not runtime verified
+19c7:1628	FUN_19c7_1628	CODE_17	56	true		LIGHTSPD.EXE	0xc698	resident	candidate_function; static analysis, not runtime verified
+19c7:1660	FUN_19c7_1660	CODE_17	104	true		LIGHTSPD.EXE	0xc6d0	resident	candidate_function; static analysis, not runtime verified
+19c7:16ca	FUN_19c7_16ca	CODE_17	27	true		LIGHTSPD.EXE	0xc73a	resident	candidate_function; static analysis, not runtime verified
+19c7:16e5	FUN_19c7_16e5	CODE_17	27	true		LIGHTSPD.EXE	0xc755	resident	candidate_function; static analysis, not runtime verified
+19c7:1700	FUN_19c7_1700	CODE_17	42	true		LIGHTSPD.EXE	0xc770	resident	candidate_function; static analysis, not runtime verified
+19c7:172a	FUN_19c7_172a	CODE_17	115	true		LIGHTSPD.EXE	0xc79a	resident	candidate_function; static analysis, not runtime verified
+19c7:179d	FUN_19c7_179d	CODE_17	20	true		LIGHTSPD.EXE	0xc80d	resident	candidate_function; static analysis, not runtime verified
+19c7:17b1	FUN_19c7_17b1	CODE_17	20	true		LIGHTSPD.EXE	0xc821	resident	candidate_function; static analysis, not runtime verified
+19c7:17c5	FUN_19c7_17c5	CODE_17	66	true		LIGHTSPD.EXE	0xc835	resident	candidate_function; static analysis, not runtime verified
+19c7:1807	FUN_19c7_1807	CODE_17	13	true		LIGHTSPD.EXE	0xc877	resident	candidate_function; static analysis, not runtime verified
+19c7:1822	FUN_19c7_1822	CODE_17	137	true		LIGHTSPD.EXE	0xc892	resident	candidate_function; static analysis, not runtime verified
+19c7:18ac	FUN_19c7_18ac	CODE_17	84	true		LIGHTSPD.EXE	0xc91c	resident	candidate_function; static analysis, not runtime verified
+19c7:1906	FUN_19c7_1906	CODE_17	114	true		LIGHTSPD.EXE	0xc976	resident	candidate_function; static analysis, not runtime verified
+19c7:1972	FUN_19c7_1972	CODE_17	62	true		LIGHTSPD.EXE	0xc9e2	resident	candidate_function; static analysis, not runtime verified
+19c7:19b6	FUN_19c7_19b6	CODE_17	29	true		LIGHTSPD.EXE	0xca26	resident	candidate_function; static analysis, not runtime verified
+19c7:19d4	FUN_19c7_19d4	CODE_17	306	true		LIGHTSPD.EXE	0xca44	resident	candidate_function; static analysis, not runtime verified
+19c7:1af8	FUN_19c7_1af8	CODE_17	100	true		LIGHTSPD.EXE	0xcb68	resident	candidate_function; static analysis, not runtime verified
+19c7:1b74	FUN_19c7_1b74	CODE_17	132	true		LIGHTSPD.EXE	0xcbe4	resident	candidate_function; static analysis, not runtime verified
+19c7:1be2	FUN_19c7_1be2	CODE_17	97	true		LIGHTSPD.EXE	0xcc52	resident	candidate_function; static analysis, not runtime verified
+19c7:1c47	FUN_19c7_1c47	CODE_17	39	true		LIGHTSPD.EXE	0xccb7	resident	candidate_function; static analysis, not runtime verified
+19c7:1c6e	FUN_19c7_1c6e	CODE_17	59	true		LIGHTSPD.EXE	0xccde	resident	candidate_function; static analysis, not runtime verified
+19c7:1caa	FUN_19c7_1caa	CODE_17	55	true		LIGHTSPD.EXE	0xcd1a	resident	candidate_function; static analysis, not runtime verified
+19c7:1ce1	thunk_FUN_19c7_1ec4	CODE_17	8	true		LIGHTSPD.EXE	0xcd51	resident	candidate_function; static analysis, not runtime verified
+19c7:1ce9	thunk_FUN_19c7_1e56	CODE_17	8	true		LIGHTSPD.EXE	0xcd59	resident	candidate_function; static analysis, not runtime verified
+19c7:1cf1	thunk_FUN_19c7_1ff3	CODE_17	8	true		LIGHTSPD.EXE	0xcd61	resident	candidate_function; static analysis, not runtime verified
+19c7:1cf9	thunk_FUN_19c7_24fe	CODE_17	8	true		LIGHTSPD.EXE	0xcd69	resident	candidate_function; static analysis, not runtime verified
+19c7:1d39	FUN_19c7_1d39	CODE_17	34	true		LIGHTSPD.EXE	0xcda9	resident	candidate_function; static analysis, not runtime verified
+19c7:1d8c	FUN_19c7_1d8c	CODE_17	84	true		LIGHTSPD.EXE	0xcdfc	resident	candidate_function; static analysis, not runtime verified
+19c7:1daf	FUN_19c7_1daf	CODE_17	28	true		LIGHTSPD.EXE	0xce1f	resident	candidate_function; static analysis, not runtime verified
+19c7:1dcb	FUN_19c7_1dcb	CODE_17	35	true		LIGHTSPD.EXE	0xce3b	resident	candidate_function; static analysis, not runtime verified
+19c7:1dee	FUN_19c7_1dee	CODE_17	43	true		LIGHTSPD.EXE	0xce5e	resident	candidate_function; static analysis, not runtime verified
+19c7:1e40	FUN_19c7_1e40	CODE_17	22	true		LIGHTSPD.EXE	0xceb0	resident	candidate_function; static analysis, not runtime verified
+19c7:1e56	FUN_19c7_1e56	CODE_17	35	true		LIGHTSPD.EXE	0xcec6	resident	candidate_function; static analysis, not runtime verified
+19c7:1e82	FUN_19c7_1e82	CODE_17	37	true		LIGHTSPD.EXE	0xcef2	resident	candidate_function; static analysis, not runtime verified
+19c7:1ea7	FUN_19c7_1ea7	CODE_17	29	true		LIGHTSPD.EXE	0xcf17	resident	candidate_function; static analysis, not runtime verified
+19c7:1ec4	FUN_19c7_1ec4	CODE_17	65	true		LIGHTSPD.EXE	0xcf34	resident	candidate_function; static analysis, not runtime verified
+19c7:1f05	FUN_19c7_1f05	CODE_17	59	true		LIGHTSPD.EXE	0xcf75	resident	candidate_function; static analysis, not runtime verified
+19c7:1f40	FUN_19c7_1f40	CODE_17	75	true		LIGHTSPD.EXE	0xcfb0	resident	candidate_function; static analysis, not runtime verified
+19c7:1f8b	FUN_19c7_1f8b	CODE_17	67	true		LIGHTSPD.EXE	0xcffb	resident	candidate_function; static analysis, not runtime verified
+19c7:1fce	FUN_19c7_1fce	CODE_17	37	true		LIGHTSPD.EXE	0xd03e	resident	candidate_function; static analysis, not runtime verified
+19c7:1ff3	FUN_19c7_1ff3	CODE_17	244	true		LIGHTSPD.EXE	0xd063	resident	candidate_function; static analysis, not runtime verified
+19c7:23a3	FUN_19c7_23a3	CODE_17	187	true		LIGHTSPD.EXE	0xd413	resident	candidate_function; static analysis, not runtime verified
+19c7:2460	FUN_19c7_2460	CODE_17	94	true		LIGHTSPD.EXE	0xd4d0	resident	candidate_function; static analysis, not runtime verified
+19c7:24fe	FUN_19c7_24fe	CODE_17	45	true		LIGHTSPD.EXE	0xd56e	resident	candidate_function; static analysis, not runtime verified
+19c7:251b	FUN_19c7_251b	CODE_17	200	true		LIGHTSPD.EXE	0xd58b	resident	candidate_function; static analysis, not runtime verified
+19c7:2854	msc_runtime_startup	CODE_17	393	true		LIGHTSPD.EXE	0xd8c4	resident	candidate_function; static analysis, not runtime verified
+19c7:29de	FUN_19c7_29de	CODE_17	23	true		LIGHTSPD.EXE	0xda4e	resident	candidate_function; static analysis, not runtime verified
+19c7:29f5	FUN_19c7_29f5	CODE_17	71	true		LIGHTSPD.EXE	0xda65	resident	candidate_function; static analysis, not runtime verified
+19c7:2a3c	FUN_19c7_2a3c	CODE_17	45	true		LIGHTSPD.EXE	0xdaac	resident	candidate_function; static analysis, not runtime verified
+19c7:2a69	FUN_19c7_2a69	CODE_17	19	true		LIGHTSPD.EXE	0xdad9	resident	candidate_function; static analysis, not runtime verified
+19c7:2a7c	FUN_19c7_2a7c	CODE_17	36	true		LIGHTSPD.EXE	0xdaec	resident	candidate_function; static analysis, not runtime verified
+19c7:2aa0	FUN_19c7_2aa0	CODE_17	6	true		LIGHTSPD.EXE	0xdb10	resident	candidate_function; static analysis, not runtime verified
+19c7:2aa6	FUN_19c7_2aa6	CODE_17	36	true		LIGHTSPD.EXE	0xdb16	resident	candidate_function; static analysis, not runtime verified
+19c7:2aca	FUN_19c7_2aca	CODE_17	38	true		LIGHTSPD.EXE	0xdb3a	resident	candidate_function; static analysis, not runtime verified
+19c7:2af0	FUN_19c7_2af0	CODE_17	401	true		LIGHTSPD.EXE	0xdb60	resident	candidate_function; static analysis, not runtime verified
+19c7:2c82	FUN_19c7_2c82	CODE_17	110	true		LIGHTSPD.EXE	0xdcf2	resident	candidate_function; static analysis, not runtime verified
+19c7:2cf0	FUN_19c7_2cf0	CODE_17	43	true		LIGHTSPD.EXE	0xdd60	resident	candidate_function; static analysis, not runtime verified
+19c7:2d1b	FUN_19c7_2d1b	CODE_17	43	true		LIGHTSPD.EXE	0xdd8b	resident	candidate_function; static analysis, not runtime verified
+19c7:2d46	FUN_19c7_2d46	CODE_17	66	true		LIGHTSPD.EXE	0xddb6	resident	candidate_function; static analysis, not runtime verified
+19c7:2d88	FUN_19c7_2d88	CODE_17	8	true		LIGHTSPD.EXE	0xddf8	resident	candidate_function; static analysis, not runtime verified
+19c7:2d90	FUN_19c7_2d90	CODE_17	11	true		LIGHTSPD.EXE	0xde00	resident	candidate_function; static analysis, not runtime verified
+19c7:2d9b	FUN_19c7_2d9b	CODE_17	13	true		LIGHTSPD.EXE	0xde0b	resident	candidate_function; static analysis, not runtime verified
+19c7:2da8	FUN_19c7_2da8	CODE_17	6	true		LIGHTSPD.EXE	0xde18	resident	candidate_function; static analysis, not runtime verified
+19c7:2dae	FUN_19c7_2dae	CODE_17	45	true		LIGHTSPD.EXE	0xde1e	resident	candidate_function; static analysis, not runtime verified
+19c7:2ddc	FUN_19c7_2ddc	CODE_17	200	true		LIGHTSPD.EXE	0xde4c	resident	candidate_function; static analysis, not runtime verified
+19c7:2ea4	FUN_19c7_2ea4	CODE_17	51	true		LIGHTSPD.EXE	0xdf14	resident	candidate_function; static analysis, not runtime verified
+19c7:2f04	FUN_19c7_2f04	CODE_17	492	true		LIGHTSPD.EXE	0xdf74	resident	candidate_function; static analysis, not runtime verified
+19c7:30f6	FUN_19c7_30f6	CODE_17	321	true		LIGHTSPD.EXE	0xe166	resident	candidate_function; static analysis, not runtime verified
+19c7:323c	FUN_19c7_323c	CODE_17	66	true		LIGHTSPD.EXE	0xe2ac	resident	candidate_function; static analysis, not runtime verified
+19c7:327e	FUN_19c7_327e	CODE_17	191	true		LIGHTSPD.EXE	0xe2ee	resident	candidate_function; static analysis, not runtime verified
+19c7:3340	FUN_19c7_3340	CODE_17	344	true		LIGHTSPD.EXE	0xe3b0	resident	candidate_function; static analysis, not runtime verified
+19c7:349e	FUN_19c7_349e	CODE_17	47	true		LIGHTSPD.EXE	0xe50e	resident	candidate_function; static analysis, not runtime verified
+19c7:34ce	FUN_19c7_34ce	CODE_17	109	true		LIGHTSPD.EXE	0xe53e	resident	candidate_function; static analysis, not runtime verified
+19c7:3636	FUN_19c7_3636	CODE_17	131	true		LIGHTSPD.EXE	0xe6a6	resident	candidate_function; static analysis, not runtime verified
+19c7:36ba	FUN_19c7_36ba	CODE_17	157	true		LIGHTSPD.EXE	0xe72a	resident	candidate_function; static analysis, not runtime verified
+19c7:3758	FUN_19c7_3758	CODE_17	112	true		LIGHTSPD.EXE	0xe7c8	resident	candidate_function; static analysis, not runtime verified
+19c7:37c8	FUN_19c7_37c8	CODE_17	755	true		LIGHTSPD.EXE	0xe838	resident	candidate_function; static analysis, not runtime verified
+19c7:3af4	FUN_19c7_3af4	CODE_17	312	true		LIGHTSPD.EXE	0xeb64	resident	candidate_function; static analysis, not runtime verified
+19c7:3c2e	FUN_19c7_3c2e	CODE_17	232	true		LIGHTSPD.EXE	0xec9e	resident	candidate_function; static analysis, not runtime verified
+19c7:3d1a	FUN_19c7_3d1a	CODE_17	189	true		LIGHTSPD.EXE	0xed8a	resident	candidate_function; static analysis, not runtime verified
+19c7:3dd8	FUN_19c7_3dd8	CODE_17	61	true		LIGHTSPD.EXE	0xee48	resident	candidate_function; static analysis, not runtime verified
+19c7:3e18	FUN_19c7_3e18	CODE_17	96	true		LIGHTSPD.EXE	0xee88	resident	candidate_function; static analysis, not runtime verified
+19c7:3e78	FUN_19c7_3e78	CODE_17	106	true		LIGHTSPD.EXE	0xeee8	resident	candidate_function; static analysis, not runtime verified
+19c7:3ee2	FUN_19c7_3ee2	CODE_17	236	true		LIGHTSPD.EXE	0xef52	resident	candidate_function; static analysis, not runtime verified
+19c7:3fce	FUN_19c7_3fce	CODE_17	24	true		LIGHTSPD.EXE	0xf03e	resident	candidate_function; static analysis, not runtime verified
+19c7:3fe6	FUN_19c7_3fe6	CODE_17	42	true		LIGHTSPD.EXE	0xf056	resident	candidate_function; static analysis, not runtime verified
+19c7:4010	FUN_19c7_4010	CODE_17	126	true		LIGHTSPD.EXE	0xf080	resident	candidate_function; static analysis, not runtime verified
+19c7:4090	FUN_19c7_4090	CODE_17	37	true		LIGHTSPD.EXE	0xf100	resident	candidate_function; static analysis, not runtime verified
+19c7:40f2	FUN_19c7_40f2	CODE_17	32	true		LIGHTSPD.EXE	0xf162	resident	candidate_function; static analysis, not runtime verified
+19c7:4112	FUN_19c7_4112	CODE_17	122	true		LIGHTSPD.EXE	0xf182	resident	candidate_function; static analysis, not runtime verified
+19c7:4330	FUN_19c7_4330	CODE_17	221	true		LIGHTSPD.EXE	0xf3a0	resident	candidate_function; static analysis, not runtime verified
+19c7:440e	FUN_19c7_440e	CODE_17	168	true		LIGHTSPD.EXE	0xf47e	resident	candidate_function; static analysis, not runtime verified
+19c7:44b6	FUN_19c7_44b6	CODE_17	64	true		LIGHTSPD.EXE	0xf526	resident	candidate_function; static analysis, not runtime verified
+19c7:44f6	FUN_19c7_44f6	CODE_17	14	true		LIGHTSPD.EXE	0xf566	resident	candidate_function; static analysis, not runtime verified
+19c7:4504	FUN_19c7_4504	CODE_17	52	true		LIGHTSPD.EXE	0xf574	resident	candidate_function; static analysis, not runtime verified
+19c7:4538	FUN_19c7_4538	CODE_17	20	true		LIGHTSPD.EXE	0xf5a8	resident	candidate_function; static analysis, not runtime verified
+19c7:454c	FUN_19c7_454c	CODE_17	18	true		LIGHTSPD.EXE	0xf5bc	resident	candidate_function; static analysis, not runtime verified
+19c7:455e	FUN_19c7_455e	CODE_17	70	true		LIGHTSPD.EXE	0xf5ce	resident	candidate_function; static analysis, not runtime verified
+19c7:45a7	FUN_19c7_45a7	CODE_17	230	true		LIGHTSPD.EXE	0xf617	resident	candidate_function; static analysis, not runtime verified
+19c7:468a	FUN_19c7_468a	CODE_17	58	true		LIGHTSPD.EXE	0xf6fa	resident	candidate_function; static analysis, not runtime verified
+19c7:46c4	FUN_19c7_46c4	CODE_17	34	true		LIGHTSPD.EXE	0xf734	resident	candidate_function; static analysis, not runtime verified
+19c7:46e6	FUN_19c7_46e6	CODE_17	33	true		LIGHTSPD.EXE	0xf756	resident	candidate_function; static analysis, not runtime verified
+19c7:4708	FUN_19c7_4708	CODE_17	110	true		LIGHTSPD.EXE	0xf778	resident	candidate_function; static analysis, not runtime verified
+19c7:4776	FUN_19c7_4776	CODE_17	86	true		LIGHTSPD.EXE	0xf7e6	resident	candidate_function; static analysis, not runtime verified
+19c7:47cc	FUN_19c7_47cc	CODE_17	63	true		LIGHTSPD.EXE	0xf83c	resident	candidate_function; static analysis, not runtime verified
+19c7:480c	FUN_19c7_480c	CODE_17	50	true		LIGHTSPD.EXE	0xf87c	resident	candidate_function; static analysis, not runtime verified
+19c7:483e	FUN_19c7_483e	CODE_17	43	true		LIGHTSPD.EXE	0xf8ae	resident	candidate_function; static analysis, not runtime verified
+19c7:486a	FUN_19c7_486a	CODE_17	27	true		LIGHTSPD.EXE	0xf8da	resident	candidate_function; static analysis, not runtime verified
+19c7:4886	FUN_19c7_4886	CODE_17	40	true		LIGHTSPD.EXE	0xf8f6	resident	candidate_function; static analysis, not runtime verified
+19c7:48ae	FUN_19c7_48ae	CODE_17	58	true		LIGHTSPD.EXE	0xf91e	resident	candidate_function; static analysis, not runtime verified
+19c7:48e8	FUN_19c7_48e8	CODE_17	27	true		LIGHTSPD.EXE	0xf958	resident	candidate_function; static analysis, not runtime verified
+19c7:4904	FUN_19c7_4904	CODE_17	10	true		LIGHTSPD.EXE	0xf974	resident	candidate_function; static analysis, not runtime verified
+19c7:490e	FUN_19c7_490e	CODE_17	24	true		LIGHTSPD.EXE	0xf97e	resident	candidate_function; static analysis, not runtime verified
+19c7:4926	FUN_19c7_4926	CODE_17	35	true		LIGHTSPD.EXE	0xf996	resident	candidate_function; static analysis, not runtime verified
+19c7:494a	FUN_19c7_494a	CODE_17	137	true		LIGHTSPD.EXE	0xf9ba	resident	candidate_function; static analysis, not runtime verified
+19c7:49d4	FUN_19c7_49d4	CODE_17	16	true		LIGHTSPD.EXE	0xfa44	resident	candidate_function; static analysis, not runtime verified
+19c7:4a00	FUN_19c7_4a00	CODE_17	128	true		LIGHTSPD.EXE	0xfa70	resident	candidate_function; static analysis, not runtime verified
+19c7:4a80	FUN_19c7_4a80	CODE_17	89	true		LIGHTSPD.EXE	0xfaf0	resident	candidate_function; static analysis, not runtime verified
+19c7:4ada	FUN_19c7_4ada	CODE_17	36	true		LIGHTSPD.EXE	0xfb4a	resident	candidate_function; static analysis, not runtime verified
+19c7:4afe	FUN_19c7_4afe	CODE_17	150	true		LIGHTSPD.EXE	0xfb6e	resident	candidate_function; static analysis, not runtime verified
+19c7:4b94	FUN_19c7_4b94	CODE_17	73	true		LIGHTSPD.EXE	0xfc04	resident	candidate_function; static analysis, not runtime verified
+19c7:4bde	FUN_19c7_4bde	CODE_17	30	true		LIGHTSPD.EXE	0xfc4e	resident	candidate_function; static analysis, not runtime verified
+19c7:4bfc	FUN_19c7_4bfc	CODE_17	13	true		LIGHTSPD.EXE	0xfc6c	resident	candidate_function; static analysis, not runtime verified
+19c7:4c0a	FUN_19c7_4c0a	CODE_17	15	true		LIGHTSPD.EXE	0xfc7a	resident	candidate_function; static analysis, not runtime verified
+19c7:4c1a	FUN_19c7_4c1a	CODE_17	42	true		LIGHTSPD.EXE	0xfc8a	resident	candidate_function; static analysis, not runtime verified
+19c7:4c44	FUN_19c7_4c44	CODE_17	87	true		LIGHTSPD.EXE	0xfcb4	resident	candidate_function; static analysis, not runtime verified
+19c7:4cbe	FUN_19c7_4cbe	CODE_17	34	true		LIGHTSPD.EXE	0xfd2e	resident	candidate_function; static analysis, not runtime verified
+19c7:4ce0	FUN_19c7_4ce0	CODE_17	72	true		LIGHTSPD.EXE	0xfd50	resident	candidate_function; static analysis, not runtime verified
+19c7:4d28	FUN_19c7_4d28	CODE_17	39	true		LIGHTSPD.EXE	0xfd98	resident	candidate_function; static analysis, not runtime verified
+19c7:4d50	FUN_19c7_4d50	CODE_17	44	true		LIGHTSPD.EXE	0xfdc0	resident	candidate_function; static analysis, not runtime verified
+19c7:4d7c	FUN_19c7_4d7c	CODE_17	45	true		LIGHTSPD.EXE	0xfdec	resident	candidate_function; static analysis, not runtime verified
+19c7:4daa	FUN_19c7_4daa	CODE_17	95	true		LIGHTSPD.EXE	0xfe1a	resident	candidate_function; static analysis, not runtime verified
+19c7:4e0a	FUN_19c7_4e0a	CODE_17	21	true		LIGHTSPD.EXE	0xfe7a	resident	candidate_function; static analysis, not runtime verified
+19c7:4e20	FUN_19c7_4e20	CODE_17	17	true		LIGHTSPD.EXE	0xfe90	resident	candidate_function; static analysis, not runtime verified
+19c7:4e32	FUN_19c7_4e32	CODE_17	40	true		LIGHTSPD.EXE	0xfea2	resident	candidate_function; static analysis, not runtime verified
+19c7:4e5a	FUN_19c7_4e5a	CODE_17	13	true		LIGHTSPD.EXE	0xfeca	resident	candidate_function; static analysis, not runtime verified
+19c7:4e68	FUN_19c7_4e68	CODE_17	24	true		LIGHTSPD.EXE	0xfed8	resident	candidate_function; static analysis, not runtime verified
+19c7:4e80	FUN_19c7_4e80	CODE_17	20	true		LIGHTSPD.EXE	0xfef0	resident	candidate_function; static analysis, not runtime verified
+19c7:4e94	FUN_19c7_4e94	CODE_17	46	true		LIGHTSPD.EXE	0xff04	resident	candidate_function; static analysis, not runtime verified
+19c7:4ec2	FUN_19c7_4ec2	CODE_17	13	true		LIGHTSPD.EXE	0xff32	resident	candidate_function; static analysis, not runtime verified
+19c7:4ed0	FUN_19c7_4ed0	CODE_17	7	true		LIGHTSPD.EXE	0xff40	resident	candidate_function; static analysis, not runtime verified
+19c7:4ed7	FUN_19c7_4ed7	CODE_17	25	true		LIGHTSPD.EXE	0xff47	resident	candidate_function; static analysis, not runtime verified
+19c7:4ef0	FUN_19c7_4ef0	CODE_17	10	true		LIGHTSPD.EXE	0xff60	resident	candidate_function; static analysis, not runtime verified
+19c7:4efa	FUN_19c7_4efa	CODE_17	30	true		LIGHTSPD.EXE	0xff6a	resident	candidate_function; static analysis, not runtime verified
+19c7:4f18	FUN_19c7_4f18	CODE_17	23	true		LIGHTSPD.EXE	0xff88	resident	candidate_function; static analysis, not runtime verified
+19c7:4f30	FUN_19c7_4f30	CODE_17	7	true		LIGHTSPD.EXE	0xffa0	resident	candidate_function; static analysis, not runtime verified
+19c7:4f37	FUN_19c7_4f37	CODE_17	28	true		LIGHTSPD.EXE	0xffa7	resident	candidate_function; static analysis, not runtime verified
+19c7:4f54	FUN_19c7_4f54	CODE_17	13	true		LIGHTSPD.EXE	0xffc4	resident	candidate_function; static analysis, not runtime verified
+19c7:4f62	FUN_19c7_4f62	CODE_17	156	true		LIGHTSPD.EXE	0xffd2	resident	candidate_function; static analysis, not runtime verified
+19c7:4ffe	FUN_19c7_4ffe	CODE_17	52	true		LIGHTSPD.EXE	0x1006e	resident	candidate_function; static analysis, not runtime verified
+19c7:5032	FUN_19c7_5032	CODE_17	36	true		LIGHTSPD.EXE	0x100a2	resident	candidate_function; static analysis, not runtime verified
+19c7:5056	FUN_19c7_5056	CODE_17	97	true		LIGHTSPD.EXE	0x100c6	resident	candidate_function; static analysis, not runtime verified
+1ed2:0008	FUN_1ed2_0008	CODE_18	22	true		LIGHTSPD.EXE	0x10128	resident	candidate_function; static analysis, not runtime verified
+1ed2:001e	FUN_1ed2_001e	CODE_18	15	true		LIGHTSPD.EXE	0x1013e	resident	candidate_function; static analysis, not runtime verified
+1ed2:005f	FUN_1ed2_005f	CODE_18	15	true		LIGHTSPD.EXE	0x1017f	resident	candidate_function; static analysis, not runtime verified
+1ed2:006e	FUN_1ed2_006e	CODE_18	16	true		LIGHTSPD.EXE	0x1018e	resident	candidate_function; static analysis, not runtime verified
+1ed2:007e	FUN_1ed2_007e	CODE_18	12	true		LIGHTSPD.EXE	0x1019e	resident	candidate_function; static analysis, not runtime verified
+1ed2:008e	FUN_1ed2_008e	CODE_18	31	true		LIGHTSPD.EXE	0x101ae	resident	candidate_function; static analysis, not runtime verified
+1edc:000e	FUN_1edc_000e	CODE_19	84	true		LIGHTSPD.EXE	0x101ce	resident	candidate_function; static analysis, not runtime verified
+1edc:0062	FUN_1edc_0062	CODE_19	23	true		LIGHTSPD.EXE	0x10222	resident	candidate_function; static analysis, not runtime verified
+1edc:0079	FUN_1edc_0079	CODE_19	32	true		LIGHTSPD.EXE	0x10239	resident	candidate_function; static analysis, not runtime verified
+1edc:0099	FUN_1edc_0099	CODE_19	75	true		LIGHTSPD.EXE	0x10259	resident	candidate_function; static analysis, not runtime verified
+1eea:0004	FUN_1eea_0004	CODE_20	159	true		LIGHTSPD.EXE	0x102a4	resident	candidate_function; static analysis, not runtime verified
+1eea:00a4	FUN_1eea_00a4	CODE_20	62	true		LIGHTSPD.EXE	0x10344	resident	candidate_function; static analysis, not runtime verified
+1eea:00e4	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10384	resident	candidate_function; static analysis, not runtime verified
+1eea:00eb	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1038b	resident	candidate_function; static analysis, not runtime verified
+1eea:00f2	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10392	resident	candidate_function; static analysis, not runtime verified
+1eea:00f9	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10399	resident	candidate_function; static analysis, not runtime verified
+1eea:0100	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103a0	resident	candidate_function; static analysis, not runtime verified
+1eea:0107	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103a7	resident	candidate_function; static analysis, not runtime verified
+1eea:010c	thunk_FUN_1eea_00a4	CODE_20	3	true		LIGHTSPD.EXE	0x103ac	resident	candidate_function; static analysis, not runtime verified
+1eea:0115	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103b5	resident	candidate_function; static analysis, not runtime verified
+1eea:0123	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103c3	resident	candidate_function; static analysis, not runtime verified
+1eea:012a	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103ca	resident	candidate_function; static analysis, not runtime verified
+1eea:0131	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103d1	resident	candidate_function; static analysis, not runtime verified
+1eea:014b	thunk_FUN_1eea_00a4	CODE_20	3	true		LIGHTSPD.EXE	0x103eb	resident	candidate_function; static analysis, not runtime verified
+1eea:015b	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x103fb	resident	candidate_function; static analysis, not runtime verified
+1eea:0162	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10402	resident	candidate_function; static analysis, not runtime verified
+1eea:0169	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10409	resident	candidate_function; static analysis, not runtime verified
+1eea:0170	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10410	resident	candidate_function; static analysis, not runtime verified
+1eea:0177	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10417	resident	candidate_function; static analysis, not runtime verified
+1eea:0193	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10433	resident	candidate_function; static analysis, not runtime verified
+1eea:019a	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1043a	resident	candidate_function; static analysis, not runtime verified
+1eea:01a1	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10441	resident	candidate_function; static analysis, not runtime verified
+1eea:01a8	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10448	resident	candidate_function; static analysis, not runtime verified
+1eea:01af	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1044f	resident	candidate_function; static analysis, not runtime verified
+1eea:01b6	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10456	resident	candidate_function; static analysis, not runtime verified
+1eea:01bb	thunk_FUN_1eea_00a4	CODE_20	3	true		LIGHTSPD.EXE	0x1045b	resident	candidate_function; static analysis, not runtime verified
+1eea:01c2	thunk_FUN_1eea_00a4	CODE_20	3	true		LIGHTSPD.EXE	0x10462	resident	candidate_function; static analysis, not runtime verified
+1eea:01c9	thunk_FUN_1eea_00a4	CODE_20	3	true		LIGHTSPD.EXE	0x10469	resident	candidate_function; static analysis, not runtime verified
+1eea:01d2	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10472	resident	candidate_function; static analysis, not runtime verified
+1eea:01d9	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10479	resident	candidate_function; static analysis, not runtime verified
+1eea:01e0	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10480	resident	candidate_function; static analysis, not runtime verified
+1eea:01ee	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1048e	resident	candidate_function; static analysis, not runtime verified
+1eea:01f5	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10495	resident	candidate_function; static analysis, not runtime verified
+1eea:01fc	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1049c	resident	candidate_function; static analysis, not runtime verified
+1eea:0203	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104a3	resident	candidate_function; static analysis, not runtime verified
+1eea:020a	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104aa	resident	candidate_function; static analysis, not runtime verified
+1eea:0211	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104b1	resident	candidate_function; static analysis, not runtime verified
+1eea:023b	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104db	resident	candidate_function; static analysis, not runtime verified
+1eea:0242	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104e2	resident	candidate_function; static analysis, not runtime verified
+1eea:0249	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x104e9	resident	candidate_function; static analysis, not runtime verified
+1eea:035a	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x105fa	resident	candidate_function; static analysis, not runtime verified
+1eea:0361	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10601	resident	candidate_function; static analysis, not runtime verified
+1eea:037d	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1061d	resident	candidate_function; static analysis, not runtime verified
+1eea:0384	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10624	resident	candidate_function; static analysis, not runtime verified
+1eea:038b	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1062b	resident	candidate_function; static analysis, not runtime verified
+1eea:03a0	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10640	resident	candidate_function; static analysis, not runtime verified
+1eea:03a7	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x10647	resident	candidate_function; static analysis, not runtime verified
+1eea:03ae	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1064e	resident	candidate_function; static analysis, not runtime verified
+1eea:03ca	thunk_EXT_FUN_0000_0000	CODE_20	5	true		LIGHTSPD.EXE	0x1066a	resident	candidate_function; static analysis, not runtime verified
+1eea:03ec	FUN_1eea_03ec	CODE_20	183	true		LIGHTSPD.EXE	0x1068c	resident	candidate_function; static analysis, not runtime verified
+1eea:04a8	FUN_1eea_04a8	CODE_20	47	true		LIGHTSPD.EXE	0x10748	resident	candidate_function; static analysis, not runtime verified
+1eea:04d7	FUN_1eea_04d7	CODE_20	84	true		LIGHTSPD.EXE	0x10777	resident	candidate_function; static analysis, not runtime verified
+1eea:052b	FUN_1eea_052b	CODE_20	51	true		LIGHTSPD.EXE	0x107cb	resident	candidate_function; static analysis, not runtime verified
+1eea:0574	FUN_1eea_0574	CODE_20	119	true		LIGHTSPD.EXE	0x10814	resident	candidate_function; static analysis, not runtime verified
+1eea:0608	FUN_1eea_0608	CODE_20	54	true		LIGHTSPD.EXE	0x108a8	resident	candidate_function; static analysis, not runtime verified
+1eea:063e	FUN_1eea_063e	CODE_20	91	true		LIGHTSPD.EXE	0x108de	resident	candidate_function; static analysis, not runtime verified
+1eea:07b6	FUN_1eea_07b6	CODE_20	392	true		LIGHTSPD.EXE	0x10a56	resident	candidate_function; static analysis, not runtime verified
+1eea:0942	FUN_1eea_0942	CODE_20	33	true		LIGHTSPD.EXE	0x10be2	resident	candidate_function; static analysis, not runtime verified
+1eea:0963	FUN_1eea_0963	CODE_20	33	true		LIGHTSPD.EXE	0x10c03	resident	candidate_function; static analysis, not runtime verified
+1eea:0990	FUN_1eea_0990	CODE_20	686	true		LIGHTSPD.EXE	0x10c30	resident	candidate_function; static analysis, not runtime verified
+1eea:0b38	FUN_1eea_0b38	CODE_20	33	true		LIGHTSPD.EXE	0x10dd8	resident	candidate_function; static analysis, not runtime verified
+1eea:0b5a	FUN_1eea_0b5a	CODE_20	69	true		LIGHTSPD.EXE	0x10dfa	resident	candidate_function; static analysis, not runtime verified
+1eea:0b9f	FUN_1eea_0b9f	CODE_20	63	true		LIGHTSPD.EXE	0x10e3f	resident	candidate_function; static analysis, not runtime verified
+1eea:0bde	FUN_1eea_0bde	CODE_20	131	true		LIGHTSPD.EXE	0x10e7e	resident	candidate_function; static analysis, not runtime verified
+1eea:0c62	FUN_1eea_0c62	CODE_20	279	true		LIGHTSPD.EXE	0x10f02	resident	candidate_function; static analysis, not runtime verified
+1eea:0d7a	FUN_1eea_0d7a	CODE_20	72	true		LIGHTSPD.EXE	0x1101a	resident	candidate_function; static analysis, not runtime verified
+1eea:0dc2	FUN_1eea_0dc2	CODE_20	26	true		LIGHTSPD.EXE	0x11062	resident	candidate_function; static analysis, not runtime verified
+1eea:0ddc	FUN_1eea_0ddc	CODE_20	31	true		LIGHTSPD.EXE	0x1107c	resident	candidate_function; static analysis, not runtime verified
+1eea:0dfb	FUN_1eea_0dfb	CODE_20	73	true		LIGHTSPD.EXE	0x1109b	resident	candidate_function; static analysis, not runtime verified
+1eea:0e44	FUN_1eea_0e44	CODE_20	54	true		LIGHTSPD.EXE	0x110e4	resident	candidate_function; static analysis, not runtime verified
+1eea:0e7a	FUN_1eea_0e7a	CODE_20	111	true		LIGHTSPD.EXE	0x1111a	resident	candidate_function; static analysis, not runtime verified
+1eea:0eec	FUN_1eea_0eec	CODE_20	176	true		LIGHTSPD.EXE	0x1118c	resident	candidate_function; static analysis, not runtime verified
+1eea:0fa0	FUN_1eea_0fa0	CODE_20	15	true		LIGHTSPD.EXE	0x11240	resident	candidate_function; static analysis, not runtime verified
+1eea:0faf	FUN_1eea_0faf	CODE_20	15	true		LIGHTSPD.EXE	0x1124f	resident	candidate_function; static analysis, not runtime verified
+1eea:0fbe	FUN_1eea_0fbe	CODE_20	15	true		LIGHTSPD.EXE	0x1125e	resident	candidate_function; static analysis, not runtime verified
+1eea:0fcd	FUN_1eea_0fcd	CODE_20	30	true		LIGHTSPD.EXE	0x1126d	resident	candidate_function; static analysis, not runtime verified
+1eea:0feb	FUN_1eea_0feb	CODE_20	103	true		LIGHTSPD.EXE	0x1128b	resident	candidate_function; static analysis, not runtime verified
+1eea:1052	FUN_1eea_1052	CODE_20	95	true		LIGHTSPD.EXE	0x112f2	resident	candidate_function; static analysis, not runtime verified
+1eea:10b1	FUN_1eea_10b1	CODE_20	105	true		LIGHTSPD.EXE	0x11351	resident	candidate_function; static analysis, not runtime verified
+1eea:111a	FUN_1eea_111a	CODE_20	73	true		LIGHTSPD.EXE	0x113ba	resident	candidate_function; static analysis, not runtime verified
+1eea:1163	FUN_1eea_1163	CODE_20	16	true		LIGHTSPD.EXE	0x11403	resident	candidate_function; static analysis, not runtime verified
+1eea:1173	FUN_1eea_1173	CODE_20	23	true		LIGHTSPD.EXE	0x11413	resident	candidate_function; static analysis, not runtime verified
+1eea:118a	FUN_1eea_118a	CODE_20	38	true		LIGHTSPD.EXE	0x1142a	resident	candidate_function; static analysis, not runtime verified
+1eea:11b0	FUN_1eea_11b0	CODE_20	7	true		LIGHTSPD.EXE	0x11450	resident	candidate_function; static analysis, not runtime verified
+1eea:11b7	FUN_1eea_11b7	CODE_20	40	true		LIGHTSPD.EXE	0x11457	resident	candidate_function; static analysis, not runtime verified
+1eea:11e7	FUN_1eea_11e7	CODE_20	25	true		LIGHTSPD.EXE	0x11487	resident	candidate_function; static analysis, not runtime verified
+1eea:1216	FUN_1eea_1216	CODE_20	52	true		LIGHTSPD.EXE	0x114b6	resident	candidate_function; static analysis, not runtime verified
+1eea:127c	FUN_1eea_127c	CODE_20	15	true		LIGHTSPD.EXE	0x1151c	resident	candidate_function; static analysis, not runtime verified
+1eea:12da	FUN_1eea_12da	CODE_20	14	true		LIGHTSPD.EXE	0x1157a	resident	candidate_function; static analysis, not runtime verified
+1eea:12e8	FUN_1eea_12e8	CODE_20	14	true		LIGHTSPD.EXE	0x11588	resident	candidate_function; static analysis, not runtime verified
+201d:0008	FUN_201d_0008	CODE_21	157	true		LIGHTSPD.EXE	0x115d8	resident	candidate_function; static analysis, not runtime verified
+201d:00a5	FUN_201d_00a5	CODE_21	13	true		LIGHTSPD.EXE	0x11675	resident	candidate_function; static analysis, not runtime verified
+201d:00b2	FUN_201d_00b2	CODE_21	8	true		LIGHTSPD.EXE	0x11682	resident	candidate_function; static analysis, not runtime verified
+201d:00ba	FUN_201d_00ba	CODE_21	47	true		LIGHTSPD.EXE	0x1168a	resident	candidate_function; static analysis, not runtime verified
+201d:00e9	FUN_201d_00e9	CODE_21	150	true		LIGHTSPD.EXE	0x116b9	resident	candidate_function; static analysis, not runtime verified
+2035:0000	FUN_2035_0000	CODE_22	197	true		LIGHTSPD.EXE	0x11750	resident	candidate_function; static analysis, not runtime verified
+2035:00c6	FUN_2035_00c6	CODE_22	151	true		LIGHTSPD.EXE	0x11816	resident	candidate_function; static analysis, not runtime verified
+2035:015e	FUN_2035_015e	CODE_22	149	true		LIGHTSPD.EXE	0x118ae	resident	candidate_function; static analysis, not runtime verified
+2035:01f4	FUN_2035_01f4	CODE_22	66	true		LIGHTSPD.EXE	0x11944	resident	candidate_function; static analysis, not runtime verified
+2035:0236	FUN_2035_0236	CODE_22	99	true		LIGHTSPD.EXE	0x11986	resident	candidate_function; static analysis, not runtime verified
+2035:029a	FUN_2035_029a	CODE_22	76	true		LIGHTSPD.EXE	0x119ea	resident	candidate_function; static analysis, not runtime verified
+2035:02e6	FUN_2035_02e6	CODE_22	266	true		LIGHTSPD.EXE	0x11a36	resident	candidate_function; static analysis, not runtime verified
+2035:03f2	FUN_2035_03f2	CODE_22	119	true		LIGHTSPD.EXE	0x11b42	resident	candidate_function; static analysis, not runtime verified
+2035:046a	FUN_2035_046a	CODE_22	146	true		LIGHTSPD.EXE	0x11bba	resident	candidate_function; static analysis, not runtime verified
+2035:04fe	FUN_2035_04fe	CODE_22	77	true		LIGHTSPD.EXE	0x11c4e	resident	candidate_function; static analysis, not runtime verified
+2035:054c	FUN_2035_054c	CODE_22	55	true		LIGHTSPD.EXE	0x11c9c	resident	candidate_function; static analysis, not runtime verified
+2035:0584	FUN_2035_0584	CODE_22	130	true		LIGHTSPD.EXE	0x11cd4	resident	candidate_function; static analysis, not runtime verified
+2035:0606	FUN_2035_0606	CODE_22	41	true		LIGHTSPD.EXE	0x11d56	resident	candidate_function; static analysis, not runtime verified
+209f:0006	FUN_209f_0006	CODE_23	36	true		LIGHTSPD.EXE	0x11df6	resident	candidate_function; static analysis, not runtime verified
+209f:002a	FUN_209f_002a	CODE_23	9	true		LIGHTSPD.EXE	0x11e1a	resident	candidate_function; static analysis, not runtime verified
+209f:0033	FUN_209f_0033	CODE_23	17	true		LIGHTSPD.EXE	0x11e23	resident	candidate_function; static analysis, not runtime verified
+209f:0044	FUN_209f_0044	CODE_23	16	true		LIGHTSPD.EXE	0x11e34	resident	candidate_function; static analysis, not runtime verified
+209f:0054	FUN_209f_0054	CODE_23	29	true		LIGHTSPD.EXE	0x11e44	resident	candidate_function; static analysis, not runtime verified
+209f:0071	FUN_209f_0071	CODE_23	7	true		LIGHTSPD.EXE	0x11e61	resident	candidate_function; static analysis, not runtime verified
+20a6:0008	FUN_20a6_0008	CODE_24	101	true		LIGHTSPD.EXE	0x11e68	resident	candidate_function; static analysis, not runtime verified
+20a6:006e	FUN_20a6_006e	CODE_24	45	true		LIGHTSPD.EXE	0x11ece	resident	candidate_function; static analysis, not runtime verified
+20a6:009c	FUN_20a6_009c	CODE_24	38	true		LIGHTSPD.EXE	0x11efc	resident	candidate_function; static analysis, not runtime verified
+20a6:00c2	FUN_20a6_00c2	CODE_24	73	true		LIGHTSPD.EXE	0x11f22	resident	candidate_function; static analysis, not runtime verified
+20a6:010c	FUN_20a6_010c	CODE_24	75	true		LIGHTSPD.EXE	0x11f6c	resident	candidate_function; static analysis, not runtime verified
+20a6:0158	FUN_20a6_0158	CODE_24	71	true		LIGHTSPD.EXE	0x11fb8	resident	candidate_function; static analysis, not runtime verified
+20a6:01a0	FUN_20a6_01a0	CODE_24	119	true		LIGHTSPD.EXE	0x12000	resident	candidate_function; static analysis, not runtime verified
+20a6:0218	FUN_20a6_0218	CODE_24	25	true		LIGHTSPD.EXE	0x12078	resident	candidate_function; static analysis, not runtime verified
+20a6:0232	FUN_20a6_0232	CODE_24	26	true		LIGHTSPD.EXE	0x12092	resident	candidate_function; static analysis, not runtime verified
+20a6:0264	FUN_20a6_0264	CODE_24	67	true		LIGHTSPD.EXE	0x120c4	resident	candidate_function; static analysis, not runtime verified
+20a6:02a8	FUN_20a6_02a8	CODE_24	360	true		LIGHTSPD.EXE	0x12108	resident	candidate_function; static analysis, not runtime verified
+20a6:0412	FUN_20a6_0412	CODE_24	118	true		LIGHTSPD.EXE	0x12272	resident	candidate_function; static analysis, not runtime verified
+20a6:0488	FUN_20a6_0488	CODE_24	18	true		LIGHTSPD.EXE	0x122e8	resident	candidate_function; static analysis, not runtime verified
+20a6:049a	FUN_20a6_049a	CODE_24	100	true		LIGHTSPD.EXE	0x122fa	resident	candidate_function; static analysis, not runtime verified
+20a6:04fe	FUN_20a6_04fe	CODE_24	106	true		LIGHTSPD.EXE	0x1235e	resident	candidate_function; static analysis, not runtime verified
+20a6:0568	FUN_20a6_0568	CODE_24	29	true		LIGHTSPD.EXE	0x123c8	resident	candidate_function; static analysis, not runtime verified
+20a6:0586	FUN_20a6_0586	CODE_24	54	true		LIGHTSPD.EXE	0x123e6	resident	candidate_function; static analysis, not runtime verified
+20a6:05bc	FUN_20a6_05bc	CODE_24	15	true		LIGHTSPD.EXE	0x1241c	resident	candidate_function; static analysis, not runtime verified
+20a6:05cc	FUN_20a6_05cc	CODE_24	41	true		LIGHTSPD.EXE	0x1242c	resident	candidate_function; static analysis, not runtime verified
+20a6:05f6	FUN_20a6_05f6	CODE_24	39	true		LIGHTSPD.EXE	0x12456	resident	candidate_function; static analysis, not runtime verified
+20a6:061e	FUN_20a6_061e	CODE_24	49	true		LIGHTSPD.EXE	0x1247e	resident	candidate_function; static analysis, not runtime verified
+20a6:0650	FUN_20a6_0650	CODE_24	48	true		LIGHTSPD.EXE	0x124b0	resident	candidate_function; static analysis, not runtime verified
+20a6:0682	FUN_20a6_0682	CODE_24	40	true		LIGHTSPD.EXE	0x124e2	resident	candidate_function; static analysis, not runtime verified
+20a6:06aa	FUN_20a6_06aa	CODE_24	164	true		LIGHTSPD.EXE	0x1250a	resident	candidate_function; static analysis, not runtime verified
+20a6:0750	FUN_20a6_0750	CODE_24	64	true		LIGHTSPD.EXE	0x125b0	resident	candidate_function; static analysis, not runtime verified
+20a6:07a0	FUN_20a6_07a0	CODE_24	2	true		LIGHTSPD.EXE	0x12600	resident	candidate_function; static analysis, not runtime verified
+2120:0002	FUN_2120_0002	CODE_25	51	true		LIGHTSPD.EXE	0x12602	resident	candidate_function; static analysis, not runtime verified
+2120:0035	dos_load_overlay	CODE_25	790	true		LIGHTSPD.EXE	0x12635	resident	loader_entry
+2120:034c	dos_overlay_dispatch	CODE_25	105	true		LIGHTSPD.EXE	0x1294c	resident	loader_entry
+2120:03ba	dos_overlay_restore_caller	CODE_25	4	true		LIGHTSPD.EXE	0x129ba	resident	loader_entry
+2120:03be	FUN_2120_03be	CODE_25	86	true		LIGHTSPD.EXE	0x129be	resident	candidate_function; static analysis, not runtime verified
+2120:0414	dos_overlay_startup	CODE_25	59	true		LIGHTSPD.EXE	0x12a14	resident	loader_entry
+2120:044f	FUN_2120_044f	CODE_25	231	true		LIGHTSPD.EXE	0x12a4f	resident	candidate_function; static analysis, not runtime verified
+2120:05bb	dos_overlay_print_filename	CODE_25	28	true		LIGHTSPD.EXE	0x12bbb	resident	loader_entry
+2120:05d7	dos_overlay_fatal_error	CODE_25	12	true		LIGHTSPD.EXE	0x12bd7	resident	loader_entry
+2120:05e3	FUN_2120_05e3	CODE_25	6	true		LIGHTSPD.EXE	0x12be3	resident	candidate_function; static analysis, not runtime verified
+2120:05e9	FUN_2120_05e9	CODE_25	86	true		LIGHTSPD.EXE	0x12be9	resident	candidate_function; static analysis, not runtime verified
+2120:0641	dos_overlay_find_file	CODE_25	230	true		LIGHTSPD.EXE	0x12c41	resident	loader_entry
+2120:0746	FUN_2120_0746	CODE_25	62	true		LIGHTSPD.EXE	0x12d46	resident	candidate_function; static analysis, not runtime verified
+2120:0784	FUN_2120_0784	CODE_25	6	true		LIGHTSPD.EXE	0x12d84	resident	candidate_function; static analysis, not runtime verified
+2120:078a	FUN_2120_078a	CODE_25	95	true		LIGHTSPD.EXE	0x12d8a	resident	candidate_function; static analysis, not runtime verified
+2120:07e9	FUN_2120_07e9	CODE_25	20	true		LIGHTSPD.EXE	0x12de9	resident	candidate_function; static analysis, not runtime verified
+2120:07fd	FUN_2120_07fd	CODE_25	24	true		LIGHTSPD.EXE	0x12dfd	resident	candidate_function; static analysis, not runtime verified
+2120:0815	FUN_2120_0815	CODE_25	213	true		LIGHTSPD.EXE	0x12e15	resident	candidate_function; static analysis, not runtime verified
+2120:167e	dispatch_ovl_16_290a_04fe	CODE_25	5	alias		LIGHTSPD.EXE	0x13c7e	resident	loader_entry
+2120:1688	dispatch_ovl_17_290a_0562	CODE_25	5	alias		LIGHTSPD.EXE	0x13c88	resident	loader_entry
+2120:1692	dispatch_ovl_02_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13c92	resident	loader_entry
+2120:169c	dispatch_ovl_21_290a_02a2	CODE_25	5	alias		LIGHTSPD.EXE	0x13c9c	resident	loader_entry
+2120:16a6	dispatch_ovl_19_290a_0386	CODE_25	5	alias		LIGHTSPD.EXE	0x13ca6	resident	loader_entry
+2120:16b0	dispatch_ovl_20_290a_03c0	CODE_25	5	alias		LIGHTSPD.EXE	0x13cb0	resident	loader_entry
+2120:16ba	dispatch_ovl_18_290a_0370	CODE_25	5	alias		LIGHTSPD.EXE	0x13cba	resident	loader_entry
+2120:16c4	dispatch_ovl_22_290a_0598	CODE_25	5	alias		LIGHTSPD.EXE	0x13cc4	resident	loader_entry
+2120:16ce	dispatch_ovl_10_252a_29e0	CODE_25	5	alias		LIGHTSPD.EXE	0x13cce	resident	loader_entry
+2120:16d8	dispatch_ovl_23_290a_0668	CODE_25	5	alias		LIGHTSPD.EXE	0x13cd8	resident	loader_entry
+2120:16e2	dispatch_ovl_24_290a_02b6	CODE_25	5	alias		LIGHTSPD.EXE	0x13ce2	resident	loader_entry
+2120:16ec	dispatch_ovl_00_22dc_2350	CODE_25	5	alias		LIGHTSPD.EXE	0x13cec	resident	loader_entry
+2120:16f6	dispatch_ovl_25_290a_04e0	CODE_25	5	alias		LIGHTSPD.EXE	0x13cf6	resident	loader_entry
+2120:1700	dispatch_ovl_26_290a_066e	CODE_25	5	alias		LIGHTSPD.EXE	0x13d00	resident	loader_entry
+2120:170a	dispatch_ovl_27_290a_0734	CODE_25	5	alias		LIGHTSPD.EXE	0x13d0a	resident	loader_entry
+2120:1714	dispatch_ovl_28_290a_0820	CODE_25	5	alias		LIGHTSPD.EXE	0x13d14	resident	loader_entry
+2120:171e	dispatch_ovl_10_252a_01c8	CODE_25	5	alias		LIGHTSPD.EXE	0x13d1e	resident	loader_entry
+2120:1728	dispatch_ovl_29_290a_068a	CODE_25	5	alias		LIGHTSPD.EXE	0x13d28	resident	loader_entry
+2120:1732	dispatch_ovl_30_290a_0434	CODE_25	5	alias		LIGHTSPD.EXE	0x13d32	resident	loader_entry
+2120:173c	dispatch_ovl_14_252a_00a4	CODE_25	5	alias		LIGHTSPD.EXE	0x13d3c	resident	loader_entry
+2120:1746	dispatch_ovl_31_290a_04cc	CODE_25	5	alias		LIGHTSPD.EXE	0x13d46	resident	loader_entry
+2120:1750	dispatch_ovl_32_290a_03d2	CODE_25	5	alias		LIGHTSPD.EXE	0x13d50	resident	loader_entry
+2120:175a	dispatch_ovl_33_290a_0c6c	CODE_25	5	alias		LIGHTSPD.EXE	0x13d5a	resident	loader_entry
+2120:1764	dispatch_ovl_34_290a_036e	CODE_25	5	alias		LIGHTSPD.EXE	0x13d64	resident	loader_entry
+2120:176e	dispatch_ovl_15_252a_193c	CODE_25	5	alias		LIGHTSPD.EXE	0x13d6e	resident	loader_entry
+2120:1778	dispatch_ovl_00_22dc_20fe	CODE_25	5	alias		LIGHTSPD.EXE	0x13d78	resident	loader_entry
+2120:1782	dispatch_ovl_09_22dc_0555	CODE_25	5	alias		LIGHTSPD.EXE	0x13d82	resident	loader_entry
+2120:178c	dispatch_ovl_01_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13d8c	resident	loader_entry
+2120:1796	dispatch_ovl_00_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13d96	resident	loader_entry
+2120:17a0	dispatch_ovl_50_290a_021a	CODE_25	5	alias		LIGHTSPD.EXE	0x13da0	resident	loader_entry
+2120:17aa	dispatch_ovl_14_252a_21bc	CODE_25	5	alias		LIGHTSPD.EXE	0x13daa	resident	loader_entry
+2120:17b4	dispatch_ovl_51_290a_012a	CODE_25	5	alias		LIGHTSPD.EXE	0x13db4	resident	loader_entry
+2120:17be	dispatch_ovl_14_252a_2132	CODE_25	5	alias		LIGHTSPD.EXE	0x13dbe	resident	loader_entry
+2120:17c8	dispatch_ovl_14_252a_27e4	CODE_25	5	alias		LIGHTSPD.EXE	0x13dc8	resident	loader_entry
+2120:17d2	dispatch_ovl_14_252a_157e	CODE_25	5	alias		LIGHTSPD.EXE	0x13dd2	resident	loader_entry
+2120:17dc	dispatch_ovl_40_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13ddc	resident	loader_entry
+2120:17e6	dispatch_ovl_14_252a_12be	CODE_25	5	alias		LIGHTSPD.EXE	0x13de6	resident	loader_entry
+2120:17f0	dispatch_ovl_36_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13df0	resident	loader_entry
+2120:17fa	dispatch_ovl_14_252a_146c	CODE_25	5	alias		LIGHTSPD.EXE	0x13dfa	resident	loader_entry
+2120:1804	dispatch_ovl_35_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e04	resident	loader_entry
+2120:180e	dispatch_ovl_14_252a_141a	CODE_25	5	alias		LIGHTSPD.EXE	0x13e0e	resident	loader_entry
+2120:1818	dispatch_ovl_37_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e18	resident	loader_entry
+2120:1822	dispatch_ovl_38_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e22	resident	loader_entry
+2120:182c	dispatch_ovl_39_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e2c	resident	loader_entry
+2120:1836	dispatch_ovl_41_290a_03f2	CODE_25	5	alias		LIGHTSPD.EXE	0x13e36	resident	loader_entry
+2120:1840	dispatch_ovl_40_290a_010a	CODE_25	5	alias		LIGHTSPD.EXE	0x13e40	resident	loader_entry
+2120:184a	dispatch_ovl_42_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e4a	resident	loader_entry
+2120:1854	dispatch_ovl_36_290a_0670	CODE_25	5	alias		LIGHTSPD.EXE	0x13e54	resident	loader_entry
+2120:185e	dispatch_ovl_43_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e5e	resident	loader_entry
+2120:1868	dispatch_ovl_35_290a_042e	CODE_25	5	alias		LIGHTSPD.EXE	0x13e68	resident	loader_entry
+2120:1872	dispatch_ovl_44_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e72	resident	loader_entry
+2120:187c	dispatch_ovl_37_290a_0132	CODE_25	5	alias		LIGHTSPD.EXE	0x13e7c	resident	loader_entry
+2120:1886	dispatch_ovl_45_290a_050e	CODE_25	5	alias		LIGHTSPD.EXE	0x13e86	resident	loader_entry
+2120:1890	dispatch_ovl_38_290a_03ce	CODE_25	5	alias		LIGHTSPD.EXE	0x13e90	resident	loader_entry
+2120:189a	dispatch_ovl_46_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13e9a	resident	loader_entry
+2120:18a4	dispatch_ovl_39_290a_027a	CODE_25	5	alias		LIGHTSPD.EXE	0x13ea4	resident	loader_entry
+2120:18ae	dispatch_ovl_47_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13eae	resident	loader_entry
+2120:18b8	dispatch_ovl_41_290a_0b22	CODE_25	5	alias		LIGHTSPD.EXE	0x13eb8	resident	loader_entry
+2120:18c2	dispatch_ovl_48_290a_064c	CODE_25	5	alias		LIGHTSPD.EXE	0x13ec2	resident	loader_entry
+2120:18cc	dispatch_ovl_42_290a_00e8	CODE_25	5	alias		LIGHTSPD.EXE	0x13ecc	resident	loader_entry
+2120:18d6	dispatch_ovl_49_290a_078a	CODE_25	5	alias		LIGHTSPD.EXE	0x13ed6	resident	loader_entry
+2120:18e0	dispatch_ovl_43_290a_039a	CODE_25	5	alias		LIGHTSPD.EXE	0x13ee0	resident	loader_entry
+2120:18ea	dispatch_ovl_50_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13eea	resident	loader_entry
+2120:18f4	dispatch_ovl_44_290a_00fe	CODE_25	5	alias		LIGHTSPD.EXE	0x13ef4	resident	loader_entry
+2120:18fe	dispatch_ovl_51_290a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13efe	resident	loader_entry
+2120:1908	dispatch_ovl_45_290a_0d10	CODE_25	5	alias		LIGHTSPD.EXE	0x13f08	resident	loader_entry
+2120:1912	dispatch_ovl_46_290a_0358	CODE_25	5	alias		LIGHTSPD.EXE	0x13f12	resident	loader_entry
+2120:191c	dispatch_ovl_47_290a_0252	CODE_25	5	alias		LIGHTSPD.EXE	0x13f1c	resident	loader_entry
+2120:1926	dispatch_ovl_40_290a_0502	CODE_25	5	alias		LIGHTSPD.EXE	0x13f26	resident	loader_entry
+2120:1930	dispatch_ovl_48_290a_1130	CODE_25	5	alias		LIGHTSPD.EXE	0x13f30	resident	loader_entry
+2120:193a	dispatch_ovl_43_290a_0aa4	CODE_25	5	alias		LIGHTSPD.EXE	0x13f3a	resident	loader_entry
+2120:1944	dispatch_ovl_49_290a_0f7a	CODE_25	5	alias		LIGHTSPD.EXE	0x13f44	resident	loader_entry
+2120:194e	dispatch_ovl_45_290a_04e4	CODE_25	5	alias		LIGHTSPD.EXE	0x13f4e	resident	loader_entry
+2120:1958	dispatch_ovl_02_22dc_050e	CODE_25	5	alias		LIGHTSPD.EXE	0x13f58	resident	loader_entry
+2120:1962	dispatch_ovl_02_22dc_0520	CODE_25	5	alias		LIGHTSPD.EXE	0x13f62	resident	loader_entry
+2120:196c	dispatch_ovl_02_22dc_0582	CODE_25	5	alias		LIGHTSPD.EXE	0x13f6c	resident	loader_entry
+2120:1976	dispatch_ovl_10_252a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13f76	resident	loader_entry
+2120:1980	dispatch_ovl_14_252a_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13f80	resident	loader_entry
+2120:198a	dispatch_ovl_00_22dc_163c	CODE_25	5	alias		LIGHTSPD.EXE	0x13f8a	resident	loader_entry
+2120:1994	dispatch_ovl_04_22dc_07f6	CODE_25	5	alias		LIGHTSPD.EXE	0x13f94	resident	loader_entry
+2120:199e	dispatch_ovl_14_252a_042a	CODE_25	5	alias		LIGHTSPD.EXE	0x13f9e	resident	loader_entry
+2120:19a8	dispatch_ovl_00_22dc_1364	CODE_25	5	alias		LIGHTSPD.EXE	0x13fa8	resident	loader_entry
+2120:19b2	dispatch_ovl_08_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13fb2	resident	loader_entry
+2120:19bc	dispatch_ovl_00_22dc_13f2	CODE_25	5	alias		LIGHTSPD.EXE	0x13fbc	resident	loader_entry
+2120:19c6	dispatch_ovl_00_22dc_1442	CODE_25	5	alias		LIGHTSPD.EXE	0x13fc6	resident	loader_entry
+2120:19d0	dispatch_ovl_13_2558_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x13fd0	resident	loader_entry
+2120:19da	dispatch_ovl_03_22dc_00c2	CODE_25	5	alias		LIGHTSPD.EXE	0x13fda	resident	loader_entry
+2120:19e4	dispatch_ovl_13_2558_0002	CODE_25	5	alias		LIGHTSPD.EXE	0x13fe4	resident	loader_entry
+2120:19ee	dispatch_ovl_04_22dc_07b8	CODE_25	5	alias		LIGHTSPD.EXE	0x13fee	resident	loader_entry
+2120:19f8	dispatch_ovl_04_22dc_0818	CODE_25	5	alias		LIGHTSPD.EXE	0x13ff8	resident	loader_entry
+2120:1a02	dispatch_ovl_05_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x14002	resident	loader_entry
+2120:1a0c	dispatch_ovl_06_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x1400c	resident	loader_entry
+2120:1a16	dispatch_ovl_06_22dc_03c8	CODE_25	5	alias		LIGHTSPD.EXE	0x14016	resident	loader_entry
+2120:1a20	dispatch_ovl_06_22dc_03d6	CODE_25	5	alias		LIGHTSPD.EXE	0x14020	resident	loader_entry
+2120:1a2a	dispatch_ovl_16_290a_04c2	CODE_25	5	alias		LIGHTSPD.EXE	0x1402a	resident	loader_entry
+2120:1a34	dispatch_ovl_17_290a_0468	CODE_25	5	alias		LIGHTSPD.EXE	0x14034	resident	loader_entry
+2120:1a3e	dispatch_ovl_18_290a_0342	CODE_25	5	alias		LIGHTSPD.EXE	0x1403e	resident	loader_entry
+2120:1a48	dispatch_ovl_21_290a_0262	CODE_25	5	alias		LIGHTSPD.EXE	0x14048	resident	loader_entry
+2120:1a52	dispatch_ovl_20_290a_0372	CODE_25	5	alias		LIGHTSPD.EXE	0x14052	resident	loader_entry
+2120:1a5c	dispatch_ovl_19_290a_0318	CODE_25	5	alias		LIGHTSPD.EXE	0x1405c	resident	loader_entry
+2120:1a66	dispatch_ovl_06_22dc_044a	CODE_25	5	alias		LIGHTSPD.EXE	0x14066	resident	loader_entry
+2120:1a70	dispatch_ovl_07_22dc_0106	CODE_25	5	alias		LIGHTSPD.EXE	0x14070	resident	loader_entry
+2120:1a7a	dispatch_ovl_07_22dc_0168	CODE_25	5	alias		LIGHTSPD.EXE	0x1407a	resident	loader_entry
+2120:1a84	dispatch_ovl_07_22dc_016e	CODE_25	5	alias		LIGHTSPD.EXE	0x14084	resident	loader_entry
+2120:1a8e	dispatch_ovl_07_22dc_01f0	CODE_25	5	alias		LIGHTSPD.EXE	0x1408e	resident	loader_entry
+2120:1a98	dispatch_ovl_07_22dc_0216	CODE_25	5	alias		LIGHTSPD.EXE	0x14098	resident	loader_entry
+2120:1aa2	dispatch_ovl_07_22dc_0000	CODE_25	5	alias		LIGHTSPD.EXE	0x140a2	resident	loader_entry
+2120:1aac	dispatch_ovl_07_22dc_06f8	CODE_25	5	alias		LIGHTSPD.EXE	0x140ac	resident	loader_entry
+2120:1ab6	dispatch_ovl_07_22dc_0b46	CODE_25	5	alias		LIGHTSPD.EXE	0x140b6	resident	loader_entry
+2120:1ac0	dispatch_ovl_07_22dc_000e	CODE_25	5	alias		LIGHTSPD.EXE	0x140c0	resident	loader_entry
+2120:1aca	dispatch_ovl_07_22dc_0702	CODE_25	5	alias		LIGHTSPD.EXE	0x140ca	resident	loader_entry
+2120:1ad4	dispatch_ovl_07_22dc_001c	CODE_25	5	alias		LIGHTSPD.EXE	0x140d4	resident	loader_entry
+2120:1ade	dispatch_ovl_07_22dc_004e	CODE_25	5	alias		LIGHTSPD.EXE	0x140de	resident	loader_entry
+2120:1ae8	dispatch_ovl_07_22dc_0080	CODE_25	5	alias		LIGHTSPD.EXE	0x140e8	resident	loader_entry
+2120:1af2	dispatch_ovl_07_22dc_00d8	CODE_25	5	alias		LIGHTSPD.EXE	0x140f2	resident	loader_entry
+2120:1afc	dispatch_ovl_14_252a_14c6	CODE_25	5	alias		LIGHTSPD.EXE	0x140fc	resident	loader_entry
+2120:1b06	dispatch_ovl_10_252a_262a	CODE_25	5	alias		LIGHTSPD.EXE	0x14106	resident	loader_entry
+2120:1b10	dispatch_ovl_10_252a_0316	CODE_25	5	alias		LIGHTSPD.EXE	0x14110	resident	loader_entry
+2120:1b1a	dispatch_ovl_11_252a_1326	CODE_25	5	alias		LIGHTSPD.EXE	0x1411a	resident	loader_entry
+2120:1b24	dispatch_ovl_11_252a_2438	CODE_25	5	alias		LIGHTSPD.EXE	0x14124	resident	loader_entry
+2120:1b2e	dispatch_ovl_11_252a_00fe	CODE_25	5	alias		LIGHTSPD.EXE	0x1412e	resident	loader_entry
+2120:1b38	dispatch_ovl_14_252a_0fb8	CODE_25	5	alias		LIGHTSPD.EXE	0x14138	resident	loader_entry
+2120:1b42	dispatch_ovl_12_252a_36c2	CODE_25	5	alias		LIGHTSPD.EXE	0x14142	resident	loader_entry
+2120:1b4c	dispatch_ovl_13_2558_00d4	CODE_25	5	alias		LIGHTSPD.EXE	0x1414c	resident	loader_entry
+2120:1b56	dispatch_ovl_13_2558_0d62	CODE_25	5	alias		LIGHTSPD.EXE	0x14156	resident	loader_entry
+2120:1b60	dispatch_ovl_13_2558_0066	CODE_25	5	alias		LIGHTSPD.EXE	0x14160	resident	loader_entry
+2120:1b6a	dispatch_ovl_14_252a_2886	CODE_25	5	alias		LIGHTSPD.EXE	0x1416a	resident	loader_entry
+2120:1b74	dispatch_ovl_14_252a_291e	CODE_25	5	alias		LIGHTSPD.EXE	0x14174	resident	loader_entry
+2120:1b7e	dispatch_ovl_14_252a_2808	CODE_25	5	alias		LIGHTSPD.EXE	0x1417e	resident	loader_entry
+2120:1b88	FUN_2120_1b88	CODE_25	2	true		LIGHTSPD.EXE	0x14188	resident	candidate_function; static analysis, not runtime verified
+22d8:000a	FUN_22d8_000a	CODE_26	18	true		LIGHTSPD.EXE	0x1418a	resident	candidate_function; static analysis, not runtime verified
+22d8:001c	FUN_22d8_001c	CODE_26	7	true		LIGHTSPD.EXE	0x1419c	resident	candidate_function; static analysis, not runtime verified
+22d8:0023	FUN_22d8_0023	CODE_26	13	true		LIGHTSPD.EXE	0x141a3	resident	candidate_function; static analysis, not runtime verified
+22d8:0030	FUN_22d8_0030	CODE_26	10	true		LIGHTSPD.EXE	0x141b0	resident	candidate_function; static analysis, not runtime verified
+ovl_00::022dc0	ovl_00_entry_22dc_0000	ovl_00	674	true		LIGHTSPD.OVL	0x3f0	ovl_00	loader_entry
+ovl_00::023062	FUN_ovl_00__023062	ovl_00	182	true		LIGHTSPD.OVL	0x692	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023118	FUN_ovl_00__023118	ovl_00	457	true		LIGHTSPD.OVL	0x748	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::0232e2	FUN_ovl_00__0232e2	ovl_00	132	true		LIGHTSPD.OVL	0x912	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023366	FUN_ovl_00__023366	ovl_00	144	true		LIGHTSPD.OVL	0x996	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::0233f6	FUN_ovl_00__0233f6	ovl_00	165	true		LIGHTSPD.OVL	0xa26	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::0234fc	FUN_ovl_00__0234fc	ovl_00	142	true		LIGHTSPD.OVL	0xb2c	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::02358a	FUN_ovl_00__02358a	ovl_00	402	true		LIGHTSPD.OVL	0xbba	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::02371c	FUN_ovl_00__02371c	ovl_00	768	true		LIGHTSPD.OVL	0xd4c	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023a1e	FUN_ovl_00__023a1e	ovl_00	631	true		LIGHTSPD.OVL	0x104e	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023c98	FUN_ovl_00__023c98	ovl_00	213	true		LIGHTSPD.OVL	0x12c8	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023d88	FUN_ovl_00__023d88	ovl_00	215	true		LIGHTSPD.OVL	0x13b8	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023e60	FUN_ovl_00__023e60	ovl_00	73	true		LIGHTSPD.OVL	0x1490	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::023eaa	FUN_ovl_00__023eaa	ovl_00	422	true		LIGHTSPD.OVL	0x14da	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::024150	FUN_ovl_00__024150	ovl_00	43	true		LIGHTSPD.OVL	0x1780	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::02417c	FUN_ovl_00__02417c	ovl_00	53	true		LIGHTSPD.OVL	0x17ac	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::024312	FUN_ovl_00__024312	ovl_00	156	true		LIGHTSPD.OVL	0x1942	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::0243b0	FUN_ovl_00__0243b0	ovl_00	75	true		LIGHTSPD.OVL	0x19e0	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::0245a0	FUN_ovl_00__0245a0	ovl_00	72	true		LIGHTSPD.OVL	0x1bd0	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::02487c	FUN_ovl_00__02487c	ovl_00	226	true		LIGHTSPD.OVL	0x1eac	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::024b10	FUN_ovl_00__024b10	ovl_00	112	true		LIGHTSPD.OVL	0x2140	ovl_00	candidate_function; static analysis, not runtime verified
+ovl_00::024ebe	ovl_00_entry_22dc_20fe	ovl_00	591	true		LIGHTSPD.OVL	0x24ee	ovl_00	loader_entry
+ovl_00::025110	ovl_00_entry_22dc_2350	ovl_00	344	true		LIGHTSPD.OVL	0x2740	ovl_00	loader_entry
+ovl_01::022dc0	ovl_01_entry_22dc_0000	ovl_01	117	true		LIGHTSPD.OVL	0x2920	ovl_01	loader_entry
+ovl_01::022e36	FUN_ovl_01__022e36	ovl_01	108	true		LIGHTSPD.OVL	0x2996	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::022ea4	FUN_ovl_01__022ea4	ovl_01	142	true		LIGHTSPD.OVL	0x2a04	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::022f32	FUN_ovl_01__022f32	ovl_01	204	true		LIGHTSPD.OVL	0x2a92	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::022ffe	FUN_ovl_01__022ffe	ovl_01	108	true		LIGHTSPD.OVL	0x2b5e	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::02306c	FUN_ovl_01__02306c	ovl_01	112	true		LIGHTSPD.OVL	0x2bcc	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::0230de	FUN_ovl_01__0230de	ovl_01	118	true		LIGHTSPD.OVL	0x2c3e	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::023156	FUN_ovl_01__023156	ovl_01	157	true		LIGHTSPD.OVL	0x2cb6	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::0231f6	FUN_ovl_01__0231f6	ovl_01	150	true		LIGHTSPD.OVL	0x2d56	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::023290	FUN_ovl_01__023290	ovl_01	83	true		LIGHTSPD.OVL	0x2df0	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::0232e4	FUN_ovl_01__0232e4	ovl_01	38	true		LIGHTSPD.OVL	0x2e44	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_01::02330a	FUN_ovl_01__02330a	ovl_01	33	true		LIGHTSPD.OVL	0x2e6a	ovl_01	candidate_function; static analysis, not runtime verified
+ovl_02::022dc0	ovl_02_entry_22dc_0000	ovl_02	150	true		LIGHTSPD.OVL	0x2f00	ovl_02	loader_entry
+ovl_02::022e56	FUN_ovl_02__022e56	ovl_02	104	true		LIGHTSPD.OVL	0x2f96	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::022ebe	FUN_ovl_02__022ebe	ovl_02	230	true		LIGHTSPD.OVL	0x2ffe	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::022faa	FUN_ovl_02__022faa	ovl_02	26	true		LIGHTSPD.OVL	0x30ea	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::022fc4	FUN_ovl_02__022fc4	ovl_02	147	true		LIGHTSPD.OVL	0x3104	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::023058	FUN_ovl_02__023058	ovl_02	70	true		LIGHTSPD.OVL	0x3198	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::0230a2	FUN_ovl_02__0230a2	ovl_02	163	true		LIGHTSPD.OVL	0x31e2	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::023146	FUN_ovl_02__023146	ovl_02	195	true		LIGHTSPD.OVL	0x3286	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::02320a	FUN_ovl_02__02320a	ovl_02	60	true		LIGHTSPD.OVL	0x334a	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::023246	FUN_ovl_02__023246	ovl_02	23	true		LIGHTSPD.OVL	0x3386	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::02325e	FUN_ovl_02__02325e	ovl_02	112	true		LIGHTSPD.OVL	0x339e	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::0232ce	ovl_02_entry_22dc_050e	ovl_02	18	true		LIGHTSPD.OVL	0x340e	ovl_02	loader_entry
+ovl_02::0232e0	ovl_02_entry_22dc_0520	ovl_02	98	true		LIGHTSPD.OVL	0x3420	ovl_02	loader_entry
+ovl_02::023342	ovl_02_entry_22dc_0582	ovl_02	157	true		LIGHTSPD.OVL	0x3482	ovl_02	loader_entry
+ovl_02::0233e0	FUN_ovl_02__0233e0	ovl_02	36	true		LIGHTSPD.OVL	0x3520	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::023406	FUN_ovl_02__023406	ovl_02	99	true		LIGHTSPD.OVL	0x3546	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::02346a	FUN_ovl_02__02346a	ovl_02	29	true		LIGHTSPD.OVL	0x35aa	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::023488	FUN_ovl_02__023488	ovl_02	34	true		LIGHTSPD.OVL	0x35c8	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::0234aa	FUN_ovl_02__0234aa	ovl_02	76	true		LIGHTSPD.OVL	0x35ea	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::0234f8	FUN_ovl_02__0234f8	ovl_02	37	true		LIGHTSPD.OVL	0x3638	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_02::02351e	FUN_ovl_02__02351e	ovl_02	96	true		LIGHTSPD.OVL	0x365e	ovl_02	candidate_function; static analysis, not runtime verified
+ovl_03::022e82	ovl_03_entry_22dc_00c2	ovl_03	106	true		LIGHTSPD.OVL	0x37d2	ovl_03	loader_entry
+ovl_04::023444	FUN_ovl_04__023444	ovl_04	55	true		LIGHTSPD.OVL	0x40f4	ovl_04	candidate_function; static analysis, not runtime verified
+ovl_04::023558	FUN_ovl_04__023558	ovl_04	30	true		LIGHTSPD.OVL	0x4208	ovl_04	candidate_function; static analysis, not runtime verified
+ovl_04::023578	ovl_04_entry_22dc_07b8	ovl_04	57	true		LIGHTSPD.OVL	0x4228	ovl_04	loader_entry
+ovl_04::0235b6	ovl_04_entry_22dc_07f6	ovl_04	29	true		LIGHTSPD.OVL	0x4266	ovl_04	loader_entry
+ovl_04::0235d8	ovl_04_entry_22dc_0818	ovl_04	50	true		LIGHTSPD.OVL	0x4288	ovl_04	loader_entry
+ovl_04::02360a	FUN_ovl_04__02360a	ovl_04	1320	true		LIGHTSPD.OVL	0x42ba	ovl_04	candidate_function; static analysis, not runtime verified
+ovl_05::022dc0	ovl_05_entry_22dc_0000	ovl_05	27	true		LIGHTSPD.OVL	0x47f0	ovl_05	loader_entry
+ovl_06::022dc0	ovl_06_entry_22dc_0000	ovl_06	87	true		LIGHTSPD.OVL	0x4870	ovl_06	loader_entry
+ovl_06::022e18	FUN_ovl_06__022e18	ovl_06	155	true		LIGHTSPD.OVL	0x48c8	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::022eb4	FUN_ovl_06__022eb4	ovl_06	99	true		LIGHTSPD.OVL	0x4964	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::022f18	FUN_ovl_06__022f18	ovl_06	79	true		LIGHTSPD.OVL	0x49c8	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::022f68	FUN_ovl_06__022f68	ovl_06	90	true		LIGHTSPD.OVL	0x4a18	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::022fc4	FUN_ovl_06__022fc4	ovl_06	140	true		LIGHTSPD.OVL	0x4a74	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::023054	FUN_ovl_06__023054	ovl_06	42	true		LIGHTSPD.OVL	0x4b04	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::023080	FUN_ovl_06__023080	ovl_06	197	true		LIGHTSPD.OVL	0x4b30	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::023146	FUN_ovl_06__023146	ovl_06	65	true		LIGHTSPD.OVL	0x4bf6	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::023188	ovl_06_entry_22dc_03c8	ovl_06	13	true		LIGHTSPD.OVL	0x4c38	ovl_06	loader_entry
+ovl_06::023196	ovl_06_entry_22dc_03d6	ovl_06	30	true		LIGHTSPD.OVL	0x4c46	ovl_06	loader_entry
+ovl_06::0231b4	FUN_ovl_06__0231b4	ovl_06	79	true		LIGHTSPD.OVL	0x4c64	ovl_06	candidate_function; static analysis, not runtime verified
+ovl_06::02320a	ovl_06_entry_22dc_044a	ovl_06	38	true		LIGHTSPD.OVL	0x4cba	ovl_06	loader_entry
+ovl_07::022dc0	ovl_07_entry_22dc_0000	ovl_07	13	true		LIGHTSPD.OVL	0x4d60	ovl_07	loader_entry
+ovl_07::022dce	ovl_07_entry_22dc_000e	ovl_07	13	true		LIGHTSPD.OVL	0x4d6e	ovl_07	loader_entry
+ovl_07::022ddc	ovl_07_entry_22dc_001c	ovl_07	49	true		LIGHTSPD.OVL	0x4d7c	ovl_07	loader_entry
+ovl_07::022e0e	ovl_07_entry_22dc_004e	ovl_07	49	true		LIGHTSPD.OVL	0x4dae	ovl_07	loader_entry
+ovl_07::022e40	ovl_07_entry_22dc_0080	ovl_07	88	true		LIGHTSPD.OVL	0x4de0	ovl_07	loader_entry
+ovl_07::022e98	ovl_07_entry_22dc_00d8	ovl_07	45	true		LIGHTSPD.OVL	0x4e38	ovl_07	loader_entry
+ovl_07::022ec6	ovl_07_entry_22dc_0106	ovl_07	98	true		LIGHTSPD.OVL	0x4e66	ovl_07	loader_entry
+ovl_07::022f28	ovl_07_entry_22dc_0168	ovl_07	5	true		LIGHTSPD.OVL	0x4ec8	ovl_07	loader_entry
+ovl_07::022f2e	ovl_07_entry_22dc_016e	ovl_07	130	true		LIGHTSPD.OVL	0x4ece	ovl_07	loader_entry
+ovl_07::022fb0	ovl_07_entry_22dc_01f0	ovl_07	38	true		LIGHTSPD.OVL	0x4f50	ovl_07	loader_entry
+ovl_07::022fd6	ovl_07_entry_22dc_0216	ovl_07	86	true		LIGHTSPD.OVL	0x4f76	ovl_07	loader_entry
+ovl_07::02302c	FUN_ovl_07__02302c	ovl_07	476	true		LIGHTSPD.OVL	0x4fcc	ovl_07	candidate_function; static analysis, not runtime verified
+ovl_07::023208	FUN_ovl_07__023208	ovl_07	680	true		LIGHTSPD.OVL	0x51a8	ovl_07	candidate_function; static analysis, not runtime verified
+ovl_07::0234b8	ovl_07_entry_22dc_06f8	ovl_07	9	true		LIGHTSPD.OVL	0x5458	ovl_07	loader_entry
+ovl_07::0234c2	ovl_07_entry_22dc_0702	ovl_07	1048	true		LIGHTSPD.OVL	0x5462	ovl_07	loader_entry
+ovl_07::023906	ovl_07_entry_22dc_0b46	ovl_07	121	true		LIGHTSPD.OVL	0x58a6	ovl_07	loader_entry
+ovl_08::022dc0	ovl_08_entry	ovl_08	595	true		LIGHTSPD.OVL	0x59b0	ovl_08	loader_entry
+ovl_09::023315	ovl_09_entry_22dc_0555	ovl_09	80	true		LIGHTSPD.OVL	0x6175	ovl_09	loader_entry
+ovl_10::0252a0	ovl_10_entry_252a_0000	ovl_10	264	true		LIGHTSPD.OVL	0x6360	ovl_10	loader_entry
+ovl_10::0253a8	FUN_ovl_10__0253a8	ovl_10	37	true		LIGHTSPD.OVL	0x6468	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::0253d2	FUN_ovl_10__0253d2	ovl_10	37	true		LIGHTSPD.OVL	0x6492	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::0253fc	FUN_ovl_10__0253fc	ovl_10	107	true		LIGHTSPD.OVL	0x64bc	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::025468	ovl_10_entry_252a_01c8	ovl_10	334	true		LIGHTSPD.OVL	0x6528	ovl_10	loader_entry
+ovl_10::0255b6	ovl_10_entry_252a_0316	ovl_10	383	true		LIGHTSPD.OVL	0x6676	ovl_10	loader_entry
+ovl_10::025736	FUN_ovl_10__025736	ovl_10	955	true		LIGHTSPD.OVL	0x67f6	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::025af6	FUN_ovl_10__025af6	ovl_10	1402	true		LIGHTSPD.OVL	0x6bb6	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026080	FUN_ovl_10__026080	ovl_10	1026	true		LIGHTSPD.OVL	0x7140	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026484	FUN_ovl_10__026484	ovl_10	441	true		LIGHTSPD.OVL	0x7544	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026644	FUN_ovl_10__026644	ovl_10	1063	true		LIGHTSPD.OVL	0x7704	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026a74	FUN_ovl_10__026a74	ovl_10	152	true		LIGHTSPD.OVL	0x7b34	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026b10	FUN_ovl_10__026b10	ovl_10	397	true		LIGHTSPD.OVL	0x7bd0	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026c9e	FUN_ovl_10__026c9e	ovl_10	103	true		LIGHTSPD.OVL	0x7d5e	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026d06	FUN_ovl_10__026d06	ovl_10	86	true		LIGHTSPD.OVL	0x7dc6	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::026d5e	FUN_ovl_10__026d5e	ovl_10	1841	true		LIGHTSPD.OVL	0x7e1e	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::0274ba	FUN_ovl_10__0274ba	ovl_10	116	true		LIGHTSPD.OVL	0x857a	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::027530	FUN_ovl_10__027530	ovl_10	107	true		LIGHTSPD.OVL	0x85f0	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::02759c	FUN_ovl_10__02759c	ovl_10	220	true		LIGHTSPD.OVL	0x865c	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::02767a	FUN_ovl_10__02767a	ovl_10	64	true		LIGHTSPD.OVL	0x873a	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::0276ba	FUN_ovl_10__0276ba	ovl_10	184	true		LIGHTSPD.OVL	0x877a	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::027774	FUN_ovl_10__027774	ovl_10	143	true		LIGHTSPD.OVL	0x8834	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::02780c	FUN_ovl_10__02780c	ovl_10	55	true		LIGHTSPD.OVL	0x88cc	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::027844	FUN_ovl_10__027844	ovl_10	98	true		LIGHTSPD.OVL	0x8904	ovl_10	candidate_function; static analysis, not runtime verified
+ovl_10::0278ca	ovl_10_entry_252a_262a	ovl_10	944	true		LIGHTSPD.OVL	0x898a	ovl_10	loader_entry
+ovl_10::027c80	ovl_10_entry_252a_29e0	ovl_10	20	true		LIGHTSPD.OVL	0x8d40	ovl_10	loader_entry
+ovl_11::0252a0	FUN_ovl_11__0252a0	ovl_11	254	true		LIGHTSPD.OVL	0x90d0	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02539e	ovl_11_entry_252a_00fe	ovl_11	279	true		LIGHTSPD.OVL	0x91ce	ovl_11	loader_entry
+ovl_11::0254b6	FUN_ovl_11__0254b6	ovl_11	371	true		LIGHTSPD.OVL	0x92e6	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02562a	FUN_ovl_11__02562a	ovl_11	464	true		LIGHTSPD.OVL	0x945a	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0257fa	FUN_ovl_11__0257fa	ovl_11	500	true		LIGHTSPD.OVL	0x962a	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025a02	FUN_ovl_11__025a02	ovl_11	27	true		LIGHTSPD.OVL	0x9832	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025a22	FUN_ovl_11__025a22	ovl_11	520	true		LIGHTSPD.OVL	0x9852	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025c2c	FUN_ovl_11__025c2c	ovl_11	82	true		LIGHTSPD.OVL	0x9a5c	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025c92	FUN_ovl_11__025c92	ovl_11	186	true		LIGHTSPD.OVL	0x9ac2	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025d4e	FUN_ovl_11__025d4e	ovl_11	47	true		LIGHTSPD.OVL	0x9b7e	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::025d7e	FUN_ovl_11__025d7e	ovl_11	1009	true		LIGHTSPD.OVL	0x9bae	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::026176	FUN_ovl_11__026176	ovl_11	367	true		LIGHTSPD.OVL	0x9fa6	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0262e6	FUN_ovl_11__0262e6	ovl_11	722	true		LIGHTSPD.OVL	0xa116	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0265c6	ovl_11_entry_252a_1326	ovl_11	1744	true		LIGHTSPD.OVL	0xa3f6	ovl_11	loader_entry
+ovl_11::026c9c	FUN_ovl_11__026c9c	ovl_11	224	true		LIGHTSPD.OVL	0xaacc	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::026d84	FUN_ovl_11__026d84	ovl_11	202	true		LIGHTSPD.OVL	0xabb4	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::026e4e	FUN_ovl_11__026e4e	ovl_11	403	true		LIGHTSPD.OVL	0xac7e	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027024	FUN_ovl_11__027024	ovl_11	31	true		LIGHTSPD.OVL	0xae54	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027044	FUN_ovl_11__027044	ovl_11	338	true		LIGHTSPD.OVL	0xae74	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027198	FUN_ovl_11__027198	ovl_11	93	true		LIGHTSPD.OVL	0xafc8	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0271f6	FUN_ovl_11__0271f6	ovl_11	56	true		LIGHTSPD.OVL	0xb026	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02722e	FUN_ovl_11__02722e	ovl_11	27	true		LIGHTSPD.OVL	0xb05e	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02724a	FUN_ovl_11__02724a	ovl_11	28	true		LIGHTSPD.OVL	0xb07a	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027268	FUN_ovl_11__027268	ovl_11	344	true		LIGHTSPD.OVL	0xb098	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0273c6	FUN_ovl_11__0273c6	ovl_11	507	true		LIGHTSPD.OVL	0xb1f6	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0275c2	FUN_ovl_11__0275c2	ovl_11	158	true		LIGHTSPD.OVL	0xb3f2	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027662	FUN_ovl_11__027662	ovl_11	116	true		LIGHTSPD.OVL	0xb492	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0276d8	ovl_11_entry_252a_2438	ovl_11	267	true		LIGHTSPD.OVL	0xb508	ovl_11	loader_entry
+ovl_11::027dac	FUN_ovl_11__027dac	ovl_11	101	true		LIGHTSPD.OVL	0xbbdc	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027e12	FUN_ovl_11__027e12	ovl_11	47	true		LIGHTSPD.OVL	0xbc42	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::027e42	FUN_ovl_11__027e42	ovl_11	652	true		LIGHTSPD.OVL	0xbc72	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::0280d2	FUN_ovl_11__0280d2	ovl_11	71	true		LIGHTSPD.OVL	0xbf02	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02811a	FUN_ovl_11__02811a	ovl_11	99	true		LIGHTSPD.OVL	0xbf4a	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::02817e	FUN_ovl_11__02817e	ovl_11	133	true		LIGHTSPD.OVL	0xbfae	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::028204	FUN_ovl_11__028204	ovl_11	47	true		LIGHTSPD.OVL	0xc034	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::028234	FUN_ovl_11__028234	ovl_11	46	true		LIGHTSPD.OVL	0xc064	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_11::028262	FUN_ovl_11__028262	ovl_11	262	true		LIGHTSPD.OVL	0xc092	ovl_11	candidate_function; static analysis, not runtime verified
+ovl_12::0252a0	FUN_ovl_12__0252a0	ovl_12	51	true		LIGHTSPD.OVL	0xc630	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0252f8	FUN_ovl_12__0252f8	ovl_12	67	true		LIGHTSPD.OVL	0xc688	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02533c	FUN_ovl_12__02533c	ovl_12	60	true		LIGHTSPD.OVL	0xc6cc	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025378	FUN_ovl_12__025378	ovl_12	128	true		LIGHTSPD.OVL	0xc708	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0253f8	FUN_ovl_12__0253f8	ovl_12	300	true		LIGHTSPD.OVL	0xc788	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025580	FUN_ovl_12__025580	ovl_12	307	true		LIGHTSPD.OVL	0xc910	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02570a	FUN_ovl_12__02570a	ovl_12	250	true		LIGHTSPD.OVL	0xca9a	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0258fa	FUN_ovl_12__0258fa	ovl_12	105	true		LIGHTSPD.OVL	0xcc8a	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0259f6	FUN_ovl_12__0259f6	ovl_12	103	true		LIGHTSPD.OVL	0xcd86	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025b0e	FUN_ovl_12__025b0e	ovl_12	121	true		LIGHTSPD.OVL	0xce9e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025bee	FUN_ovl_12__025bee	ovl_12	100	true		LIGHTSPD.OVL	0xcf7e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025ca2	FUN_ovl_12__025ca2	ovl_12	685	true		LIGHTSPD.OVL	0xd032	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::025fe0	FUN_ovl_12__025fe0	ovl_12	142	true		LIGHTSPD.OVL	0xd370	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02606e	FUN_ovl_12__02606e	ovl_12	170	true		LIGHTSPD.OVL	0xd3fe	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02611a	FUN_ovl_12__02611a	ovl_12	112	true		LIGHTSPD.OVL	0xd4aa	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02618e	FUN_ovl_12__02618e	ovl_12	464	true		LIGHTSPD.OVL	0xd51e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026360	FUN_ovl_12__026360	ovl_12	480	true		LIGHTSPD.OVL	0xd6f0	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026542	FUN_ovl_12__026542	ovl_12	113	true		LIGHTSPD.OVL	0xd8d2	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0265f4	FUN_ovl_12__0265f4	ovl_12	89	true		LIGHTSPD.OVL	0xd984	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02664e	FUN_ovl_12__02664e	ovl_12	89	true		LIGHTSPD.OVL	0xd9de	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0266a8	FUN_ovl_12__0266a8	ovl_12	241	true		LIGHTSPD.OVL	0xda38	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02679c	FUN_ovl_12__02679c	ovl_12	217	true		LIGHTSPD.OVL	0xdb2c	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026878	FUN_ovl_12__026878	ovl_12	283	true		LIGHTSPD.OVL	0xdc08	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02699a	FUN_ovl_12__02699a	ovl_12	160	true		LIGHTSPD.OVL	0xdd2a	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026a3a	FUN_ovl_12__026a3a	ovl_12	140	true		LIGHTSPD.OVL	0xddca	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026ac8	FUN_ovl_12__026ac8	ovl_12	110	true		LIGHTSPD.OVL	0xde58	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026b4a	FUN_ovl_12__026b4a	ovl_12	111	true		LIGHTSPD.OVL	0xdeda	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026bce	FUN_ovl_12__026bce	ovl_12	94	true		LIGHTSPD.OVL	0xdf5e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026c30	FUN_ovl_12__026c30	ovl_12	126	true		LIGHTSPD.OVL	0xdfc0	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026cb2	FUN_ovl_12__026cb2	ovl_12	31	true		LIGHTSPD.OVL	0xe042	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026cd2	FUN_ovl_12__026cd2	ovl_12	31	true		LIGHTSPD.OVL	0xe062	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026cf2	FUN_ovl_12__026cf2	ovl_12	86	true		LIGHTSPD.OVL	0xe082	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026d4a	FUN_ovl_12__026d4a	ovl_12	37	true		LIGHTSPD.OVL	0xe0da	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026d70	FUN_ovl_12__026d70	ovl_12	225	true		LIGHTSPD.OVL	0xe100	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::026e54	FUN_ovl_12__026e54	ovl_12	1576	true		LIGHTSPD.OVL	0xe1e4	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027482	FUN_ovl_12__027482	ovl_12	39	true		LIGHTSPD.OVL	0xe812	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0274aa	FUN_ovl_12__0274aa	ovl_12	955	true		LIGHTSPD.OVL	0xe83a	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0278e8	FUN_ovl_12__0278e8	ovl_12	147	true		LIGHTSPD.OVL	0xec78	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02797c	FUN_ovl_12__02797c	ovl_12	385	true		LIGHTSPD.OVL	0xed0c	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027afe	FUN_ovl_12__027afe	ovl_12	266	true		LIGHTSPD.OVL	0xee8e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027c08	FUN_ovl_12__027c08	ovl_12	325	true		LIGHTSPD.OVL	0xef98	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027d50	FUN_ovl_12__027d50	ovl_12	256	true		LIGHTSPD.OVL	0xf0e0	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027e52	FUN_ovl_12__027e52	ovl_12	173	true		LIGHTSPD.OVL	0xf1e2	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::027fbe	FUN_ovl_12__027fbe	ovl_12	205	true		LIGHTSPD.OVL	0xf34e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02808c	FUN_ovl_12__02808c	ovl_12	88	true		LIGHTSPD.OVL	0xf41c	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0280e4	FUN_ovl_12__0280e4	ovl_12	58	true		LIGHTSPD.OVL	0xf474	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::02811e	FUN_ovl_12__02811e	ovl_12	60	true		LIGHTSPD.OVL	0xf4ae	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::028544	FUN_ovl_12__028544	ovl_12	519	true		LIGHTSPD.OVL	0xf8d4	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::0288ee	FUN_ovl_12__0288ee	ovl_12	113	true		LIGHTSPD.OVL	0xfc7e	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::028962	ovl_12_entry_252a_36c2	ovl_12	521	true		LIGHTSPD.OVL	0xfcf2	ovl_12	loader_entry
+ovl_12::028b70	FUN_ovl_12__028b70	ovl_12	128	true		LIGHTSPD.OVL	0xff00	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::028c4c	FUN_ovl_12__028c4c	ovl_12	132	true		LIGHTSPD.OVL	0xffdc	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::028d1c	FUN_ovl_12__028d1c	ovl_12	257	true		LIGHTSPD.OVL	0x100ac	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_12::028fa4	FUN_ovl_12__028fa4	ovl_12	246	true		LIGHTSPD.OVL	0x10334	ovl_12	candidate_function; static analysis, not runtime verified
+ovl_13::0252a0	FUN_ovl_13__0252a0	ovl_13	58	true		LIGHTSPD.OVL	0x10560	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0252da	FUN_ovl_13__0252da	ovl_13	355	true		LIGHTSPD.OVL	0x1059a	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025440	FUN_ovl_13__025440	ovl_13	182	true		LIGHTSPD.OVL	0x10700	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0254f6	FUN_ovl_13__0254f6	ovl_13	92	true		LIGHTSPD.OVL	0x107b6	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025580	ovl_13_entry_2558_0000	ovl_13	1	true		LIGHTSPD.OVL	0x10840	ovl_13	loader_entry
+ovl_13::025582	ovl_13_entry_2558_0002	ovl_13	1	true		LIGHTSPD.OVL	0x10842	ovl_13	loader_entry
+ovl_13::025584	FUN_ovl_13__025584	ovl_13	97	true		LIGHTSPD.OVL	0x10844	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0255e6	ovl_13_entry_2558_0066	ovl_13	110	true		LIGHTSPD.OVL	0x108a6	ovl_13	loader_entry
+ovl_13::025654	ovl_13_entry_2558_00d4	ovl_13	191	true		LIGHTSPD.OVL	0x10914	ovl_13	loader_entry
+ovl_13::025714	FUN_ovl_13__025714	ovl_13	212	true		LIGHTSPD.OVL	0x109d4	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0257ec	FUN_ovl_13__0257ec	ovl_13	509	true		LIGHTSPD.OVL	0x10aac	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0259ec	FUN_ovl_13__0259ec	ovl_13	199	true		LIGHTSPD.OVL	0x10cac	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025ab4	FUN_ovl_13__025ab4	ovl_13	385	true		LIGHTSPD.OVL	0x10d74	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025e14	FUN_ovl_13__025e14	ovl_13	81	true		LIGHTSPD.OVL	0x110d4	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025e76	FUN_ovl_13__025e76	ovl_13	91	true		LIGHTSPD.OVL	0x11136	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::025ed2	FUN_ovl_13__025ed2	ovl_13	373	true		LIGHTSPD.OVL	0x11192	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::02604a	FUN_ovl_13__02604a	ovl_13	559	true		LIGHTSPD.OVL	0x1130a	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::026284	FUN_ovl_13__026284	ovl_13	58	true		LIGHTSPD.OVL	0x11544	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0262c0	FUN_ovl_13__0262c0	ovl_13	34	true		LIGHTSPD.OVL	0x11580	ovl_13	candidate_function; static analysis, not runtime verified
+ovl_13::0262e2	ovl_13_entry_2558_0d62	ovl_13	318	true		LIGHTSPD.OVL	0x115a2	ovl_13	loader_entry
+ovl_14::0252a0	ovl_14_entry_252a_0000	ovl_14	163	true		LIGHTSPD.OVL	0x11b70	ovl_14	loader_entry
+ovl_14::025344	ovl_14_entry_252a_00a4	ovl_14	495	true		LIGHTSPD.OVL	0x11c14	ovl_14	loader_entry
+ovl_14::02582c	FUN_ovl_14__02582c	ovl_14	171	true		LIGHTSPD.OVL	0x120fc	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::0258d8	FUN_ovl_14__0258d8	ovl_14	436	true		LIGHTSPD.OVL	0x121a8	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::025a8e	FUN_ovl_14__025a8e	ovl_14	850	true		LIGHTSPD.OVL	0x1235e	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::025de2	FUN_ovl_14__025de2	ovl_14	170	true		LIGHTSPD.OVL	0x126b2	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::025e8c	FUN_ovl_14__025e8c	ovl_14	283	true		LIGHTSPD.OVL	0x1275c	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::025fa8	FUN_ovl_14__025fa8	ovl_14	165	true		LIGHTSPD.OVL	0x12878	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::02604e	FUN_ovl_14__02604e	ovl_14	232	true		LIGHTSPD.OVL	0x1291e	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::026138	FUN_ovl_14__026138	ovl_14	182	true		LIGHTSPD.OVL	0x12a08	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::0261f0	FUN_ovl_14__0261f0	ovl_14	101	true		LIGHTSPD.OVL	0x12ac0	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::026258	ovl_14_entry_252a_0fb8	ovl_14	430	true		LIGHTSPD.OVL	0x12b28	ovl_14	loader_entry
+ovl_14::02640a	FUN_ovl_14__02640a	ovl_14	208	true		LIGHTSPD.OVL	0x12cda	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::0264dc	FUN_ovl_14__0264dc	ovl_14	64	true		LIGHTSPD.OVL	0x12dac	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::02651c	FUN_ovl_14__02651c	ovl_14	65	true		LIGHTSPD.OVL	0x12dec	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::02655e	ovl_14_entry_252a_12be	ovl_14	347	true		LIGHTSPD.OVL	0x12e2e	ovl_14	loader_entry
+ovl_14::0266ba	ovl_14_entry_252a_141a	ovl_14	80	true		LIGHTSPD.OVL	0x12f8a	ovl_14	loader_entry
+ovl_14::02670c	ovl_14_entry_252a_146c	ovl_14	89	true		LIGHTSPD.OVL	0x12fdc	ovl_14	loader_entry
+ovl_14::026766	ovl_14_entry_252a_14c6	ovl_14	183	true		LIGHTSPD.OVL	0x13036	ovl_14	loader_entry
+ovl_14::02681e	ovl_14_entry_252a_157e	ovl_14	170	true		LIGHTSPD.OVL	0x130ee	ovl_14	loader_entry
+ovl_14::0268ca	FUN_ovl_14__0268ca	ovl_14	1112	true		LIGHTSPD.OVL	0x1319a	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::026d3e	FUN_ovl_14__026d3e	ovl_14	1630	true		LIGHTSPD.OVL	0x1360e	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::0273d2	ovl_14_entry_252a_2132	ovl_14	136	true		LIGHTSPD.OVL	0x13ca2	ovl_14	loader_entry
+ovl_14::02745c	ovl_14_entry_252a_21bc	ovl_14	394	true		LIGHTSPD.OVL	0x13d2c	ovl_14	loader_entry
+ovl_14::0276b2	FUN_ovl_14__0276b2	ovl_14	355	true		LIGHTSPD.OVL	0x13f82	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::027816	FUN_ovl_14__027816	ovl_14	45	true		LIGHTSPD.OVL	0x140e6	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::027844	FUN_ovl_14__027844	ovl_14	574	true		LIGHTSPD.OVL	0x14114	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_14::027a84	ovl_14_entry_252a_27e4	ovl_14	36	true		LIGHTSPD.OVL	0x14354	ovl_14	loader_entry
+ovl_14::027aa8	ovl_14_entry_252a_2808	ovl_14	124	true		LIGHTSPD.OVL	0x14378	ovl_14	loader_entry
+ovl_14::027b26	ovl_14_entry_252a_2886	ovl_14	152	true		LIGHTSPD.OVL	0x143f6	ovl_14	loader_entry
+ovl_14::027bbe	ovl_14_entry_252a_291e	ovl_14	20	true		LIGHTSPD.OVL	0x1448e	ovl_14	loader_entry
+ovl_14::027bd2	FUN_ovl_14__027bd2	ovl_14	88	true		LIGHTSPD.OVL	0x144a2	ovl_14	candidate_function; static analysis, not runtime verified
+ovl_15::0252a0	FUN_ovl_15__0252a0	ovl_15	72	true		LIGHTSPD.OVL	0x14730	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0252e8	FUN_ovl_15__0252e8	ovl_15	289	true		LIGHTSPD.OVL	0x14778	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::02540a	FUN_ovl_15__02540a	ovl_15	69	true		LIGHTSPD.OVL	0x1489a	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025450	FUN_ovl_15__025450	ovl_15	89	true		LIGHTSPD.OVL	0x148e0	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0254aa	FUN_ovl_15__0254aa	ovl_15	90	true		LIGHTSPD.OVL	0x1493a	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025504	FUN_ovl_15__025504	ovl_15	322	true		LIGHTSPD.OVL	0x14994	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025648	FUN_ovl_15__025648	ovl_15	272	true		LIGHTSPD.OVL	0x14ad8	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::02575a	FUN_ovl_15__02575a	ovl_15	296	true		LIGHTSPD.OVL	0x14bea	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025884	FUN_ovl_15__025884	ovl_15	61	true		LIGHTSPD.OVL	0x14d14	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0258c2	FUN_ovl_15__0258c2	ovl_15	261	true		LIGHTSPD.OVL	0x14d52	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0259c8	FUN_ovl_15__0259c8	ovl_15	161	true		LIGHTSPD.OVL	0x14e58	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025a6a	FUN_ovl_15__025a6a	ovl_15	69	true		LIGHTSPD.OVL	0x14efa	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025ab0	FUN_ovl_15__025ab0	ovl_15	207	true		LIGHTSPD.OVL	0x14f40	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025b84	FUN_ovl_15__025b84	ovl_15	156	true		LIGHTSPD.OVL	0x15014	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025c7a	FUN_ovl_15__025c7a	ovl_15	275	true		LIGHTSPD.OVL	0x1510a	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025d8e	FUN_ovl_15__025d8e	ovl_15	90	true		LIGHTSPD.OVL	0x1521e	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025dea	FUN_ovl_15__025dea	ovl_15	312	true		LIGHTSPD.OVL	0x1527a	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::025f24	FUN_ovl_15__025f24	ovl_15	472	true		LIGHTSPD.OVL	0x153b4	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0260fe	FUN_ovl_15__0260fe	ovl_15	345	true		LIGHTSPD.OVL	0x1558e	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::026258	FUN_ovl_15__026258	ovl_15	80	true		LIGHTSPD.OVL	0x156e8	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::0262a8	FUN_ovl_15__0262a8	ovl_15	2149	true		LIGHTSPD.OVL	0x15738	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::026b38	FUN_ovl_15__026b38	ovl_15	84	true		LIGHTSPD.OVL	0x15fc8	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::026b8c	FUN_ovl_15__026b8c	ovl_15	80	true		LIGHTSPD.OVL	0x1601c	ovl_15	candidate_function; static analysis, not runtime verified
+ovl_15::026bdc	ovl_15_entry_252a_193c	ovl_15	416	true		LIGHTSPD.OVL	0x1606c	ovl_15	loader_entry
+ovl_16::0290a0	FUN_ovl_16__0290a0	ovl_16	104	true		LIGHTSPD.OVL	0x16290	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02910a	FUN_ovl_16__02910a	ovl_16	79	true		LIGHTSPD.OVL	0x162fa	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02915a	FUN_ovl_16__02915a	ovl_16	80	true		LIGHTSPD.OVL	0x1634a	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::0291aa	FUN_ovl_16__0291aa	ovl_16	58	true		LIGHTSPD.OVL	0x1639a	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::0291e4	FUN_ovl_16__0291e4	ovl_16	87	true		LIGHTSPD.OVL	0x163d4	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02923c	FUN_ovl_16__02923c	ovl_16	81	true		LIGHTSPD.OVL	0x1642c	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02928e	FUN_ovl_16__02928e	ovl_16	79	true		LIGHTSPD.OVL	0x1647e	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::0292de	FUN_ovl_16__0292de	ovl_16	79	true		LIGHTSPD.OVL	0x164ce	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02932e	FUN_ovl_16__02932e	ovl_16	79	true		LIGHTSPD.OVL	0x1651e	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02937e	FUN_ovl_16__02937e	ovl_16	76	true		LIGHTSPD.OVL	0x1656e	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::0293ca	FUN_ovl_16__0293ca	ovl_16	66	true		LIGHTSPD.OVL	0x165ba	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::02940c	FUN_ovl_16__02940c	ovl_16	133	true		LIGHTSPD.OVL	0x165fc	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::0294a0	FUN_ovl_16__0294a0	ovl_16	133	true		LIGHTSPD.OVL	0x16690	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::029534	FUN_ovl_16__029534	ovl_16	22	true		LIGHTSPD.OVL	0x16724	ovl_16	candidate_function; static analysis, not runtime verified
+ovl_16::029562	ovl_16_entry_290a_04c2	ovl_16	45	true		LIGHTSPD.OVL	0x16752	ovl_16	loader_entry
+ovl_16::02959e	ovl_16_entry_290a_04fe	ovl_16	383	true		LIGHTSPD.OVL	0x1678e	ovl_16	loader_entry
+ovl_17::0290a0	FUN_ovl_17__0290a0	ovl_17	120	true		LIGHTSPD.OVL	0x169d0	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029118	FUN_ovl_17__029118	ovl_17	68	true		LIGHTSPD.OVL	0x16a48	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::02915c	FUN_ovl_17__02915c	ovl_17	68	true		LIGHTSPD.OVL	0x16a8c	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::0291a0	FUN_ovl_17__0291a0	ovl_17	46	true		LIGHTSPD.OVL	0x16ad0	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::0291ce	FUN_ovl_17__0291ce	ovl_17	78	true		LIGHTSPD.OVL	0x16afe	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::02921c	FUN_ovl_17__02921c	ovl_17	198	true		LIGHTSPD.OVL	0x16b4c	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::0292e6	FUN_ovl_17__0292e6	ovl_17	108	true		LIGHTSPD.OVL	0x16c16	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029352	FUN_ovl_17__029352	ovl_17	115	true		LIGHTSPD.OVL	0x16c82	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::0293c6	FUN_ovl_17__0293c6	ovl_17	68	true		LIGHTSPD.OVL	0x16cf6	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::02940a	FUN_ovl_17__02940a	ovl_17	67	true		LIGHTSPD.OVL	0x16d3a	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::02944e	FUN_ovl_17__02944e	ovl_17	19	true		LIGHTSPD.OVL	0x16d7e	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029462	FUN_ovl_17__029462	ovl_17	148	true		LIGHTSPD.OVL	0x16d92	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029508	ovl_17_entry_290a_0468	ovl_17	46	true		LIGHTSPD.OVL	0x16e38	ovl_17	loader_entry
+ovl_17::029536	FUN_ovl_17__029536	ovl_17	12	true		LIGHTSPD.OVL	0x16e66	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029542	FUN_ovl_17__029542	ovl_17	58	true		LIGHTSPD.OVL	0x16e72	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::02957c	FUN_ovl_17__02957c	ovl_17	134	true		LIGHTSPD.OVL	0x16eac	ovl_17	candidate_function; static analysis, not runtime verified
+ovl_17::029602	ovl_17_entry_290a_0562	ovl_17	351	true		LIGHTSPD.OVL	0x16f32	ovl_17	loader_entry
+ovl_18::0290a0	FUN_ovl_18__0290a0	ovl_18	78	true		LIGHTSPD.OVL	0x17130	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::0290ee	FUN_ovl_18__0290ee	ovl_18	65	true		LIGHTSPD.OVL	0x1717e	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::029130	FUN_ovl_18__029130	ovl_18	68	true		LIGHTSPD.OVL	0x171c0	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::029174	FUN_ovl_18__029174	ovl_18	68	true		LIGHTSPD.OVL	0x17204	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::0291b8	FUN_ovl_18__0291b8	ovl_18	66	true		LIGHTSPD.OVL	0x17248	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::0291fa	FUN_ovl_18__0291fa	ovl_18	57	true		LIGHTSPD.OVL	0x1728a	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::029234	FUN_ovl_18__029234	ovl_18	145	true		LIGHTSPD.OVL	0x172c4	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::029324	FUN_ovl_18__029324	ovl_18	52	true		LIGHTSPD.OVL	0x173b4	ovl_18	candidate_function; static analysis, not runtime verified
+ovl_18::0293e2	ovl_18_entry_290a_0342	ovl_18	32	true		LIGHTSPD.OVL	0x17472	ovl_18	loader_entry
+ovl_18::029410	ovl_18_entry_290a_0370	ovl_18	191	true		LIGHTSPD.OVL	0x174a0	ovl_18	loader_entry
+ovl_19::0290a0	FUN_ovl_19__0290a0	ovl_19	78	true		LIGHTSPD.OVL	0x17650	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0290ee	FUN_ovl_19__0290ee	ovl_19	74	true		LIGHTSPD.OVL	0x1769e	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::029138	FUN_ovl_19__029138	ovl_19	124	true		LIGHTSPD.OVL	0x176e8	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0291b6	FUN_ovl_19__0291b6	ovl_19	32	true		LIGHTSPD.OVL	0x17766	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0291d6	FUN_ovl_19__0291d6	ovl_19	31	true		LIGHTSPD.OVL	0x17786	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0291f6	FUN_ovl_19__0291f6	ovl_19	68	true		LIGHTSPD.OVL	0x177a6	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::02923a	FUN_ovl_19__02923a	ovl_19	79	true		LIGHTSPD.OVL	0x177ea	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::02928a	FUN_ovl_19__02928a	ovl_19	280	true		LIGHTSPD.OVL	0x1783a	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0293a4	FUN_ovl_19__0293a4	ovl_19	19	true		LIGHTSPD.OVL	0x17954	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::0293b8	ovl_19_entry_290a_0318	ovl_19	96	true		LIGHTSPD.OVL	0x17968	ovl_19	loader_entry
+ovl_19::029418	FUN_ovl_19__029418	ovl_19	14	true		LIGHTSPD.OVL	0x179c8	ovl_19	candidate_function; static analysis, not runtime verified
+ovl_19::029426	ovl_19_entry_290a_0386	ovl_19	297	true		LIGHTSPD.OVL	0x179d6	ovl_19	loader_entry
+ovl_20::0290a0	FUN_ovl_20__0290a0	ovl_20	65	true		LIGHTSPD.OVL	0x17b90	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::0290e2	FUN_ovl_20__0290e2	ovl_20	77	true		LIGHTSPD.OVL	0x17bd2	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::029130	FUN_ovl_20__029130	ovl_20	79	true		LIGHTSPD.OVL	0x17c20	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::029180	FUN_ovl_20__029180	ovl_20	34	true		LIGHTSPD.OVL	0x17c70	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::0291a2	FUN_ovl_20__0291a2	ovl_20	135	true		LIGHTSPD.OVL	0x17c92	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::02922e	FUN_ovl_20__02922e	ovl_20	69	true		LIGHTSPD.OVL	0x17d1e	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::029274	FUN_ovl_20__029274	ovl_20	82	true		LIGHTSPD.OVL	0x17d64	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::0292c6	FUN_ovl_20__0292c6	ovl_20	40	true		LIGHTSPD.OVL	0x17db6	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::0292ee	FUN_ovl_20__0292ee	ovl_20	251	true		LIGHTSPD.OVL	0x17dde	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::0293fe	FUN_ovl_20__0293fe	ovl_20	19	true		LIGHTSPD.OVL	0x17eee	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::029412	ovl_20_entry_290a_0372	ovl_20	64	true		LIGHTSPD.OVL	0x17f02	ovl_20	loader_entry
+ovl_20::029452	FUN_ovl_20__029452	ovl_20	14	true		LIGHTSPD.OVL	0x17f42	ovl_20	candidate_function; static analysis, not runtime verified
+ovl_20::029460	ovl_20_entry_290a_03c0	ovl_20	404	true		LIGHTSPD.OVL	0x17f50	ovl_20	loader_entry
+ovl_21::0290a0	FUN_ovl_21__0290a0	ovl_21	78	true		LIGHTSPD.OVL	0x18170	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::0290ee	FUN_ovl_21__0290ee	ovl_21	76	true		LIGHTSPD.OVL	0x181be	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::02913a	FUN_ovl_21__02913a	ovl_21	79	true		LIGHTSPD.OVL	0x1820a	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::02918a	FUN_ovl_21__02918a	ovl_21	68	true		LIGHTSPD.OVL	0x1825a	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::0291ce	FUN_ovl_21__0291ce	ovl_21	68	true		LIGHTSPD.OVL	0x1829e	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::029212	FUN_ovl_21__029212	ovl_21	68	true		LIGHTSPD.OVL	0x182e2	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::029256	FUN_ovl_21__029256	ovl_21	32	true		LIGHTSPD.OVL	0x18326	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::029276	FUN_ovl_21__029276	ovl_21	68	true		LIGHTSPD.OVL	0x18346	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::0292ba	FUN_ovl_21__0292ba	ovl_21	27	true		LIGHTSPD.OVL	0x1838a	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::0292d6	FUN_ovl_21__0292d6	ovl_21	23	true		LIGHTSPD.OVL	0x183a6	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::0292ee	FUN_ovl_21__0292ee	ovl_21	19	true		LIGHTSPD.OVL	0x183be	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::029302	ovl_21_entry_290a_0262	ovl_21	49	true		LIGHTSPD.OVL	0x183d2	ovl_21	loader_entry
+ovl_21::029334	FUN_ovl_21__029334	ovl_21	14	true		LIGHTSPD.OVL	0x18404	ovl_21	candidate_function; static analysis, not runtime verified
+ovl_21::029342	ovl_21_entry_290a_02a2	ovl_21	234	true		LIGHTSPD.OVL	0x18412	ovl_21	loader_entry
+ovl_22::0290a0	FUN_ovl_22__0290a0	ovl_22	72	true		LIGHTSPD.OVL	0x185a0	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::0290e8	FUN_ovl_22__0290e8	ovl_22	113	true		LIGHTSPD.OVL	0x185e8	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::02915a	FUN_ovl_22__02915a	ovl_22	114	true		LIGHTSPD.OVL	0x1865a	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::0291cc	FUN_ovl_22__0291cc	ovl_22	73	true		LIGHTSPD.OVL	0x186cc	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029216	FUN_ovl_22__029216	ovl_22	73	true		LIGHTSPD.OVL	0x18716	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029260	FUN_ovl_22__029260	ovl_22	71	true		LIGHTSPD.OVL	0x18760	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::0292a8	FUN_ovl_22__0292a8	ovl_22	120	true		LIGHTSPD.OVL	0x187a8	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029322	FUN_ovl_22__029322	ovl_22	31	true		LIGHTSPD.OVL	0x18822	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029342	FUN_ovl_22__029342	ovl_22	60	true		LIGHTSPD.OVL	0x18842	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::02937e	FUN_ovl_22__02937e	ovl_22	37	true		LIGHTSPD.OVL	0x1887e	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::0293a4	FUN_ovl_22__0293a4	ovl_22	131	true		LIGHTSPD.OVL	0x188a4	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029428	FUN_ovl_22__029428	ovl_22	73	true		LIGHTSPD.OVL	0x18928	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029472	FUN_ovl_22__029472	ovl_22	97	true		LIGHTSPD.OVL	0x18972	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::0294d4	FUN_ovl_22__0294d4	ovl_22	65	true		LIGHTSPD.OVL	0x189d4	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029516	FUN_ovl_22__029516	ovl_22	73	true		LIGHTSPD.OVL	0x18a16	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029560	FUN_ovl_22__029560	ovl_22	182	true		LIGHTSPD.OVL	0x18a60	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029618	FUN_ovl_22__029618	ovl_22	19	true		LIGHTSPD.OVL	0x18b18	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::02962c	FUN_ovl_22__02962c	ovl_22	12	true		LIGHTSPD.OVL	0x18b2c	ovl_22	candidate_function; static analysis, not runtime verified
+ovl_22::029638	ovl_22_entry_290a_0598	ovl_22	401	true		LIGHTSPD.OVL	0x18b38	ovl_22	loader_entry
+ovl_23::0290a0	FUN_ovl_23__0290a0	ovl_23	112	true		LIGHTSPD.OVL	0x18d70	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029110	FUN_ovl_23__029110	ovl_23	78	true		LIGHTSPD.OVL	0x18de0	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02915e	FUN_ovl_23__02915e	ovl_23	67	true		LIGHTSPD.OVL	0x18e2e	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0291a2	FUN_ovl_23__0291a2	ovl_23	73	true		LIGHTSPD.OVL	0x18e72	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0291ec	FUN_ovl_23__0291ec	ovl_23	51	true		LIGHTSPD.OVL	0x18ebc	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029220	FUN_ovl_23__029220	ovl_23	90	true		LIGHTSPD.OVL	0x18ef0	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02927a	FUN_ovl_23__02927a	ovl_23	87	true		LIGHTSPD.OVL	0x18f4a	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0292d2	FUN_ovl_23__0292d2	ovl_23	71	true		LIGHTSPD.OVL	0x18fa2	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02931a	FUN_ovl_23__02931a	ovl_23	71	true		LIGHTSPD.OVL	0x18fea	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029362	FUN_ovl_23__029362	ovl_23	85	true		LIGHTSPD.OVL	0x19032	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0293b8	FUN_ovl_23__0293b8	ovl_23	83	true		LIGHTSPD.OVL	0x19088	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02940c	FUN_ovl_23__02940c	ovl_23	79	true		LIGHTSPD.OVL	0x190dc	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02945c	FUN_ovl_23__02945c	ovl_23	71	true		LIGHTSPD.OVL	0x1912c	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0294a4	FUN_ovl_23__0294a4	ovl_23	90	true		LIGHTSPD.OVL	0x19174	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0294fe	FUN_ovl_23__0294fe	ovl_23	74	true		LIGHTSPD.OVL	0x191ce	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029548	FUN_ovl_23__029548	ovl_23	250	true		LIGHTSPD.OVL	0x19218	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::02966c	FUN_ovl_23__02966c	ovl_23	19	true		LIGHTSPD.OVL	0x1933c	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029680	FUN_ovl_23__029680	ovl_23	85	true		LIGHTSPD.OVL	0x19350	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0296d6	FUN_ovl_23__0296d6	ovl_23	12	true		LIGHTSPD.OVL	0x193a6	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::0296e2	FUN_ovl_23__0296e2	ovl_23	38	true		LIGHTSPD.OVL	0x193b2	ovl_23	candidate_function; static analysis, not runtime verified
+ovl_23::029708	ovl_23_entry_290a_0668	ovl_23	397	true		LIGHTSPD.OVL	0x193d8	ovl_23	loader_entry
+ovl_24::0290a0	FUN_ovl_24__0290a0	ovl_24	69	true		LIGHTSPD.OVL	0x195f0	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::0290e6	FUN_ovl_24__0290e6	ovl_24	92	true		LIGHTSPD.OVL	0x19636	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::029142	FUN_ovl_24__029142	ovl_24	86	true		LIGHTSPD.OVL	0x19692	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::02919a	FUN_ovl_24__02919a	ovl_24	59	true		LIGHTSPD.OVL	0x196ea	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::0291d6	FUN_ovl_24__0291d6	ovl_24	79	true		LIGHTSPD.OVL	0x19726	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::029226	FUN_ovl_24__029226	ovl_24	75	true		LIGHTSPD.OVL	0x19776	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::029272	FUN_ovl_24__029272	ovl_24	28	true		LIGHTSPD.OVL	0x197c2	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::02928e	FUN_ovl_24__02928e	ovl_24	167	true		LIGHTSPD.OVL	0x197de	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::029336	FUN_ovl_24__029336	ovl_24	19	true		LIGHTSPD.OVL	0x19886	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::02934a	FUN_ovl_24__02934a	ovl_24	12	true		LIGHTSPD.OVL	0x1989a	ovl_24	candidate_function; static analysis, not runtime verified
+ovl_24::029356	ovl_24_entry_290a_02b6	ovl_24	369	true		LIGHTSPD.OVL	0x198a6	ovl_24	loader_entry
+ovl_25::0290a0	FUN_ovl_25__0290a0	ovl_25	84	true		LIGHTSPD.OVL	0x19a80	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::0290f6	FUN_ovl_25__0290f6	ovl_25	82	true		LIGHTSPD.OVL	0x19ad6	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::02914a	FUN_ovl_25__02914a	ovl_25	84	true		LIGHTSPD.OVL	0x19b2a	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::0291b0	FUN_ovl_25__0291b0	ovl_25	84	true		LIGHTSPD.OVL	0x19b90	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::029216	FUN_ovl_25__029216	ovl_25	84	true		LIGHTSPD.OVL	0x19bf6	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::02927c	FUN_ovl_25__02927c	ovl_25	93	true		LIGHTSPD.OVL	0x19c5c	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::0292da	FUN_ovl_25__0292da	ovl_25	93	true		LIGHTSPD.OVL	0x19cba	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::029338	FUN_ovl_25__029338	ovl_25	32	true		LIGHTSPD.OVL	0x19d18	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::029358	FUN_ovl_25__029358	ovl_25	84	true		LIGHTSPD.OVL	0x19d38	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::0293be	FUN_ovl_25__0293be	ovl_25	93	true		LIGHTSPD.OVL	0x19d9e	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::02941c	FUN_ovl_25__02941c	ovl_25	257	true		LIGHTSPD.OVL	0x19dfc	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::02954a	FUN_ovl_25__02954a	ovl_25	42	true		LIGHTSPD.OVL	0x19f2a	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::029574	FUN_ovl_25__029574	ovl_25	12	true		LIGHTSPD.OVL	0x19f54	ovl_25	candidate_function; static analysis, not runtime verified
+ovl_25::029580	ovl_25_entry_290a_04e0	ovl_25	353	true		LIGHTSPD.OVL	0x19f60	ovl_25	loader_entry
+ovl_26::0290a0	FUN_ovl_26__0290a0	ovl_26	69	true		LIGHTSPD.OVL	0x1a160	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0290e6	FUN_ovl_26__0290e6	ovl_26	78	true		LIGHTSPD.OVL	0x1a1a6	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::029134	FUN_ovl_26__029134	ovl_26	81	true		LIGHTSPD.OVL	0x1a1f4	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::029186	FUN_ovl_26__029186	ovl_26	59	true		LIGHTSPD.OVL	0x1a246	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0291c2	FUN_ovl_26__0291c2	ovl_26	87	true		LIGHTSPD.OVL	0x1a282	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02921a	FUN_ovl_26__02921a	ovl_26	111	true		LIGHTSPD.OVL	0x1a2da	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02928e	FUN_ovl_26__02928e	ovl_26	70	true		LIGHTSPD.OVL	0x1a34e	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0292d4	FUN_ovl_26__0292d4	ovl_26	70	true		LIGHTSPD.OVL	0x1a394	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02931a	FUN_ovl_26__02931a	ovl_26	70	true		LIGHTSPD.OVL	0x1a3da	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::029360	FUN_ovl_26__029360	ovl_26	96	true		LIGHTSPD.OVL	0x1a420	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0293c6	FUN_ovl_26__0293c6	ovl_26	47	true		LIGHTSPD.OVL	0x1a486	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0293f6	FUN_ovl_26__0293f6	ovl_26	87	true		LIGHTSPD.OVL	0x1a4b6	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02944e	FUN_ovl_26__02944e	ovl_26	257	true		LIGHTSPD.OVL	0x1a50e	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02957c	FUN_ovl_26__02957c	ovl_26	257	true		LIGHTSPD.OVL	0x1a63c	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0296aa	FUN_ovl_26__0296aa	ovl_26	18	true		LIGHTSPD.OVL	0x1a76a	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::0296bc	FUN_ovl_26__0296bc	ovl_26	23	true		LIGHTSPD.OVL	0x1a77c	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::029702	FUN_ovl_26__029702	ovl_26	12	true		LIGHTSPD.OVL	0x1a7c2	ovl_26	candidate_function; static analysis, not runtime verified
+ovl_26::02970e	ovl_26_entry_290a_066e	ovl_26	507	true		LIGHTSPD.OVL	0x1a7ce	ovl_26	loader_entry
+ovl_27::0290a0	FUN_ovl_27__0290a0	ovl_27	58	true		LIGHTSPD.OVL	0x1aa80	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0290da	FUN_ovl_27__0290da	ovl_27	124	true		LIGHTSPD.OVL	0x1aaba	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029156	FUN_ovl_27__029156	ovl_27	152	true		LIGHTSPD.OVL	0x1ab36	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0291ee	FUN_ovl_27__0291ee	ovl_27	152	true		LIGHTSPD.OVL	0x1abce	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029286	FUN_ovl_27__029286	ovl_27	102	true		LIGHTSPD.OVL	0x1ac66	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0292ec	FUN_ovl_27__0292ec	ovl_27	75	true		LIGHTSPD.OVL	0x1accc	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029338	FUN_ovl_27__029338	ovl_27	135	true		LIGHTSPD.OVL	0x1ad18	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0293c0	FUN_ovl_27__0293c0	ovl_27	70	true		LIGHTSPD.OVL	0x1ada0	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029406	FUN_ovl_27__029406	ovl_27	70	true		LIGHTSPD.OVL	0x1ade6	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::02944c	FUN_ovl_27__02944c	ovl_27	135	true		LIGHTSPD.OVL	0x1ae2c	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0294d4	FUN_ovl_27__0294d4	ovl_27	47	true		LIGHTSPD.OVL	0x1aeb4	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029504	FUN_ovl_27__029504	ovl_27	89	true		LIGHTSPD.OVL	0x1aee4	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::02955e	FUN_ovl_27__02955e	ovl_27	110	true		LIGHTSPD.OVL	0x1af3e	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0295d0	FUN_ovl_27__0295d0	ovl_27	305	true		LIGHTSPD.OVL	0x1afb0	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::02972e	FUN_ovl_27__02972e	ovl_27	19	true		LIGHTSPD.OVL	0x1b10e	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::029742	FUN_ovl_27__029742	ovl_27	12	true		LIGHTSPD.OVL	0x1b122	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::02974e	FUN_ovl_27__02974e	ovl_27	134	true		LIGHTSPD.OVL	0x1b12e	ovl_27	candidate_function; static analysis, not runtime verified
+ovl_27::0297d4	ovl_27_entry_290a_0734	ovl_27	460	true		LIGHTSPD.OVL	0x1b1b4	ovl_27	loader_entry
+ovl_28::0290a0	FUN_ovl_28__0290a0	ovl_28	83	true		LIGHTSPD.OVL	0x1b460	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0290f4	FUN_ovl_28__0290f4	ovl_28	68	true		LIGHTSPD.OVL	0x1b4b4	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029138	FUN_ovl_28__029138	ovl_28	85	true		LIGHTSPD.OVL	0x1b4f8	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::02918e	FUN_ovl_28__02918e	ovl_28	51	true		LIGHTSPD.OVL	0x1b54e	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0291c2	FUN_ovl_28__0291c2	ovl_28	73	true		LIGHTSPD.OVL	0x1b582	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::02920c	FUN_ovl_28__02920c	ovl_28	84	true		LIGHTSPD.OVL	0x1b5cc	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029260	FUN_ovl_28__029260	ovl_28	84	true		LIGHTSPD.OVL	0x1b620	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0292b4	FUN_ovl_28__0292b4	ovl_28	109	true		LIGHTSPD.OVL	0x1b674	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029322	FUN_ovl_28__029322	ovl_28	94	true		LIGHTSPD.OVL	0x1b6e2	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029384	FUN_ovl_28__029384	ovl_28	82	true		LIGHTSPD.OVL	0x1b744	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0293d6	FUN_ovl_28__0293d6	ovl_28	107	true		LIGHTSPD.OVL	0x1b796	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029442	FUN_ovl_28__029442	ovl_28	76	true		LIGHTSPD.OVL	0x1b802	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::02948e	FUN_ovl_28__02948e	ovl_28	36	true		LIGHTSPD.OVL	0x1b84e	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0294b2	FUN_ovl_28__0294b2	ovl_28	93	true		LIGHTSPD.OVL	0x1b872	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029510	FUN_ovl_28__029510	ovl_28	148	true		LIGHTSPD.OVL	0x1b8d0	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0295a8	FUN_ovl_28__0295a8	ovl_28	82	true		LIGHTSPD.OVL	0x1b968	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0295fa	FUN_ovl_28__0295fa	ovl_28	89	true		LIGHTSPD.OVL	0x1b9ba	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029654	FUN_ovl_28__029654	ovl_28	31	true		LIGHTSPD.OVL	0x1ba14	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029674	FUN_ovl_28__029674	ovl_28	31	true		LIGHTSPD.OVL	0x1ba34	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029694	FUN_ovl_28__029694	ovl_28	71	true		LIGHTSPD.OVL	0x1ba54	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0296dc	FUN_ovl_28__0296dc	ovl_28	31	true		LIGHTSPD.OVL	0x1ba9c	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0296fc	FUN_ovl_28__0296fc	ovl_28	71	true		LIGHTSPD.OVL	0x1babc	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::029744	FUN_ovl_28__029744	ovl_28	235	true		LIGHTSPD.OVL	0x1bb04	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::02984a	FUN_ovl_28__02984a	ovl_28	19	true		LIGHTSPD.OVL	0x1bc0a	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::02985e	FUN_ovl_28__02985e	ovl_28	85	true		LIGHTSPD.OVL	0x1bc1e	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0298b4	FUN_ovl_28__0298b4	ovl_28	12	true		LIGHTSPD.OVL	0x1bc74	ovl_28	candidate_function; static analysis, not runtime verified
+ovl_28::0298c0	ovl_28_entry_290a_0820	ovl_28	613	true		LIGHTSPD.OVL	0x1bc80	ovl_28	loader_entry
+ovl_29::0290a0	FUN_ovl_29__0290a0	ovl_29	135	true		LIGHTSPD.OVL	0x1bfc0	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::029128	FUN_ovl_29__029128	ovl_29	137	true		LIGHTSPD.OVL	0x1c048	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0291b2	FUN_ovl_29__0291b2	ovl_29	144	true		LIGHTSPD.OVL	0x1c0d2	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::029244	FUN_ovl_29__029244	ovl_29	127	true		LIGHTSPD.OVL	0x1c164	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0292c4	FUN_ovl_29__0292c4	ovl_29	124	true		LIGHTSPD.OVL	0x1c1e4	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::029342	FUN_ovl_29__029342	ovl_29	55	true		LIGHTSPD.OVL	0x1c262	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02937a	FUN_ovl_29__02937a	ovl_29	52	true		LIGHTSPD.OVL	0x1c29a	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0293ae	FUN_ovl_29__0293ae	ovl_29	63	true		LIGHTSPD.OVL	0x1c2ce	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0293ee	FUN_ovl_29__0293ee	ovl_29	123	true		LIGHTSPD.OVL	0x1c30e	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02946a	FUN_ovl_29__02946a	ovl_29	49	true		LIGHTSPD.OVL	0x1c38a	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02949c	FUN_ovl_29__02949c	ovl_29	52	true		LIGHTSPD.OVL	0x1c3bc	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0294d0	FUN_ovl_29__0294d0	ovl_29	60	true		LIGHTSPD.OVL	0x1c3f0	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02950c	FUN_ovl_29__02950c	ovl_29	49	true		LIGHTSPD.OVL	0x1c42c	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02953e	FUN_ovl_29__02953e	ovl_29	129	true		LIGHTSPD.OVL	0x1c45e	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0295c0	FUN_ovl_29__0295c0	ovl_29	250	true		LIGHTSPD.OVL	0x1c4e0	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::0296e4	FUN_ovl_29__0296e4	ovl_29	38	true		LIGHTSPD.OVL	0x1c604	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02970a	FUN_ovl_29__02970a	ovl_29	19	true		LIGHTSPD.OVL	0x1c62a	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02971e	FUN_ovl_29__02971e	ovl_29	12	true		LIGHTSPD.OVL	0x1c63e	ovl_29	candidate_function; static analysis, not runtime verified
+ovl_29::02972a	ovl_29_entry_290a_068a	ovl_29	585	true		LIGHTSPD.OVL	0x1c64a	ovl_29	loader_entry
+ovl_30::0290a0	FUN_ovl_30__0290a0	ovl_30	101	true		LIGHTSPD.OVL	0x1c930	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::029106	FUN_ovl_30__029106	ovl_30	70	true		LIGHTSPD.OVL	0x1c996	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::02914c	FUN_ovl_30__02914c	ovl_30	48	true		LIGHTSPD.OVL	0x1c9dc	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::02917c	FUN_ovl_30__02917c	ovl_30	79	true		LIGHTSPD.OVL	0x1ca0c	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0291cc	FUN_ovl_30__0291cc	ovl_30	73	true		LIGHTSPD.OVL	0x1ca5c	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::029216	FUN_ovl_30__029216	ovl_30	73	true		LIGHTSPD.OVL	0x1caa6	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::029260	FUN_ovl_30__029260	ovl_30	73	true		LIGHTSPD.OVL	0x1caf0	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0292aa	FUN_ovl_30__0292aa	ovl_30	62	true		LIGHTSPD.OVL	0x1cb3a	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0292e8	FUN_ovl_30__0292e8	ovl_30	51	true		LIGHTSPD.OVL	0x1cb78	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::02931c	FUN_ovl_30__02931c	ovl_30	60	true		LIGHTSPD.OVL	0x1cbac	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::029358	FUN_ovl_30__029358	ovl_30	56	true		LIGHTSPD.OVL	0x1cbe8	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::029390	FUN_ovl_30__029390	ovl_30	62	true		LIGHTSPD.OVL	0x1cc20	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0293ce	FUN_ovl_30__0293ce	ovl_30	46	true		LIGHTSPD.OVL	0x1cc5e	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0293fc	FUN_ovl_30__0293fc	ovl_30	162	true		LIGHTSPD.OVL	0x1cc8c	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0294a0	FUN_ovl_30__0294a0	ovl_30	19	true		LIGHTSPD.OVL	0x1cd30	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0294b4	FUN_ovl_30__0294b4	ovl_30	19	true		LIGHTSPD.OVL	0x1cd44	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0294c8	FUN_ovl_30__0294c8	ovl_30	12	true		LIGHTSPD.OVL	0x1cd58	ovl_30	candidate_function; static analysis, not runtime verified
+ovl_30::0294d4	ovl_30_entry_290a_0434	ovl_30	472	true		LIGHTSPD.OVL	0x1cd64	ovl_30	loader_entry
+ovl_31::0290a0	FUN_ovl_31__0290a0	ovl_31	71	true		LIGHTSPD.OVL	0x1cfe0	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0290e8	FUN_ovl_31__0290e8	ovl_31	48	true		LIGHTSPD.OVL	0x1d028	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::029118	FUN_ovl_31__029118	ovl_31	51	true		LIGHTSPD.OVL	0x1d058	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::02914c	FUN_ovl_31__02914c	ovl_31	33	true		LIGHTSPD.OVL	0x1d08c	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::02916e	FUN_ovl_31__02916e	ovl_31	35	true		LIGHTSPD.OVL	0x1d0ae	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::029192	FUN_ovl_31__029192	ovl_31	43	true		LIGHTSPD.OVL	0x1d0d2	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0291be	FUN_ovl_31__0291be	ovl_31	62	true		LIGHTSPD.OVL	0x1d0fe	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0291fc	FUN_ovl_31__0291fc	ovl_31	51	true		LIGHTSPD.OVL	0x1d13c	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::029230	FUN_ovl_31__029230	ovl_31	61	true		LIGHTSPD.OVL	0x1d170	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::02926e	FUN_ovl_31__02926e	ovl_31	67	true		LIGHTSPD.OVL	0x1d1ae	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0292b2	FUN_ovl_31__0292b2	ovl_31	51	true		LIGHTSPD.OVL	0x1d1f2	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0292e6	FUN_ovl_31__0292e6	ovl_31	262	true		LIGHTSPD.OVL	0x1d226	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::02940e	FUN_ovl_31__02940e	ovl_31	196	true		LIGHTSPD.OVL	0x1d34e	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0294d2	FUN_ovl_31__0294d2	ovl_31	12	true		LIGHTSPD.OVL	0x1d412	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::0294de	FUN_ovl_31__0294de	ovl_31	139	true		LIGHTSPD.OVL	0x1d41e	ovl_31	candidate_function; static analysis, not runtime verified
+ovl_31::02956c	ovl_31_entry_290a_04cc	ovl_31	534	true		LIGHTSPD.OVL	0x1d4ac	ovl_31	loader_entry
+ovl_32::0290a0	FUN_ovl_32__0290a0	ovl_32	52	true		LIGHTSPD.OVL	0x1d740	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::0290d4	FUN_ovl_32__0290d4	ovl_32	50	true		LIGHTSPD.OVL	0x1d774	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::029106	FUN_ovl_32__029106	ovl_32	268	true		LIGHTSPD.OVL	0x1d7a6	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::029244	FUN_ovl_32__029244	ovl_32	54	true		LIGHTSPD.OVL	0x1d8e4	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::02927a	FUN_ovl_32__02927a	ovl_32	63	true		LIGHTSPD.OVL	0x1d91a	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::0292bc	FUN_ovl_32__0292bc	ovl_32	37	true		LIGHTSPD.OVL	0x1d95c	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::0292e2	FUN_ovl_32__0292e2	ovl_32	257	true		LIGHTSPD.OVL	0x1d982	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::029410	FUN_ovl_32__029410	ovl_32	97	true		LIGHTSPD.OVL	0x1dab0	ovl_32	candidate_function; static analysis, not runtime verified
+ovl_32::029472	ovl_32_entry_290a_03d2	ovl_32	355	true		LIGHTSPD.OVL	0x1db12	ovl_32	loader_entry
+ovl_33::0290a0	FUN_ovl_33__0290a0	ovl_33	70	true		LIGHTSPD.OVL	0x1dd80	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0290e6	FUN_ovl_33__0290e6	ovl_33	53	true		LIGHTSPD.OVL	0x1ddc6	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02911c	FUN_ovl_33__02911c	ovl_33	41	true		LIGHTSPD.OVL	0x1ddfc	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029146	FUN_ovl_33__029146	ovl_33	51	true		LIGHTSPD.OVL	0x1de26	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02917a	FUN_ovl_33__02917a	ovl_33	73	true		LIGHTSPD.OVL	0x1de5a	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0291c4	FUN_ovl_33__0291c4	ovl_33	41	true		LIGHTSPD.OVL	0x1dea4	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0291ee	FUN_ovl_33__0291ee	ovl_33	76	true		LIGHTSPD.OVL	0x1dece	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02923a	FUN_ovl_33__02923a	ovl_33	96	true		LIGHTSPD.OVL	0x1df1a	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02929c	FUN_ovl_33__02929c	ovl_33	96	true		LIGHTSPD.OVL	0x1df7c	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0292fe	FUN_ovl_33__0292fe	ovl_33	96	true		LIGHTSPD.OVL	0x1dfde	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029360	FUN_ovl_33__029360	ovl_33	73	true		LIGHTSPD.OVL	0x1e040	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0293aa	FUN_ovl_33__0293aa	ovl_33	62	true		LIGHTSPD.OVL	0x1e08a	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0293e8	FUN_ovl_33__0293e8	ovl_33	49	true		LIGHTSPD.OVL	0x1e0c8	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02941a	FUN_ovl_33__02941a	ovl_33	36	true		LIGHTSPD.OVL	0x1e0fa	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02943e	FUN_ovl_33__02943e	ovl_33	73	true		LIGHTSPD.OVL	0x1e11e	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029488	FUN_ovl_33__029488	ovl_33	67	true		LIGHTSPD.OVL	0x1e168	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0294cc	FUN_ovl_33__0294cc	ovl_33	48	true		LIGHTSPD.OVL	0x1e1ac	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0294fc	FUN_ovl_33__0294fc	ovl_33	92	true		LIGHTSPD.OVL	0x1e1dc	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029558	FUN_ovl_33__029558	ovl_33	63	true		LIGHTSPD.OVL	0x1e238	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029598	FUN_ovl_33__029598	ovl_33	104	true		LIGHTSPD.OVL	0x1e278	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029600	FUN_ovl_33__029600	ovl_33	54	true		LIGHTSPD.OVL	0x1e2e0	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029638	FUN_ovl_33__029638	ovl_33	48	true		LIGHTSPD.OVL	0x1e318	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02966c	FUN_ovl_33__02966c	ovl_33	49	true		LIGHTSPD.OVL	0x1e34c	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02969e	FUN_ovl_33__02969e	ovl_33	36	true		LIGHTSPD.OVL	0x1e37e	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0296c2	FUN_ovl_33__0296c2	ovl_33	80	true		LIGHTSPD.OVL	0x1e3a2	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029716	FUN_ovl_33__029716	ovl_33	56	true		LIGHTSPD.OVL	0x1e3f6	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029750	FUN_ovl_33__029750	ovl_33	68	true		LIGHTSPD.OVL	0x1e430	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029796	FUN_ovl_33__029796	ovl_33	68	true		LIGHTSPD.OVL	0x1e476	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0297dc	FUN_ovl_33__0297dc	ovl_33	68	true		LIGHTSPD.OVL	0x1e4bc	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029822	FUN_ovl_33__029822	ovl_33	56	true		LIGHTSPD.OVL	0x1e502	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::02985c	FUN_ovl_33__02985c	ovl_33	56	true		LIGHTSPD.OVL	0x1e53c	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029896	FUN_ovl_33__029896	ovl_33	205	true		LIGHTSPD.OVL	0x1e576	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029966	FUN_ovl_33__029966	ovl_33	49	true		LIGHTSPD.OVL	0x1e646	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029998	FUN_ovl_33__029998	ovl_33	49	true		LIGHTSPD.OVL	0x1e678	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0299ca	FUN_ovl_33__0299ca	ovl_33	49	true		LIGHTSPD.OVL	0x1e6aa	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::0299fc	FUN_ovl_33__0299fc	ovl_33	77	true		LIGHTSPD.OVL	0x1e6dc	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029a4a	FUN_ovl_33__029a4a	ovl_33	67	true		LIGHTSPD.OVL	0x1e72a	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029a8e	FUN_ovl_33__029a8e	ovl_33	62	true		LIGHTSPD.OVL	0x1e76e	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029acc	FUN_ovl_33__029acc	ovl_33	174	true		LIGHTSPD.OVL	0x1e7ac	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029b8c	FUN_ovl_33__029b8c	ovl_33	22	true		LIGHTSPD.OVL	0x1e86c	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029ba2	FUN_ovl_33__029ba2	ovl_33	19	true		LIGHTSPD.OVL	0x1e882	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029bb6	FUN_ovl_33__029bb6	ovl_33	341	true		LIGHTSPD.OVL	0x1e896	ovl_33	candidate_function; static analysis, not runtime verified
+ovl_33::029d0c	ovl_33_entry_290a_0c6c	ovl_33	500	true		LIGHTSPD.OVL	0x1e9ec	ovl_33	loader_entry
+ovl_34::0290a0	FUN_ovl_34__0290a0	ovl_34	83	true		LIGHTSPD.OVL	0x1ec80	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::0290f4	FUN_ovl_34__0290f4	ovl_34	79	true		LIGHTSPD.OVL	0x1ecd4	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::029144	FUN_ovl_34__029144	ovl_34	82	true		LIGHTSPD.OVL	0x1ed24	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::029196	FUN_ovl_34__029196	ovl_34	51	true		LIGHTSPD.OVL	0x1ed76	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::0291ca	FUN_ovl_34__0291ca	ovl_34	49	true		LIGHTSPD.OVL	0x1edaa	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::0291fc	FUN_ovl_34__0291fc	ovl_34	63	true		LIGHTSPD.OVL	0x1eddc	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::02923c	FUN_ovl_34__02923c	ovl_34	56	true		LIGHTSPD.OVL	0x1ee1c	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::029274	FUN_ovl_34__029274	ovl_34	124	true		LIGHTSPD.OVL	0x1ee54	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::0292f6	FUN_ovl_34__0292f6	ovl_34	124	true		LIGHTSPD.OVL	0x1eed6	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::029378	FUN_ovl_34__029378	ovl_34	112	true		LIGHTSPD.OVL	0x1ef58	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::0293ee	FUN_ovl_34__0293ee	ovl_34	19	true		LIGHTSPD.OVL	0x1efce	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::029402	FUN_ovl_34__029402	ovl_34	12	true		LIGHTSPD.OVL	0x1efe2	ovl_34	candidate_function; static analysis, not runtime verified
+ovl_34::02940e	ovl_34_entry_290a_036e	ovl_34	339	true		LIGHTSPD.OVL	0x1efee	ovl_34	loader_entry
+ovl_35::0290a0	ovl_35_entry_290a_0000	ovl_35	198	true		LIGHTSPD.OVL	0x1f1b0	ovl_35	loader_entry
+ovl_35::02916a	FUN_ovl_35__02916a	ovl_35	389	true		LIGHTSPD.OVL	0x1f27a	ovl_35	candidate_function; static analysis, not runtime verified
+ovl_35::0292f0	FUN_ovl_35__0292f0	ovl_35	477	true		LIGHTSPD.OVL	0x1f400	ovl_35	candidate_function; static analysis, not runtime verified
+ovl_35::0294ce	ovl_35_entry_290a_042e	ovl_35	35	true		LIGHTSPD.OVL	0x1f5de	ovl_35	loader_entry
+ovl_35::0294f4	FUN_ovl_35__0294f4	ovl_35	728	true		LIGHTSPD.OVL	0x1f604	ovl_35	candidate_function; static analysis, not runtime verified
+ovl_35::0297d0	FUN_ovl_35__0297d0	ovl_35	473	true		LIGHTSPD.OVL	0x1f8e0	ovl_35	candidate_function; static analysis, not runtime verified
+ovl_36::0290a0	ovl_36_entry_290a_0000	ovl_36	185	true		LIGHTSPD.OVL	0x1fb40	ovl_36	loader_entry
+ovl_36::02915a	FUN_ovl_36__02915a	ovl_36	536	true		LIGHTSPD.OVL	0x1fbfa	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_36::029372	FUN_ovl_36__029372	ovl_36	591	true		LIGHTSPD.OVL	0x1fe12	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_36::0295c2	FUN_ovl_36__0295c2	ovl_36	162	true		LIGHTSPD.OVL	0x20062	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_36::029710	ovl_36_entry_290a_0670	ovl_36	50	true		LIGHTSPD.OVL	0x201b0	ovl_36	loader_entry
+ovl_36::029746	FUN_ovl_36__029746	ovl_36	504	true		LIGHTSPD.OVL	0x201e6	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_36::02993e	FUN_ovl_36__02993e	ovl_36	619	true		LIGHTSPD.OVL	0x203de	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_36::029bac	FUN_ovl_36__029bac	ovl_36	55	true		LIGHTSPD.OVL	0x2064c	ovl_36	candidate_function; static analysis, not runtime verified
+ovl_37::0290a0	ovl_37_entry_290a_0000	ovl_37	130	true		LIGHTSPD.OVL	0x206f0	ovl_37	loader_entry
+ovl_37::029124	FUN_ovl_37__029124	ovl_37	173	true		LIGHTSPD.OVL	0x20774	ovl_37	candidate_function; static analysis, not runtime verified
+ovl_37::0291d2	ovl_37_entry_290a_0132	ovl_37	5	true		LIGHTSPD.OVL	0x20822	ovl_37	loader_entry
+ovl_37::0291d8	FUN_ovl_37__0291d8	ovl_37	635	true		LIGHTSPD.OVL	0x20828	ovl_37	candidate_function; static analysis, not runtime verified
+ovl_37::029456	FUN_ovl_37__029456	ovl_37	280	true		LIGHTSPD.OVL	0x20aa6	ovl_37	candidate_function; static analysis, not runtime verified
+ovl_38::0290a0	ovl_38_entry_290a_0000	ovl_38	143	true		LIGHTSPD.OVL	0x20c30	ovl_38	loader_entry
+ovl_38::029132	FUN_ovl_38__029132	ovl_38	344	true		LIGHTSPD.OVL	0x20cc2	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_38::02928a	FUN_ovl_38__02928a	ovl_38	157	true		LIGHTSPD.OVL	0x20e1a	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_38::029328	FUN_ovl_38__029328	ovl_38	325	true		LIGHTSPD.OVL	0x20eb8	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_38::02946e	ovl_38_entry_290a_03ce	ovl_38	56	true		LIGHTSPD.OVL	0x20ffe	ovl_38	loader_entry
+ovl_38::0294a8	FUN_ovl_38__0294a8	ovl_38	573	true		LIGHTSPD.OVL	0x21038	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_38::0296e8	FUN_ovl_38__0296e8	ovl_38	455	true		LIGHTSPD.OVL	0x21278	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_38::0298b2	FUN_ovl_38__0298b2	ovl_38	457	true		LIGHTSPD.OVL	0x21442	ovl_38	candidate_function; static analysis, not runtime verified
+ovl_39::0290a0	ovl_39_entry_290a_0000	ovl_39	186	true		LIGHTSPD.OVL	0x21670	ovl_39	loader_entry
+ovl_39::02915e	FUN_ovl_39__02915e	ovl_39	323	true		LIGHTSPD.OVL	0x2172e	ovl_39	candidate_function; static analysis, not runtime verified
+ovl_39::0292a2	FUN_ovl_39__0292a2	ovl_39	120	true		LIGHTSPD.OVL	0x21872	ovl_39	candidate_function; static analysis, not runtime verified
+ovl_39::02931a	ovl_39_entry_290a_027a	ovl_39	45	true		LIGHTSPD.OVL	0x218ea	ovl_39	loader_entry
+ovl_39::02934a	FUN_ovl_39__02934a	ovl_39	621	true		LIGHTSPD.OVL	0x2191a	ovl_39	candidate_function; static analysis, not runtime verified
+ovl_39::0295bc	FUN_ovl_39__0295bc	ovl_39	541	true		LIGHTSPD.OVL	0x21b8c	ovl_39	candidate_function; static analysis, not runtime verified
+ovl_39::0297dc	FUN_ovl_39__0297dc	ovl_39	301	true		LIGHTSPD.OVL	0x21dac	ovl_39	candidate_function; static analysis, not runtime verified
+ovl_40::0290a0	ovl_40_entry_290a_0000	ovl_40	59	true		LIGHTSPD.OVL	0x21f20	ovl_40	loader_entry
+ovl_40::0290dc	FUN_ovl_40__0290dc	ovl_40	205	true		LIGHTSPD.OVL	0x21f5c	ovl_40	candidate_function; static analysis, not runtime verified
+ovl_40::0291aa	ovl_40_entry_290a_010a	ovl_40	19	true		LIGHTSPD.OVL	0x2202a	ovl_40	loader_entry
+ovl_40::0291be	FUN_ovl_40__0291be	ovl_40	995	true		LIGHTSPD.OVL	0x2203e	ovl_40	candidate_function; static analysis, not runtime verified
+ovl_40::0295a2	ovl_40_entry_290a_0502	ovl_40	181	true		LIGHTSPD.OVL	0x22422	ovl_40	loader_entry
+ovl_41::0290a0	FUN_ovl_41__0290a0	ovl_41	372	true		LIGHTSPD.OVL	0x22570	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::029214	FUN_ovl_41__029214	ovl_41	150	true		LIGHTSPD.OVL	0x226e4	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::0292aa	FUN_ovl_41__0292aa	ovl_41	488	true		LIGHTSPD.OVL	0x2277a	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::029492	ovl_41_entry_290a_03f2	ovl_41	242	true		LIGHTSPD.OVL	0x22962	ovl_41	loader_entry
+ovl_41::029588	FUN_ovl_41__029588	ovl_41	521	true		LIGHTSPD.OVL	0x22a58	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::029792	FUN_ovl_41__029792	ovl_41	598	true		LIGHTSPD.OVL	0x22c62	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::0299ea	FUN_ovl_41__0299ea	ovl_41	469	true		LIGHTSPD.OVL	0x22eba	ovl_41	candidate_function; static analysis, not runtime verified
+ovl_41::029bc2	ovl_41_entry_290a_0b22	ovl_41	50	true		LIGHTSPD.OVL	0x23092	ovl_41	loader_entry
+ovl_42::0290a0	ovl_42_entry_290a_0000	ovl_42	64	true		LIGHTSPD.OVL	0x23110	ovl_42	loader_entry
+ovl_42::0290e2	FUN_ovl_42__0290e2	ovl_42	165	true		LIGHTSPD.OVL	0x23152	ovl_42	candidate_function; static analysis, not runtime verified
+ovl_42::029188	ovl_42_entry_290a_00e8	ovl_42	751	true		LIGHTSPD.OVL	0x231f8	ovl_42	loader_entry
+ovl_43::0290a0	ovl_43_entry_290a_0000	ovl_43	230	true		LIGHTSPD.OVL	0x23560	ovl_43	loader_entry
+ovl_43::02918a	FUN_ovl_43__02918a	ovl_43	686	true		LIGHTSPD.OVL	0x2364a	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_43::02943a	ovl_43_entry_290a_039a	ovl_43	60	true		LIGHTSPD.OVL	0x238fa	ovl_43	loader_entry
+ovl_43::02947c	FUN_ovl_43__02947c	ovl_43	544	true		LIGHTSPD.OVL	0x2393c	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_43::02969e	FUN_ovl_43__02969e	ovl_43	655	true		LIGHTSPD.OVL	0x23b5e	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_43::02992e	FUN_ovl_43__02992e	ovl_43	489	true		LIGHTSPD.OVL	0x23dee	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_43::029b18	FUN_ovl_43__029b18	ovl_43	43	true		LIGHTSPD.OVL	0x23fd8	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_43::029b44	ovl_43_entry_290a_0aa4	ovl_43	5	true		LIGHTSPD.OVL	0x24004	ovl_43	loader_entry
+ovl_43::029b4a	FUN_ovl_43__029b4a	ovl_43	118	true		LIGHTSPD.OVL	0x2400a	ovl_43	candidate_function; static analysis, not runtime verified
+ovl_44::0290a0	ovl_44_entry_290a_0000	ovl_44	107	true		LIGHTSPD.OVL	0x240b0	ovl_44	loader_entry
+ovl_44::02910c	FUN_ovl_44__02910c	ovl_44	145	true		LIGHTSPD.OVL	0x2411c	ovl_44	candidate_function; static analysis, not runtime verified
+ovl_44::02919e	ovl_44_entry_290a_00fe	ovl_44	156	true		LIGHTSPD.OVL	0x241ae	ovl_44	loader_entry
+ovl_45::0290a0	FUN_ovl_45__0290a0	ovl_45	150	true		LIGHTSPD.OVL	0x24320	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::029136	FUN_ovl_45__029136	ovl_45	156	true		LIGHTSPD.OVL	0x243b6	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::0291d2	FUN_ovl_45__0291d2	ovl_45	332	true		LIGHTSPD.OVL	0x24452	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::02931e	FUN_ovl_45__02931e	ovl_45	451	true		LIGHTSPD.OVL	0x2459e	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::0294e4	FUN_ovl_45__0294e4	ovl_45	159	true		LIGHTSPD.OVL	0x24764	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::029584	ovl_45_entry_290a_04e4	ovl_45	41	true		LIGHTSPD.OVL	0x24804	ovl_45	loader_entry
+ovl_45::0295ae	ovl_45_entry_290a_050e	ovl_45	116	true		LIGHTSPD.OVL	0x2482e	ovl_45	loader_entry
+ovl_45::029624	FUN_ovl_45__029624	ovl_45	636	true		LIGHTSPD.OVL	0x248a4	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::0298a4	FUN_ovl_45__0298a4	ovl_45	656	true		LIGHTSPD.OVL	0x24b24	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::029b36	FUN_ovl_45__029b36	ovl_45	629	true		LIGHTSPD.OVL	0x24db6	ovl_45	candidate_function; static analysis, not runtime verified
+ovl_45::029db0	ovl_45_entry_290a_0d10	ovl_45	40	true		LIGHTSPD.OVL	0x25030	ovl_45	loader_entry
+ovl_46::0290a0	ovl_46_entry_290a_0000	ovl_46	136	true		LIGHTSPD.OVL	0x250b0	ovl_46	loader_entry
+ovl_46::02912a	FUN_ovl_46__02912a	ovl_46	323	true		LIGHTSPD.OVL	0x2513a	ovl_46	candidate_function; static analysis, not runtime verified
+ovl_46::02926e	FUN_ovl_46__02926e	ovl_46	394	true		LIGHTSPD.OVL	0x2527e	ovl_46	candidate_function; static analysis, not runtime verified
+ovl_46::0293f8	ovl_46_entry_290a_0358	ovl_46	30	true		LIGHTSPD.OVL	0x25408	ovl_46	loader_entry
+ovl_46::029418	FUN_ovl_46__029418	ovl_46	600	true		LIGHTSPD.OVL	0x25428	ovl_46	candidate_function; static analysis, not runtime verified
+ovl_46::029672	FUN_ovl_46__029672	ovl_46	438	true		LIGHTSPD.OVL	0x25682	ovl_46	candidate_function; static analysis, not runtime verified
+ovl_47::0290a0	ovl_47_entry_290a_0000	ovl_47	97	true		LIGHTSPD.OVL	0x25890	ovl_47	loader_entry
+ovl_47::029104	FUN_ovl_47__029104	ovl_47	162	true		LIGHTSPD.OVL	0x258f4	ovl_47	candidate_function; static analysis, not runtime verified
+ovl_47::0291a6	FUN_ovl_47__0291a6	ovl_47	332	true		LIGHTSPD.OVL	0x25996	ovl_47	candidate_function; static analysis, not runtime verified
+ovl_47::0292f2	ovl_47_entry_290a_0252	ovl_47	30	true		LIGHTSPD.OVL	0x25ae2	ovl_47	loader_entry
+ovl_47::029312	FUN_ovl_47__029312	ovl_47	549	true		LIGHTSPD.OVL	0x25b02	ovl_47	candidate_function; static analysis, not runtime verified
+ovl_47::029538	FUN_ovl_47__029538	ovl_47	375	true		LIGHTSPD.OVL	0x25d28	ovl_47	candidate_function; static analysis, not runtime verified
+ovl_48::0290a0	FUN_ovl_48__0290a0	ovl_48	151	true		LIGHTSPD.OVL	0x25f60	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::029138	FUN_ovl_48__029138	ovl_48	150	true		LIGHTSPD.OVL	0x25ff8	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::0291ce	FUN_ovl_48__0291ce	ovl_48	576	true		LIGHTSPD.OVL	0x2608e	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::02940e	FUN_ovl_48__02940e	ovl_48	734	true		LIGHTSPD.OVL	0x262ce	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::0296ec	ovl_48_entry_290a_064c	ovl_48	195	true		LIGHTSPD.OVL	0x265ac	ovl_48	loader_entry
+ovl_48::0297b2	FUN_ovl_48__0297b2	ovl_48	564	true		LIGHTSPD.OVL	0x26672	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::0299e8	FUN_ovl_48__0299e8	ovl_48	752	true		LIGHTSPD.OVL	0x268a8	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::029cdc	FUN_ovl_48__029cdc	ovl_48	634	true		LIGHTSPD.OVL	0x26b9c	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::029f5a	FUN_ovl_48__029f5a	ovl_48	627	true		LIGHTSPD.OVL	0x26e1a	ovl_48	candidate_function; static analysis, not runtime verified
+ovl_48::02a1d0	ovl_48_entry_290a_1130	ovl_48	65	true		LIGHTSPD.OVL	0x27090	ovl_48	loader_entry
+ovl_49::0290a0	FUN_ovl_49__0290a0	ovl_49	784	true		LIGHTSPD.OVL	0x27180	ovl_49	candidate_function; static analysis, not runtime verified
+ovl_49::0293b0	FUN_ovl_49__0293b0	ovl_49	1146	true		LIGHTSPD.OVL	0x27490	ovl_49	candidate_function; static analysis, not runtime verified
+ovl_49::02982a	ovl_49_entry_290a_078a	ovl_49	75	true		LIGHTSPD.OVL	0x2790a	ovl_49	loader_entry
+ovl_49::029876	FUN_ovl_49__029876	ovl_49	1364	true		LIGHTSPD.OVL	0x27956	ovl_49	candidate_function; static analysis, not runtime verified
+ovl_49::029dd0	FUN_ovl_49__029dd0	ovl_49	584	true		LIGHTSPD.OVL	0x27eb0	ovl_49	candidate_function; static analysis, not runtime verified
+ovl_49::02a01a	ovl_49_entry_290a_0f7a	ovl_49	45	true		LIGHTSPD.OVL	0x280fa	ovl_49	loader_entry
+ovl_50::0290a0	ovl_50_entry_290a_0000	ovl_50	250	true		LIGHTSPD.OVL	0x28180	ovl_50	loader_entry
+ovl_50::02919c	FUN_ovl_50__02919c	ovl_50	143	true		LIGHTSPD.OVL	0x2827c	ovl_50	candidate_function; static analysis, not runtime verified
+ovl_50::02922c	FUN_ovl_50__02922c	ovl_50	141	true		LIGHTSPD.OVL	0x2830c	ovl_50	candidate_function; static analysis, not runtime verified
+ovl_50::0292ba	ovl_50_entry_290a_021a	ovl_50	30	true		LIGHTSPD.OVL	0x2839a	ovl_50	loader_entry
+ovl_50::0292da	FUN_ovl_50__0292da	ovl_50	577	true		LIGHTSPD.OVL	0x283ba	ovl_50	candidate_function; static analysis, not runtime verified
+ovl_50::02951c	FUN_ovl_50__02951c	ovl_50	537	true		LIGHTSPD.OVL	0x285fc	ovl_50	candidate_function; static analysis, not runtime verified
+ovl_51::0290a0	ovl_51_entry_290a_0000	ovl_51	105	true		LIGHTSPD.OVL	0x28850	ovl_51	loader_entry
+ovl_51::02910c	FUN_ovl_51__02910c	ovl_51	189	true		LIGHTSPD.OVL	0x288bc	ovl_51	candidate_function; static analysis, not runtime verified
+ovl_51::0291ca	ovl_51_entry_290a_012a	ovl_51	19	true		LIGHTSPD.OVL	0x2897a	ovl_51	loader_entry
+ovl_51::0291de	FUN_ovl_51__0291de	ovl_51	545	true		LIGHTSPD.OVL	0x2898e	ovl_51	candidate_function; static analysis, not runtime verified

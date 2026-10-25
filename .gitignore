@@ -1,0 +1,17 @@
+# Installed tools; retain decoder helpers, source metadata, and license
+/tools/*
+!/tools/mp_pic_tools/
+
+# Downloaded game archive
+/lightspeed_1990_dos.zip
+
+# Ghidra working databases; preserve separately from exported analysis
+/analysis/projects/
+
+# Caches and logs
+__pycache__/
+*.pyc
+*.log
+
+# Preview screenshots
+/ship-viewer/*preview*.jpg

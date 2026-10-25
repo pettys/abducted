@@ -1,0 +1,1769 @@
+{
+  "source": "CICIS2.BIN",
+  "count": 34,
+  "text_file_offset": 752,
+  "declared_text_bytes": 6033,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Felicitations, fortunate one. The glory you behold is named\nGold Moon Rising of the Cicisbeo. Our gratification at your\nwonderful acts is intense and our condescension most great.\nWhat reward do you desire?",
+      "speech_text_offset": 625,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PERPETUAL PEACE BETWEEN OUR NATIONS.",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        0,
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        625,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Felicitations, fortunate one. The glory you behold is named\nGold Moon Rising of the Cicisbeo. Our gratification at your\nwonderful acts is intense and our condescension most great.\nWhat reward do you desire?",
+      "speech_text_offset": 625,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        625,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "You are welcome. Your wondering eyes behold Jade Flowerbud.\nWe of the Cicisbeo consider you a friend. In what manner\ncan we interact?",
+      "speech_text_offset": 832,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "I'D LIKE TO OPEN TRADING",
+          "text_offset": 67
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        832,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "You are welcome. Your wondering eyes behold Jade Flowerbud\nAvenger. We of the Cicisbeo consider you a friend, and\ncommand you to destroy the starbase of the Halicot, whose\npresence befouls the universe.",
+      "speech_text_offset": 966,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I HEAR AND OBEY.",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        966,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "You now descry the glorious form of Summer Breeze. I belong\nto the Cicisbeo, who grace the cosmos with our presence.\nHow have you chosen to serve us?",
+      "speech_text_offset": 1169,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I SERVE BEST WHEN PROPERLY INFORMED.",
+          "text_offset": 109
+        },
+        {
+          "result": 1,
+          "text": "I'D LIKE TO OPEN TRADING",
+          "text_offset": 67
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        109,
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1169,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "You now descry the glorious form of Summer Breeze Avenger.\nI belong to the Cicisbeo, who grace the cosmos with our\npresence.  If you wish to further experience our\nloveliness, you must go to and destroy the starbase of the\nHalicot, which have disgusting personal habits, and dare to\nbe more lovely than ourselves. ",
+      "speech_text_offset": 1319,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I'LL GO AT ONCE TO DESTROY THE HALICOT BASE",
+          "text_offset": 175
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        175,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1319,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "No doubt unwittingly, you have offended our calm existence.\nThe entity of wondrous color whom you now witness is titled\nSilver Whip. Go, and do not return until you have redeemed\nyourself.",
+      "speech_text_offset": 1634,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1634,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "You have deeply violated our contentment. The entity of\nwondrous color whom you now witness is named Silver Whip\nAvenger. If you desire to make amends for your crimes, you\nmust destroy the starbase of our rivals, the Halicot. Their\nsin is great, for they aspire to greater gorgeousness than\nour own.",
+      "speech_text_offset": 1823,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1823,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Granted. We of the Cicisbeo happily concede the slight \nabridgement of our personal liberty necessary to ensure\npeace and prosperity between yourselves and us. The peace\nagreement is now considered to be in effect. Are there\nother humble wishes of yours which we can grant?",
+      "speech_text_offset": 2123,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2123,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "We of the Cicisbeo value our treasures highly, and are\ncareful only to deal in sordid mercantile matters with\nthose that have demonstrated their faithfulness and\nfortitude.  Were you to serve us by destroying our foes or\nbringing us useful data, your status might improve.",
+      "speech_text_offset": 2397,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH FOES DO YOU REFER TO ?",
+          "text_offset": 146
+        },
+        {
+          "result": 1,
+          "text": "WHAT TYPE OF DATA ?",
+          "text_offset": 219
+        },
+        {
+          "result": 2,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 239
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        146,
+        219,
+        239,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2397,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "We of the Cicisbeo value our treasures highly, and are\ncareful only to deal in sordid mercantile matters with\nthose that have demonstrated their faithfulness and\nfortitude.  Were you to serve us by destroying our foes or\nbringing us useful data, your status might improve.",
+      "speech_text_offset": 2397,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH FOES DO YOU REFER TO ?",
+          "text_offset": 146
+        },
+        {
+          "result": 1,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 239
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        146,
+        239,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2397,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "The Athdalde are abhorred by all civilized worlds. In\naddition, it is possible that the Freedom and Love alliance\nmembers are dangerous. At least, such word has reached our\ndelicate, shell-like ears.",
+      "speech_text_offset": 2670,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "YOU MENTIONED DATA EARLIER. WHAT TYPE OF DATA ?",
+          "text_offset": 276
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        276,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2670,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "We know little about the Halicot and Monad species. More\ninformation on these entities would certainly be beneficial\nto our lovely brains.",
+      "speech_text_offset": 2870,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "YOU MENTIONED FOES EARLIER. WHO ARE THEY ?",
+          "text_offset": 324
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        324,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2870,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "This information is most fascinating. It will take some time\nto digest. Please leave and return at a more opportune\ntime. If you require equipment before your departure, you\nmay purchase it.",
+      "speech_text_offset": 3009,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE FOR EQUIPMENT",
+          "text_offset": 367
+        },
+        {
+          "result": 1,
+          "text": "WAIT! BEFORE I GO, I'D LIKE SOME INFORMATION",
+          "text_offset": 387
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        367,
+        387,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        3009,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "Our beneficent wishes go with you.",
+      "speech_text_offset": 5977,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        5977,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We comprehend that you have been in touch with the %s.\nInform us at once of their nature and appearance.",
+      "speech_text_offset": 3200,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORM CICISBEO ABOUT ALIEN SPECIES",
+          "text_offset": 432
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        432,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        3200,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "Your courageous action in destroying the vulgar Halicot is \nwell-appreciated. You have served us well.",
+      "speech_text_offset": 3305,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YOU'RE WELCOME",
+          "text_offset": 468
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        468,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        3305,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "In what manner can we best enlighten your benighted mind?\nThere are many species that inhabit our cluster.",
+      "speech_text_offset": 3408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        3408,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "In what manner can we best enlighten your benighted mind?\nThere are many species that inhabit our cluster.",
+      "speech_text_offset": 3408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        3408,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "An unimpressive race. They are suitably humble about their\ncondition, however, and seem appropriately grateful for our\naid to them. ",
+      "speech_text_offset": 3515,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        3515,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "Barbarous individuals whose own world was long ago\ndestroyed through greed. Their forms are scabrous, and\ntheir actions completely devoid of etiquette. Destroying\ntheir revolting ships is an act of kindness to the\nUniverse, and earns our thanks.",
+      "speech_text_offset": 3648,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        3648,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "Their minds are filled with lust for ascendancy rather than\nadornment. We feel sorrow for their appalling condition,\nnot anger. The Dacians are their comrades. ",
+      "speech_text_offset": 3894,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        3894,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "Unimportant beings. It is very peculiar that they are not\ndominant politically over the Broodmasters. After all, the\nDacians are certainly physically more perfect. Perhaps they\nare afflicted with a malformation of the brain.",
+      "speech_text_offset": 4055,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        4055,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "Fine beings, and quite comely for non-Cicisbeo. They have\nagreed to serve us by undergoing the tedium of operating\nand governing the Peace Alliance.",
+      "speech_text_offset": 4280,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        4280,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "Androids which are not truly alive, so have little esthetic\nsense. They are allies of that terminally dull race, the\nJot.",
+      "speech_text_offset": 4429,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 483
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 493
+        },
+        {
+          "result": 2,
+          "text": "THE BROODMASTERS",
+          "text_offset": 506
+        },
+        {
+          "result": 3,
+          "text": "THE DACIANS",
+          "text_offset": 523
+        },
+        {
+          "result": 4,
+          "text": "THE DIGNEE",
+          "text_offset": 535
+        },
+        {
+          "result": 5,
+          "text": "THE AUTOMATA",
+          "text_offset": 546
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 6012
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        483,
+        493,
+        506,
+        523,
+        535,
+        546,
+        6012,
+        6028,
+        4429,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "We know little of the Halicot. But the rumors that come to\nus are disturbing. If you come across them in your travels,\nplease tell us of their nature. ",
+      "speech_text_offset": 4551,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        4551,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "Horrible, horrible entities who have the audacity to be\nmore beautiful than our perfect selves. We adjure you to\nseek them out, destroy their star station, and earn our\nthanks.",
+      "speech_text_offset": 4703,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        4703,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "As you know, vile entities who attempted to compete with\nourselves. Fortunately, their star station is now blotted\nfrom memory, and our ships patrol their system,\nquarantining their venom and preventing any other species\nfrom discovering the Halicot's despicable nature. ",
+      "speech_text_offset": 4880,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        4880,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "Similar to the Dignee in personality, but cruder in morals\nand manners. The hapless Automata and Venge can do no\nbetter than to ally with these fulsome entities in an\nattempt to protect themselves from the Broodmasters. ",
+      "speech_text_offset": 5152,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5152,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 29,
+      "record_file_offset": 640,
+      "speech": "We know little of the Monad. But the rumors that come to us\nare disturbing. If you come across it in your travels,\nplease tell us of its nature. ",
+      "speech_text_offset": 5373,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5373,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 30,
+      "record_file_offset": 662,
+      "speech": "What we know of the Monad we have learned from you. They\nseem content to lurk in their corner of the universe, and\nshould not interfere with other species' ambitions. ",
+      "speech_text_offset": 5519,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5519,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 31,
+      "record_file_offset": 684,
+      "speech": "Ugliforms whose deformed bodies have poisoned their\nphilosophy.  You would be wise never to deal with them. ",
+      "speech_text_offset": 5687,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5687,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 32,
+      "record_file_offset": 706,
+      "speech": "Raiders who wisely have never chosen to assault our perfect\nforms. Lesser beings fear them. ",
+      "speech_text_offset": 5796,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5796,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 33,
+      "record_file_offset": 728,
+      "speech": "We are Deity's perfect creation, the gift of Nature to the\nuniverse. Behold our beauty.",
+      "speech_text_offset": 5889,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 571
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 579
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 589
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 599
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 614
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 6020
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 6028
+        }
+      ],
+      "raw_words": [
+        559,
+        571,
+        579,
+        589,
+        599,
+        614,
+        6020,
+        6028,
+        5889,
+        6,
+        2
+      ]
+    }
+  ],
+  "overlay": "ovl_27",
+  "animation": "cicisc.pan"
+}

@@ -1,0 +1,878 @@
+[
+  {
+    "name": "ACARI2.BIN",
+    "bytes": 2775,
+    "sha256": "e454a4f7243a2bda8e5dd3eb6379c93fec6ee84153abe700eeedcefe6257a0a6",
+    "extension": ".bin"
+  },
+  {
+    "name": "ACARI3D.ZDT",
+    "bytes": 5622,
+    "sha256": "9801893cb591a5c698f9bd6a9b8cb3acbc6bce89b3fa66735049ed8fca0751b6",
+    "extension": ".zdt"
+  },
+  {
+    "name": "ACARIC.PAN",
+    "bytes": 11022,
+    "sha256": "cb8ef562f39db5eb4b47d84de823544be5f5dd50921fd7664c607dfb5aad951e",
+    "extension": ".pan"
+  },
+  {
+    "name": "ALIENS.FNT",
+    "bytes": 28605,
+    "sha256": "2675a747c8fc472722c913cd6bddfd5e92e2883663937cccbc6ddf64973a47ff",
+    "extension": ".fnt"
+  },
+  {
+    "name": "ASOUND.LT",
+    "bytes": 18924,
+    "sha256": "944697685b7c37179945a056d0f40eb818f41dbdf79b669f2e402faf0772a86a",
+    "extension": ".lt"
+  },
+  {
+    "name": "ATHBACK3.PIC",
+    "bytes": 6527,
+    "sha256": "f8a4eff2ac7b11c3594adba4aa21f1907238a51476ab397d965c597d502d712f",
+    "extension": ".pic"
+  },
+  {
+    "name": "ATHBEGA.PIC",
+    "bytes": 5519,
+    "sha256": "436d992a9cd7454bcf5d6bfa017daf3f5e7ab989a7e174e63c9f477094337738",
+    "extension": ".pic"
+  },
+  {
+    "name": "ATHDA3D.ZDT",
+    "bytes": 2582,
+    "sha256": "6d45e4f25800ac8e2003ddcb89e9cd2c267ce2d0ba7d9e5a173b07711572cc89",
+    "extension": ".zdt"
+  },
+  {
+    "name": "ATHDAL2.BIN",
+    "bytes": 5624,
+    "sha256": "cb120b2ed8be3d00738cec8cf70bc9f63059153f7eb369ec48fd634fa0c195cd",
+    "extension": ".bin"
+  },
+  {
+    "name": "ATHDALDC.PAN",
+    "bytes": 20086,
+    "sha256": "36b5857d380b62856eb9b6eb5d89cce3c10b46b9c35e52ff40a1a8edaac7d172",
+    "extension": ".pan"
+  },
+  {
+    "name": "AUTO2.BIN",
+    "bytes": 1744,
+    "sha256": "7b2a20ba9ec656ef27c960cde03e25d104b4e16dd8761081948cbaa223a95b38",
+    "extension": ".bin"
+  },
+  {
+    "name": "AUTO5.PIC",
+    "bytes": 7949,
+    "sha256": "e0ecb7fa28b86c243ffa7e100407516e5e257500a9c5597417d1f038d58fae0b",
+    "extension": ".pic"
+  },
+  {
+    "name": "AUTOC.PAN",
+    "bytes": 9786,
+    "sha256": "dc6be2e6fd2bbdee677925b793336d5cdcda01742d6d50e530f7737c2eb1924b",
+    "extension": ".pan"
+  },
+  {
+    "name": "AUTOEGA.PIC",
+    "bytes": 6875,
+    "sha256": "1af1184870c75bec86a201f79fb25f1474998686d6ffcd3125b6e160cbe0c3ca",
+    "extension": ".pic"
+  },
+  {
+    "name": "AUTOM3D.ZDT",
+    "bytes": 7382,
+    "sha256": "2342c732354548f0064218b40765b1c30d2d5553919fa90563f521ef365299e1",
+    "extension": ".zdt"
+  },
+  {
+    "name": "BALA3D.ZDT",
+    "bytes": 2918,
+    "sha256": "3ab83c928842e618d3305adcd9271a5cb47676f31e7d83e376332ce832530668",
+    "extension": ".zdt"
+  },
+  {
+    "name": "BALATH2.BIN",
+    "bytes": 4894,
+    "sha256": "67e6975067039abdc3e60344574b05b70b969fee27bc8c6981ad0b5faa119d4d",
+    "extension": ".bin"
+  },
+  {
+    "name": "BATHC.PAN",
+    "bytes": 12754,
+    "sha256": "771a465e605ad4206ba43bdfe58bd548666c02822494caebb2f58848d0f7b035",
+    "extension": ".pan"
+  },
+  {
+    "name": "BLACK2.PIC",
+    "bytes": 3415,
+    "sha256": "02e4d3f2bec70e814d4daf192dde9149cda302a822efc5535104753612fa8a6d",
+    "extension": ".pic"
+  },
+  {
+    "name": "BLACKEGA.PIC",
+    "bytes": 3158,
+    "sha256": "c9f88290f375728a359adf547421a55db31272ca6cbdf9495070db2d78e7546b",
+    "extension": ".pic"
+  },
+  {
+    "name": "BLEAK5.PIC",
+    "bytes": 15496,
+    "sha256": "f15947ced031a3f7fc684f0608cf22c88dd50257cb4acbbe219f1fd2319f357a",
+    "extension": ".pic"
+  },
+  {
+    "name": "BLEAKEGA.PIC",
+    "bytes": 8214,
+    "sha256": "bfbef6aa707197f2e18be1645a018bcd54150ef71d2654bc04a5a2fe9f645736",
+    "extension": ".pic"
+  },
+  {
+    "name": "BOOMSP.PIC",
+    "bytes": 3771,
+    "sha256": "e1152ede8a65a1b54aa0be9f4f157d4368e879090bc6e43e095826367b149fb2",
+    "extension": ".pic"
+  },
+  {
+    "name": "BOSPEGA.PIC",
+    "bytes": 4264,
+    "sha256": "1bc5745c75c466966a94949e55d20375d9e72ee27fcdecfe08bbb8fa01fdd328",
+    "extension": ".pic"
+  },
+  {
+    "name": "BREATEGA.PIC",
+    "bytes": 10348,
+    "sha256": "4d5b578f5a6088874126c383b5ff2ea855bdee04980f7b573c8571038e3917e5",
+    "extension": ".pic"
+  },
+  {
+    "name": "BREATH1.PIC",
+    "bytes": 20905,
+    "sha256": "31062908089f177cd03fad15d5af36f22db7e0b7618f7227fb9ade29b2e46bab",
+    "extension": ".pic"
+  },
+  {
+    "name": "BROOC.PAN",
+    "bytes": 18694,
+    "sha256": "7b54176cab8958dfe11540154370580ab892481ccf1965ae41ee761eee4be25d",
+    "extension": ".pan"
+  },
+  {
+    "name": "BROOD1.BIN",
+    "bytes": 5745,
+    "sha256": "70aa8c028181e71e3f29374d4cf0634d5287418f06ba19113375192a50d9301a",
+    "extension": ".bin"
+  },
+  {
+    "name": "BROOD13D.ZDT",
+    "bytes": 13558,
+    "sha256": "b057d9d2b73f0490b6a269d89e2d2c95cd37b4ff87afb74543104ac70ddfb68e",
+    "extension": ".zdt"
+  },
+  {
+    "name": "BROOD2.BIN",
+    "bytes": 6268,
+    "sha256": "d282e8986552b1d79a36ded013ec6175f8576879c06fca74106069f6737da441",
+    "extension": ".bin"
+  },
+  {
+    "name": "BROOD23D.ZDT",
+    "bytes": 10086,
+    "sha256": "85b14235a5f8175b89ff9f12f9090b7622639c6070a3de291aee7d96d5751370",
+    "extension": ".zdt"
+  },
+  {
+    "name": "BUTTONS.PIC",
+    "bytes": 2439,
+    "sha256": "449242686bb0f7c1a9973d5be55d6550f383eaedadce8e8237ccc7422486002f",
+    "extension": ".pic"
+  },
+  {
+    "name": "CAVE3.PIC",
+    "bytes": 14960,
+    "sha256": "19b8bf612abc51ce14e10fac386c5b40ad3cfef81254c1c4feac4b4af81a144e",
+    "extension": ".pic"
+  },
+  {
+    "name": "CAVEEGA.PIC",
+    "bytes": 10137,
+    "sha256": "be5e460ad7663fef792981be1a752bad6488b3840ad0813ba63d1ff137769b1a",
+    "extension": ".pic"
+  },
+  {
+    "name": "CES7.PAN",
+    "bytes": 11460,
+    "sha256": "56aa2dd9d16797d3cbe5965afc3a616a5156b49fd9221128fe65af3798f1cb39",
+    "extension": ".pan"
+  },
+  {
+    "name": "CGRAPHIC.EXE",
+    "bytes": 10916,
+    "sha256": "f525ccb343f4c037a9b6ea15e18b4baf00f66cc8436656e4a8c798772b4205fa",
+    "extension": ".exe"
+  },
+  {
+    "name": "CICIS1.BIN",
+    "bytes": 5066,
+    "sha256": "fcc69e83544b6e194fdf7f1a49de9d805b6e86c9899d38a27ff8774892793eb7",
+    "extension": ".bin"
+  },
+  {
+    "name": "CICIS2.BIN",
+    "bytes": 6786,
+    "sha256": "b0c5efb28c5ed60c2f2c3a275a657d01e620c81d9120a61f96767831193ea41c",
+    "extension": ".bin"
+  },
+  {
+    "name": "CICIS3D.ZDT",
+    "bytes": 8486,
+    "sha256": "4a3561c44b96b4762df1fb45a61b59647edfa11f1d88f5b9493258bc8b11b771",
+    "extension": ".zdt"
+  },
+  {
+    "name": "CICISC.PAN",
+    "bytes": 7504,
+    "sha256": "2379053538c7cdddbd726ca9830f15c244072000cceabcceedc66176fb7af7f3",
+    "extension": ".pan"
+  },
+  {
+    "name": "CLUST1.BIN",
+    "bytes": 1845,
+    "sha256": "7de472536815203e95b6d4585780cb8175745a637c558c447cf9247ee326fe66",
+    "extension": ".bin"
+  },
+  {
+    "name": "CLUST2.BIN",
+    "bytes": 4755,
+    "sha256": "9eaf5340abb0e8928b3dde0488836b6dbdd34bf1fb9c388d2f284033c1985184",
+    "extension": ".bin"
+  },
+  {
+    "name": "COCKSP2.PIC",
+    "bytes": 2700,
+    "sha256": "86b5fed570f2365a4a2ab7e0f86050312387fe0701ed2e47b8b35d497707c54e",
+    "extension": ".pic"
+  },
+  {
+    "name": "DACIA3D.ZDT",
+    "bytes": 3302,
+    "sha256": "f2962d86ce6cfb809bc1d81c02cbd91c6a19d9fdf79626093eacd2aae0f4d09c",
+    "extension": ".zdt"
+  },
+  {
+    "name": "DACIAN2.BIN",
+    "bytes": 5942,
+    "sha256": "de4ec6d46690b9994b3c8c4382e59d227003ece0ce955cee71a01f1226ba0d21",
+    "extension": ".bin"
+  },
+  {
+    "name": "DACIANSC.PAN",
+    "bytes": 16762,
+    "sha256": "927f44f9a65ddbe900cd7690b8c067722351784311bd5e198d2bb3a941c88c4a",
+    "extension": ".pan"
+  },
+  {
+    "name": "DIDC.PAN",
+    "bytes": 18456,
+    "sha256": "d92ed6e055831b1b91ff876a020174d13785f5d7500439536bce9d9503f3b007",
+    "extension": ".pan"
+  },
+  {
+    "name": "DIDIN1.BIN",
+    "bytes": 1650,
+    "sha256": "df2e1ba370046344ca8365b2c45760a2b51ab71f4f98455a8d4da76c6b0abe49",
+    "extension": ".bin"
+  },
+  {
+    "name": "DIDIN3D.ZDT",
+    "bytes": 3238,
+    "sha256": "5c5beacb0d1368237fb38d0db951e4044448280c9f4c3b3b8f50cdbec0782933",
+    "extension": ".zdt"
+  },
+  {
+    "name": "DIGNE3D.ZDT",
+    "bytes": 6214,
+    "sha256": "c31f57b34e118fcbe1f69545ac3fbd0586b12146faa7188b9976e7f0a8e1ebaf",
+    "extension": ".zdt"
+  },
+  {
+    "name": "DIGNEE2.BIN",
+    "bytes": 3714,
+    "sha256": "f2a34dbee3b24a17a128f7ef3a1d6fd903efea3b1ed218f048fa1f85c334e056",
+    "extension": ".bin"
+  },
+  {
+    "name": "DIGNEEC.PAN",
+    "bytes": 11848,
+    "sha256": "7da1b3a99223efcbee99813d7f3c7a224b2df86901f7a43e3db33c9d4dd435b2",
+    "extension": ".pan"
+  },
+  {
+    "name": "DIS_KA",
+    "bytes": 11,
+    "sha256": "9ce43f25461e88c6ec31b81bbfa6f5305faee3af53f98bb222c9dac7f88140ae",
+    "extension": ""
+  },
+  {
+    "name": "DIS_KB",
+    "bytes": 11,
+    "sha256": "b4db067a3e5a0980a9f12fbefc78479eccc98efe93979bab1e120a6b1bfef3ee",
+    "extension": ""
+  },
+  {
+    "name": "DISK_A",
+    "bytes": 11,
+    "sha256": "d2f4061921a2e8e6c7239c6e3f8110a13fc46ab37110ce616c4a2afbecbe7288",
+    "extension": ""
+  },
+  {
+    "name": "DISK_B",
+    "bytes": 11,
+    "sha256": "f225106137341384bde4614cd7f80087d7970426bedce9d253ba798313506ae8",
+    "extension": ""
+  },
+  {
+    "name": "DISK_C",
+    "bytes": 11,
+    "sha256": "99de756c19b958e35d0b9ffa2c9dd2a2c80034cfe2b7fb908de0240b5bf6e415",
+    "extension": ""
+  },
+  {
+    "name": "EARTH3.PIC",
+    "bytes": 16494,
+    "sha256": "2c97975696d190af28057aa6db0658e225d4d834778a7b3298507eb4be93f8ef",
+    "extension": ".pic"
+  },
+  {
+    "name": "EARTHEGA.PIC",
+    "bytes": 10371,
+    "sha256": "0e7d59075c601b46a4f09b293e70e2825d8c612866d70d543620311f3ada9671",
+    "extension": ".pic"
+  },
+  {
+    "name": "EGRAPHIC.EXE",
+    "bytes": 11350,
+    "sha256": "deada3177c9b6f57fbc937ba0de54e7fd472c8b36f93fe9af3412b127469a80a",
+    "extension": ".exe"
+  },
+  {
+    "name": "ENDING.BIN",
+    "bytes": 2166,
+    "sha256": "4e3e6717d9bf7edd05cb8fbad0a436bc82ca963a9944aa7c94640737917d52cc",
+    "extension": ".bin"
+  },
+  {
+    "name": "ENDING.PAN",
+    "bytes": 34470,
+    "sha256": "8337f70fee90d52becae0c8ca1f72ce5d0cf022b581952840a314ba8906d779b",
+    "extension": ".pan"
+  },
+  {
+    "name": "ENDING2.PAN",
+    "bytes": 17854,
+    "sha256": "6dde79ff9934663662167b0cbe3a30e13954d51ca3c877ab5dcfb1144e3ee9c7",
+    "extension": ".pan"
+  },
+  {
+    "name": "ENGINE.PIC",
+    "bytes": 17034,
+    "sha256": "0f719347169919ae17d029578e4ec48282b64952a03f26676d0bfa62001417fc",
+    "extension": ".pic"
+  },
+  {
+    "name": "ENGINEGA.PIC",
+    "bytes": 10628,
+    "sha256": "84b52df940b4cc9ad8e5099b0c26f96832925706184dc6d63690733a3c1e4651",
+    "extension": ".pic"
+  },
+  {
+    "name": "ENGINESP.PIC",
+    "bytes": 16332,
+    "sha256": "7ee2dca294dd4e2c21e2889ddd2d0172211cd9d9de6ac833e37d1976ed6fb53b",
+    "extension": ".pic"
+  },
+  {
+    "name": "ENGSPEGA.PIC",
+    "bytes": 12114,
+    "sha256": "5f749b6199f9cc8ca5ad06b248795b0d86a9e1171fe3d92f02868e8b6930e265",
+    "extension": ".pic"
+  },
+  {
+    "name": "FEL1.BIN",
+    "bytes": 2155,
+    "sha256": "f156888b10c4eff44a07cae85d83d5b7b2dfb3613a5c2cbc87a88a988e7462f9",
+    "extension": ".bin"
+  },
+  {
+    "name": "FEL3D.ZDT",
+    "bytes": 7622,
+    "sha256": "86d2a356b74e8d6a2f498c245af8ef8552a212fa0cef11cbb9f26ebeb434c2cd",
+    "extension": ".zdt"
+  },
+  {
+    "name": "FELC.PAN",
+    "bytes": 14720,
+    "sha256": "9033e50419dd7c854100fd684bd4f890782d9d95693e642977d40f149872bffa",
+    "extension": ".pan"
+  },
+  {
+    "name": "FGHT10.PIC",
+    "bytes": 5885,
+    "sha256": "8f172b3d07645c490846ed6266cbb986877d6fcecb665943a3af56aa047c5e75",
+    "extension": ".pic"
+  },
+  {
+    "name": "FGHTEGA2.PIC",
+    "bytes": 3973,
+    "sha256": "dae62b58446b71d1d2e1a9955f61e64431e840d9cc7f0d6a8f19a9ba75f59551",
+    "extension": ".pic"
+  },
+  {
+    "name": "FIRST3D.ZDT",
+    "bytes": 1221,
+    "sha256": "4d185e0ebe5195c69dfc75b98cfd1b2631602b2f49b30f51149ea35d33d4e473",
+    "extension": ".zdt"
+  },
+  {
+    "name": "GRIM3.PIC",
+    "bytes": 13117,
+    "sha256": "ba381867626012b364414e3e6c00f4bd663fc03904fac8c9ec579afbc211c1aa",
+    "extension": ".pic"
+  },
+  {
+    "name": "GRIMEGA.PIC",
+    "bytes": 8472,
+    "sha256": "50946e0273f12184c512d13db3a47ac89d545ec2d3ed3ef6eb6e1d1f707af497",
+    "extension": ".pic"
+  },
+  {
+    "name": "GSPRITE1.PIC",
+    "bytes": 8438,
+    "sha256": "81cb2a01c59e8f1a24b1bc80774ffee93311d17344e2b7cd140fe8bfc3d34c7f",
+    "extension": ".pic"
+  },
+  {
+    "name": "GSPRITE3.PIC",
+    "bytes": 11658,
+    "sha256": "001db305e64e96facde40c3e66e41537674c07bdff02cf84eb04f4a76c66ded5",
+    "extension": ".pic"
+  },
+  {
+    "name": "HALIC3D.ZDT",
+    "bytes": 5158,
+    "sha256": "ba4650dad4089bfc6b2bfe5750c01df29f8d4e4d36ab539e402d301959422603",
+    "extension": ".zdt"
+  },
+  {
+    "name": "HALICOT2.BIN",
+    "bytes": 2688,
+    "sha256": "66a341d9bf73532fa6ed6013209cbcc2511b004d96a1d205834f0bddab9f6050",
+    "extension": ".bin"
+  },
+  {
+    "name": "HALICOTC.PAN",
+    "bytes": 11008,
+    "sha256": "2b483e0dfcaa536abec4430140206f379d14c6d04cc3d06c757123c2f752a9bb",
+    "extension": ".pan"
+  },
+  {
+    "name": "ICE2.PIC",
+    "bytes": 9559,
+    "sha256": "e1c6e724791117ce80735c9c024c8415ded038107f3688a5e2bb578a3df5de7a",
+    "extension": ".pic"
+  },
+  {
+    "name": "ICEEGA.PIC",
+    "bytes": 5621,
+    "sha256": "4463652d6b526dfb93119aeba126be3bb1ab4a8312f5d4649cef4ef577532cf3",
+    "extension": ".pic"
+  },
+  {
+    "name": "ISOUND.LT",
+    "bytes": 20607,
+    "sha256": "0df1315a1047dcde32066f28c14fc9f0ffc2ef5d7568a2517a423db6806a8e1a",
+    "extension": ".lt"
+  },
+  {
+    "name": "JOT2.BIN",
+    "bytes": 635,
+    "sha256": "24ff471732957911a8093587f32bc1ac938adaa19c668422112c0f9f45bbad09",
+    "extension": ".bin"
+  },
+  {
+    "name": "JOT3D.ZDT",
+    "bytes": 8598,
+    "sha256": "d38d0b2fa83659e34596fdf7e2748ee6ea90570bdd3ee1a5732ae34c98836ef8",
+    "extension": ".zdt"
+  },
+  {
+    "name": "JOTC.PAN",
+    "bytes": 12276,
+    "sha256": "fc0c8e8a36d9275687a48b181e8961da7c1f90cd232bfdd255387541bcde5b28",
+    "extension": ".pan"
+  },
+  {
+    "name": "JUNGLE4.PIC",
+    "bytes": 14105,
+    "sha256": "b8c3cea5e0ff65c3b84dbb8f7ea7ecc44ba185c1a3038de322eb9baad5b9804d",
+    "extension": ".pic"
+  },
+  {
+    "name": "JUNGLEGA.PIC",
+    "bytes": 11259,
+    "sha256": "c5f2c0dd7b1fcab19eb43ab9be44bc368d3a5415d8f67b83dff296ba57d1f21f",
+    "extension": ".pic"
+  },
+  {
+    "name": "LABS.PIC",
+    "bytes": 3602,
+    "sha256": "573e1d89d84ca26016f3943972808c6eeeccddae16528161eee7e34324c95b1b",
+    "extension": ".pic"
+  },
+  {
+    "name": "LIGHTSPD.EXE",
+    "bytes": 139582,
+    "sha256": "adcb7d093a5225ca2b6f688a50d3eb27b44ce647bad73df55027aed3935f921c",
+    "extension": ".exe"
+  },
+  {
+    "name": "LIGHTSPD.OVL",
+    "bytes": 166836,
+    "sha256": "29173ba3d6dd844055365d35fe457d7aa1ea9801d2b75d28adddacc78dbc3393",
+    "extension": ".ovl"
+  },
+  {
+    "name": "Lightspeed (1990).ba1",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "extension": ".ba1"
+  },
+  {
+    "name": "LSPDLOGO.PIC",
+    "bytes": 2708,
+    "sha256": "8bbdd51569d6dc0d1779228e5a6d7bf29c4c3be26aa89eba57a684ec4ec020a7",
+    "extension": ".pic"
+  },
+  {
+    "name": "LUTIN1.BIN",
+    "bytes": 1895,
+    "sha256": "fbfa01a8768aa10c79ddacedd5b0faa23edd48cb36c171c21a4fad549d6bb6e4",
+    "extension": ".bin"
+  },
+  {
+    "name": "LUTIN3D.ZDT",
+    "bytes": 5350,
+    "sha256": "f5b23c743a9d2824a5680ea18d5a42d91e25632256a7710fe2a4ce03029a0af5",
+    "extension": ".zdt"
+  },
+  {
+    "name": "LUTINC.PAN",
+    "bytes": 6916,
+    "sha256": "e36b836da0ae4b6804c55dc4e9dc1c0f5a38aa4483aecad9318ce2988d9de84c",
+    "extension": ".pan"
+  },
+  {
+    "name": "MAIN5.PIC",
+    "bytes": 8134,
+    "sha256": "c970ae8d6bd2bbdf393ff2305601f9326c77c58e499ce162a5597eebea700860",
+    "extension": ".pic"
+  },
+  {
+    "name": "MAINEGA2.PIC",
+    "bytes": 5123,
+    "sha256": "6b564c1f8cf0cf96091f18c4215d0c9df150582c80f3478acdfbccb16181040f",
+    "extension": ".pic"
+  },
+  {
+    "name": "MGRAPHIC.EXE",
+    "bytes": 7124,
+    "sha256": "11c5d36d906db24c3099fa78191a2cabb9187dcb1ed8b83632abfaac241927ec",
+    "extension": ".exe"
+  },
+  {
+    "name": "MICRO.PIC",
+    "bytes": 3153,
+    "sha256": "2ccdf4cfa252957e2f3f4d2c68f1ba845cb8198bc5410e36f8e8142d40a9870d",
+    "extension": ".pic"
+  },
+  {
+    "name": "MISC.EXE",
+    "bytes": 980,
+    "sha256": "c277105dd649c486fd9e60121b92f91ef10244481776964fa0daa617d6202f69",
+    "extension": ".exe"
+  },
+  {
+    "name": "MONAD2.BIN",
+    "bytes": 2232,
+    "sha256": "a8277f6ef99ca7bb94b7b71d1cceb8d145c1e611c6897ce3f2fc8ce6b87bff3b",
+    "extension": ".bin"
+  },
+  {
+    "name": "MONADC.PAN",
+    "bytes": 38490,
+    "sha256": "cdbde9637af7f93ff637ab92f13b2953c867034d89b8d332f617ba4ba7dccdbf",
+    "extension": ".pan"
+  },
+  {
+    "name": "MPS_DISK.COM",
+    "bytes": 45,
+    "sha256": "af9be69444e586a7e5aa5e308e68a97b049effe449dad51c13f7fc69711febf5",
+    "extension": ".com"
+  },
+  {
+    "name": "MPS_FILE.COM",
+    "bytes": 619,
+    "sha256": "0d44ffa63dda8ad8908a8ca057b2588c708d3888bae63d6ac55581029a22b2d6",
+    "extension": ".com"
+  },
+  {
+    "name": "NOBACEGA.PIC",
+    "bytes": 2649,
+    "sha256": "5728235870f2d023ff6a21aec3ab2d6c9bd56c0389df94177eb21cd697e0893d",
+    "extension": ".pic"
+  },
+  {
+    "name": "NOBACK2.PIC",
+    "bytes": 4011,
+    "sha256": "998c80bfb72dfdaac233810afc37160ed81867f4b9d68399eb85b6e44c1f6d70",
+    "extension": ".pic"
+  },
+  {
+    "name": "NSOUND.LT",
+    "bytes": 672,
+    "sha256": "c2cd8e50d0d380e7e352f6d3edb1214838fed9edea35ac48854b4f6f2bb8f46d",
+    "extension": ".lt"
+  },
+  {
+    "name": "ORG3.PIC",
+    "bytes": 10369,
+    "sha256": "1eab9fb46c4f9e3a06fe43c9ea0cfea8969c9267c4a4cf8fb19ed8f14e51b231",
+    "extension": ".pic"
+  },
+  {
+    "name": "ORGEGA.PIC",
+    "bytes": 7159,
+    "sha256": "25e886e606beadbc23bd0582b64ff66cb2d1f4e3f3acae9f4c355951be801617",
+    "extension": ".pic"
+  },
+  {
+    "name": "OUT1.PAN",
+    "bytes": 17800,
+    "sha256": "22067dfe75db3e75b02b650beaedf592ce57a3fa49e7f26212d08f574ceed56e",
+    "extension": ".pan"
+  },
+  {
+    "name": "OUT2.PAN",
+    "bytes": 14582,
+    "sha256": "9cfec6962b17064cb13c274e6a2fabef83e2fb651a4f2145f183db77d9d267d7",
+    "extension": ".pan"
+  },
+  {
+    "name": "OUTDOORS.PIC",
+    "bytes": 3316,
+    "sha256": "eaa5f3f2dc4b403ff0ae308cd55c5ddf1be80ec9bb5505989a99a0af62a7a231",
+    "extension": ".pic"
+  },
+  {
+    "name": "PAL3D.CAT",
+    "bytes": 5754,
+    "sha256": "642fd053ff493a357e155bcb2e6d73d25502ff2194512ede73d9155bc7f9844d",
+    "extension": ".cat"
+  },
+  {
+    "name": "PLANEGA2.PIC",
+    "bytes": 6980,
+    "sha256": "d76e820a814d58f65cbd1506b59bf17a9f6d2dd4b200b79e5149e58e64859918",
+    "extension": ".pic"
+  },
+  {
+    "name": "PLANETB.PIC",
+    "bytes": 1937,
+    "sha256": "0bec4f2ff0341560381d22b97f98bb0b6cfff20eb3c99356b99f406843f63300",
+    "extension": ".pic"
+  },
+  {
+    "name": "PLANETC1.PIC",
+    "bytes": 20214,
+    "sha256": "469ad6c37fb3c31f06afb56835820aebebe67e49ecf826a46b153014345dc424",
+    "extension": ".pic"
+  },
+  {
+    "name": "READ.ME",
+    "bytes": 1105,
+    "sha256": "898003691bdf2196f38ad864307e356898f12f9ebf354e661cf5598f1905b9f0",
+    "extension": ".me"
+  },
+  {
+    "name": "REFIT.PAN",
+    "bytes": 59870,
+    "sha256": "bd53f58eb090b4dd06ce739fb62fc22f5aa1c6f21feaea012b003939f800195f",
+    "extension": ".pan"
+  },
+  {
+    "name": "REFIT2.PAN",
+    "bytes": 33208,
+    "sha256": "877dea89aca1163139dcdedac0e54042b315fcd3a70bd8367aeccf9cab360427",
+    "extension": ".pan"
+  },
+  {
+    "name": "ROCK3.PIC",
+    "bytes": 15605,
+    "sha256": "11f388409be48ee53edb7f5fb8abf0cb0ad9d55f883997c1412c0175cafad25e",
+    "extension": ".pic"
+  },
+  {
+    "name": "ROCKEGA.PIC",
+    "bytes": 9583,
+    "sha256": "a1330bade49c85b6e0eda322d34cba1b8ab2e658609547c2f25566a843e0c891",
+    "extension": ".pic"
+  },
+  {
+    "name": "RSOUND.LT",
+    "bytes": 23513,
+    "sha256": "dc89b01c7a53ee3f43417eca2591d20898b5eb256cffd32f753fe0ca9a89106d",
+    "extension": ".lt"
+  },
+  {
+    "name": "SAND5.PIC",
+    "bytes": 12980,
+    "sha256": "90f06b0444539562cc40c0123ac0dd1f33ddf52fce4557e2017f99c7b5b888fd",
+    "extension": ".pic"
+  },
+  {
+    "name": "SANDEGA.PIC",
+    "bytes": 9436,
+    "sha256": "ba9caae4a238a27565fd99c18d9d3c76a9ff31f2b375d9e956c620e72b23e967",
+    "extension": ".pic"
+  },
+  {
+    "name": "SEA2.PIC",
+    "bytes": 13980,
+    "sha256": "1bd2bab63aff9c68847ea8be3e95ec9d2f9fe31a326696ef071ad7fc745a50e4",
+    "extension": ".pic"
+  },
+  {
+    "name": "SEAEGA.PIC",
+    "bytes": 8902,
+    "sha256": "41fe0c351659762b5e67145a52732d544e1260ce5c1ba6da4632f484f5ad1201",
+    "extension": ".pic"
+  },
+  {
+    "name": "SPACE.FNT",
+    "bytes": 5946,
+    "sha256": "216f1c06316a00d68e858806c21132404f5a086d59cff23c9905d4356bd09d12",
+    "extension": ".fnt"
+  },
+  {
+    "name": "STENT3D.ZDT",
+    "bytes": 1174,
+    "sha256": "0eab19c10fe59ef460d311bbec6818ed1385629a34427640f9ebbffa31c32f69",
+    "extension": ".zdt"
+  },
+  {
+    "name": "STENTOR1.BIN",
+    "bytes": 1437,
+    "sha256": "a718edb5451a5c72291b45c1726573643f40858abfb4ee0fb700bb8d555acade",
+    "extension": ".bin"
+  },
+  {
+    "name": "STENTORC.PAN",
+    "bytes": 17044,
+    "sha256": "236303f47cf77de3aa8fa8d9d23f170b4f97dbcdb5dfc08ee2a4df9c502c40bb",
+    "extension": ".pan"
+  },
+  {
+    "name": "STONE4.PIC",
+    "bytes": 17364,
+    "sha256": "379fffceb4764442f1d3f2c353dadb76d35240cd45f9edb774c08d8133d15c6a",
+    "extension": ".pic"
+  },
+  {
+    "name": "STONEEGA.PIC",
+    "bytes": 10480,
+    "sha256": "efbf89a314d94e3f963b0d16dfc970042c803600aa2cfe480546a0aa94b3cd8a",
+    "extension": ".pic"
+  },
+  {
+    "name": "TER6.PIC",
+    "bytes": 16340,
+    "sha256": "0dfbc5ab3dfb7530f09a1bd1d7826ccffd71e7a23d0f5db4bae1972124b2d960",
+    "extension": ".pic"
+  },
+  {
+    "name": "TEREGA.PIC",
+    "bytes": 9217,
+    "sha256": "0b4e4d96a5ff64d1c185cb3c3dec84f6d3a6d9987f18908b57765384a751f885",
+    "extension": ".pic"
+  },
+  {
+    "name": "TGRAPHIC.EXE",
+    "bytes": 9828,
+    "sha256": "5d056e12a26350e22507c5945c098247f3c32de5a5545fa0dd4a2c975e986606",
+    "extension": ".exe"
+  },
+  {
+    "name": "TITLE3D1.ZDT",
+    "bytes": 8214,
+    "sha256": "5d89ee040532f2ff7b378f28c6a13c24a86c1ad1829a7f4ab24deec760ccf12e",
+    "extension": ".zdt"
+  },
+  {
+    "name": "TRSPRITE.PIC",
+    "bytes": 4574,
+    "sha256": "0692ff9ed50f65c9a98031e706a38057b18b63103a07d057d9c08c8ead8bb650",
+    "extension": ".pic"
+  },
+  {
+    "name": "TSOUND.LT",
+    "bytes": 13911,
+    "sha256": "7623e8e32d966c08ddeaa88f75ac25046b79021f41e1063e1e985b168983dd17",
+    "extension": ".lt"
+  },
+  {
+    "name": "US3D.ZDT",
+    "bytes": 10790,
+    "sha256": "ee0932dfcb8d9b34b57b60c6dce389d6d9dcfe2ea09e5bc326c43350683fc320",
+    "extension": ".zdt"
+  },
+  {
+    "name": "VENGE2.BIN",
+    "bytes": 8887,
+    "sha256": "b7ff85c6f7aa517b4147fe6ef51e19c03cd03cab075901f6fef2df722ff72167",
+    "extension": ".bin"
+  },
+  {
+    "name": "VENGE3D.ZDT",
+    "bytes": 7686,
+    "sha256": "af33ed22e5e0af5c5f02c315ce1cbbdf5e58809ebb43f0d24c93f662f47e2c84",
+    "extension": ".zdt"
+  },
+  {
+    "name": "VENGEC.PAN",
+    "bytes": 22746,
+    "sha256": "5c6741a5b0201f37c7973d9da12b4a103322fb355224aa00fd1c525fd2a6fed8",
+    "extension": ".pan"
+  },
+  {
+    "name": "VORT2.BIN",
+    "bytes": 4842,
+    "sha256": "b4e59bd5eb021033aedc10117432c5724a0b7e86ae820ec3f79735d52cfa7cc4",
+    "extension": ".bin"
+  },
+  {
+    "name": "VORT3D.ZDT",
+    "bytes": 4982,
+    "sha256": "85e70729961ae37e7f6b0d9d8eff26245fb74b5652912e21afe7fc8e78431113",
+    "extension": ".zdt"
+  },
+  {
+    "name": "VORTC.PAN",
+    "bytes": 11150,
+    "sha256": "7f26a05bb323100e4370554cc83799368f42d3720606ea7bbe3b66fc92aecd4a",
+    "extension": ".pan"
+  }
+]

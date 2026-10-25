@@ -1,0 +1,1479 @@
+{
+  "source": "DACIAN2.BIN",
+  "count": 32,
+  "text_file_offset": 708,
+  "declared_text_bytes": 5233,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "We the Dacians have watched you the\nEarthling for a long time now.  We\ncan speak frankly and openly to one\nanother. Tell me now. What is your\ntrue opinion of the Broodmasters?",
+      "speech_text_offset": 627,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I THINK THEY'RE REPULSIVE BAGS OF SLIME",
+          "text_offset": 13
+        },
+        {
+          "result": 1,
+          "text": "I THINK THEY'RE FINE FELLOWS",
+          "text_offset": 53
+        },
+        {
+          "result": 2,
+          "text": "WHAT DO YOU MEAN?",
+          "text_offset": 82
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        13,
+        53,
+        82,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        627,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Welcome, friend. Have you destroyed\nany enemies of Freedom recently?",
+      "speech_text_offset": 803,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YES, INDEED",
+          "text_offset": 100
+        },
+        {
+          "result": 1,
+          "text": "NOT RECENTLY",
+          "text_offset": 112
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 3,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        100,
+        112,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        803,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Who are you, and what do you want of\nus?",
+      "speech_text_offset": 872,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I JUST WANT SOME INFORMATION",
+          "text_offset": 125
+        },
+        {
+          "result": 1,
+          "text": "I'D LIKE TO TRADE PEACEFULLY",
+          "text_offset": 154
+        },
+        {
+          "result": 2,
+          "text": "I WANT PEACE",
+          "text_offset": 183
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        125,
+        154,
+        183,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        872,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Scram.",
+      "speech_text_offset": 913,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 1,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        913,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "Friend, think of our excellent\nFreedom Alliance. Do you not think\nthat the Dacians would be far\nsuperior leaders to the\nBroodmasters?",
+      "speech_text_offset": 920,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I AGREE. WHAT SHOULD WE DO?",
+          "text_offset": 196
+        },
+        {
+          "result": 1,
+          "text": "I AGREE IN PRINCIPLE, BUT DARE NOT ATTACK THEM.",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 3,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        196,
+        224,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        920,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Yes. Well, you are right, of course.\nWe said nothing. What can we do for\nyou this lovely night?",
+      "speech_text_offset": 1054,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        1054,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Why, we meant nothing at all. We're\nfirm friends of the Broodmasters.\nFirm friends. As are you, we're\nsure. What can we do for you.",
+      "speech_text_offset": 1150,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        1150,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Ah, and whom did you slay in the\ncause of Freedom?",
+      "speech_text_offset": 1282,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A PEACE ALLIANCE SHIP",
+          "text_offset": 303
+        },
+        {
+          "result": 1,
+          "text": "A LOVE ALLIANCE SHIP",
+          "text_offset": 325
+        },
+        {
+          "result": 2,
+          "text": "SHIPS OF BOTH ENEMY ALLIANCES",
+          "text_offset": 346
+        },
+        {
+          "result": 3,
+          "text": "I AM NOT SURE",
+          "text_offset": 376
+        },
+        {
+          "result": 4,
+          "text": "I KILLED NO ONE",
+          "text_offset": 390
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 6,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        303,
+        325,
+        346,
+        376,
+        390,
+        -1,
+        7,
+        0,
+        1282,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Alas for the cause of Freedom.",
+      "speech_text_offset": 1333,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        1333,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "Much as we support the cause of\npeace, we make no decisions without\nfirst consulting our brethren, the\nnoble Broodmasters. If you wish a\nformal union with our group, the\naptly-named Freedom Alliance, you\nmust apply to the Broodmasters for\nadmission.",
+      "speech_text_offset": 1364,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I SEE",
+          "text_offset": 406
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 2,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        406,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        1364,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "It would be impolitic for the Dacians\nto assail the Broodmasters, our\nostensible Freedom Alliance comrades.\nBut you, a free agent, can do so with\nour covert approval. Currently, the\nBroodmasters control %s more stellar\nsystems than we do. You shall destroy\nBroodmaster bases, which we will\npromptly occupy. Once we control \nmore systems than the Broodmasters,\ncontrol of the Freedom Alliance \npasses to us. ",
+      "speech_text_offset": 1614,
+      "choices": [
+        {
+          "result": 0,
+          "text": "A FINE PLAN",
+          "text_offset": 412
+        },
+        {
+          "result": 1,
+          "text": "I DARE NOT ATTACK THE BROODMASTERS OPENLY",
+          "text_offset": 424
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        412,
+        424,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1614,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "What assistance do you require?",
+      "speech_text_offset": 2022,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 272
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 3,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        284,
+        272,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2022,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "You know the fullness of our plans,\nyet have not joined us. You must\ndie.",
+      "speech_text_offset": 4969,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        0,
+        -1,
+        4969,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "We are the masters of the Freedom\nAlliance. The Broodmasters grovel\nbeneath us. Soon we shall control the\nentire cluster. You have our thanks,\nhumble Earthling, for your part in\nfulfilling our destiny. We forbid\nyou to attack any more Broodmasters,\nlest our former masters become\nweakened to the point that they cease\nto be useful tools. Do so at your\nperil.",
+      "speech_text_offset": 2054,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        284,
+        272,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2054,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "A modest request. We choose to grant\nit, as leaders of the Freedom\nAlliance. Of course, this means you\nare now an official member of the\nentire Freedom Alliance, and as such,\nare subject to our commands.",
+      "speech_text_offset": 2413,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 272
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 3,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        284,
+        272,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2413,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We forbid it, lest the Broodmasters\nbecome weakened to the point that\nthey cease to be useful tools. Do so\nat your peril.",
+      "speech_text_offset": 2617,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 1,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2617,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "How unselfish of you. Soon all the\npeoples of this cluster shall be\nfree.",
+      "speech_text_offset": 2739,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2739,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "I see. Naturally we believe you.",
+      "speech_text_offset": 2813,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 290
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 4,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        290,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        2813,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "Oddly enough, we have no goods for\nsale today. So sorry.",
+      "speech_text_offset": 2846,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        4948,
+        -1,
+        2846,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "I fear that we have little of worth\nto tell you. Our sincerest\napologies. All we know is that the\nFreedom Alliance consists of the\nBroodmasters and Dacians allied\ntogether to defend the oppressed of\nthe cluster. The Peace Alliance is a\nconglomeration of imperious despots,\nwhile the Love Alliance is composed\nof soulless evil entities.",
+      "speech_text_offset": 2903,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        4948,
+        -1,
+        2903,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "Whom would you like to know about?",
+      "speech_text_offset": 3239,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3239,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "Whom would you like to know about?",
+      "speech_text_offset": 3239,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE PEACE ALLIANCE",
+          "text_offset": 593
+        },
+        {
+          "result": 1,
+          "text": "THE VORTICELLA",
+          "text_offset": 612
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "PREV...",
+          "text_offset": 4961
+        },
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        593,
+        612,
+        -1,
+        -1,
+        -1,
+        -1,
+        4961,
+        4948,
+        3239,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "Potentially dangerous entities\ncapable of destroying entire\nplanets. Best that they be directed\ntowards the stars of the Peace or\nthe Love Alliance. If they draw too\nnear our own precious citizens, we\nmay be forced into retaliation.",
+      "speech_text_offset": 3274,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3274,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "Parasitic beings of little import.\nThey have expressed an interest in\njoining the Freedom Alliance someday,\nand we have taken this under\nconsideration. We advise against\nwantonly killing them.",
+      "speech_text_offset": 3507,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3507,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "We Dacians, in league with the\nBroodmasters, are attempting to\nbring liberty and enlightenment to\nall peoples of this star cluster. ",
+      "speech_text_offset": 3700,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3700,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "A minor species. The cluster is full\nof such.",
+      "speech_text_offset": 3833,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3833,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "Enemies of freedom. The leaders are\nthe Jot, who rule their subject\nspecies (the Automata and Venge) with\nan iron claw. The Automata are\nandroids without emotions or desires.\nThe Venge are pathetic creatures\nconsumed with notions of\nretribution.",
+      "speech_text_offset": 3879,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        3879,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "A mysterious being which is both\nfrivolous and unjust. It has certain\nabilities which could pose a serious\nthreat to the stability of the\ncluster if aroused. At the moment, it\nseems willing to sit quietly on its\nworld.",
+      "speech_text_offset": 4125,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ATHDALDE",
+          "text_offset": 505
+        },
+        {
+          "result": 1,
+          "text": "THE BALATHIDE",
+          "text_offset": 518
+        },
+        {
+          "result": 2,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 532
+        },
+        {
+          "result": 3,
+          "text": "THE HALICOT",
+          "text_offset": 553
+        },
+        {
+          "result": 4,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 565
+        },
+        {
+          "result": 5,
+          "text": "THE MONAD",
+          "text_offset": 583
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4953
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        505,
+        518,
+        532,
+        553,
+        565,
+        583,
+        4953,
+        4948,
+        4125,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "Bitter enemies of freedom. They are\nruled by the arrogant Dignee, and\nserved by the Cicisbeo and Acari.\nThey should be eliminated.  This\nshould not be too difficult, because\nneither the Cicisbeo nor the Acari\nare particularly fearsome in matters\nof war. The Dignee are quite a\nproblem, however, because their\npowerful moral influence forces all\nnearby beings to obey their will.",
+      "speech_text_offset": 4344,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE PEACE ALLIANCE",
+          "text_offset": 593
+        },
+        {
+          "result": 1,
+          "text": "THE VORTICELLA",
+          "text_offset": 612
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "PREV...",
+          "text_offset": 4961
+        },
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        593,
+        612,
+        -1,
+        -1,
+        -1,
+        -1,
+        4961,
+        4948,
+        4344,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 29,
+      "record_file_offset": 640,
+      "speech": "Petty raiders who primarily attack\nour enemies. Thus, they are probably\na benefit to the cause of freedom\noverall. However, they will need to\nbe suppressed some day. They have\ngoods for sale, but their base is\nhard to find. ",
+      "speech_text_offset": 4723,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE PEACE ALLIANCE",
+          "text_offset": 593
+        },
+        {
+          "result": 1,
+          "text": "THE VORTICELLA",
+          "text_offset": 612
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "PREV...",
+          "text_offset": 4961
+        },
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 4948
+        }
+      ],
+      "raw_words": [
+        593,
+        612,
+        -1,
+        -1,
+        -1,
+        -1,
+        4961,
+        4948,
+        4723,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 30,
+      "record_file_offset": 662,
+      "speech": "We are the masters of the Freedom\nAlliance. Soon we shall control the\nentire cluster. You have our thanks,\nhumble Earthling, for your part in\nfulfilling our destiny.",
+      "speech_text_offset": 5043,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 284
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 272
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 7
+        },
+        {
+          "result": 3,
+          "text": "FIGHT ",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        284,
+        272,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        0,
+        5043,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 31,
+      "record_file_offset": 684,
+      "speech": "Begone, vile Earthling.",
+      "speech_text_offset": 5209,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        7,
+        -1,
+        5209,
+        0,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_28",
+  "animation": "daciansc.pan"
+}

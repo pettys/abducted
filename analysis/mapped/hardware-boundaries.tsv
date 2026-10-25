@@ -1,0 +1,174 @@
+address	region	instruction
+1000:00ea	resident	cli 
+197d:0029	resident	int 0x21
+197d:003e	resident	int 0x21
+197d:004a	resident	out 0x43, al
+197d:0050	resident	out 0x40, al
+197d:0054	resident	out 0x40, al
+197d:005f	resident	int 0x21
+197d:0151	resident	cli 
+197d:01e6	resident	cli 
+197d:01ef	resident	in al, dx
+197d:01f9	resident	in al, dx
+197d:0200	resident	out 0x43, al
+197d:0204	resident	in al, 0x40
+197d:020a	resident	in al, 0x40
+19b0:0010	resident	int 0x21
+19b0:001e	resident	int 0x21
+19b0:0031	resident	int 0x21
+19b0:0037	resident	int 0x21
+19b0:004e	resident	int 0x21
+19b0:005a	resident	int 0x21
+19b7:00ae	resident	iret 
+19c7:087b	resident	iret 
+19c7:1d41	resident	int 0x21
+19c7:1d53	resident	int 0x21
+19c7:1e6d	resident	out dx, ax
+19c7:1e72	resident	out dx, ax
+19c7:1ef4	resident	out dx, al
+19c7:1fe9	resident	out dx, al
+19c7:2026	resident	out dx, al
+19c7:2093	resident	out dx, al
+19c7:20ab	resident	out dx, al
+19c7:20b2	resident	out dx, al
+19c7:20d0	resident	out dx, al
+19c7:250f	resident	out dx, al
+19c7:256d	resident	out dx, al
+19c7:2583	resident	out dx, al
+19c7:259f	resident	out dx, al
+19c7:25cb	resident	out dx, al
+19c7:2856	resident	int 0x21
+19c7:285c	resident	int 0x20
+19c7:2870	resident	cli 
+19c7:2877	resident	sti 
+19c7:288c	resident	int 0x21
+19c7:28b4	resident	int 0x21
+19c7:2924	resident	int 0x21
+19c7:2936	resident	int 0x21
+19c7:29ba	resident	int 0x21
+19c7:2a2d	resident	int 0x21
+19c7:2a3a	resident	int 0x21
+19c7:2a51	resident	int 0x21
+19c7:2a65	resident	int 0x21
+19c7:2d3d	resident	int 0x21
+19c7:2d6e	resident	int 0x21
+19c7:4106	resident	int 0x21
+19c7:413a	resident	int 0x21
+19c7:415e	resident	int 0x21
+19c7:4171	resident	int 0x21
+19c7:4180	resident	int 0x21
+19c7:435b	resident	int 0x21
+19c7:43ba	resident	int 0x21
+19c7:43c7	resident	int 0x21
+19c7:43d8	resident	int 0x21
+19c7:43ee	resident	int 0x21
+19c7:4432	resident	int 0x21
+19c7:44c4	resident	int 0x21
+19c7:4515	resident	int 0x21
+19c7:475f	resident	int 0x21
+19c7:47ba	resident	int 0x21
+19c7:49df	resident	int 0x21
+19c7:4bad	resident	int 0x21
+19c7:4c02	resident	in al, dx
+19c7:4c12	resident	int 0x21
+19c7:4e62	resident	int 0x21
+19c7:4e70	resident	int 0x21
+19c7:4e86	resident	int 0x16
+19c7:4e9e	resident	int 0x1a
+19c7:4ebc	resident	int 0x1a
+19c7:4eca	resident	int 0x21
+19c7:4ee4	resident	int 0x21
+19c7:4f04	resident	int 0x21
+19c7:4f13	resident	int 0x21
+19c7:4f23	resident	int 0x21
+19c7:4f46	resident	int 0x21
+19c7:4f5c	resident	int 0x21
+1eea:0024	resident	in al, dx
+1eea:002c	resident	in al, dx
+1eea:0031	resident	cli 
+1eea:0039	resident	out dx, al
+1eea:0040	resident	out dx, al
+1eea:0044	resident	out dx, al
+1eea:0048	resident	out dx, al
+1eea:0049	resident	sti 
+1eea:007f	resident	in al, dx
+1eea:0084	resident	cli 
+1eea:008c	resident	out dx, al
+1eea:0094	resident	out dx, al
+1eea:0097	resident	out dx, al
+1eea:009a	resident	out dx, al
+1eea:009b	resident	sti 
+1eea:0405	resident	int 0x21
+1eea:0419	resident	int 0x21
+1eea:0438	resident	int 0x21
+1eea:0497	resident	int 0x21
+1eea:04b4	resident	int 0x10
+1eea:04bc	resident	int 0x10
+1eea:04c4	resident	int 0x10
+1eea:04cc	resident	int 0x10
+1eea:04d0	resident	int 0x21
+1eea:04d5	resident	int 0x21
+1eea:04e3	resident	int 0x21
+1eea:04f8	resident	int 0x21
+1eea:051e	resident	int 0x21
+1eea:0983	resident	iret 
+1eea:0b58	resident	iret 
+1eea:112c	resident	int 0x33
+1eea:1140	resident	int 0x33
+1eea:1145	resident	int 0x33
+1eea:1170	resident	int 0x33
+1eea:11ac	resident	int 0x33
+1eea:1225	resident	int 0x33
+201d:0033	resident	int 0x21
+201d:0054	resident	int 0x21
+201d:0075	resident	int 0x21
+201d:0081	resident	int 0x21
+201d:009a	resident	int 0x21
+201d:00ae	resident	int 0x21
+209f:000f	resident	int 0x21
+209f:002c	resident	int 0x21
+209f:003e	resident	int 0x21
+209f:004c	resident	int 0x21
+209f:0069	resident	int 0x13
+209f:0073	resident	int 0x10
+2120:0108	resident	int 0x21
+2120:011c	resident	int 0x21
+2120:0128	resident	int 0x21
+2120:0132	resident	int 0x21
+2120:0137	resident	int 0x21
+2120:0171	resident	int 0x21
+2120:01c3	resident	int 0x21
+2120:01d0	resident	int 0x21
+2120:01d9	resident	int 0x21
+2120:023d	resident	int 0x21
+2120:027d	resident	int 0x21
+2120:0295	resident	int 0x21
+2120:029f	resident	int 0x21
+2120:02d4	resident	int 0x21
+2120:02f5	resident	int 0x21
+2120:0427	resident	cli 
+2120:042d	resident	sti 
+2120:0440	resident	cli 
+2120:0445	resident	sti 
+2120:0454	resident	int 0x21
+2120:05d4	resident	int 0x21
+2120:05de	resident	int 0x21
+2120:070c	resident	int 0x21
+2120:0751	resident	int 0x21
+2120:0766	resident	int 0x21
+2120:0792	resident	int 0x21
+2120:07f8	resident	int 0x21
+2120:0819	resident	int 0x21
+2120:0821	resident	int 0x21
+2120:082b	resident	int 0x21
+2120:0835	resident	int 0x21
+2120:0840	resident	int 0x21
+2120:0854	resident	int 0x21
+2120:085d	resident	int 0x21
+2120:086c	resident	int 0x21
+2120:0879	resident	int 0x21
+2120:08ad	resident	int 0x21
+2120:08d7	resident	int 0x21
+2120:08db	resident	int 0x21
+2120:08e2	resident	int 0x21
+2120:08e6	resident	int 0x21

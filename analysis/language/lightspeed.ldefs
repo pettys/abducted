@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language_definitions>
+ <language processor="x86" endian="little" size="16" variant="Lightspeed" version="1.0" slafile="x86-lightspeed.sla" processorspec="x86-16-real.pspec" id="x86:LE:16:Lightspeed">
+  <description>16-bit real mode with tracked CS for Lightspeed DOS segments</description>
+  <compiler name="default" spec="x86-16.cspec" id="default"/>
+ </language>
+</language_definitions>

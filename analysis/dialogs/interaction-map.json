@@ -1,0 +1,74 @@
+{
+  "status": "Static reverse engineering; not a complete executable port. Names below are inferred semantic labels, not original source symbols.",
+  "architecture": {
+    "text_loader": "resident.c FUN_1000_038c / 1000:038c",
+    "dialog_ui": "ovl_13.c ovl_13_entry_2558_0d62",
+    "encounter_dispatch": "resident.c FUN_1000_0598 / 1000:0598",
+    "race_scripts": "ovl_16.c through ovl_34.c",
+    "animation_loader": "ovl_01.c ovl_01_entry_22dc_0000",
+    "animation_interpreter": "resident.c FUN_11e1_064e / 11e1:064e",
+    "palette_animation": "ovl_13.c FUN_ovl_13__0254f6; species-specific palette handling also exists",
+    "trade_ui": "ovl_12.c ovl_12_entry_252a_36c2",
+    "save_load": "ovl_04.c FUN_ovl_04__02360a",
+    "event_reactions": "ovl_06.c (first cluster), ovl_07.c ovl_07_entry_22dc_0702 (second cluster)"
+  },
+  "resources": {
+    "dialog_dataset_count": 19,
+    "dialog_record_count": 453,
+    "choice_reference_count_including_repeated_choices": 2220,
+    "unique_race_animation_packs": 17,
+    "dialog_format": "u16 recordCount; recordCount records of 11 signed 16-bit words; u16 textBytes; NUL-separated CP437 strings; final extra file byte",
+    "dialog_record": {
+      "words_0_through_5": "Up to six main choice text offsets; -1 marks unused slots",
+      "word_6": "First extra choice text offset, usually LEAVE",
+      "word_7": "Second extra choice text offset, usually FIGHT",
+      "word_8": "Alien speech text offset",
+      "word_9": "Main choice count",
+      "word_10": "Extra-choice availability/count control. Usually 0, 1, or 2; CICIS1 record 13 contains 3, retained raw and requires investigation."
+    },
+    "dynamic_text": "Speech can contain printf-style substitutions. Script arguments supply values; raw extracted text retains placeholders.",
+    "visual_format": "PANI version 4, compressed indexed sprites, palette blocks, viewport metadata, sprite table, stack-based animation bytecode",
+    "visual_extraction_limit": "Individual sprites and bytecode recovered. Animation composition and playback not implemented. X1 four-bit sprite nibble order inferred from packed format; not compared against runtime capture."
+  },
+  "race_state": {
+    "record_count": 17,
+    "record_bytes": 29,
+    "total_bytes": 493,
+    "ghidra_alias_base": "DAT_2a22_e39d",
+    "runtime_data_segment_near_offset_base": "DS:9f4d",
+    "index_formula": "raceIndex = encounterRaceId - 2; byteAddress = base + raceIndex * 29",
+    "fields": [
+      {"offset": 0, "name": "race_specific_branch_state", "confidence": "verified use, semantic meaning varies by race"},
+      {"offset": 1, "name": "attitude", "range": [1, 24], "confidence": "verified", "interpretation": "Frequently split by (value-1)/6 into four encounter branches; direction and meaning vary by race"},
+      {"offset": 2, "name": "combat_outcome_counter_type_0", "confidence": "counter verified; encounter category label not assigned"},
+      {"offset": 3, "name": "combat_outcome_counter_type_1", "confidence": "counter verified; encounter category label not assigned"},
+      {"offset": 4, "name": "combat_outcome_counter_type_2_or_3", "confidence": "counter verified; encounter category label not assigned"},
+      {"offset": 5, "name": "combat_encounter_counter", "confidence": "inferred from encounter cleanup"},
+      {"offset": 6, "name": "dialog_visit_counter_since_combat", "confidence": "inferred; incremented on dialog entry and reset after combat"},
+      {"offset": 8, "name": "peace_treaty", "confidence": "verified; used by diplomacy display and aggression gating"},
+      {"offset": 10, "name": "contacted", "confidence": "inferred; set after encounter dialog, used for identification/display"},
+      {"offset": 12, "name": "trade_opened", "confidence": "inferred; set by trade entry and gates race selection in trade UI"},
+      {"offset_range": [13, 28], "name": "race_specific_history_flags_and_counters", "confidence": "verified storage and updates; individual meanings only partially identified"}
+    ],
+    "secondary_event_records": {"base": "DAT_2a22_f232", "record_count": 17, "record_bytes": 23, "purpose": "Recent event flags/counters influence attitudes; some values are accumulated into persistent history and cleared after dialog"},
+    "current_encounter_state": {"symbol": "DAT_2a22_e333", "combat_value": 2, "note": "Separate from persistent per-race treaty/attitude; several FIGHT choices set this and exit dialog"}
+  },
+  "race_indices": [
+    "Broodmasters", "Cicisbeo", "Didinium", "Fel", "Lutin", "Stentor", "Acari", "Athdalde", "Automata", "Balathide", "Dacians", "Dignee", "Halicot", "Jot", "Monad", "Venge", "Vorticella"
+  ],
+  "verified_examples": [
+    {"dataset": "ACARI2", "record": 14, "choice": "SIGN TREATY", "effect": "ovl_22 FUN_029428 selects state 18; FUN_0294d4 sets DAT_2a22_e453=1 (Acari treaty) and displays record 17"},
+    {"dataset": "ACARI2", "record": 3, "choice": "YOU MUST EVACUATE THIS PLANET", "effect": "State 12 displays record 11, then clears current world's race/ownership and updates world flags; dialog ends"},
+    {"dataset": "ACARI2", "record": 1, "choice": "REFUEL AND LEAVE", "effect": "Sets DAT_2a22_fac8=500 and exits dialog"},
+    {"dataset": "CICIS2", "record": 0, "choice": "PERPETUAL PEACE BETWEEN OUR NATIONS.", "effect": "State 9 sets DAT_2a22_e3c2=1 (Cicisbeo treaty) and displays record 8"},
+    {"dataset": "CICIS2", "record": 15, "choice": "INFORM CICISBEO ABOUT ALIEN SPECIES", "effect": "State 14 compares selected species to Halicot/Monad, records disclosure flags, and reduces Cicisbeo attitude by 4 for the Halicot disclosure"},
+    {"dataset": "BROOD2", "effect": "Entry computes which rival alliances still have worlds; treaty/trade branches change based on these flags in addition to attitude"}
+  ],
+  "remaining_work": [
+    "Translate each encounter's branching control flow and all world-state side effects into named executable functions",
+    "Identify every race-specific state byte and recent-event field",
+    "Interpret and composite PANI animation bytecode",
+    "Validate representative dialog paths and visuals against the running DOS game",
+    "Repair decompiler switch/indirect-call artifacts before treating pseudocode as authoritative control flow"
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "source": "BROOD1.BIN",
+  "count": 27,
+  "text_file_offset": 598,
+  "declared_text_bytes": 5146,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "I welcome you, friend Earthman. Let us plot together, and this\nstar cluster shall be ours to share between our two species.",
+      "speech_text_offset": 271,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TELL ME MORE.",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        0,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        271,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "I welcome you, friend Earthman. Let us plot together, and this\nstar cluster shall be ours to share between our two species.",
+      "speech_text_offset": 271,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 199
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        199,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        271,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "I welcome you powerful Earthman. I am Broodmaster, humble\ngovernor of this poor worldlet. How may I best serve your\nhonorable self ?",
+      "speech_text_offset": 395,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 124
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        38,
+        124,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        395,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "I welcome you powerful Earthling. I am a Broodmaster, humble\ngovernor of this poor worldlet. Have mercy upon me and I will\nbe your slave.",
+      "speech_text_offset": 528,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        },
+        {
+          "result": 1,
+          "text": "REQUEST TRADE",
+          "text_offset": 59
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        38,
+        59,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        528,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "I welcome you powerful Earthling. I am a Broodmaster, humble\ngovernor of this poor worldlet. Have mercy upon me and I will\nbe your slave.",
+      "speech_text_offset": 528,
+      "choices": [
+        {
+          "result": 0,
+          "text": "EXTORT GOODS",
+          "text_offset": 73
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        73,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        528,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "WARNING! The item just taken on board contained a concealed TDX\nbomb.  Its detonation has caused extensive damage,",
+      "speech_text_offset": 4896,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 32
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        -1,
+        4896,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Clearly, there are too many lesser species cluttering up this\narea.  Unfortunately, I lack the physical courage necessary to\nexterminate other races except when I possess overwhelming\nforce.  However, you Earthlings lack this disability, so you\ncould destroy them with relative ease.  With our assistance.\nThe plan is simple : we shall destroy the starbases of the\nCicisbeo, the Fel, and the Lutin.  To perform this feat, I can\nprovide ample supplies and support.",
+      "speech_text_offset": 695,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 86
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 124
+        },
+        {
+          "result": 3,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 107
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        86,
+        14,
+        124,
+        107,
+        -1,
+        -1,
+        32,
+        26,
+        695,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "After careful consideration, I have determined that a treaty\nat this time would be counterproductive. The threats and the\nmachinations of the Cicisbeo, Fel, and Lutin are such that we\ncannot currently agree to a treaty.  However, if you could\ndestroy the starbases of these enemies, we could agree to\ncertain mutually beneficial arrangements.",
+      "speech_text_offset": 1159,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 124
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        124,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1159,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Clearly such an agreement would be premature.  If you could\ndemonstrate your benign nature by assisting us in a few simple\ntasks and dealings with our neighbors within this cluster ... ?",
+      "speech_text_offset": 1502,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH NEIGHBORS ?",
+          "text_offset": 130
+        },
+        {
+          "result": 1,
+          "text": "REQUEST TRADE INSTEAD",
+          "text_offset": 148
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        130,
+        148,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1502,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "We are as yet unsure of you and your motives. Hence we\nhesitate to deal with you. If you could demonstrate your\nbenign nature by assisting us in a few simple tasks and\ndealings with our neighbors within this cluster ... ?",
+      "speech_text_offset": 1689,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH NEIGHBORS ?",
+          "text_offset": 130
+        },
+        {
+          "result": 1,
+          "text": "REQUEST PEACE TREATY INSTEAD",
+          "text_offset": 170
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        130,
+        170,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1689,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "The Cicisbeo, Fel, and Lutin are all species that this cluster\ncan do without. Destroy their ships and starbases, and our\ngratitude would be heartfelt.",
+      "speech_text_offset": 1911,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST TRADE",
+          "text_offset": 59
+        },
+        {
+          "result": 1,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        59,
+        38,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1911,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "We now dominate this cluster to the near-exclusion of other\nbeings. You have served us well, and we choose to reward\nyou by agreeing to such a treaty, thus permitting your species\nto establish a colony in this our cluster.",
+      "speech_text_offset": 2063,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 124
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        124,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        2063,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "Greetings, Friend Earthling.",
+      "speech_text_offset": 666,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 124
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        124,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        666,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "The Didinium and Stentor are pragmatic entities. Cicisbeo, Fel,\nand Lutin encumber certain planetary surfaces, which could be\nput to much better use.",
+      "speech_text_offset": 2286,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        2286,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "Self-centered beings whose brains are consumed by fripperies.\nTheir combat craft are light-weight and destroyed with ease.",
+      "speech_text_offset": 2436,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        2436,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "Beings of great worth. They are not easy to trade with, but we\nhave the secret - simply give them the coordinates of an\nundefended world, and they will cheerfully provide you with\ngoods.",
+      "speech_text_offset": 2559,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        2559,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "Unimportant weaklings. Someday we will have overwhelming\nmilitary superiority. Then we shall eliminate them.",
+      "speech_text_offset": 2746,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        2746,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "Pesky raiders that are impossible to deal intelligently with.\nTheir ships are armed with a devastating weapon that you must\ntake care to avoid.  It only fires straight forwards.",
+      "speech_text_offset": 2855,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        2855,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "An enigmatic being. His ships are to be feared, since they\nevince extreme cooperation and have no fear of destruction.\nHe is rumored to be capable of time travel.",
+      "speech_text_offset": 3033,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        3033,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "We Broodmasters are an adaptable species, which can function \nin almost any environment. I would be glad to reserve planets\nsuitable for Earthling life, signalling my fellow Broodmasters\nthat they must not colonize such worlds.",
+      "speech_text_offset": 3196,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        3196,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "The Universe is a wide and dangerous place. Listen carefully\nto my advice, and you will be safer, however, I cannot\nguarantee success.",
+      "speech_text_offset": 5011,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        5011,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "A pirate race that makes its living by preying on the weak and\nhelpless. Your destruction of their evil base will make the\nuniverse safer.",
+      "speech_text_offset": 3424,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        3424,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "Dangerous beings, with a unique secret weapon. Their weapon\nworks by superceding your own ship's engine flux, and turning\nyour own engines against yourself.  The best way to foil them\nis to completely turn off your engines.  Then you can just\nfloat in space and blast them with your cannons.",
+      "speech_text_offset": 3563,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        3563,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "Galactic fodder. These beings are cowardly and flee at the\nfirst sign of combat. In an attempt to distract you, they'll\ndrop small packets of cargo behind their ship as they flee.\nSteer your ship into these packets to collect them. If you\ndestroy their starbase, we will favor you.",
+      "speech_text_offset": 3855,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        3855,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "A fast and dangerous foe. They respect only force and strength.\nIf you impress them with a show of force, or act aggressively\nwhen talking to them, they'll calm down and become much easier\nto manipulate. The destruction of their bases will ease travel\nin the cluster, and we will be most grateful.",
+      "speech_text_offset": 4137,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        4137,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "Merchants. If you can talk them into trading with you, they\nhave some great stuff available.",
+      "speech_text_offset": 4435,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        4435,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "We Broodmasters are an adaptable species, which can function in\nalmost any environment. I would be glad to reserve planets suit-\nable for Earthling life, signalling my fellow Broodmasters that\nthey must not colonize such worlds.",
+      "speech_text_offset": 4528,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CICISBEO",
+          "text_offset": 212
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 221
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 230
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 234
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 240
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 248
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 257
+        }
+      ],
+      "raw_words": [
+        212,
+        221,
+        230,
+        234,
+        240,
+        248,
+        257,
+        -1,
+        4528,
+        6,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_16",
+  "animation": "brooc.pan"
+}

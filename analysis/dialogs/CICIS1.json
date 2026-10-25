@@ -1,0 +1,1141 @@
+{
+  "source": "CICIS1.BIN",
+  "count": 24,
+  "text_file_offset": 532,
+  "declared_text_bytes": 4533,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Felicitations, fortunate one. The glory you behold is named Gold\nMoon Rising of the Cicisbeo. Our gratification at your wonderful\nacts is intense and our condescension most great. What reward\ndo you desire?",
+      "speech_text_offset": 514,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PERPETUAL PEACE BETWEEN OUR NATIONS.",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        0,
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        514,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Felicitations, fortunate one. The glory you behold is named Gold\nMoon Rising of the Cicisbeo. Our gratification at your wonderful\nacts is intense and our condescension most great. What reward\ndo you desire?",
+      "speech_text_offset": 514,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        514,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "You are welcome. Your wondering eyes behold Jade Flowerbud. We\nof the Cicisbeo consider you a friend. In what manner can we\ninteract?",
+      "speech_text_offset": 721,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "I'D LIKE TO OPEN TRADING",
+          "text_offset": 67
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        721,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "You now descry the glorious form of Summer Breeze. I belong to\nthe Cicisbeo, who grace the cosmos with our presence. How have\nyou chosen to serve us?",
+      "speech_text_offset": 855,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I SERVE BEST WHEN PROPERLY INFORMED.",
+          "text_offset": 92
+        },
+        {
+          "result": 1,
+          "text": "I'D LIKE TO OPEN TRADING",
+          "text_offset": 67
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        92,
+        67,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        855,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "No doubt unwittingly, you have offended our calm existence. The\nentity of wondrous color whom you now witness is titled Silver\nWhip. Go, and do not return until you have redeemed yourself.",
+      "speech_text_offset": 1005,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1005,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Granted. We of the Cicisbeo happily concede the slight abrid-\ngement of our personal liberty necessary to ensure peace and\nprosperity between yourselves and us. The peace agreement is\nnow considered to be in effect. Are there other humble wishes\nof yours which we can grant?",
+      "speech_text_offset": 1194,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 49
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        49,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1194,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "We of the Cicisbeo value our treasures highly, and are careful\nonly to deal in sordid mercantile matters with those that have\ndemonstrated their faithfulness and fortitude.  Were you to\nserve us by destroying our foes or bringing us useful data, your\nstatus might improve.",
+      "speech_text_offset": 1469,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH FOES DO YOU REFER TO ?",
+          "text_offset": 129
+        },
+        {
+          "result": 1,
+          "text": "WHAT TYPE OF DATA ?",
+          "text_offset": 158
+        },
+        {
+          "result": 2,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 178
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        129,
+        158,
+        178,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1469,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "We of the Cicisbeo value our treasures highly, and are careful\nonly to deal in sordid mercantile matters with those that have\ndemonstrated their faithfulness and fortitude. Were you to\nserve us by bringing us useful data, your status might improve.",
+      "speech_text_offset": 3866,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHAT TYPE OF DATA ?",
+          "text_offset": 158
+        },
+        {
+          "result": 1,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 178
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        158,
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        3866,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "We of the Cicisbeo value our treasures highly, and are careful\nonly to deal in sordid mercantile matters with those that have\ndemonstrated their faithfulness and fortitude.",
+      "speech_text_offset": 4115,
+      "choices": [
+        {
+          "result": 0,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 178
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        4115,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "We of the Cicisbeo value our treasures highly, and are careful\nonly to deal in sordid mercantile matters with those that have\ndemonstrated their faithfulness and fortitude. Were you to serve\nus by destroying our foes, your status might improve.",
+      "speech_text_offset": 4288,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH FOES DO YOU REFER TO ?",
+          "text_offset": 129
+        },
+        {
+          "result": 1,
+          "text": "HOW ABOUT SOME INFORMATION INSTEAD ?",
+          "text_offset": 178
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        129,
+        178,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        4288,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "The Didinium are abhorred by all civilized worlds. In addition,\nthe Stentor are dangerous pirates.",
+      "speech_text_offset": 1742,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "YOU MENTIONED DATA EARLIER. WHAT TYPE OF DATA ?",
+          "text_offset": 215
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        215,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1742,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "The Didinium are abhorred by all civilized worlds. In addition,\nthe Stentor are dangerous pirates.",
+      "speech_text_offset": 1742,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1742,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "We know little about the Fel species. More information on these\nentities would certainly be beneficial to our lovely brains.",
+      "speech_text_offset": 1841,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        },
+        {
+          "result": 1,
+          "text": "YOU MENTIONED FOES EARLIER. WHO ARE THEY ?",
+          "text_offset": 263
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        263,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1841,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "We know little about the Fel species. More information on these\nentities would certainly be beneficial to our lovely brains.",
+      "speech_text_offset": 1841,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 37
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        37,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1841,
+        1,
+        3
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "This information is most fascinating. It will take some time to\ndigest. Please leave and return at a more opportune time. If you\nrequire equipment before your departure, you may purchase it.",
+      "speech_text_offset": 1966,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE FOR EQUIPMENT",
+          "text_offset": 306
+        },
+        {
+          "result": 1,
+          "text": "WAIT! BEFORE I GO, I'D LIKE SOME INFORMATION",
+          "text_offset": 326
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        306,
+        326,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        1966,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We comprehend that you have been in touch with the Fel. Inform\nus at once of their nature and appearance.",
+      "speech_text_offset": 2157,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORM CICISBEO OF FEL DATA",
+          "text_offset": 473
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 61
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 55
+        }
+      ],
+      "raw_words": [
+        473,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        61,
+        55,
+        2157,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "In what manner can we best enlighten your benighted mind? There\nare many species that inhabit our cluster.",
+      "speech_text_offset": 2369,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        2369,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "The Broodmasters are loathsome in both appearance and psyche.\nTheir minds are filled with lust for ascendancy rather than\nadornment. We feel sorrow for their appalling condition.",
+      "speech_text_offset": 2476,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        2476,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "The Didinium are scabrous monstrosities which devote their lives\ntowards ruining the pleasures of others. We would applaud and\nreward any brave captain who could extirpate the Didinium plague.",
+      "speech_text_offset": 2655,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        2655,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "We know little of the Fel. But the rumors that come to us are\ndisturbing. If you come across them in your travels, please\ntell us of their nature.",
+      "speech_text_offset": 2848,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        2848,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "What we know of the Fel we have learned from you. They seem\ninnocuous enough. Our earlier fears were baseless.",
+      "speech_text_offset": 2995,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        2995,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "Bizarre beings, the Lutin, but not unpleasing to the eye. They\nare quick and their ships very agile. However, they have no free\nwill, so always respond identically to a given approach in\nconversation. Additionally, they have no memory of previous\nencounters, whether fair or foul.",
+      "speech_text_offset": 3106,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        3106,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "The Stentor is a nauseating predator creature, deadly to the\nweak or crippled. We Cicisbeo, being strong, have little to\nfear. The Stentor, in fact, are a single being, which has \nfoolishly multiplicated itself through time travel.",
+      "speech_text_offset": 3387,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        3387,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "We the Cicisbeo are Deity's perfect creation, the gift of\nNature to the universe. Behold our glory.",
+      "speech_text_offset": 3619,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 371
+        },
+        {
+          "result": 1,
+          "text": "DIDINIUM",
+          "text_offset": 384
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 393
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 397
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 403
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 411
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 420
+        }
+      ],
+      "raw_words": [
+        371,
+        384,
+        393,
+        397,
+        403,
+        411,
+        420,
+        -1,
+        3619,
+        6,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_17",
+  "animation": "cicisc.pan"
+}

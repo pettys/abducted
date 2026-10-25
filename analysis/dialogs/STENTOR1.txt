@@ -1,0 +1,114 @@
+STENTOR1.BIN | ovl_19 | stentorc.pan
+
+RECORD 0 (0x0002)
+Yuhaf fown dar seek cretbais.  Plisstel nowun.
+Shalwee trayd ?
+  [0] I WANT A PEACE TREATY.
+  [1] I WANT SOME INFORMATION
+  [2] YES, I'D LIKE TO TRADE
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 1 (0x0018)
+Pieces nottin tresting. Note retee.
+Traydor fite ?
+  [0] INFORMATION
+  [1] "I REALLY WANT A PEACE TREATY"
+  [2] TRADE
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 2 (0x002e)
+Uneedin for mayshun. Menoe mutch. Meevin no time
+travel. In formay shunvall youble. Yumuss
+paiforrit. Wutyu givmi?
+  [0] PAY FOR INFORMATION
+  [1] I DON'T NEED INFORMATION AFTER ALL
+  [2] ASK ABOUT TIME TRAVEL
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 3 (0x0044)
+Meesae traydor fite! Nowfite!
+  [0] FIGHT
+
+RECORD 4 (0x005a)
+Meekan chute yirsh ipthru time. Ittellby biggrand
+bet turr. Buttyu musgivv meeyir spay stay shun.
+Okay?
+  [0] TRADE HOME BASE FOR TIME-TRAVELED SHIP
+  [1] REFUSE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 5 (0x0070)
+Wutyu wishtu no?
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 6 (0x0086)
+Heh veefire powr. Gitbi hyne dem.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 7 (0x009c)
+Litteish ipz. Bee wear ifyu maykemadd.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 8 (0x00b2)
+Lukfour meinz. Dowont foll oclose bee Hyne.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 9 (0x00c8)
+There nohzgun chute tray tahed. Kanby har umful.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 10 (0x00de)
+Meeno tyme. Meekan travv elthroo tymalit tilbit.
+Icon travv elyu thru tiemtoo.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] FEL
+  [3] LUTIN
+  [4] YOURSELVES
+  [5] EXIT
+
+RECORD 11 (0x00f4)
+Uneedin for mayshun. Menoe mutch. Meevin no time
+travel. In formay shunvall youble. Yumuss
+paiforrit. Wutyu givmi?
+  [0] PAY FOR INFORMATION
+  [1] I DON'T NEED INFORMATION AFTER ALL
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 12 (0x010a)
+Lemee no wutyune eed. Eye one-two hell pew.
+  [0] ASK ABOUT PEACE TREATY
+  [1] TRADE
+  [2] ASK ABOUT INFORMATION
+  [3] LEAVE
+  [4] FIGHT

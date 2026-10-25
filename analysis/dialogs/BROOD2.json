@@ -1,0 +1,2109 @@
+{
+  "source": "BROOD2.BIN",
+  "count": 37,
+  "text_file_offset": 818,
+  "declared_text_bytes": 5449,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "I Welcome you, friend Earthman. Let us plot together, and\nthis star cluster shall be ours to share between our two\nspecies.",
+      "speech_text_offset": 350,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TELL ME MORE.",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        0,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        350,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "I Welcome you powerful Earthman. I am Broodmaster, humble\ngovernor of this poor worldlet. How may I best serve your\nhonorable self?",
+      "speech_text_offset": 474,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 112
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        38,
+        112,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        474,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "I Welcome you powerful Earthling. I am a Broodmaster,\nhumble governor of this poor worldlet. Have mercy upon me\nand I will be your slave.",
+      "speech_text_offset": 606,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        },
+        {
+          "result": 1,
+          "text": "REQUEST TRADE",
+          "text_offset": 59
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        38,
+        59,
+        14,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        606,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "I Welcome you powerful Earthling. I am a Broodmaster,\nhumble governor of this poor worldlet. Have mercy upon me\nand I will be your slave.",
+      "speech_text_offset": 606,
+      "choices": [
+        {
+          "result": 0,
+          "text": "EXTORT GOODS",
+          "text_offset": 73
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        73,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        606,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "Clearly, there are too many lesser species cluttering up\nthis area.  Unfortunately, I lack the physical courage\nnecessary to exterminate other races except when I possess\noverwhelming force.  However, you Earthlings lack this\ndisability, so you could destroy them with relative ease. \nWith our assistance.  The plan is simple: we shall destroy\nthe starbases of the Peace and Love alliances.  To perform\nthis feat, I can provide ample supplies and support.",
+      "speech_text_offset": 773,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 86
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        },
+        {
+          "result": 2,
+          "text": "GET SUPPLIES",
+          "text_offset": 99
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        86,
+        14,
+        99,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        773,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "After careful consideration, I have determined that a\ntreaty at this time would be counterproductive. The threats\nand the machinations of the Peace and Love alliances are\nsuch that we cannot currently agree to a treaty.  However,\nif you could destroy the starbases of these enemies, we\ncould agree to certain mutually beneficial arrangements.",
+      "speech_text_offset": 1229,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 112
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 14
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        112,
+        14,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1229,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Clearly such an agreement would be premature.  If you could\ndemonstrate your benign nature by assisting us in a few\nsimple tasks and dealings with our neighbors within this\ncluster ...?",
+      "speech_text_offset": 1572,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH NEIGHBORS ?",
+          "text_offset": 118
+        },
+        {
+          "result": 1,
+          "text": "REQUEST TRADE INSTEAD",
+          "text_offset": 136
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        118,
+        136,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1572,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "We are as yet unsure of you and your motives. Hence we\nhesitate to deal with you. If you could demonstrate your\nbenign nature by assisting us in a few simple tasks and\ndealings with our neighbors within this cluster ...?",
+      "speech_text_offset": 1758,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WHICH NEIGHBORS ?",
+          "text_offset": 118
+        },
+        {
+          "result": 1,
+          "text": "REQUEST PEACE TREATY INSTEAD",
+          "text_offset": 158
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        118,
+        158,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1758,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "The Peace and Love alliances are species that this cluster\ncan do without. Destroy their ships and starbases, and our\ngratitude would be heartfelt.",
+      "speech_text_offset": 1979,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REQUEST TRADE",
+          "text_offset": 59
+        },
+        {
+          "result": 1,
+          "text": "REQUEST PEACE TREATY",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        59,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        1979,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "With the end of the %s alliance, we are now in a position\nto begin extermination of competing species in this\ncluster. You have served us well, and we choose to reward\nyou by reserving a planet for your species.  When our\npolicy of extermination has been accomplished, we can talk\nagain about peace treaties.",
+      "speech_text_offset": 2350,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        2350,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "We now dominate this cluster to the near-exclusion of other\nbeings. You have served us well, and we choose to reward\nyou by agreeing to such a treaty, thus permitting your\nspecies to establish a colony in this our cluster.",
+      "speech_text_offset": 2127,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 32
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 26
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        32,
+        26,
+        2127,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "The Peace and Love alliances are not only a threat to our\npreeminence, but encumber certain planetary surfaces, which\ncould be put to much better use.",
+      "speech_text_offset": 5167,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        5167,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "The Peace and Love alliances are not only a threat to our\npreeminence, but encumber certain planetary surfaces, which\ncould be put to much better use.",
+      "speech_text_offset": 5167,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        5167,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "Misguided minions of the Dignee, and members of the\nbesotted Peace Alliance.",
+      "speech_text_offset": 2659,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2659,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "Scavengers on a cosmic scale. They seek out weak worlds and\nsqueeze them like fruit rinds. Sometimes they have good raw\nmaterials for sale. ",
+      "speech_text_offset": 2736,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2736,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "Feeble hirelings of the Jot, members of the Love Alliance.",
+      "speech_text_offset": 2877,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2877,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "Misguided minions of the Dignee, and members of the\nbesotted Peace Alliance. Self-centered beings whose brains\nare consumed by fripperies. Their combat craft are mostly\nlight-weight and destroyed easily.",
+      "speech_text_offset": 2936,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2936,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "Our closest allies. Do not attack them, for they are your\nfriends, too. ",
+      "speech_text_offset": 3140,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        3140,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "Tyrannical masters of the Peace Alliance. Talking with them\nis dangerous, for they have some type of emotional\ninfluence over your decisions. Shoot on sight or avoid\ncompletely. ",
+      "speech_text_offset": 3213,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        3213,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "An unimportant species. The universe teems with such dross.",
+      "speech_text_offset": 3392,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3392,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "Hateful dictators which oppress the deprived members of the\nLove Alliance.",
+      "speech_text_offset": 3452,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3452,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "We advise you to avoid his planet at all costs. ",
+      "speech_text_offset": 3527,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3527,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "Feeble hirelings of the Jot, members of the Love Alliance.\nDo not antagonize them, for they never forget an injury. ",
+      "speech_text_offset": 3576,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3576,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "Practical entities perfectly willing to engage in mutually-\nbeneficial trade. However, do not visit them unless your\nship is quite well-armed. ",
+      "speech_text_offset": 3693,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3693,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "We Broodmasters are an adaptable species, which can function\nin almost any environment. I would be glad to reserve\nplanets suitable for Earthling life, signalling my fellow\nBroodmasters that they must not colonize such worlds. ",
+      "speech_text_offset": 3837,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3837,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "Misguided minions of the Dignee, and members of the\nbesotted Peace Alliance.",
+      "speech_text_offset": 2659,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2659,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "Strange beings which we do not understand. They appear to\nbe under the impression that they are a sort of galactic\nphilanthropist, whose job is to help out damaged planets by\nrefurbishing their civilization.",
+      "speech_text_offset": 4065,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        4065,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "Feeble hirelings of the Jot, members of the Love Alliance.",
+      "speech_text_offset": 2877,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        2877,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "Misguided minions of the Dignee, and members of the\nbesotted Peace Alliance. A pirate race that makes its\nliving by preying on the weak and helpless. Your\ndestruction of their evil base will make the universe a\nbetter place. ",
+      "speech_text_offset": 4273,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        4273,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 29,
+      "record_file_offset": 640,
+      "speech": "Noble defenders of self-determination and liberty for all\npeoples everywhere. ",
+      "speech_text_offset": 4499,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        4499,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 30,
+      "record_file_offset": 662,
+      "speech": "Tyrannical masters of the Peace Alliance. Any contact with\nthem is likely to contaminate your brain with their\npestilential philosophy.",
+      "speech_text_offset": 4578,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 200
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 210
+        },
+        {
+          "result": 2,
+          "text": "THE AUTOMATA",
+          "text_offset": 223
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 236
+        },
+        {
+          "result": 4,
+          "text": "THE DACIANS",
+          "text_offset": 249
+        },
+        {
+          "result": 5,
+          "text": "THE DIGNEE",
+          "text_offset": 261
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 5318
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        200,
+        210,
+        223,
+        236,
+        249,
+        261,
+        5318,
+        336,
+        4578,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 31,
+      "record_file_offset": 684,
+      "speech": "They are not familiar to us. However, should they need our\naid, we would be willing to assist them against all\npotential threats to their democratic rights. ",
+      "speech_text_offset": 4714,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        4714,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 32,
+      "record_file_offset": 706,
+      "speech": "Hateful dictators which oppress the deprived members of the\nLove Alliance.",
+      "speech_text_offset": 3452,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3452,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 33,
+      "record_file_offset": 728,
+      "speech": "He is a myth, a legend. No educated individual believes in\nsuch frippery.",
+      "speech_text_offset": 4872,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        4872,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 34,
+      "record_file_offset": 750,
+      "speech": "Feeble hirelings of the Jot, members of the Love Alliance.\nTheir ships are slow and poorly-armed. Draw near to them to\nfight most efficiently.",
+      "speech_text_offset": 4946,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        4946,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 35,
+      "record_file_offset": 772,
+      "speech": "Practical entities perfectly willing to engage in mutually-\nbeneficial trade.",
+      "speech_text_offset": 5089,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        5089,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 36,
+      "record_file_offset": 794,
+      "speech": "We Broodmasters are an adaptable species, which can function\nin almost any environment. I would be glad to reserve\nplanets suitable for Earthling life, signalling my fellow\nBroodmasters that they must not colonize such worlds. ",
+      "speech_text_offset": 3837,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 272
+        },
+        {
+          "result": 1,
+          "text": "THE JOT",
+          "text_offset": 284
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 292
+        },
+        {
+          "result": 3,
+          "text": "THE VENGE",
+          "text_offset": 302
+        },
+        {
+          "result": 4,
+          "text": "THE VORTICELLA",
+          "text_offset": 312
+        },
+        {
+          "result": 5,
+          "text": "YOURSELF",
+          "text_offset": 327
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "PREV...",
+          "text_offset": 5326
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 336
+        }
+      ],
+      "raw_words": [
+        272,
+        284,
+        292,
+        302,
+        312,
+        327,
+        5326,
+        336,
+        3837,
+        6,
+        2
+      ]
+    }
+  ],
+  "overlay": "ovl_26",
+  "animation": "brooc.pan"
+}

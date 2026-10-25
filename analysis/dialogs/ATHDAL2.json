@@ -1,0 +1,1404 @@
+{
+  "source": "ATHDAL2.BIN",
+  "count": 27,
+  "text_file_offset": 598,
+  "declared_text_bytes": 5025,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "You have come to us. We are named the\nAthdalde. We have plans for you. We\nmust speak of them. We will both\nprofit much. Other species must not\nknow. Will you hear us out?",
+      "speech_text_offset": 593,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WISH TO HEAR YOUR PROPOSAL",
+          "text_offset": 12
+        },
+        {
+          "result": 1,
+          "text": "I WANT NO PART OF SECRET PLANS",
+          "text_offset": 41
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        12,
+        41,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        593,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "We need worlds to mine. You can find\nsuch worlds. You will search for us.\nYou will destroy their bases. Destroy\na %s world. Do not talk to\nthem. Just destroy the planet's\nbase. We will pay you well. You will\nweaken the world. You will destroy\nits base. Its wealth will be ours. We\nwill give you metal. We will give you\nradioactives. We will give you water.\nWe will give you organics. Destroy a\n%s world. Do you agree to\nthis?",
+      "speech_text_offset": 764,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WILL ATTACK THIS WORLD",
+          "text_offset": 72
+        },
+        {
+          "result": 1,
+          "text": "I AM TOO WEAK TO ATTACK THIS WORLD",
+          "text_offset": 97
+        },
+        {
+          "result": 2,
+          "text": "I REFUSE TO BETRAY THIS WORLD TO YOU",
+          "text_offset": 132
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        72,
+        97,
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        764,
+        3,
+        0
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "You are unfair to us. We do not plan\nharm. You are safe with us.  Let us\ntalk about this. You must listen to\nus. We are friends to you.",
+      "speech_text_offset": 1190,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WILL HEAR YOU OUT",
+          "text_offset": 169
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 189
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        169,
+        189,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1190,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Bad bad bad bad bad. You have much\nfalse pride. You are opposed to us.\nYou are the Athdalde's enemy. Go\nbefore we kill you. Do not return to\nus. But you can make amends. You must\ndestroy a starbase. Then you must\ntell us. Give us the base's\ncoordinates.  We will forgive you\nthen. We will be friends again.",
+      "speech_text_offset": 1326,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1326,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "We give thanks to you. You will help\nus much. Go and get that world. Do\nnot fail us now.",
+      "speech_text_offset": 1633,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED TO TRADE FIRST",
+          "text_offset": 196
+        },
+        {
+          "result": 1,
+          "text": "I NEED INFORMATION FIRST",
+          "text_offset": 218
+        },
+        {
+          "result": 2,
+          "text": "I NEED A PEACE TREATY FIRST",
+          "text_offset": 243
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        196,
+        218,
+        243,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1633,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "You do jest with us. You can gain in\nstrength. When you are very strong.\nThen you can attack them. Then you\nwill help us. Do not tell our secret.\nThat you plan an attack. When you\nattack that world. Then we will be\nfriends.",
+      "speech_text_offset": 1722,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AT LEAST SELL ME SOME FUEL",
+          "text_offset": 271
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 298
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 310
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        271,
+        298,
+        310,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1722,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Treaties are for the weak. You and I\nare strong. So you need a treaty...\nPerhaps your worlds are weak. We will\nbe very fair. You need not fear us.\nUnless you do betray us. Then your\nworlds are prey.",
+      "speech_text_offset": 1946,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 323
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 298
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        323,
+        298,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1946,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Treaties are for the weak. You and I\nare strong. So you need a treaty...\nPerhaps your worlds are weak. We will\nbe very fair. You need not fear us.\nUnless you do betray us. Then your\nworlds are prey.",
+      "speech_text_offset": 1946,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED FUEL BEFORE I DEPART",
+          "text_offset": 329
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 298
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        329,
+        298,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        1946,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "We will trade with you. It will help\nyou fight. We will help you fight.\nWhat goods do you need? Do not forget\none thing. If you trade with us. You\nare beholden to us. Those who trade\nwith us.  Then are our close friends.\nIf you ever betray us. If you turn on\nus. We will not forgive you. Do you\nstill wish trade? Remember this will\ncommit you.",
+      "speech_text_offset": 2342,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 323
+        },
+        {
+          "result": 1,
+          "text": "NO TRADE",
+          "text_offset": 357
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 298
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        323,
+        357,
+        298,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        2342,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "Why have you come back? Go destroy a\n%s starbase.  You have not\nattacked one. You have not helped us.\nGo away and attack one. Then you can\ncome back.",
+      "speech_text_offset": 2686,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 298
+        },
+        {
+          "result": 1,
+          "text": "I NEED FUEL TO GO ON",
+          "text_offset": 366
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        298,
+        366,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        2686,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "We hear good of you. You have wrecked\na starbase. We like this very much.\nWe must know the coordinates. Soon\nbefore the base returns. Before the\nvictims rebuild it. Tell us the\ncoordinates now. Of the destroyed\nstarbase's system. Tell us the\ncoordinates now. ",
+      "speech_text_offset": 2836,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PROVIDE COORDINATES",
+          "text_offset": 387
+        },
+        {
+          "result": 1,
+          "text": "DO NOT PROVIDE COORDINATES",
+          "text_offset": 407
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        387,
+        407,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        2836,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "Thank you very very much. Let's work\ntogether in future. But please leave\nfor now. We have work to do.",
+      "speech_text_offset": 3096,
+      "choices": [
+        {
+          "result": 0,
+          "text": "LET'S TRADE BEFORE I GO",
+          "text_offset": 434
+        },
+        {
+          "result": 1,
+          "text": "I NEED INFORMATION BEFORE I GO",
+          "text_offset": 458
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        434,
+        458,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        3096,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "You have kept good faith. You helped\nus a lot. Thank you very very much.\nWe will now reward you. Please take\nyour reward freely. Then leave us for\nnow. We have work to do.",
+      "speech_text_offset": 3199,
+      "choices": [
+        {
+          "result": 0,
+          "text": "RECEIVE REWARD",
+          "text_offset": 489
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 323
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 298
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        489,
+        323,
+        298,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        3199,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "What can we tell you?  What\ninformation would you like?",
+      "speech_text_offset": 4961,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        4961,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "What can we tell you?  What\ninformation would you like?",
+      "speech_text_offset": 4961,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        4961,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "Fine worlds for our use. You can beat\nthem easily. Blow up all their bases.\nWe will pay you well. ",
+      "speech_text_offset": 3371,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        3371,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "They are simple robot beings. They\nlack self preservation instincts. So\nthey don't fear death. So we can kill\nthem. And then take their worlds. You\nkill them for us. ",
+      "speech_text_offset": 3470,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        3470,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "Their worlds are no good. They've\nsucked out all life. Keep them from\nyour ship. They can drain your power.\nThey always seek new worlds. And\nother sources of energy. ",
+      "speech_text_offset": 3637,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        3637,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "They have many fine worlds. They are\ngood trading partners. You must\nchoose for yourself. If you wish\nBroodmaster loot. We do not fight\nthem. But you could fight them. We\nwould not much care.",
+      "speech_text_offset": 4769,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        4769,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "Their world is very nice. But has very\nfew resources. It is hardly worth it.\nDo not bother with them. Other worlds\nare much better. ",
+      "speech_text_offset": 3804,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        3804,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "They are a suspicious lot. Pretty\ntough starships as well. ",
+      "speech_text_offset": 3937,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ACARI",
+          "text_offset": 504
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 510
+        },
+        {
+          "result": 2,
+          "text": "BALATHIDE",
+          "text_offset": 519
+        },
+        {
+          "result": 3,
+          "text": "BROODMASTERS",
+          "text_offset": 529
+        },
+        {
+          "result": 4,
+          "text": "CICISBEO",
+          "text_offset": 542
+        },
+        {
+          "result": 5,
+          "text": "DACIANS",
+          "text_offset": 551
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 4756
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        504,
+        510,
+        519,
+        529,
+        542,
+        551,
+        4756,
+        4764,
+        3937,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "They have great moral influence. We\ncan not attack them. Unless they wish\nan attack. But they rarely do so. If\nyou can trick them. And destroy a\nDignee base. We will be most glad. ",
+      "speech_text_offset": 3997,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        3997,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "They have some fine worlds. We could\nuse those worlds. Beware their mind\ncontrol secret. They can mess you up.\nGo in hard and fast. ",
+      "speech_text_offset": 4178,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        4178,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "We would like his world. But we can\nnot win. He can defend himself well.\nIf you can beat him. We would like to\nknow. Tell us what to do. Then we\nwill get him. ",
+      "speech_text_offset": 4311,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        4311,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "They have a good world. But we won't\nplunder them. They do not ever\nforgive. They will hunt us down. They\nwill fight and fight.  We dare not\nanger them. It is too much trouble. ",
+      "speech_text_offset": 4471,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        4471,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "They have few good resources. We can\ntrade with them. They are like a\nfriend. We don't need their worlds. ",
+      "speech_text_offset": 4649,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DIGNEE",
+          "text_offset": 559
+        },
+        {
+          "result": 1,
+          "text": "JOT",
+          "text_offset": 566
+        },
+        {
+          "result": 2,
+          "text": "MONAD",
+          "text_offset": 570
+        },
+        {
+          "result": 3,
+          "text": "VENGE",
+          "text_offset": 576
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 582
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 5017
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 4764
+        }
+      ],
+      "raw_words": [
+        559,
+        566,
+        570,
+        576,
+        582,
+        -1,
+        5017,
+        4764,
+        4649,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "You have kept good faith. You helped\nus a lot. Thank you very very much.\nWe will now reward you. Please take\nyour reward freely. Then leave us for\nnow. We have work to do.",
+      "speech_text_offset": 3199,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 323
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 298
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 6
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 0
+        }
+      ],
+      "raw_words": [
+        323,
+        298,
+        -1,
+        -1,
+        -1,
+        -1,
+        6,
+        0,
+        3199,
+        2,
+        2
+      ]
+    }
+  ],
+  "overlay": "ovl_23",
+  "animation": "athdaldc.pan"
+}

@@ -1,0 +1,1770 @@
+[
+  {
+    "source": "ATHBACK3.PIC",
+    "source_sha256": "f8a4eff2ac7b11c3594adba4aa21f1907238a51476ab397d965c597d502d712f",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 106,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 6133
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ATHBEGA.PIC",
+    "source_sha256": "436d992a9cd7454bcf5d6bfa017daf3f5e7ab989a7e174e63c9f477094337738",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 14,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 4217
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "AUTO5.PIC",
+    "source_sha256": "e0ecb7fa28b86c243ffa7e100407516e5e257500a9c5597417d1f038d58fae0b",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 72,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 7555
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "AUTOEGA.PIC",
+    "source_sha256": "1af1184870c75bec86a201f79fb25f1474998686d6ffcd3125b6e160cbe0c3ca",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 10,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 5573
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "BLACK2.PIC",
+    "source_sha256": "02e4d3f2bec70e814d4daf192dde9149cda302a822efc5535104753612fa8a6d",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 42,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 3021
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "BLACKEGA.PIC",
+    "source_sha256": "c9f88290f375728a359adf547421a55db31272ca6cbdf9495070db2d78e7546b",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 7,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 1856
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "BLEAK5.PIC",
+    "source_sha256": "f15947ced031a3f7fc684f0608cf22c88dd50257cb4acbbe219f1fd2319f357a",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 70,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 15102
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "BLEAKEGA.PIC",
+    "source_sha256": "bfbef6aa707197f2e18be1645a018bcd54150ef71d2654bc04a5a2fe9f645736",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 9,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 6912
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "BOOMSP.PIC",
+    "source_sha256": "e1152ede8a65a1b54aa0be9f4f157d4368e879090bc6e43e095826367b149fb2",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 0,
+    "used_colors": 84,
+    "blocks": [
+      {
+        "tag": "X0",
+        "offset": 0,
+        "length": 3767
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "BOSPEGA.PIC",
+    "source_sha256": "1bc5745c75c466966a94949e55d20375d9e72ee27fcdecfe08bbb8fa01fdd328",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 14,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 2962
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "BREATEGA.PIC",
+    "source_sha256": "4d5b578f5a6088874126c383b5ff2ea855bdee04980f7b573c8571038e3917e5",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 9,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 9046
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "BREATH1.PIC",
+    "source_sha256": "31062908089f177cd03fad15d5af36f22db7e0b7618f7227fb9ade29b2e46bab",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 72,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 20511
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "BUTTONS.PIC",
+    "source_sha256": "449242686bb0f7c1a9973d5be55d6550f383eaedadce8e8237ccc7422486002f",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 21,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 1137
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "CAVE3.PIC",
+    "source_sha256": "19b8bf612abc51ce14e10fac386c5b40ad3cfef81254c1c4feac4b4af81a144e",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 39,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 14566
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "CAVEEGA.PIC",
+    "source_sha256": "be5e460ad7663fef792981be1a752bad6488b3840ad0813ba63d1ff137769b1a",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 8,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 8835
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "COCKSP2.PIC",
+    "source_sha256": "86b5fed570f2365a4a2ab7e0f86050312387fe0701ed2e47b8b35d497707c54e",
+    "width": 100,
+    "height": 60,
+    "pixels": 6000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 78,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 1398
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "EARTH3.PIC",
+    "source_sha256": "2c97975696d190af28057aa6db0658e225d4d834778a7b3298507eb4be93f8ef",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 53,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 16100
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "EARTHEGA.PIC",
+    "source_sha256": "0e7d59075c601b46a4f09b293e70e2825d8c612866d70d543620311f3ada9671",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 10,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 9069
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "ENGINE.PIC",
+    "source_sha256": "0f719347169919ae17d029578e4ec48282b64952a03f26676d0bfa62001417fc",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 68,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "X0",
+        "offset": 774,
+        "length": 16256
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ENGINEGA.PIC",
+    "source_sha256": "84b52df940b4cc9ad8e5099b0c26f96832925706184dc6d63690733a3c1e4651",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 9326
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "ENGINESP.PIC",
+    "source_sha256": "7ee2dca294dd4e2c21e2889ddd2d0172211cd9d9de6ac833e37d1976ed6fb53b",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 165,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "X0",
+        "offset": 774,
+        "length": 15554
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ENGSPEGA.PIC",
+    "source_sha256": "5f749b6199f9cc8ca5ad06b248795b0d86a9e1171fe3d92f02868e8b6930e265",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 16,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 10812
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "FGHT10.PIC",
+    "source_sha256": "8f172b3d07645c490846ed6266cbb986877d6fcecb665943a3af56aa047c5e75",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 94,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "X0",
+        "offset": 774,
+        "length": 5107
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "FGHTEGA2.PIC",
+    "source_sha256": "dae62b58446b71d1d2e1a9955f61e64431e840d9cc7f0d6a8f19a9ba75f59551",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 15,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 2671
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "GRIM3.PIC",
+    "source_sha256": "ba381867626012b364414e3e6c00f4bd663fc03904fac8c9ec579afbc211c1aa",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 42,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 12723
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "GRIMEGA.PIC",
+    "source_sha256": "50946e0273f12184c512d13db3a47ac89d545ec2d3ed3ef6eb6e1d1f707af497",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 9,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 7170
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "GSPRITE1.PIC",
+    "source_sha256": "81cb2a01c59e8f1a24b1bc80774ffee93311d17344e2b7cd140fe8bfc3d34c7f",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 15,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 7136
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "GSPRITE3.PIC",
+    "source_sha256": "001db305e64e96facde40c3e66e41537674c07bdff02cf84eb04f4a76c66ded5",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 0,
+    "used_colors": 184,
+    "blocks": [
+      {
+        "tag": "X0",
+        "offset": 0,
+        "length": 11654
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ICE2.PIC",
+    "source_sha256": "e1c6e724791117ce80735c9c024c8415ded038107f3688a5e2bb578a3df5de7a",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 46,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 9165
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ICEEGA.PIC",
+    "source_sha256": "4463652d6b526dfb93119aeba126be3bb1ab4a8312f5d4649cef4ef577532cf3",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 8,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 4319
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "JUNGLE4.PIC",
+    "source_sha256": "b8c3cea5e0ff65c3b84dbb8f7ea7ecc44ba185c1a3038de322eb9baad5b9804d",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 55,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 13711
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "JUNGLEGA.PIC",
+    "source_sha256": "c5f2c0dd7b1fcab19eb43ab9be44bc368d3a5415d8f67b83dff296ba57d1f21f",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 13,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 9957
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "LABS.PIC",
+    "source_sha256": "573e1d89d84ca26016f3943972808c6eeeccddae16528161eee7e34324c95b1b",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 7,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 2300
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "LSPDLOGO.PIC",
+    "source_sha256": "8bbdd51569d6dc0d1779228e5a6d7bf29c4c3be26aa89eba57a684ec4ec020a7",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 8,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 1406
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "MAIN5.PIC",
+    "source_sha256": "c970ae8d6bd2bbdf393ff2305601f9326c77c58e499ce162a5597eebea700860",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 92,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "X0",
+        "offset": 774,
+        "length": 7356
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "MAINEGA2.PIC",
+    "source_sha256": "6b564c1f8cf0cf96091f18c4215d0c9df150582c80f3478acdfbccb16181040f",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 3821
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "MICRO.PIC",
+    "source_sha256": "2ccdf4cfa252957e2f3f4d2c68f1ba845cb8198bc5410e36f8e8142d40a9870d",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 2,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 1851
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "NOBACEGA.PIC",
+    "source_sha256": "5728235870f2d023ff6a21aec3ab2d6c9bd56c0389df94177eb21cd697e0893d",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 6,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 1347
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "NOBACK2.PIC",
+    "source_sha256": "998c80bfb72dfdaac233810afc37160ed81867f4b9d68399eb85b6e44c1f6d70",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 27,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 3617
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ORG3.PIC",
+    "source_sha256": "1eab9fb46c4f9e3a06fe43c9ea0cfea8969c9267c4a4cf8fb19ed8f14e51b231",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 62,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 9975
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ORGEGA.PIC",
+    "source_sha256": "25e886e606beadbc23bd0582b64ff66cb2d1f4e3f3acae9f4c355951be801617",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 5857
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "OUTDOORS.PIC",
+    "source_sha256": "eaa5f3f2dc4b403ff0ae308cd55c5ddf1be80ec9bb5505989a99a0af62a7a231",
+    "width": 288,
+    "height": 107,
+    "pixels": 30816,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 5,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 2014
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "PLANEGA2.PIC",
+    "source_sha256": "d76e820a814d58f65cbd1506b59bf17a9f6d2dd4b200b79e5149e58e64859918",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 0,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "X1",
+        "offset": 0,
+        "length": 6976
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "PLANETB.PIC",
+    "source_sha256": "0bec4f2ff0341560381d22b97f98bb0b6cfff20eb3c99356b99f406843f63300",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 635
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "PLANETC1.PIC",
+    "source_sha256": "469ad6c37fb3c31f06afb56835820aebebe67e49ecf826a46b153014345dc424",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 0,
+    "used_colors": 136,
+    "blocks": [
+      {
+        "tag": "X0",
+        "offset": 0,
+        "length": 20210
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ROCK3.PIC",
+    "source_sha256": "11f388409be48ee53edb7f5fb8abf0cb0ad9d55f883997c1412c0175cafad25e",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 56,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 15211
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "ROCKEGA.PIC",
+    "source_sha256": "a1330bade49c85b6e0eda322d34cba1b8ab2e658609547c2f25566a843e0c891",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 9,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 8281
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "SAND5.PIC",
+    "source_sha256": "90f06b0444539562cc40c0123ac0dd1f33ddf52fce4557e2017f99c7b5b888fd",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 34,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 12586
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "SANDEGA.PIC",
+    "source_sha256": "ba9caae4a238a27565fd99c18d9d3c76a9ff31f2b375d9e956c620e72b23e967",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 8134
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "SEA2.PIC",
+    "source_sha256": "1bd2bab63aff9c68847ea8be3e95ec9d2f9fe31a326696ef071ad7fc745a50e4",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 71,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 13586
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "SEAEGA.PIC",
+    "source_sha256": "41fe0c351659762b5e67145a52732d544e1260ce5c1ba6da4632f484f5ad1201",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 12,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 7600
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "STONE4.PIC",
+    "source_sha256": "379fffceb4764442f1d3f2c353dadb76d35240cd45f9edb774c08d8133d15c6a",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 45,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 16970
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "STONEEGA.PIC",
+    "source_sha256": "efbf89a314d94e3f963b0d16dfc970042c803600aa2cfe480546a0aa94b3cd8a",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 11,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 9178
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "TER6.PIC",
+    "source_sha256": "0dfbc5ab3dfb7530f09a1bd1d7826ccffd71e7a23d0f5db4bae1972124b2d960",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 128,
+    "used_colors": 125,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 386
+      },
+      {
+        "tag": "X0",
+        "offset": 390,
+        "length": 15946
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  },
+  {
+    "source": "TEREGA.PIC",
+    "source_sha256": "0b4e4d96a5ff64d1c185cb3c3dec84f6d3a6d9987f18908b57765384a751f885",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 15,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X1",
+        "offset": 1298,
+        "length": 7915
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette.",
+    "packing_caveat": "Four-bit nibble order inferred; not compared against a running DOS capture."
+  },
+  {
+    "source": "TRSPRITE.PIC",
+    "source_sha256": "0692ff9ed50f65c9a98031e706a38057b18b63103a07d057d9c08c8ead8bb650",
+    "width": 320,
+    "height": 200,
+    "pixels": 64000,
+    "palette_entries": 256,
+    "embedded_palette_entries": 256,
+    "used_colors": 167,
+    "blocks": [
+      {
+        "tag": "M0",
+        "offset": 0,
+        "length": 770
+      },
+      {
+        "tag": "E0",
+        "offset": 774,
+        "length": 258
+      },
+      {
+        "tag": "C0",
+        "offset": 1036,
+        "length": 258
+      },
+      {
+        "tag": "X0",
+        "offset": 1298,
+        "length": 3272
+      }
+    ],
+    "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+    "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+    "inherited_palette_source": "COCKSP2.PIC",
+    "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+  }
+]

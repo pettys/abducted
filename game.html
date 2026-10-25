@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lightspeed · The quiet frontier</title>
+<style>
+:root{color-scheme:dark;font-family:Consolas,'Courier New',monospace;color:#b9d7d4;background:#06090c}*{box-sizing:border-box}body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:22px}main{width:min(1280px,100%)}header,footer{display:flex;justify-content:space-between;gap:16px;align-items:center}header{padding:0 0 14px;font-size:11px;letter-spacing:2px}h1{font:inherit;margin:0;color:#e0eeeb}header span{color:#65857f}.light{color:#7ed5ad}#cockpit{position:relative;aspect-ratio:8/5;overflow:hidden;background:#02050a;border:1px solid #344346;box-shadow:0 16px 90px #000}#space,#frame,#hud{position:absolute;width:100%;height:100%;inset:0}#frame{image-rendering:pixelated;pointer-events:none}#hud{pointer-events:none}.topline{position:absolute;left:12%;right:12%;top:3%;display:flex;justify-content:space-between;font-size:clamp(7px,1vw,12px);letter-spacing:1px;color:#7daf9e}.reticle{position:absolute;left:50%;top:27%;width:28px;height:28px;transform:translate(-50%,-50%);opacity:.5;border:1px solid #85b5a266;border-radius:50%}.reticle:before,.reticle:after{content:'';position:absolute;background:#85b5a2}.reticle:before{width:8px;height:1px;left:9px;top:13px}.reticle:after{width:1px;height:8px;left:13px;top:9px}#markers{position:absolute;left:9.7%;top:0;width:80.6%;height:53.5%;overflow:hidden}.contact{position:absolute;color:#a9c9b0;font-size:clamp(7px,.85vw,11px);white-space:nowrap;text-shadow:0 1px 3px #000;transform:translate(-50%,0);padding-top:7px}.contact:before{content:'';position:absolute;top:-9px;left:calc(50% - 16px);width:32px;height:12px;border:1px solid #85b5a244;border-bottom:0}.instrument{position:absolute;top:67%;font-size:clamp(8px,1.1vw,14px);letter-spacing:1px}.instrument small{display:block;font-size:.67em;color:#74948d;margin-bottom:6px}.instrument strong{font-weight:normal;color:#b6e0c7}.speed{left:31%}.heading{right:31%;text-align:right}#readout{position:absolute;top:83%;left:31%;right:31%;text-align:center;font-size:clamp(7px,.9vw,11px);color:#78978d}#error{position:absolute;inset:15% 15% auto;padding:20px;background:#231116;border:1px solid #b96767;z-index:4;line-height:1.6}footer{padding:14px 0 0;font-size:11px;color:#69827e;flex-wrap:wrap}.controls{display:flex;gap:8px;flex-wrap:wrap}button{font:inherit;color:#acc9c2;background:#101a1d;border:1px solid #314347;padding:9px 12px;cursor:pointer;touch-action:none}button:hover,button.active{background:#263e3d;color:#e2fff0;border-color:#81b6a5}button:focus-visible{outline:2px solid #a5dec1;outline-offset:3px}.hint{margin:12px 0 0;font-size:10px;line-height:1.7;color:#6e8982}kbd{color:#b9c9c2;font:inherit}#pause{margin-left:auto}@media(max-width:650px){body{padding:10px}header{font-size:9px;letter-spacing:1px}header span{display:none}.controls{gap:4px}button{padding:10px 8px;font-size:10px}.reticle{width:18px;height:18px}.reticle:before{left:4px;top:8px}.reticle:after{left:8px;top:4px}}
+/* Radar occupies MAIN5's lower holographic projection pad. */
+#radar{position:absolute;left:24%;top:60%;width:52%;height:27.73%;pointer-events:none}
+.instrument{top:88%;font-size:clamp(6px,.9vw,12px)}.speed{left:28%}.heading{right:28%}#readout{top:96%;font-size:clamp(5px,.65vw,8px)}
+</style>
+</head>
+<body>
+<main>
+<header><h1>LIGHTSPEED <span>/ THE QUIET FRONTIER</span></h1><div class="light" id="status">INITIALIZING</div></header>
+<section id="cockpit" aria-label="Ship cockpit and space flight view">
+<canvas id="space" aria-label="WebGL view of nearby alien ships"></canvas>
+<canvas id="frame" width="320" height="200" aria-hidden="true"></canvas>
+<div id="hud"><div class="topline"><span>SECTOR 07 · FREE FLIGHT</span><span id="contacts">CONTACTS —</span></div><div id="markers"></div><div class="reticle"></div><div class="instrument speed"><small>VELOCITY</small><strong id="velocity">000</strong> <small style="display:inline">U/S</small></div><div class="instrument heading"><small>HEADING / PITCH</small><strong id="bearing">000 / +00</strong></div><div id="readout">FLIGHT SYSTEMS ONLINE</div></div>
+<canvas id="radar" aria-label="Ship-relative radar with altitude stems"></canvas>
+<div id="error" role="alert" hidden></div>
+</section>
+<footer><div class="controls" aria-label="Flight controls"><button data-control="left" aria-label="Rotate left">← LEFT</button><button data-control="right" aria-label="Rotate right">RIGHT →</button><button data-control="up" aria-label="Pitch up">↑ UP</button><button data-control="down" aria-label="Pitch down">↓ DOWN</button><button data-control="slower">− SLOWER</button><button data-control="faster">+ FASTER</button></div><div class="controls"><button id="range" title="Cycle radar range (R)">RADAR · 6,400 U</button><button id="pause">PAUSE</button><button id="reset">RESET FLIGHT</button></div></footer>
+<p class="hint"><kbd>ARROWS / WASD</kbd> steer &nbsp;·&nbsp; <kbd>E / Q</kbd> faster / slower &nbsp;·&nbsp; <kbd>SPACE</kbd> stop &nbsp;·&nbsp; <kbd>R</kbd> radar range &nbsp;·&nbsp; <kbd>P</kbd> pause &nbsp;·&nbsp; Hold buttons to fly. No roll. Alien ships are stationary reference contacts.</p>
+</main>
+<script src="ship-viewer/model-catalog.js"></script>
+<script src="ship-viewer/geometry.js"></script>
+<script>
+(()=>{
+ 'use strict';
+ const $=id=>document.getElementById(id),canvas=$('space'),error=$('error');
+ const fail=message=>{error.textContent=message;error.hidden=false;$('status').textContent='SYSTEM OFFLINE';};
+ // Only the original forward viewport is cut out; dashboard and original assets stay intact.
+ const cockpitImage=new Image();cockpitImage.onload=()=>{const ctx=$('frame').getContext('2d');ctx.drawImage(cockpitImage,0,0);ctx.clearRect(31,0,258,107);};cockpitImage.onerror=()=>fail('Cockpit image could not load: analysis/images/MAIN5.png');cockpitImage.src='analysis/images/MAIN5.png';
+ try{
+ const gl=canvas.getContext('webgl',{antialias:false,alpha:false});if(!gl)throw Error('WebGL unavailable. Enable hardware acceleration and reload.');
+ if(!window.LIGHTSPEED_MODELS||!window.ShipGeometry)throw Error('Ship assets failed to load. Keep game.html beside ship-viewer/.');
+ const shader=(type,source)=>{const s=gl.createShader(type);gl.shaderSource(s,source);gl.compileShader(s);if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))throw Error(gl.getShaderInfoLog(s));return s;};
+ const program=gl.createProgram();
+ gl.attachShader(program,shader(gl.VERTEX_SHADER,`attribute vec3 position;attribute vec3 color;uniform mat4 projection;uniform mat3 view;uniform mat3 model;uniform vec3 offset;uniform float pointSize;varying vec3 rgb;void main(){vec3 p=view*(model*position+offset);gl_Position=projection*vec4(p,1.);gl_PointSize=pointSize;rgb=color;}`));
+ gl.attachShader(program,shader(gl.FRAGMENT_SHADER,'precision mediump float;varying vec3 rgb;void main(){gl_FragColor=vec4(rgb,1.);}'));
+ gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw Error(gl.getProgramInfoLog(program));gl.useProgram(program);
+ const u=Object.fromEntries(['projection','view','model','offset','pointSize'].map(k=>[k,gl.getUniformLocation(program,k)])),pos=gl.getAttribLocation(program,'position'),col=gl.getAttribLocation(program,'color');
+ const identity=new Float32Array([1,0,0,0,1,0,0,0,1]);
+ const buffer=data=>{const b=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,b);gl.bufferData(gl.ARRAY_BUFFER,data,gl.STATIC_DRAW);return {b,count:data.length/6};};
+ function draw(b,mode){if(!b.count)return;gl.bindBuffer(gl.ARRAY_BUFFER,b.b);gl.enableVertexAttribArray(pos);gl.enableVertexAttribArray(col);gl.vertexAttribPointer(pos,3,gl.FLOAT,false,24,0);gl.vertexAttribPointer(col,3,gl.FLOAT,false,24,12);gl.drawArrays(mode,0,b.count);}
+ const definitions=[['ACARI3D:0','ACARI',[-330,70,-1100],.6],['BALA3D:0','BALA',[320,-65,-1450],-.7],['CICIS3D:0','CICIS',[40,170,-2050],.9],['HALIC3D:0','HALIC',[-850,-160,-2100],1.8],['JOT3D:0','JOT',[1100,200,-2550],-1.2],['DIDIN3D:0','DIDIN',[-650,300,950],.3],['FEL3D:0','FEL',[700,-200,1300],1.4],
+ // Contacts straddle each decoded cutoff; the legacy approximate distance is used below.
+ ['ACARI3D:1','ACARI SCOUT',[3500,120,-200],.2],
+ ['BALA3D:1','BALA ESCORT',[-4100,-200,-300],1.1],
+ ['CICIS3D:1','CICIS PATROL',[500,300,-5900],-.5],
+ ['HALIC3D:1','HALIC WATCH',[-600,-350,-7100],.8],
+ ['JOT3D:1','JOT OUTRIDER',[900,500,-15000],1.4],
+ ['FEL3D:1','FEL DISTANT',[-1000,-600,-17800],-.4]];
+ const ships=definitions.map(([id,name,p,angle])=>{const source=LIGHTSPEED_MODELS.find(m=>m.id===id);const g=ShipGeometry.build(source);const c=Math.cos(angle),s=Math.sin(angle);const label=document.createElement('div');label.className='contact';$('markers').append(label);return {name,p,solid:buffer(g.solid),details:buffer(g.details),points:buffer(g.points),rotation:new Float32Array([c,0,-s,0,1,0,s,0,c]),label};});
+ // Deterministic stars in a distant, camera-centered sky, plus local navigation dust.
+ let seed=57;const random=()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;};
+ const stars=[];for(let i=0;i<2200;i++){const z=random()*2-1,a=random()*Math.PI*2,r=Math.sqrt(1-z*z),b=.25+random()*.65;stars.push(18000*r*Math.cos(a),18000*z,18000*r*Math.sin(a),b*.78,b*.88,b);}
+ const starBuffer=buffer(new Float32Array(stars));const dust=[];for(let i=0;i<450;i++)dust.push((random()-.5)*8000,(random()-.5)*8000,(random()-.5)*8000,.18,.29,.28);const dustBuffer=buffer(new Float32Array(dust));
+ const state={position:[0,0,0],yaw:0,pitch:0,speed:0,paused:false,frames:0,radarSetting:7,radarZoom:7,radarCutoff:6400};const keys=new Set(),held=new Map();
+ // Decoded DS:[0x7fe + setting*2]: settings 6/7/8 => 3800/6400/16384.
+ // game_data.bin DS begins at 0x4450; original LIGHTSPD.EXE words at 0x18eca.
+ const radarRanges={6:3800,7:6400,8:16384};
+ // Colors identify world distances, independently of the selected radar zoom.
+ const radarRings=[{distance:1000,c:'rgba(255,145,145,.52)'},{distance:3000,c:'rgba(255,232,132,.48)'},{distance:6000,c:'rgba(143,230,166,.46)'},{distance:12000,c:'rgba(193,201,205,.36)'}];
+ function radarRingsForSetting(setting,cutoff=radarRanges[setting]){return radarRings.map(ring=>({...ring,r:ring.distance/(2**setting)})).filter(ring=>ring.distance<=cutoff&&ring.r>=5&&ring.r<=64);}
+ const radarTransition={elapsed:.45,fromZoom:7,fromCutoff:6400};
+ const clamp01=value=>Math.max(0,Math.min(1,value));
+ function updateRadarZoom(dt){
+  radarTransition.elapsed=Math.min(.45,radarTransition.elapsed+dt);
+  const t=radarTransition.elapsed/.45,ease=t*t*(3-2*t);
+  state.radarZoom=radarTransition.fromZoom+(state.radarSetting-radarTransition.fromZoom)*ease;
+  state.radarCutoff=radarTransition.fromCutoff+(radarRanges[state.radarSetting]-radarTransition.fromCutoff)*ease;
+ }
+ const radarCanvas=$('radar'),radarContext=radarCanvas.getContext('2d');
+ // FUN_1edc_000e with threshold=0: nested integer distance approximation, not hypot.
+ function legacyLength(a,b){let hi=Math.max(Math.abs(Math.trunc(a)),Math.abs(Math.trunc(b))),lo=Math.min(Math.abs(Math.trunc(a)),Math.abs(Math.trunc(b)));let n=hi+(lo>>2);if(2*lo>hi)n+=((2*lo-hi)*3)>>4;return n-(n>>6);}
+ function radarDistance(delta){return legacyLength(delta[0],legacyLength(delta[2],delta[1]));}
+ function cycleRange(){
+  radarTransition.fromZoom=state.radarZoom;radarTransition.fromCutoff=state.radarCutoff;radarTransition.elapsed=0;
+  state.radarSetting=state.radarSetting===8?6:state.radarSetting+1;
+  $('range').textContent='RADAR · '+radarRanges[state.radarSetting].toLocaleString('en-US')+' U';
+ }
+ $('range').onclick=cycleRange;
+ function radarProject(delta,view){
+  const x=view[0]*delta[0]+view[3]*delta[1]+view[6]*delta[2],height=view[1]*delta[0]+view[4]*delta[1]+view[7]*delta[2],depth=view[2]*delta[0]+view[5]*delta[1]+view[8]*delta[2];
+  // Legacy 0x1000 tilt = 22.5 degrees; continuous scaling retains signed Y compression during zoom.
+  const tilt=Math.PI/8,plane=depth*Math.sin(tilt),blip=plane-height*Math.cos(tilt);
+  const screenY=value=>33+.75*value/(2**(state.radarZoom+(value<0?1:0)));
+  return {x:96+x/(2**state.radarZoom),planeY:screenY(plane),blipY:screenY(blip),distance:radarDistance(delta)};
+ }
+ function drawRadar(view,dpr){
+  const w=Math.max(1,Math.round(radarCanvas.clientWidth*dpr)),h=Math.max(1,Math.round(radarCanvas.clientHeight*dpr));if(radarCanvas.width!==w||radarCanvas.height!==h){radarCanvas.width=w;radarCanvas.height=h;}
+  const ctx=radarContext;ctx.setTransform(w/192,0,0,h/64,0,0);ctx.clearRect(0,0,192,64);ctx.save();
+  // Scale the same physical distances as contacts; omit out-of-range or tiny rings.
+  const rings=radarRingsForSetting(state.radarZoom,state.radarCutoff);
+  ctx.lineWidth=.5;for(const {r,c,distance} of rings){ctx.globalAlpha=Math.min(clamp01((r-5)/3),clamp01((64-r)/4),clamp01((state.radarCutoff-distance)/400));ctx.strokeStyle=c;ctx.beginPath();ctx.ellipse(96,33+r/12,r,r/4,0,0,Math.PI*2);ctx.stroke();}ctx.globalAlpha=1;
+  ctx.font='3.5px Consolas,monospace';ctx.textAlign='center';ctx.fillStyle='#96b4aa';ctx.fillText('MODERN RADAR  /  '+radarRanges[state.radarSetting].toLocaleString('en-US')+' U',96,5);
+  ctx.fillStyle='#bed5c7';ctx.beginPath();ctx.moveTo(96,30.8);ctx.lineTo(94.8,34);ctx.lineTo(97.2,34);ctx.closePath();ctx.fill();
+  let count=0;for(const ship of ships){const delta=ship.p.map((v,i)=>v-state.position[i]),p=radarProject(delta,view);if(p.distance>state.radarCutoff)continue;count++;ctx.globalAlpha=clamp01((state.radarCutoff-p.distance)/200);
+   // Shared X keeps stems vertical; footprints remain on the observer's plane.
+   ctx.strokeStyle=p.blipY<=33?'rgba(112,211,157,.7)':'rgba(90,142,112,.7)';ctx.lineWidth=.4;ctx.beginPath();ctx.moveTo(p.x,p.planeY);ctx.lineTo(p.x,p.blipY);ctx.stroke();ctx.fillStyle='#739c87';ctx.fillRect(p.x-.35,p.planeY-.35,.7,.7);ctx.fillStyle='#e0eadd';ctx.fillRect(p.x-.65,p.blipY-.65,1.3,1.3);
+  }
+  ctx.globalAlpha=1;ctx.fillStyle='#7c978d';ctx.fillText(count+' CONTACTS  ·  R TO CYCLE',96,62);ctx.restore();
+ }
+ const bindings={ArrowLeft:'left',KeyA:'left',ArrowRight:'right',KeyD:'right',ArrowUp:'up',KeyW:'up',ArrowDown:'down',KeyS:'down',KeyQ:'slower',Minus:'slower',KeyE:'faster',Equal:'faster'};
+ const active=control=>[...keys].some(k=>bindings[k]===control)||[...held.values()].includes(control);
+ function clearInput(){keys.clear();held.clear();document.querySelectorAll('[data-control]').forEach(b=>b.classList.remove('active'));}
+ function pause(value){state.paused=value;clearInput();$('pause').textContent=value?'RESUME':'PAUSE';$('pause').setAttribute('aria-pressed',String(value));$('status').textContent=value?'FLIGHT PAUSED':'● FLIGHT ONLINE';}
+ window.addEventListener('keydown',e=>{if(e.target.closest('button')&&(e.code==='Space'||e.code==='Enter'))return;if(bindings[e.code]||['Space','KeyP','KeyR'].includes(e.code)){e.preventDefault();if(bindings[e.code])keys.add(e.code);if(e.code==='Space')state.speed=0;if(e.code==='KeyR'&&!e.repeat)cycleRange();if(e.code==='KeyP'&&!e.repeat)pause(!state.paused);}});
+ window.addEventListener('keyup',e=>keys.delete(e.code));window.addEventListener('blur',clearInput);document.addEventListener('visibilitychange',()=>{if(document.hidden)pause(true);});
+ document.querySelectorAll('[data-control]').forEach(b=>{b.addEventListener('pointerdown',e=>{e.preventDefault();b.setPointerCapture(e.pointerId);held.set(e.pointerId,b.dataset.control);b.classList.add('active');});const release=e=>{held.delete(e.pointerId);b.classList.remove('active');};b.addEventListener('pointerup',release);b.addEventListener('pointercancel',release);b.addEventListener('lostpointercapture',release);});
+ $('pause').onclick=()=>pause(!state.paused);$('reset').onclick=()=>{Object.assign(state,{position:[0,0,0],yaw:0,pitch:0,speed:0,radarSetting:7,radarZoom:7,radarCutoff:6400});Object.assign(radarTransition,{elapsed:.45,fromZoom:7,fromCutoff:6400});$('range').textContent='RADAR · 6,400 U';pause(false);};
+ let previous=performance.now();
+ function frame(now){
+ const dt=Math.min((now-previous)/1000,.05);previous=now;updateRadarZoom(dt);
+ if(!state.paused){state.yaw+=((active('right')?1:0)-(active('left')?1:0))*dt*.65;state.yaw=((state.yaw+Math.PI*3)%(Math.PI*2))-Math.PI;state.pitch=Math.max(-1.48,Math.min(1.48,state.pitch+((active('up')?1:0)-(active('down')?1:0))*dt*.55));state.speed=Math.max(0,Math.min(600,state.speed+((active('faster')?1:0)-(active('slower')?1:0))*dt*140));const cp=Math.cos(state.pitch);state.position[0]+=Math.sin(state.yaw)*cp*state.speed*dt;state.position[1]+=Math.sin(state.pitch)*state.speed*dt;state.position[2]-=Math.cos(state.yaw)*cp*state.speed*dt;}
+ const dpr=Math.min(devicePixelRatio||1,2),w=Math.max(1,Math.round(canvas.clientWidth*dpr)),h=Math.max(1,Math.round(canvas.clientHeight*dpr));if(canvas.width!==w||canvas.height!==h){canvas.width=w;canvas.height=h;}
+ gl.viewport(0,0,w,h);gl.clearColor(.005,.011,.022,1);gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT);
+ // Render into the actual cockpit window, so the crosshair and optical center agree.
+ const vw=Math.round(w*258/320),vh=Math.round(h*107/200);gl.viewport(Math.round(w*31/320),h-vh,vw,vh);
+ // Anchor FOV horizontally: the wide cockpit otherwise exaggerates edge stretching.
+ const horizontalFov=75,aspect=vw/vh;
+ const f=aspect/Math.tan(horizontalFov*Math.PI/360),near=1,far=40000;gl.uniformMatrix4fv(u.projection,false,new Float32Array([f/(vw/vh),0,0,0,0,f,0,0,0,0,(far+near)/(near-far),-1,0,0,2*far*near/(near-far),0]));
+ const cy=Math.cos(state.yaw),sy=Math.sin(state.yaw),cp=Math.cos(state.pitch),sp=Math.sin(state.pitch);
+ const view=new Float32Array([cy,-sy*sp,-sy*cp,0,cp,-sp,sy,cy*sp,cy*cp]);gl.uniformMatrix3fv(u.view,false,view);gl.uniformMatrix3fv(u.model,false,identity);gl.uniform3f(u.offset,0,0,0);gl.uniform1f(u.pointSize,Math.max(1,dpr));gl.disable(gl.DEPTH_TEST);draw(starBuffer,gl.POINTS);
+ gl.enable(gl.DEPTH_TEST);gl.uniform3f(u.offset,...state.position.map(v=>-v));draw(dustBuffer,gl.POINTS);gl.uniform1f(u.pointSize,2*dpr);let nearest=Infinity;
+ for(const ship of ships){const delta=ship.p.map((v,i)=>v-state.position[i]);const distance=Math.hypot(...delta);nearest=Math.min(nearest,distance);gl.uniform3f(u.offset,...delta);gl.uniformMatrix3fv(u.model,false,ship.rotation);gl.enable(gl.POLYGON_OFFSET_FILL);gl.polygonOffset(1,1);draw(ship.solid,gl.TRIANGLES);gl.disable(gl.POLYGON_OFFSET_FILL);draw(ship.details,gl.LINES);draw(ship.points,gl.POINTS);
+ const x=view[0]*delta[0]+view[3]*delta[1]+view[6]*delta[2],y=view[1]*delta[0]+view[4]*delta[1]+view[7]*delta[2],z=view[2]*delta[0]+view[5]*delta[1]+view[8]*delta[2];const nx=x*f/(vw/vh)/-z,ny=y*f/-z;ship.label.hidden=z>=-1||Math.abs(nx)>.92||Math.abs(ny)>.8;ship.label.style.left=(nx*.5+.5)*100+'%';ship.label.style.top=(-ny*.5+.5)*100+6+'%';ship.label.textContent=ship.name+' · '+Math.round(distance)+' U';}
+ drawRadar(view,dpr);
+ $('velocity').textContent=String(Math.round(state.speed)).padStart(3,'0');$('bearing').textContent=String(Math.round((state.yaw*180/Math.PI+360)%360)%360).padStart(3,'0')+' / '+(state.pitch>=0?'+':'−')+String(Math.round(Math.abs(state.pitch)*180/Math.PI)).padStart(2,'0');$('readout').textContent=state.paused?'FLIGHT PAUSED':nearest<180?'PROXIMITY ALERT · SPACE TO STOP':'NEAREST CONTACT '+Math.round(nearest)+' U';$('contacts').textContent=ships.length+' CONTACTS';state.frames++;requestAnimationFrame(frame);
+ }
+ canvas.addEventListener('webglcontextlost',e=>{e.preventDefault();pause(true);fail('Graphics context interrupted. Reload to resume flight.');});
+ window.lightspeedGame={state,ships,gl,radarRanges,radarDistance,radarProject};pause(false);requestAnimationFrame(frame);
+ }catch(e){fail(e.message);console.error(e);}
+})();
+</script>
+</body>
+</html>

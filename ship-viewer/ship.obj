@@ -1,0 +1,109 @@
+# Original FIRST3D geometry extracted from Lightspeed
+mtllib ship.mtl
+o FIRST3D
+v 8 -16 -56
+v -8 -16 -56
+v 8 -8 -56
+v -8 -8 -56
+v 16 -16 -24
+v -16 -16 -24
+v 16 16 -24
+v -16 16 -24
+v 16 -16 24
+v -16 -16 24
+v 16 16 24
+v -16 16 24
+v 72 -16 -8
+v -72 -16 -8
+v 72 -16 24
+v -72 -16 24
+v 80 -8 -8
+v -80 -8 -8
+v 80 -24 -8
+v -80 -24 -8
+v 88 -16 -8
+v -88 -16 -8
+v 80 -8 24
+v -80 -8 24
+v 80 -24 24
+v -80 -24 24
+v 88 -16 24
+v -88 -16 24
+v 80 48 24
+v -80 48 24
+v 80 48 56
+v -80 48 56
+v 80 -16 -56
+v -80 -16 -56
+usemtl color_210
+f 6 10 16 14
+usemtl color_210
+f 5 13 15 9
+usemtl color_208
+f 4 8 6 2
+usemtl color_205
+f 8 12 10 6
+usemtl color_208
+f 7 3 1 5
+usemtl color_205
+f 11 7 5 9
+usemtl color_220
+f 3 4 2 1
+usemtl color_250
+f 7 8 4 3
+usemtl color_212
+f 11 12 8 7
+usemtl color_13
+f 11 12 10 9
+usemtl color_13
+f 16 24 28 26
+usemtl color_13
+f 27 23 15 25
+usemtl color_208
+f 18 14 16 24
+usemtl color_208
+f 13 17 23 15
+usemtl color_214
+f 24 18 22 28
+usemtl color_214
+f 17 23 27 21
+usemtl color_204
+f 29 31 23 17
+usemtl color_204
+f 32 30 18 24
+usemtl color_202
+f 29 31 32 30
+usemtl color_218
+f 32 30 18 24
+usemtl color_218
+f 29 31 23 17
+usemtl color_220
+f 32 30 29 31
+usemtl color_206
+f 13 15 16 14 6 5
+usemtl color_205
+f 2 1 5 6
+usemtl color_208
+f 19 13 15 25
+usemtl color_208
+f 20 26 16 14
+usemtl color_212
+f 28 26 20 22
+usemtl color_212
+f 25 19 21 27
+usemtl color_186
+f 17 33 21
+usemtl color_184
+f 33 21 19
+usemtl color_184
+f 13 17 33
+usemtl color_180
+f 19 13 33
+usemtl color_180
+f 14 34 20
+usemtl color_184
+f 18 14 34
+usemtl color_184
+f 20 22 34
+usemtl color_186
+f 22 18 34

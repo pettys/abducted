@@ -1,0 +1,240 @@
+CICIS1.BIN | ovl_17 | cicisc.pan
+
+RECORD 0 (0x0002)
+Felicitations, fortunate one. The glory you behold is named Gold
+Moon Rising of the Cicisbeo. Our gratification at your wonderful
+acts is intense and our condescension most great. What reward
+do you desire?
+  [0] PERPETUAL PEACE BETWEEN OUR NATIONS.
+  [1] INFORMATION
+  [2] TRADE
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 1 (0x0018)
+Felicitations, fortunate one. The glory you behold is named Gold
+Moon Rising of the Cicisbeo. Our gratification at your wonderful
+acts is intense and our condescension most great. What reward
+do you desire?
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 2 (0x002e)
+You are welcome. Your wondering eyes behold Jade Flowerbud. We
+of the Cicisbeo consider you a friend. In what manner can we
+interact?
+  [0] INFORMATION
+  [1] I'D LIKE TO OPEN TRADING
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 3 (0x0044)
+You now descry the glorious form of Summer Breeze. I belong to
+the Cicisbeo, who grace the cosmos with our presence. How have
+you chosen to serve us?
+  [0] I SERVE BEST WHEN PROPERLY INFORMED.
+  [1] I'D LIKE TO OPEN TRADING
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 4 (0x005a)
+No doubt unwittingly, you have offended our calm existence. The
+entity of wondrous color whom you now witness is titled Silver
+Whip. Go, and do not return until you have redeemed yourself.
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 5 (0x0070)
+Granted. We of the Cicisbeo happily concede the slight abrid-
+gement of our personal liberty necessary to ensure peace and
+prosperity between yourselves and us. The peace agreement is
+now considered to be in effect. Are there other humble wishes
+of yours which we can grant?
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 6 (0x0086)
+We of the Cicisbeo value our treasures highly, and are careful
+only to deal in sordid mercantile matters with those that have
+demonstrated their faithfulness and fortitude.  Were you to
+serve us by destroying our foes or bringing us useful data, your
+status might improve.
+  [0] WHICH FOES DO YOU REFER TO ?
+  [1] WHAT TYPE OF DATA ?
+  [2] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 7 (0x009c)
+We of the Cicisbeo value our treasures highly, and are careful
+only to deal in sordid mercantile matters with those that have
+demonstrated their faithfulness and fortitude. Were you to
+serve us by bringing us useful data, your status might improve.
+  [0] WHAT TYPE OF DATA ?
+  [1] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 8 (0x00b2)
+We of the Cicisbeo value our treasures highly, and are careful
+only to deal in sordid mercantile matters with those that have
+demonstrated their faithfulness and fortitude.
+  [0] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 9 (0x00c8)
+We of the Cicisbeo value our treasures highly, and are careful
+only to deal in sordid mercantile matters with those that have
+demonstrated their faithfulness and fortitude. Were you to serve
+us by destroying our foes, your status might improve.
+  [0] WHICH FOES DO YOU REFER TO ?
+  [1] HOW ABOUT SOME INFORMATION INSTEAD ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 10 (0x00de)
+The Didinium are abhorred by all civilized worlds. In addition,
+the Stentor are dangerous pirates.
+  [0] INFORMATION
+  [1] YOU MENTIONED DATA EARLIER. WHAT TYPE OF DATA ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 11 (0x00f4)
+The Didinium are abhorred by all civilized worlds. In addition,
+the Stentor are dangerous pirates.
+  [0] INFORMATION
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 12 (0x010a)
+We know little about the Fel species. More information on these
+entities would certainly be beneficial to our lovely brains.
+  [0] INFORMATION
+  [1] YOU MENTIONED FOES EARLIER. WHO ARE THEY ?
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 13 (0x0120)
+We know little about the Fel species. More information on these
+entities would certainly be beneficial to our lovely brains.
+  [0] INFORMATION
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 14 (0x0136)
+This information is most fascinating. It will take some time to
+digest. Please leave and return at a more opportune time. If you
+require equipment before your departure, you may purchase it.
+  [0] TRADE FOR EQUIPMENT
+  [1] WAIT! BEFORE I GO, I'D LIKE SOME INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 15 (0x014c)
+We comprehend that you have been in touch with the Fel. Inform
+us at once of their nature and appearance.
+  [0] INFORM CICISBEO OF FEL DATA
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 16 (0x0162)
+In what manner can we best enlighten your benighted mind? There
+are many species that inhabit our cluster.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 17 (0x0178)
+The Broodmasters are loathsome in both appearance and psyche.
+Their minds are filled with lust for ascendancy rather than
+adornment. We feel sorrow for their appalling condition.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 18 (0x018e)
+The Didinium are scabrous monstrosities which devote their lives
+towards ruining the pleasures of others. We would applaud and
+reward any brave captain who could extirpate the Didinium plague.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 19 (0x01a4)
+We know little of the Fel. But the rumors that come to us are
+disturbing. If you come across them in your travels, please
+tell us of their nature.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 20 (0x01ba)
+What we know of the Fel we have learned from you. They seem
+innocuous enough. Our earlier fears were baseless.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 21 (0x01d0)
+Bizarre beings, the Lutin, but not unpleasing to the eye. They
+are quick and their ships very agile. However, they have no free
+will, so always respond identically to a given approach in
+conversation. Additionally, they have no memory of previous
+encounters, whether fair or foul.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 22 (0x01e6)
+The Stentor is a nauseating predator creature, deadly to the
+weak or crippled. We Cicisbeo, being strong, have little to
+fear. The Stentor, in fact, are a single being, which has 
+foolishly multiplicated itself through time travel.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT
+
+RECORD 23 (0x01fc)
+We the Cicisbeo are Deity's perfect creation, the gift of
+Nature to the universe. Behold our glory.
+  [0] BROODMASTERS
+  [1] DIDINIUM
+  [2] FEL
+  [3] LUTIN
+  [4] STENTOR
+  [5] YOURSELF
+  [6] EXIT

@@ -1,0 +1,121 @@
+{
+  "source": "CICISC.PAN",
+  "viewport": [
+    0,
+    0,
+    319,
+    199,
+    1
+  ],
+  "sprite_count": 21,
+  "sprites": [
+    {
+      "index": 0,
+      "width": 130,
+      "height": 32
+    },
+    {
+      "index": 1,
+      "width": 130,
+      "height": 33
+    },
+    {
+      "index": 2,
+      "width": 130,
+      "height": 33
+    },
+    {
+      "index": 3,
+      "width": 67,
+      "height": 167
+    },
+    {
+      "index": 4,
+      "width": 57,
+      "height": 18
+    },
+    {
+      "index": 5,
+      "width": 56,
+      "height": 17
+    },
+    {
+      "index": 6,
+      "width": 56,
+      "height": 18
+    },
+    {
+      "index": 7,
+      "width": 19,
+      "height": 41
+    },
+    {
+      "index": 8,
+      "width": 19,
+      "height": 41
+    },
+    {
+      "index": 9,
+      "width": 19,
+      "height": 41
+    },
+    {
+      "index": 10,
+      "width": 45,
+      "height": 35
+    },
+    {
+      "index": 11,
+      "width": 45,
+      "height": 35
+    },
+    {
+      "index": 12,
+      "width": 45,
+      "height": 35
+    },
+    {
+      "index": 13,
+      "width": 10,
+      "height": 3
+    },
+    {
+      "index": 15,
+      "width": 10,
+      "height": 3
+    },
+    {
+      "index": 16,
+      "width": 26,
+      "height": 15
+    },
+    {
+      "index": 17,
+      "width": 26,
+      "height": 15
+    },
+    {
+      "index": 18,
+      "width": 26,
+      "height": 15
+    },
+    {
+      "index": 19,
+      "width": 35,
+      "height": 50
+    },
+    {
+      "index": 20,
+      "width": 10,
+      "height": 3
+    },
+    {
+      "index": 21,
+      "width": 49,
+      "height": 55
+    }
+  ],
+  "animation_file_offset": 6768,
+  "animation_bytes": 736,
+  "note": "Sprite sheet only; animation bytecode not executed."
+}

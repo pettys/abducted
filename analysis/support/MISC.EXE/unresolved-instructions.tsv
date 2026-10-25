@@ -1,0 +1,2 @@
+address	instruction	reason
+1000:004b	INT 0x16	indirect control flow; targets require validation

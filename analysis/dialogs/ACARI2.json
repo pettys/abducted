@@ -1,0 +1,1083 @@
+{
+  "source": "ACARI2.BIN",
+  "count": 25,
+  "text_file_offset": 554,
+  "declared_text_bytes": 2220,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Are you the female of your species?",
+      "speech_text_offset": 237,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YES",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "NO",
+          "text_offset": 4
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        0,
+        4,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        237,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Friendliest greetings, warm one. We the Acari are\nmore than pleased to see your shapely form again",
+      "speech_text_offset": 273,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I HAVE IMPORTANT BUSINESS",
+          "text_offset": 19
+        },
+        {
+          "result": 1,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 45
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        19,
+        45,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        273,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Friendliest greetings, warm one. We the Acari are\nmore than pleased to see your shapely form again",
+      "speech_text_offset": 273,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I HAVE IMPORTANT BUSINESS",
+          "text_offset": 19
+        },
+        {
+          "result": 1,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 45
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        19,
+        45,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        273,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Earth monster, you frighten us. Why have you come\nhere?",
+      "speech_text_offset": 372,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YOU MUST EVACUATE THIS PLANET",
+          "text_offset": 62
+        },
+        {
+          "result": 1,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 45
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        62,
+        45,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        372,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "Earth monster, you frighten us. Why have you come\nhere?",
+      "speech_text_offset": 372,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YOU MUST EVACUATE THIS PLANET",
+          "text_offset": 62
+        },
+        {
+          "result": 1,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 45
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        62,
+        45,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        372,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Heu! I am the handsome male of my species. Please,\nopen your space capsule and let us engage in\ndiscussion. ",
+      "speech_text_offset": 428,
+      "choices": [
+        {
+          "result": 0,
+          "text": "OPEN CAPSULE",
+          "text_offset": 121
+        },
+        {
+          "result": 1,
+          "text": "NO THANKS",
+          "text_offset": 134
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        121,
+        134,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        428,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Greetings, Earth-creature. I, too, am the male of my\nspecies.  What brotherhood, what camaraderie shall\nwe share! Let us seek closer contact immediately.\nOpen your capsule, that we may penetrate its\nrecesses. ",
+      "speech_text_offset": 537,
+      "choices": [
+        {
+          "result": 0,
+          "text": "OPEN CAPSULE",
+          "text_offset": 121
+        },
+        {
+          "result": 1,
+          "text": "NO THANKS",
+          "text_offset": 134
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        121,
+        134,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        537,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Warrg, I am saddened. What joy we could have shared.",
+      "speech_text_offset": 747,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        747,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Ho, ho. We know what business you wish for. But\nstrangely, our respect in you has diminished since\nlast we met. ",
+      "speech_text_offset": 800,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 150
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        150,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        800,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "Ho, ho. We know what business you wish for. But\nstrangely, our respect in you has diminished since\nlast we met. ",
+      "speech_text_offset": 800,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        800,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "Ho, ho. How can you expect us to take you\nseriously?",
+      "speech_text_offset": 913,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        232,
+        -1,
+        913,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "We leave with alacrity. May we never meet again.",
+      "speech_text_offset": 966,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        966,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "Very good. What joy we feel upon accomplishing our\nheartfelt desires. ",
+      "speech_text_offset": 1015,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 150
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        150,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        1015,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "Very good. What joy we feel upon accomplishing our\nheartfelt desires. ",
+      "speech_text_offset": 1015,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        1015,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "In the joy of the moment, there can be no objections\nto such a simple request. Do you agree to this:\n\"The Earth people concur that the company of the\nAcari people is pleasant. Therefore, we agree that\nthe Earth people and the Acari people should not\nmake war, but the alternative.\"",
+      "speech_text_offset": 1086,
+      "choices": [
+        {
+          "result": 0,
+          "text": "SIGN TREATY",
+          "text_offset": 163
+        },
+        {
+          "result": 1,
+          "text": "DO NOT SIGN",
+          "text_offset": 175
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        163,
+        175,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        1086,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We are reliably informed by the Cicisbeo that you\nhumans have a genetic and mental capacity for\nviolence unsurpassed by other species. Pardon our\ncaution. ",
+      "speech_text_offset": 1368,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        1368,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "We are reliably informed by the Cicisbeo that you\nhumans have a genetic and mental capacity for\nviolence unsurpassed by other species. Pardon our\ncaution. ",
+      "speech_text_offset": 1368,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        1368,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "Now that is done, what else would your heart\ndesire?",
+      "speech_text_offset": 1524,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        -1,
+        1524,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "Well, treaties are not for everyone. Is there\nanything else I can supply you with?",
+      "speech_text_offset": 1577,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 144
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 92
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 7
+        }
+      ],
+      "raw_words": [
+        144,
+        92,
+        -1,
+        -1,
+        -1,
+        -1,
+        13,
+        7,
+        1577,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "What would you like to know, Earth-human?",
+      "speech_text_offset": 1660,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        1660,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "How many Broodmasters does it take to change a\nlighting circuit?  Two. One changes the circuit,\nand the other shoots him and takes the credit. ",
+      "speech_text_offset": 1702,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        1702,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "Those Cicisbeo are certainly pulchritudinous. Heu!\nWe'd love to get into their philibegs! In fact,\nthey're the primary reason we joined the Peace\nAlliance in the first place. ",
+      "speech_text_offset": 1846,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        1846,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "The Dacians are muscular and handsome. We're\nimpressed. ",
+      "speech_text_offset": 2022,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        2022,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "Pronounce Dignee with the accent on the second\nsyllable. ",
+      "speech_text_offset": 2079,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        2079,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "These little Halicot buggers appeal to us even more\nthan those luscious Cicisbeo. ",
+      "speech_text_offset": 2137,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 200
+        },
+        {
+          "result": 2,
+          "text": "DACIANS",
+          "text_offset": 209
+        },
+        {
+          "result": 3,
+          "text": "DIGNEE",
+          "text_offset": 217
+        },
+        {
+          "result": 4,
+          "text": "HALICOT",
+          "text_offset": 224
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 232
+        }
+      ],
+      "raw_words": [
+        187,
+        200,
+        209,
+        217,
+        224,
+        -1,
+        232,
+        -1,
+        2137,
+        5,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_22",
+  "animation": "acaric.pan"
+}

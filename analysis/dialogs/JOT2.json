@@ -1,0 +1,418 @@
+{
+  "source": "JOT2.BIN",
+  "count": 12,
+  "text_file_offset": 268,
+  "declared_text_bytes": 366,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "choose",
+      "speech_text_offset": 294,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WISH TO JOIN THE LOVE ALLIANCE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I WISH TO JOIN THE PEACE ALLIANCE",
+          "text_offset": 33
+        },
+        {
+          "result": 2,
+          "text": "I WISH TO JOIN THE FREEDOM ALLIANCE",
+          "text_offset": 67
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        0,
+        33,
+        67,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        294,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "ask",
+      "speech_text_offset": 301,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 103
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        103,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        301,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "sell",
+      "speech_text_offset": 305,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 121
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        121,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        305,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "begone",
+      "speech_text_offset": 310,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        310,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "die",
+      "speech_text_offset": 317,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 127
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        127,
+        -1,
+        317,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "obey",
+      "speech_text_offset": 321,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AGREE TO JOIN LOVE ALLIANCE",
+          "text_offset": 133
+        },
+        {
+          "result": 1,
+          "text": "REFUSE TO JOIN LOVE ALLIANCE",
+          "text_offset": 161
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        133,
+        161,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        321,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "praise",
+      "speech_text_offset": 326,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ALL HAIL THE LOVE ALLIANCE!",
+          "text_offset": 190
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        326,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "peace",
+      "speech_text_offset": 333,
+      "choices": [
+        {
+          "result": 0,
+          "text": "SIGN PEACE TREATY",
+          "text_offset": 218
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        218,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        333,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "boon",
+      "speech_text_offset": 339,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 103
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 121
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        103,
+        121,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        339,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "praise",
+      "speech_text_offset": 344,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ALL HAIL THE LOVE ALLIANCE!",
+          "text_offset": 190
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 115
+        }
+      ],
+      "raw_words": [
+        190,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        115,
+        -1,
+        344,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "know",
+      "speech_text_offset": 351,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 236
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 257
+        },
+        {
+          "result": 2,
+          "text": "THE PEACE ALLIANCE",
+          "text_offset": 275
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "EXIT",
+          "text_offset": 361
+        }
+      ],
+      "raw_words": [
+        236,
+        257,
+        275,
+        -1,
+        -1,
+        -1,
+        361,
+        -1,
+        351,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "done",
+      "speech_text_offset": 356,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 361
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        361,
+        -1,
+        356,
+        0,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_31",
+  "animation": "jotc.pan"
+}

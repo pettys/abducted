@@ -1,0 +1,56 @@
+{
+  "source": "MONADC.PAN",
+  "viewport": [
+    0,
+    0,
+    319,
+    199,
+    1
+  ],
+  "sprite_count": 8,
+  "sprites": [
+    {
+      "index": 0,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 1,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 2,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 3,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 10,
+      "width": 274,
+      "height": 95
+    },
+    {
+      "index": 11,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 12,
+      "width": 274,
+      "height": 96
+    },
+    {
+      "index": 13,
+      "width": 274,
+      "height": 96
+    }
+  ],
+  "animation_file_offset": 38314,
+  "animation_bytes": 176,
+  "note": "Sprite sheet only; animation bytecode not executed."
+}

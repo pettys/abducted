@@ -1,0 +1,445 @@
+{
+  "source": "DIDIN1.BIN",
+  "count": 11,
+  "text_file_offset": 246,
+  "declared_text_bytes": 1403,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "SECRET   FRIENDS  WE\nBASE     WE       REWARD\nHERE     WANT     YOU\nYOU      GIVE     CLEVER\nFIND     REWARD   YOU",
+      "speech_text_offset": 141,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 13
+        },
+        {
+          "result": 2,
+          "text": "REWARD ?",
+          "text_offset": 25
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        0,
+        13,
+        25,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        141,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "TREATIES WE       DIDINIUM\nNOT      NOT      FREE\nPOSSIBLE ANSWER   VESSELS\nWE       FOR      WE\nGIVE     CAPTAINS NOT\nAPOLOGY  DIDINIUM CONTROL",
+      "speech_text_offset": 256,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 13
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 46
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        13,
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        256,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "NO       ALL      SORRY\nDATA     DATA     DATA\nHERE     INFO     LACKING\nNO       HELD     APOLOGY\nINFO     DIDINIUM NO\nHERE     CAPTAINS DATA",
+      "speech_text_offset": 401,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 46
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        0,
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        401,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "YOU      WE       YOU\nDESTROY  DESIRE   DESTROY\nANY      LOCATION ANY\nWORLD    GIVE     STATION\nPLANET   YOU      WE\nDEFENSE  GREAT    TRADE\nSTATION  REWARD   MUCH",
+      "speech_text_offset": 544,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 13
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        0,
+        13,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        544,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "YOU      WE       YOU\nTELL     GRATEFUL TELL\nLOCATION WE       LOCATION\nWORLD    TRADE    NOW\nLACKING  WE       WE\nSTATION  REWARD   LISTEN",
+      "speech_text_offset": 708,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PROVIDE LOCATION",
+          "text_offset": 52
+        },
+        {
+          "result": 1,
+          "text": "REFUSE TO PROVIDE SUCH COORDINATES",
+          "text_offset": 69
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        52,
+        69,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        708,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "WE       DIDINIUM YOU\nGRATEFUL VESSELS  GREAT\nMOST     VISIT    HELP\nGRATEFUL SOON     FRIEND",
+      "speech_text_offset": 848,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ASK FOR REWARD",
+          "text_offset": 104
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 46
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        104,
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        848,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "KIND     MUST     WE\nEARTHMAN KNOW     SHOW\nHUMAN    LOCATION GOOD\nGREAT    YOU      FAITH\nNEED     TELL     WE\nKNOW     LOCATION TRADE",
+      "speech_text_offset": 942,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PROVIDE LOCATION",
+          "text_offset": 52
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 46
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 13
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 0
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        52,
+        46,
+        13,
+        0,
+        -1,
+        -1,
+        40,
+        34,
+        942,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "POWERFUL WE       FINE\nEARTHMAN PRAISE   GOODS\nHUMAN    WE       YOU\nYOU      GIVE     EXCEL\nGREAT    GOODS    YES",
+      "speech_text_offset": 1288,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CONTINUE",
+          "text_offset": 132
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1288,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "MUCH     YOU      FIND\nGRATEFUL HELP     MORE\nTHANK    US       SUCH\nYOU      AGAIN    WORLDS",
+      "speech_text_offset": 1194,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 46
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        46,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        1194,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "TREATIES WE       DIDINIUM\nNOT      NOT      FREE\nPOSSIBLE ANSWER   VESSELS\nWE       FOR      WE\nGIVE     CAPTAINS NOT\nAPOLOGY  DIDINIUM CONTROL",
+      "speech_text_offset": 256,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CONTINUE",
+          "text_offset": 132
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        256,
+        1,
+        0
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "NO       ALL      SORRY\nDATA     DATA     DATA\nHERE     INFO     LACKING\nNO       HELD     APOLOGY\nINFO     DIDINIUM NO\nHERE     CAPTAINS DATA",
+      "speech_text_offset": 401,
+      "choices": [
+        {
+          "result": 0,
+          "text": "CONTINUE",
+          "text_offset": 132
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        132,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        401,
+        1,
+        0
+      ]
+    }
+  ],
+  "overlay": "ovl_18",
+  "animation": "didc.pan"
+}

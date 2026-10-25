@@ -1,0 +1,152 @@
+source	start	end_exclusive	length	kind	region
+LIGHTSPD.EXE	0	5120	5120	DOS header and relocation table	header
+LIGHTSPD.EXE	5120	82362	77242	resident load image	resident
+LIGHTSPD.EXE	82362	82368	6	alignment	tail_alignment
+LIGHTSPD.OVL	0	1000	1000	overlay relocation records	ovl_00
+LIGHTSPD.OVL	1000	1008	8	alignment	ovl_00
+LIGHTSPD.OVL	1008	10448	9440	code overlay payload	ovl_00
+LIGHTSPD.OVL	10448	10528	80	overlay relocation records	ovl_01
+LIGHTSPD.OVL	10528	11920	1392	code overlay payload	ovl_01
+LIGHTSPD.OVL	11920	12028	108	overlay relocation records	ovl_02
+LIGHTSPD.OVL	12028	12032	4	alignment	ovl_02
+LIGHTSPD.OVL	12032	14016	1984	code overlay payload	ovl_02
+LIGHTSPD.OVL	14016	14088	72	overlay relocation records	ovl_03
+LIGHTSPD.OVL	14088	14096	8	alignment	ovl_03
+LIGHTSPD.OVL	14096	14736	640	code overlay payload	ovl_03
+LIGHTSPD.OVL	14736	14948	212	overlay relocation records	ovl_04
+LIGHTSPD.OVL	14948	14960	12	alignment	ovl_04
+LIGHTSPD.OVL	14960	18416	3456	code overlay payload	ovl_04
+LIGHTSPD.OVL	18416	18480	64	code overlay payload	ovl_05
+LIGHTSPD.OVL	18480	18532	52	overlay relocation records	ovl_06
+LIGHTSPD.OVL	18532	18544	12	alignment	ovl_06
+LIGHTSPD.OVL	18544	19680	1136	code overlay payload	ovl_06
+LIGHTSPD.OVL	19680	19804	124	overlay relocation records	ovl_07
+LIGHTSPD.OVL	19804	19808	4	alignment	ovl_07
+LIGHTSPD.OVL	19808	22864	3056	code overlay payload	ovl_07
+LIGHTSPD.OVL	22864	22952	88	overlay relocation records	ovl_08
+LIGHTSPD.OVL	22952	22960	8	alignment	ovl_08
+LIGHTSPD.OVL	22960	23568	608	code overlay payload	ovl_08
+LIGHTSPD.OVL	23568	23572	4	overlay relocation records	ovl_09
+LIGHTSPD.OVL	23572	23584	12	alignment	ovl_09
+LIGHTSPD.OVL	23584	25040	1456	code overlay payload	ovl_09
+LIGHTSPD.OVL	25040	25432	392	overlay relocation records	ovl_10
+LIGHTSPD.OVL	25432	25440	8	alignment	ovl_10
+LIGHTSPD.OVL	25440	36192	10752	code overlay payload	ovl_10
+LIGHTSPD.OVL	36192	37068	876	overlay relocation records	ovl_11
+LIGHTSPD.OVL	37068	37072	4	alignment	ovl_11
+LIGHTSPD.OVL	37072	49568	12496	code overlay payload	ovl_11
+LIGHTSPD.OVL	49568	50724	1156	overlay relocation records	ovl_12
+LIGHTSPD.OVL	50724	50736	12	alignment	ovl_12
+LIGHTSPD.OVL	50736	66608	15872	code overlay payload	ovl_12
+LIGHTSPD.OVL	66608	66904	296	overlay relocation records	ovl_13
+LIGHTSPD.OVL	66904	66912	8	alignment	ovl_13
+LIGHTSPD.OVL	66912	71424	4512	code overlay payload	ovl_13
+LIGHTSPD.OVL	71424	72552	1128	overlay relocation records	ovl_14
+LIGHTSPD.OVL	72552	72560	8	alignment	ovl_14
+LIGHTSPD.OVL	72560	83200	10640	code overlay payload	ovl_14
+LIGHTSPD.OVL	83200	83752	552	overlay relocation records	ovl_15
+LIGHTSPD.OVL	83752	83760	8	alignment	ovl_15
+LIGHTSPD.OVL	83760	90640	6880	code overlay payload	ovl_15
+LIGHTSPD.OVL	90640	90760	120	overlay relocation records	ovl_16
+LIGHTSPD.OVL	90760	90768	8	alignment	ovl_16
+LIGHTSPD.OVL	90768	92496	1728	code overlay payload	ovl_16
+LIGHTSPD.OVL	92496	92624	128	overlay relocation records	ovl_17
+LIGHTSPD.OVL	92624	94400	1776	code overlay payload	ovl_17
+LIGHTSPD.OVL	94400	94500	100	overlay relocation records	ovl_18
+LIGHTSPD.OVL	94500	94512	12	alignment	ovl_18
+LIGHTSPD.OVL	94512	95696	1184	code overlay payload	ovl_18
+LIGHTSPD.OVL	95696	95816	120	overlay relocation records	ovl_19
+LIGHTSPD.OVL	95816	95824	8	alignment	ovl_19
+LIGHTSPD.OVL	95824	97056	1232	code overlay payload	ovl_19
+LIGHTSPD.OVL	97056	97168	112	overlay relocation records	ovl_20
+LIGHTSPD.OVL	97168	98576	1408	code overlay payload	ovl_20
+LIGHTSPD.OVL	98576	98664	88	overlay relocation records	ovl_21
+LIGHTSPD.OVL	98664	98672	8	alignment	ovl_21
+LIGHTSPD.OVL	98672	99616	944	code overlay payload	ovl_21
+LIGHTSPD.OVL	99616	99736	120	overlay relocation records	ovl_22
+LIGHTSPD.OVL	99736	99744	8	alignment	ovl_22
+LIGHTSPD.OVL	99744	101616	1872	code overlay payload	ovl_22
+LIGHTSPD.OVL	101616	101736	120	overlay relocation records	ovl_23
+LIGHTSPD.OVL	101736	101744	8	alignment	ovl_23
+LIGHTSPD.OVL	101744	103824	2080	code overlay payload	ovl_23
+LIGHTSPD.OVL	103824	103908	84	overlay relocation records	ovl_24
+LIGHTSPD.OVL	103908	103920	12	alignment	ovl_24
+LIGHTSPD.OVL	103920	104992	1072	code overlay payload	ovl_24
+LIGHTSPD.OVL	104992	105084	92	overlay relocation records	ovl_25
+LIGHTSPD.OVL	105084	105088	4	alignment	ovl_25
+LIGHTSPD.OVL	105088	106704	1616	code overlay payload	ovl_25
+LIGHTSPD.OVL	106704	106844	140	overlay relocation records	ovl_26
+LIGHTSPD.OVL	106844	106848	4	alignment	ovl_26
+LIGHTSPD.OVL	106848	109040	2192	code overlay payload	ovl_26
+LIGHTSPD.OVL	109040	109176	136	overlay relocation records	ovl_27
+LIGHTSPD.OVL	109176	109184	8	alignment	ovl_27
+LIGHTSPD.OVL	109184	111536	2352	code overlay payload	ovl_27
+LIGHTSPD.OVL	111536	111712	176	overlay relocation records	ovl_28
+LIGHTSPD.OVL	111712	114464	2752	code overlay payload	ovl_28
+LIGHTSPD.OVL	114464	114616	152	overlay relocation records	ovl_29
+LIGHTSPD.OVL	114616	114624	8	alignment	ovl_29
+LIGHTSPD.OVL	114624	116928	2304	code overlay payload	ovl_29
+LIGHTSPD.OVL	116928	117036	108	overlay relocation records	ovl_30
+LIGHTSPD.OVL	117036	117040	4	alignment	ovl_30
+LIGHTSPD.OVL	117040	118624	1584	code overlay payload	ovl_30
+LIGHTSPD.OVL	118624	118740	116	overlay relocation records	ovl_31
+LIGHTSPD.OVL	118740	118752	12	alignment	ovl_31
+LIGHTSPD.OVL	118752	120544	1792	code overlay payload	ovl_31
+LIGHTSPD.OVL	120544	120632	88	overlay relocation records	ovl_32
+LIGHTSPD.OVL	120632	120640	8	alignment	ovl_32
+LIGHTSPD.OVL	120640	121984	1344	code overlay payload	ovl_32
+LIGHTSPD.OVL	121984	122236	252	overlay relocation records	ovl_33
+LIGHTSPD.OVL	122236	122240	4	alignment	ovl_33
+LIGHTSPD.OVL	122240	126000	3760	code overlay payload	ovl_33
+LIGHTSPD.OVL	126000	126076	76	overlay relocation records	ovl_34
+LIGHTSPD.OVL	126076	126080	4	alignment	ovl_34
+LIGHTSPD.OVL	126080	127312	1232	code overlay payload	ovl_34
+LIGHTSPD.OVL	127312	127404	92	overlay relocation records	ovl_35
+LIGHTSPD.OVL	127404	127408	4	alignment	ovl_35
+LIGHTSPD.OVL	127408	129728	2320	code overlay payload	ovl_35
+LIGHTSPD.OVL	129728	129844	116	overlay relocation records	ovl_36
+LIGHTSPD.OVL	129844	129856	12	alignment	ovl_36
+LIGHTSPD.OVL	129856	132752	2896	code overlay payload	ovl_36
+LIGHTSPD.OVL	132752	132848	96	overlay relocation records	ovl_37
+LIGHTSPD.OVL	132848	134080	1232	code overlay payload	ovl_37
+LIGHTSPD.OVL	134080	134184	104	overlay relocation records	ovl_38
+LIGHTSPD.OVL	134184	134192	8	alignment	ovl_38
+LIGHTSPD.OVL	134192	136720	2528	code overlay payload	ovl_38
+LIGHTSPD.OVL	136720	136816	96	overlay relocation records	ovl_39
+LIGHTSPD.OVL	136816	138976	2160	code overlay payload	ovl_39
+LIGHTSPD.OVL	138976	139028	52	overlay relocation records	ovl_40
+LIGHTSPD.OVL	139028	139040	12	alignment	ovl_40
+LIGHTSPD.OVL	139040	140512	1472	code overlay payload	ovl_40
+LIGHTSPD.OVL	140512	140644	132	overlay relocation records	ovl_41
+LIGHTSPD.OVL	140644	140656	12	alignment	ovl_41
+LIGHTSPD.OVL	140656	143568	2912	code overlay payload	ovl_41
+LIGHTSPD.OVL	143568	143620	52	overlay relocation records	ovl_42
+LIGHTSPD.OVL	143620	143632	12	alignment	ovl_42
+LIGHTSPD.OVL	143632	144624	992	code overlay payload	ovl_42
+LIGHTSPD.OVL	144624	144732	108	overlay relocation records	ovl_43
+LIGHTSPD.OVL	144732	144736	4	alignment	ovl_43
+LIGHTSPD.OVL	144736	147600	2864	code overlay payload	ovl_43
+LIGHTSPD.OVL	147600	147632	32	overlay relocation records	ovl_44
+LIGHTSPD.OVL	147632	148048	416	code overlay payload	ovl_44
+LIGHTSPD.OVL	148048	148252	204	overlay relocation records	ovl_45
+LIGHTSPD.OVL	148252	148256	4	alignment	ovl_45
+LIGHTSPD.OVL	148256	151648	3392	code overlay payload	ovl_45
+LIGHTSPD.OVL	151648	151728	80	overlay relocation records	ovl_46
+LIGHTSPD.OVL	151728	153664	1936	code overlay payload	ovl_46
+LIGHTSPD.OVL	153664	153740	76	overlay relocation records	ovl_47
+LIGHTSPD.OVL	153740	153744	4	alignment	ovl_47
+LIGHTSPD.OVL	153744	155296	1552	code overlay payload	ovl_47
+LIGHTSPD.OVL	155296	155476	180	overlay relocation records	ovl_48
+LIGHTSPD.OVL	155476	155488	12	alignment	ovl_48
+LIGHTSPD.OVL	155488	159968	4480	code overlay payload	ovl_48
+LIGHTSPD.OVL	159968	160124	156	overlay relocation records	ovl_49
+LIGHTSPD.OVL	160124	160128	4	alignment	ovl_49
+LIGHTSPD.OVL	160128	164144	4016	code overlay payload	ovl_49
+LIGHTSPD.OVL	164144	164224	80	overlay relocation records	ovl_50
+LIGHTSPD.OVL	164224	165920	1696	code overlay payload	ovl_50
+LIGHTSPD.OVL	165920	165956	36	overlay relocation records	ovl_51
+LIGHTSPD.OVL	165956	165968	12	alignment	ovl_51
+LIGHTSPD.OVL	165968	166836	868	code overlay payload	ovl_51
+LIGHTSPD.EXE	82368	82540	172	overlay relocation records	game_data
+LIGHTSPD.EXE	82540	82544	4	alignment	game_data
+LIGHTSPD.EXE	82544	139582	57038	initialized data payload	game_data

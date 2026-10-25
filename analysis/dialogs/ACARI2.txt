@@ -1,0 +1,214 @@
+ACARI2.BIN | ovl_22 | acaric.pan
+
+RECORD 0 (0x0002)
+Are you the female of your species?
+  [0] YES
+  [1] NO
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 1 (0x0018)
+Friendliest greetings, warm one. We the Acari are
+more than pleased to see your shapely form again
+  [0] I HAVE IMPORTANT BUSINESS
+  [1] REFUEL AND LEAVE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 2 (0x002e)
+Friendliest greetings, warm one. We the Acari are
+more than pleased to see your shapely form again
+  [0] I HAVE IMPORTANT BUSINESS
+  [1] REFUEL AND LEAVE
+  [2] LEAVE
+
+RECORD 3 (0x0044)
+Earth monster, you frighten us. Why have you come
+here?
+  [0] YOU MUST EVACUATE THIS PLANET
+  [1] REFUEL AND LEAVE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 4 (0x005a)
+Earth monster, you frighten us. Why have you come
+here?
+  [0] YOU MUST EVACUATE THIS PLANET
+  [1] REFUEL AND LEAVE
+  [2] LEAVE
+
+RECORD 5 (0x0070)
+Heu! I am the handsome male of my species. Please,
+open your space capsule and let us engage in
+discussion. 
+  [0] OPEN CAPSULE
+  [1] NO THANKS
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 6 (0x0086)
+Greetings, Earth-creature. I, too, am the male of my
+species.  What brotherhood, what camaraderie shall
+we share! Let us seek closer contact immediately.
+Open your capsule, that we may penetrate its
+recesses. 
+  [0] OPEN CAPSULE
+  [1] NO THANKS
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 7 (0x009c)
+Warrg, I am saddened. What joy we could have shared.
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 8 (0x00b2)
+Ho, ho. We know what business you wish for. But
+strangely, our respect in you has diminished since
+last we met. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] PEACE TREATY
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 9 (0x00c8)
+Ho, ho. We know what business you wish for. But
+strangely, our respect in you has diminished since
+last we met. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 10 (0x00de)
+Ho, ho. How can you expect us to take you
+seriously?
+  [0] EXIT
+
+RECORD 11 (0x00f4)
+We leave with alacrity. May we never meet again.
+  [0] LEAVE
+
+RECORD 12 (0x010a)
+Very good. What joy we feel upon accomplishing our
+heartfelt desires. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] PEACE TREATY
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 13 (0x0120)
+Very good. What joy we feel upon accomplishing our
+heartfelt desires. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 14 (0x0136)
+In the joy of the moment, there can be no objections
+to such a simple request. Do you agree to this:
+"The Earth people concur that the company of the
+Acari people is pleasant. Therefore, we agree that
+the Earth people and the Acari people should not
+make war, but the alternative."
+  [0] SIGN TREATY
+  [1] DO NOT SIGN
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 15 (0x014c)
+We are reliably informed by the Cicisbeo that you
+humans have a genetic and mental capacity for
+violence unsurpassed by other species. Pardon our
+caution. 
+  [0] INFORMATION
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 16 (0x0162)
+We are reliably informed by the Cicisbeo that you
+humans have a genetic and mental capacity for
+violence unsurpassed by other species. Pardon our
+caution. 
+  [0] INFORMATION
+  [1] LEAVE
+
+RECORD 17 (0x0178)
+Now that is done, what else would your heart
+desire?
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 18 (0x018e)
+Well, treaties are not for everyone. Is there
+anything else I can supply you with?
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 19 (0x01a4)
+What would you like to know, Earth-human?
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT
+
+RECORD 20 (0x01ba)
+How many Broodmasters does it take to change a
+lighting circuit?  Two. One changes the circuit,
+and the other shoots him and takes the credit. 
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT
+
+RECORD 21 (0x01d0)
+Those Cicisbeo are certainly pulchritudinous. Heu!
+We'd love to get into their philibegs! In fact,
+they're the primary reason we joined the Peace
+Alliance in the first place. 
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT
+
+RECORD 22 (0x01e6)
+The Dacians are muscular and handsome. We're
+impressed. 
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT
+
+RECORD 23 (0x01fc)
+Pronounce Dignee with the accent on the second
+syllable. 
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT
+
+RECORD 24 (0x0212)
+These little Halicot buggers appeal to us even more
+than those luscious Cicisbeo. 
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DACIANS
+  [3] DIGNEE
+  [4] HALICOT
+  [5] EXIT

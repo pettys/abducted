@@ -1,0 +1,1654 @@
+{
+  "source": "DIGNEE2.BIN",
+  "count": 35,
+  "text_file_offset": 774,
+  "declared_text_bytes": 2939,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "* Felicitous * Auspicious *\n* %s * Cordial *\n* Auspicious * Amicable *",
+      "speech_text_offset": 521,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        0,
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        50,
+        -1,
+        521,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "* Felicitous * Auspicious *\n* %s * Cordial *\n* Auspicious * Amicable *",
+      "speech_text_offset": 521,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        521,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "* Wary * Prudence *\n* %s self *\n* Circumspection *",
+      "speech_text_offset": 592,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        0,
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        50,
+        -1,
+        592,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "* Wary * Prudence *\n* %s self *\n* Circumspection *",
+      "speech_text_offset": 592,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        592,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "* %s self *\n* Admonishment * Forewarn *\n* Counsel *",
+      "speech_text_offset": 643,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        0,
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        50,
+        -1,
+        643,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "* %s self *\n* Admonishment * Forewarn *\n* Counsel *",
+      "speech_text_offset": 643,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 32
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        16,
+        32,
+        38,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        643,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "* Hostility * Enmity *\n* %s Earth-foe *\n* Bellicose * Inimical *",
+      "speech_text_offset": 695,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 50
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        0,
+        16,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        56,
+        695,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "* Hostility * Enmity *\n* %s Earth-foe *\n* Bellicose * Inimical *",
+      "speech_text_offset": 695,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        16,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        56,
+        695,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "* Credence * Reliability *\n* Confidence * Unsuspicious *\n* Treaty = Peace * Eternal *\n* Voluntary * Treaty? *",
+      "speech_text_offset": 760,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YES, I AGREE TO A PEACE TREATY",
+          "text_offset": 62
+        },
+        {
+          "result": 1,
+          "text": "A PEACE TREATY BETWEEN US IS STILL PREMATURE",
+          "text_offset": 93
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        62,
+        93,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        760,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "* Credence * Reliability *\n* Confidence * Unsuspicious *\n* Potentate Supreme = Treaty *\n* Self unauthorized *",
+      "speech_text_offset": 870,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I SEE",
+          "text_offset": 138
+        },
+        {
+          "result": 1,
+          "text": "I DON'T UNDERSTAND",
+          "text_offset": 144
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        138,
+        144,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        870,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "* Misgivings * Irresolution *\n* Suggestion * Suggestion *\n* Enemy * Freedom Alliance *\n* Earthman * Destroy *\n* Gratitude * %s *",
+      "speech_text_offset": 980,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YOU WISH ME TO ATTACK THE FREEDOM ALLIANCE?",
+          "text_offset": 163
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        163,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        980,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "* Distrust * Suspicion * \n* Hesitation *\n* Enemy * Freedom Alliance *\n* Aggression * Earthman * \n* Destruction * Proof",
+      "speech_text_offset": 1109,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YOU WISH ME TO ATTACK THE FREEDOM ALLIANCE?",
+          "text_offset": 163
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        163,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1109,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "* Derision * Scorn *\n* Suggestion * Suggestion * \n* Insertion * Trailblazer *\n* Cloaca *\n* Amusement * Ridicule *",
+      "speech_text_offset": 1228,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TAKE OFFENSE",
+          "text_offset": 207
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        207,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        56,
+        1228,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "* Sympathy * Accord *\n* Suitable * Uninhabited *\n* %s * ",
+      "speech_text_offset": 1342,
+      "choices": [
+        {
+          "result": 0,
+          "text": "Thank You.",
+          "text_offset": 2789
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        2789,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1342,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "* Destruction * Freedom Alliance * \n* Desirable * Camaraderie *\n* Reciprocity * Interchange *\n* Habitable * Planet * \n* Coordinates = Habitable *",
+      "speech_text_offset": 1399,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I GET A WORLD IF I FIGHT THE FREEDOM ALLIANCE?",
+          "text_offset": 220
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        220,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1399,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "* Destruction * Freedom Alliance * \n* Desirable * Camaraderie *\n* Reciprocity * Interchange *\n* Habitable * Planet * \n* Coordinates = Habitable *",
+      "speech_text_offset": 1399,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I GET A WORLD IF I FIGHT THE FREEDOM ALLIANCE?",
+          "text_offset": 220
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        220,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1399,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "* Vilify * Reproach * Abuse *\n* Suggestion * Suggestion * \n* Colonize * Cloaca *\n* Suitable * Amusement *",
+      "speech_text_offset": 1545,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TAKE OFFENSE",
+          "text_offset": 207
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        207,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1545,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "* Affirmation * Positivity * \n* Confirmation *",
+      "speech_text_offset": 1651,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED SOME INFORMATION FIRST",
+          "text_offset": 267
+        },
+        {
+          "result": 1,
+          "text": "I NEED SOME EQUIPMENT FIRST",
+          "text_offset": 297
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        267,
+        297,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1651,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "* Travel * Dignee Home *\n* Treaty * Unauthorized * \n* Treaty * Absent * Here *",
+      "speech_text_offset": 1698,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I MUST GO TO THE HOMEWORLD FOR A TREATY?",
+          "text_offset": 325
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 50
+        }
+      ],
+      "raw_words": [
+        325,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        -1,
+        1698,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "* Suspicion * Distrust *\n* Information * Cicisbeo * \n* Earthman = Evil *\n* Disproof? *",
+      "speech_text_offset": 1777,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 50
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        0,
+        16,
+        38,
+        -1,
+        -1,
+        -1,
+        50,
+        56,
+        1777,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "* Wisdom * Species * Advice *",
+      "speech_text_offset": 1864,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        1864,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "* Wisdom * Species * Advice *",
+      "speech_text_offset": 1864,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        1864,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "* Comrades * Peace Alliance *\n* Weak * Benign * Protected *",
+      "speech_text_offset": 1894,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        1894,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "* Robbers * Criminals * \n* Plunder *\n* Ruin * Worlds * Pillage *",
+      "speech_text_offset": 1954,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        1954,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "* Contamination * Parasites * \n* Infestation *\n* Suggestion * Avoidance * ",
+      "speech_text_offset": 2019,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        2019,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "* Comrades * Peace Alliance *\n* Egocentric * Amusing * \n* Harmless *",
+      "speech_text_offset": 2094,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        2094,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "* Reward * Reward * Reward *\n* Destruction * Starbases *\n* Broodmasters * Malign * \n* Broodmasters * Greedy * \n* Dacians * Stooges *",
+      "speech_text_offset": 2163,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        2163,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "* Planets = known *\n* Suggestion * Suggestion *\n* Reciprocity * Interchange *\n* Earthling * Befriend * Us *\n* Planets * Learn * Planets *",
+      "speech_text_offset": 2296,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 366
+        },
+        {
+          "result": 1,
+          "text": "THE ATHDALDE",
+          "text_offset": 376
+        },
+        {
+          "result": 2,
+          "text": "THE BALATHIDE",
+          "text_offset": 389
+        },
+        {
+          "result": 3,
+          "text": "THE CICISBEO",
+          "text_offset": 403
+        },
+        {
+          "result": 4,
+          "text": "THE FREEDOM ALLIANCE",
+          "text_offset": 416
+        },
+        {
+          "result": 5,
+          "text": "HABITABLE PLANETS",
+          "text_offset": 437
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "NEXT...",
+          "text_offset": 2768
+        },
+        {
+          "result": 7,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        366,
+        376,
+        389,
+        403,
+        416,
+        437,
+        2768,
+        2784,
+        2296,
+        6,
+        2
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "* Obscure * Secluded * Remote *\n* Caution *\n* Advice * Advice *\n* Ignorance = Bliss * ",
+      "speech_text_offset": 2434,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        2434,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 29,
+      "record_file_offset": 640,
+      "speech": "* Rivals * Competition *\n* Automata * Manufactured *\n* Jot * Dogmatic *\n* Venge * Offended = Easily *",
+      "speech_text_offset": 2521,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        2521,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 30,
+      "record_file_offset": 662,
+      "speech": "* Secretive * Reclusive *\n* Questionable *\n* Powerful *",
+      "speech_text_offset": 2623,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        2623,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 31,
+      "record_file_offset": 684,
+      "speech": "* Terror * Violent * \n* Unthinking * Uncaring *",
+      "speech_text_offset": 2679,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        2679,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 32,
+      "record_file_offset": 706,
+      "speech": "* Leaders * Peace Alliance * \n* Dignee *",
+      "speech_text_offset": 2727,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE HALICOT",
+          "text_offset": 455
+        },
+        {
+          "result": 1,
+          "text": "THE LOVE ALLIANCE",
+          "text_offset": 467
+        },
+        {
+          "result": 2,
+          "text": "THE MONAD",
+          "text_offset": 485
+        },
+        {
+          "result": 3,
+          "text": "THE VORTICELLA",
+          "text_offset": 495
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 510
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "PREV...",
+          "text_offset": 2776
+        },
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        455,
+        467,
+        485,
+        495,
+        510,
+        -1,
+        2776,
+        2784,
+        2727,
+        5,
+        2
+      ]
+    },
+    {
+      "index": 33,
+      "record_file_offset": 728,
+      "speech": "THE DIGNEE DO NOT WISH TO DO BATTLE AT THIS TIME. THEIR MORAL\nINFLUENCE MAKES IT IMPOSSIBLE TO OBEY YOUR COMMAND. EXTREME\nCAUTION ADVISED.",
+      "speech_text_offset": 2800,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 2784
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2784,
+        -1,
+        2800,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 34,
+      "record_file_offset": 750,
+      "speech": "* Suspicion * Distrust *\n* Information * Cicisbeo * \n* Earthman = Evil *\n* Disproof? *",
+      "speech_text_offset": 1777,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I NEED A PLANET",
+          "text_offset": 16
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 38
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 50
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 56
+        }
+      ],
+      "raw_words": [
+        16,
+        38,
+        -1,
+        -1,
+        -1,
+        -1,
+        50,
+        56,
+        1777,
+        2,
+        2
+      ]
+    }
+  ],
+  "overlay": "ovl_29",
+  "animation": "digneec.pan"
+}

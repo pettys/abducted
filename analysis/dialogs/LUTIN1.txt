@@ -1,0 +1,88 @@
+LUTIN1.BIN | ovl_21 | lutinc.pan
+
+RECORD 0 (0x0002)
+I am self Lutin hunter. You are human warship
+pilot. Query interchange is permissible?
+Query you are desirous of interchange?
+  [0] INTERCHANGE AFFIRMATIVE
+  [1] INTERCHANGE NEGATIVE
+  [2] WHAT DOES "INTERCHANGE" MEAN ?
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 1 (0x0018)
+Query you seek what interchange pattern?
+Possibilities: aggressive, mutualistic,
+instructive.
+  [0] IMPRESS VIA SHOW OF FORCE
+  [1] OFFER TO EXCHANGE GOODS
+  [2] OFFER PEACE TREATY
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 2 (0x002e)
+Query you intend reaction aggressive?
+Or reaction cautious?
+  [0] REACTION AGGRESSIVE
+  [1] REACTION CAUTIOUS
+  [2] WHAT DO YOU MEAN BY "REACTION" ?
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 3 (0x0044)
+Interchange means reciprocal activity. Query
+interchange is permissible and desirous by
+yourself?
+  [0] INTERCHANGE AFFIRMATIVE
+  [1] INTERCHANGE NEGATIVE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 4 (0x005a)
+"Peace" unrecognized vocable. Search initiated
+in human history banks for definition. Query
+you will await results of "Peace" vocable
+check?
+  [0] WAIT FOR COMPUTER CHECK
+  [1] COMPUTER CHECK UNNECESSARY. PLEASE CONTINUE.
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 5 (0x0070)
+Responses exhausted. Query you are desirous
+of?
+  [0] OFFER PEACE TREATY
+  [1] ASK FOR INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 6 (0x0086)
+Computer check unequivocal. "Peace" vocable
+used by human historians to indicate periods
+of preparation for warfare. Destruction
+interaction confirmed desirable by human
+warship pilot. Laser battery lock-on 100%.
+Spinal gun arming sequences initiated.
+Battle-sights operable. Begin combat.
+  [0] FIGHT
+
+RECORD 7 (0x009c)
+Reaction: human warship pilot response. Query
+you intend aggression or you intend caution?
+  [0] REACTION AGGRESSIVE
+  [1] REACTION CAUTIOUS
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 8 (0x00b2)
+Inappropriate. Memory banks inaccessible and
+forbidden to human warship pilot. Departure
+now necessitated.
+  [0] LEAVE
+
+RECORD 9 (0x00c8)
+Destructive interaction confirmed desirable
+by human warship pilot. Laser battery lock-on
+100%. Spinal gun arming sequence initiated.
+Battle-sights operable. Begin combat.
+  [0] FIGHT

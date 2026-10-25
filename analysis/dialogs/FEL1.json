@@ -1,0 +1,1099 @@
+{
+  "source": "FEL1.BIN",
+  "count": 22,
+  "text_file_offset": 488,
+  "declared_text_bytes": 1666,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Greetings, friend. Our treaty guaran-\ntees perpetual peace. Your desires?",
+      "speech_text_offset": 217,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 12
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        0,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        217,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "We are the Fel. What do you wish?",
+      "speech_text_offset": 291,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 12
+        },
+        {
+          "result": 2,
+          "text": "PEACE TREATY",
+          "text_offset": 1653
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        0,
+        12,
+        1653,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        291,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "We are suspicious. You may mean to\nharm the Fel. What have you come for?",
+      "speech_text_offset": 325,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I COME IN PEACE",
+          "text_offset": 30
+        },
+        {
+          "result": 1,
+          "text": "\"I JUST WANT SOME INFORMATION\"",
+          "text_offset": 46
+        },
+        {
+          "result": 2,
+          "text": "\"I MEAN NO HARM. I WANT TO TRADE\"",
+          "text_offset": 77
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        30,
+        46,
+        77,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        325,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "The Fel and you can never be friends.\nBegone.",
+      "speech_text_offset": 398,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 24
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        -1,
+        398,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "We would value such a treaty highly.\nBut we have not known you long enough.\nPerhaps later, after we have had a\nchance to observe your behavior.",
+      "speech_text_offset": 444,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 12
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        0,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        444,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Please sign below :\nAs representative of the human\nspecies, I decree mutual friendship\nand trust with the Fel. Should the\nFel be baselessly attacked by a third\nparty, the humans promise to come to\nthe Fel's aid. Should the humans be\nbaselessly attacked by a third party,\nthe Fel promise to come to humanity's\naid.",
+      "speech_text_offset": 588,
+      "choices": [
+        {
+          "result": 0,
+          "text": "SIGN",
+          "text_offset": 120
+        },
+        {
+          "result": 1,
+          "text": "REFUSE TO SIGN",
+          "text_offset": 125
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        120,
+        125,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        588,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "We are not sure you have indeed come\nin peace. We will watch you and your\nactions for a while before coming to\nany conclusions.",
+      "speech_text_offset": 902,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 12
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        0,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        902,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "We are now friends. You now possess\nthe coordinates of habitable planet\n1342. We are glad to welcome your\nspecies into this cluster.",
+      "speech_text_offset": 1030,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 12
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 24
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 18
+        }
+      ],
+      "raw_words": [
+        0,
+        12,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        18,
+        1030,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Nothing is wrong with our treaty. You\nmust now leave.",
+      "speech_text_offset": 1163,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 24
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        24,
+        -1,
+        1163,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "We know little. But we can tell you\nwhat we know.",
+      "speech_text_offset": 1217,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1217,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "Great cowards, and very treacherous.",
+      "speech_text_offset": 1267,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1267,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "Who?",
+      "speech_text_offset": 1304,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1304,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "Bad pirates.",
+      "speech_text_offset": 1309,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1309,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "We know little, but try to avoid them.\nThey are dangerous to talk to.",
+      "speech_text_offset": 1322,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1322,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "Bad pirates.",
+      "speech_text_offset": 1309,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1309,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We know one such planet. We refer to it\nas 1342. We have many foes in the\ncluster and dare not reveal this world's\nlocation to a stranger. When we know\nyou better and have signed a peace\ntreaty, we will give you the\ncoordinates.",
+      "speech_text_offset": 1392,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        },
+        {
+          "result": 5,
+          "text": "HUMAN PLANETS",
+          "text_offset": 185
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        185,
+        212,
+        -1,
+        1392,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "Great cowards, and very treacherous.",
+      "speech_text_offset": 1267,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1267,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "Who?",
+      "speech_text_offset": 1304,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1304,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "Bad pirates.",
+      "speech_text_offset": 1309,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1309,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "We know little, but try to avoid them.\nThey are dangerous to talk to.",
+      "speech_text_offset": 1322,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1322,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "Bad pirates.",
+      "speech_text_offset": 1309,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1309,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "We know little. But we can tell you\nwhat we know.",
+      "speech_text_offset": 1217,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 140
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 153
+        },
+        {
+          "result": 2,
+          "text": "DIDINIUM",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 171
+        },
+        {
+          "result": 4,
+          "text": "STENTOR",
+          "text_offset": 177
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 212
+        }
+      ],
+      "raw_words": [
+        140,
+        153,
+        162,
+        171,
+        177,
+        -1,
+        212,
+        -1,
+        1217,
+        5,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_20",
+  "animation": "felc.pan"
+}

@@ -1,0 +1,357 @@
+DIGNEE2.BIN | ovl_29 | digneec.pan
+
+RECORD 0 (0x0002)
+* Felicitous * Auspicious *
+* %s * Cordial *
+* Auspicious * Amicable *
+  [0] I COME IN PEACE
+  [1] I NEED A PLANET
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+
+RECORD 1 (0x0018)
+* Felicitous * Auspicious *
+* %s * Cordial *
+* Auspicious * Amicable *
+  [0] I NEED A PLANET
+  [1] TRADE
+  [2] INFORMATION
+  [3] LEAVE
+
+RECORD 2 (0x002e)
+* Wary * Prudence *
+* %s self *
+* Circumspection *
+  [0] I COME IN PEACE
+  [1] I NEED A PLANET
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+
+RECORD 3 (0x0044)
+* Wary * Prudence *
+* %s self *
+* Circumspection *
+  [0] I NEED A PLANET
+  [1] TRADE
+  [2] INFORMATION
+  [3] LEAVE
+
+RECORD 4 (0x005a)
+* %s self *
+* Admonishment * Forewarn *
+* Counsel *
+  [0] I COME IN PEACE
+  [1] I NEED A PLANET
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+
+RECORD 5 (0x0070)
+* %s self *
+* Admonishment * Forewarn *
+* Counsel *
+  [0] I NEED A PLANET
+  [1] TRADE
+  [2] INFORMATION
+  [3] LEAVE
+
+RECORD 6 (0x0086)
+* Hostility * Enmity *
+* %s Earth-foe *
+* Bellicose * Inimical *
+  [0] I COME IN PEACE
+  [1] I NEED A PLANET
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 7 (0x009c)
+* Hostility * Enmity *
+* %s Earth-foe *
+* Bellicose * Inimical *
+  [0] I NEED A PLANET
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 8 (0x00b2)
+* Credence * Reliability *
+* Confidence * Unsuspicious *
+* Treaty = Peace * Eternal *
+* Voluntary * Treaty? *
+  [0] YES, I AGREE TO A PEACE TREATY
+  [1] A PEACE TREATY BETWEEN US IS STILL PREMATURE
+  [2] LEAVE
+
+RECORD 9 (0x00c8)
+* Credence * Reliability *
+* Confidence * Unsuspicious *
+* Potentate Supreme = Treaty *
+* Self unauthorized *
+  [0] I SEE
+  [1] I DON'T UNDERSTAND
+  [2] LEAVE
+
+RECORD 10 (0x00de)
+* Misgivings * Irresolution *
+* Suggestion * Suggestion *
+* Enemy * Freedom Alliance *
+* Earthman * Destroy *
+* Gratitude * %s *
+  [0] YOU WISH ME TO ATTACK THE FREEDOM ALLIANCE?
+  [1] LEAVE
+
+RECORD 11 (0x00f4)
+* Distrust * Suspicion * 
+* Hesitation *
+* Enemy * Freedom Alliance *
+* Aggression * Earthman * 
+* Destruction * Proof
+  [0] YOU WISH ME TO ATTACK THE FREEDOM ALLIANCE?
+  [1] LEAVE
+
+RECORD 12 (0x010a)
+* Derision * Scorn *
+* Suggestion * Suggestion * 
+* Insertion * Trailblazer *
+* Cloaca *
+* Amusement * Ridicule *
+  [0] TAKE OFFENSE
+  [1] LEAVE
+  [2] FIGHT
+
+RECORD 13 (0x0120)
+* Sympathy * Accord *
+* Suitable * Uninhabited *
+* %s * 
+  [0] Thank You.
+  [1] LEAVE
+
+RECORD 14 (0x0136)
+* Destruction * Freedom Alliance * 
+* Desirable * Camaraderie *
+* Reciprocity * Interchange *
+* Habitable * Planet * 
+* Coordinates = Habitable *
+  [0] I GET A WORLD IF I FIGHT THE FREEDOM ALLIANCE?
+  [1] LEAVE
+
+RECORD 15 (0x014c)
+* Destruction * Freedom Alliance * 
+* Desirable * Camaraderie *
+* Reciprocity * Interchange *
+* Habitable * Planet * 
+* Coordinates = Habitable *
+  [0] I GET A WORLD IF I FIGHT THE FREEDOM ALLIANCE?
+  [1] LEAVE
+
+RECORD 16 (0x0162)
+* Vilify * Reproach * Abuse *
+* Suggestion * Suggestion * 
+* Colonize * Cloaca *
+* Suitable * Amusement *
+  [0] TAKE OFFENSE
+  [1] LEAVE
+
+RECORD 17 (0x0178)
+* Affirmation * Positivity * 
+* Confirmation *
+  [0] I NEED SOME INFORMATION FIRST
+  [1] I NEED SOME EQUIPMENT FIRST
+  [2] LEAVE
+
+RECORD 18 (0x018e)
+* Travel * Dignee Home *
+* Treaty * Unauthorized * 
+* Treaty * Absent * Here *
+  [0] I MUST GO TO THE HOMEWORLD FOR A TREATY?
+  [1] LEAVE
+
+RECORD 19 (0x01a4)
+* Suspicion * Distrust *
+* Information * Cicisbeo * 
+* Earthman = Evil *
+* Disproof? *
+  [0] I COME IN PEACE
+  [1] I NEED A PLANET
+  [2] INFORMATION
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 20 (0x01ba)
+* Wisdom * Species * Advice *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 21 (0x01d0)
+* Wisdom * Species * Advice *
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 22 (0x01e6)
+* Comrades * Peace Alliance *
+* Weak * Benign * Protected *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 23 (0x01fc)
+* Robbers * Criminals * 
+* Plunder *
+* Ruin * Worlds * Pillage *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 24 (0x0212)
+* Contamination * Parasites * 
+* Infestation *
+* Suggestion * Avoidance * 
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 25 (0x0228)
+* Comrades * Peace Alliance *
+* Egocentric * Amusing * 
+* Harmless *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 26 (0x023e)
+* Reward * Reward * Reward *
+* Destruction * Starbases *
+* Broodmasters * Malign * 
+* Broodmasters * Greedy * 
+* Dacians * Stooges *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 27 (0x0254)
+* Planets = known *
+* Suggestion * Suggestion *
+* Reciprocity * Interchange *
+* Earthling * Befriend * Us *
+* Planets * Learn * Planets *
+  [0] THE ACARI
+  [1] THE ATHDALDE
+  [2] THE BALATHIDE
+  [3] THE CICISBEO
+  [4] THE FREEDOM ALLIANCE
+  [5] HABITABLE PLANETS
+  [6] NEXT...
+  [7] EXIT
+
+RECORD 28 (0x026a)
+* Obscure * Secluded * Remote *
+* Caution *
+* Advice * Advice *
+* Ignorance = Bliss * 
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 29 (0x0280)
+* Rivals * Competition *
+* Automata * Manufactured *
+* Jot * Dogmatic *
+* Venge * Offended = Easily *
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 30 (0x0296)
+* Secretive * Reclusive *
+* Questionable *
+* Powerful *
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 31 (0x02ac)
+* Terror * Violent * 
+* Unthinking * Uncaring *
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 32 (0x02c2)
+* Leaders * Peace Alliance * 
+* Dignee *
+  [0] THE HALICOT
+  [1] THE LOVE ALLIANCE
+  [2] THE MONAD
+  [3] THE VORTICELLA
+  [4] YOURSELVES
+  [5] PREV...
+  [6] EXIT
+
+RECORD 33 (0x02d8)
+THE DIGNEE DO NOT WISH TO DO BATTLE AT THIS TIME. THEIR MORAL
+INFLUENCE MAKES IT IMPOSSIBLE TO OBEY YOUR COMMAND. EXTREME
+CAUTION ADVISED.
+  [0] EXIT
+
+RECORD 34 (0x02ee)
+* Suspicion * Distrust *
+* Information * Cicisbeo * 
+* Earthman = Evil *
+* Disproof? *
+  [0] I NEED A PLANET
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT

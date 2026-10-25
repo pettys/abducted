@@ -1,0 +1,756 @@
+{
+  "source": "HALICOT2.BIN",
+  "count": 18,
+  "text_file_offset": 400,
+  "declared_text_bytes": 2287,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Greetings, Earthman. I am Xeron XM9413\nof the Halicot. We are at your service.",
+      "speech_text_offset": 275,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 17
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 23
+        },
+        {
+          "result": 3,
+          "text": "PEACE TREATY",
+          "text_offset": 35
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        0,
+        17,
+        23,
+        35,
+        -1,
+        -1,
+        54,
+        48,
+        275,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "I am Xeron XM9413 of the Halicot. What\nis your business here?",
+      "speech_text_offset": 354,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 23
+        },
+        {
+          "result": 1,
+          "text": "PEACE TREATY",
+          "text_offset": 35
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        23,
+        35,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        354,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "I am Xeron XM9413 of the Halicot. There\nis danger here. Leave at once, or we\nmust open hostilities. ",
+      "speech_text_offset": 416,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        416,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Greetings, friend Earthman. I am Xeron\nXM9413 of the Halicot. We your allies\nare at your service. ",
+      "speech_text_offset": 517,
+      "choices": [
+        {
+          "result": 0,
+          "text": "REFUEL AND LEAVE",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 17
+        },
+        {
+          "result": 2,
+          "text": "INFORMATION",
+          "text_offset": 23
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 54
+        }
+      ],
+      "raw_words": [
+        0,
+        17,
+        23,
+        -1,
+        -1,
+        -1,
+        54,
+        -1,
+        517,
+        3,
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "Peace is good. Alas that not all species\nagree on this important point. Do you\nknow of the vileness of the Athdalde or\nVorticella?",
+      "speech_text_offset": 616,
+      "choices": [
+        {
+          "result": 0,
+          "text": "NO, TELL ME MORE ABOUT THEM",
+          "text_offset": 60
+        },
+        {
+          "result": 1,
+          "text": "I'D RATHER DISCUSS A PEACE TREATY",
+          "text_offset": 88
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        60,
+        88,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        616,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "And what is the nature of your\nso-important business?",
+      "speech_text_offset": 747,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 17
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 23
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        17,
+        23,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        747,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Your words are as sweet and firm as\nhoney. Your past actions are not such\nas to reassure us. If you truly wish\npeace, we are prepared. Are you willing\nto commit to a binding agreement?",
+      "speech_text_offset": 801,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I AM INTERESTED IN SUCH AN AGREEMENT",
+          "text_offset": 122
+        },
+        {
+          "result": 1,
+          "text": "I CANNOT COMMIT TO ANYTHING",
+          "text_offset": 159
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        122,
+        159,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        801,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "How can we help you?",
+      "speech_text_offset": 986,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 17
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 23
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 54
+        }
+      ],
+      "raw_words": [
+        17,
+        23,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        -1,
+        986,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Very good. Will you pledge your genetic\ncode to the following agreement -- Upon\npain of mental violation, the Halicot\nand the Earthmen agree never to attack\none another's stations or ships. ",
+      "speech_text_offset": 1007,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AGREE AND PLEDGE",
+          "text_offset": 187
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 204
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        187,
+        204,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1007,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "I see. Best be on your way. ",
+      "speech_text_offset": 1198,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I HAVE FURTHER BUSINESS",
+          "text_offset": 211
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 54
+        },
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 48
+        }
+      ],
+      "raw_words": [
+        211,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        48,
+        1198,
+        1,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "This makes us very happy. Good-bye. ",
+      "speech_text_offset": 1227,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I HAVE FURTHER BUSINESS",
+          "text_offset": 211
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 54
+        }
+      ],
+      "raw_words": [
+        211,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        54,
+        -1,
+        1227,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "There are some powerful and hostile\nspecies in this cluster.  Beware the\nAthdalde and Vorticella. Their minds are\nevil. ",
+      "speech_text_offset": 1264,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ATHDALDE",
+          "text_offset": 235
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 244
+        },
+        {
+          "result": 2,
+          "text": "VORTICELLA",
+          "text_offset": 253
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 264
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        235,
+        244,
+        253,
+        264,
+        -1,
+        -1,
+        2032,
+        -1,
+        1264,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "They are scavengers who seek out healthy\nworlds and squeeze them like fruit\nrinds, scraping out the good parts, and\nleaving only husks. They have no home\nof their own, but traverse space,\nseeking unprotected planets to wreak\ntheir ruin. ",
+      "speech_text_offset": 1385,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ATHDALDE",
+          "text_offset": 235
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 244
+        },
+        {
+          "result": 2,
+          "text": "VORTICELLA",
+          "text_offset": 253
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 264
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        235,
+        244,
+        253,
+        264,
+        -1,
+        -1,
+        2032,
+        -1,
+        1385,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "Interesting robot beings. They are\nrather cold and reluctant to engage in\npeaceful trade, so we have constructed a\nphilanthropy circuit to reprogram them.\nTo use it, simply give them the\ncircuit. If you wish a philanthropy\ncircuit, you must first prove your love\nof peace. ",
+      "speech_text_offset": 1623,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ATHDALDE",
+          "text_offset": 235
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 244
+        },
+        {
+          "result": 2,
+          "text": "VORTICELLA",
+          "text_offset": 253
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 264
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        235,
+        244,
+        253,
+        264,
+        -1,
+        -1,
+        2032,
+        -1,
+        1623,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "Pirate beings which rob innocent ships.\nThey have several secret bases. ",
+      "speech_text_offset": 1897,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ATHDALDE",
+          "text_offset": 235
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 244
+        },
+        {
+          "result": 2,
+          "text": "VORTICELLA",
+          "text_offset": 253
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 264
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        235,
+        244,
+        253,
+        264,
+        -1,
+        -1,
+        2032,
+        -1,
+        1897,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We are a calm folk which know little of\nthe universe beyond. ",
+      "speech_text_offset": 1970,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ATHDALDE",
+          "text_offset": 235
+        },
+        {
+          "result": 1,
+          "text": "AUTOMATA",
+          "text_offset": 244
+        },
+        {
+          "result": 2,
+          "text": "VORTICELLA",
+          "text_offset": 253
+        },
+        {
+          "result": 3,
+          "text": "YOURSELVES",
+          "text_offset": 264
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        235,
+        244,
+        253,
+        264,
+        -1,
+        -1,
+        2032,
+        -1,
+        1970,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "Would you prefer to trade normally or to\npurchase a Philanthropy Circuit?  A\nPhilanthropy Circuit costs 8\ncomponents.",
+      "speech_text_offset": 2066,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 17
+        },
+        {
+          "result": 1,
+          "text": "PURCHASE PHILANTHROPY CIRCUT",
+          "text_offset": 2037
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        17,
+        2037,
+        -1,
+        -1,
+        -1,
+        -1,
+        2032,
+        -1,
+        2066,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "You now possess a Philanthropy Circuit.\nIt is only useful once installed in an\nAutomata central brain.",
+      "speech_text_offset": 2184,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "EXIT",
+          "text_offset": 2032
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2032,
+        -1,
+        2184,
+        0,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_30",
+  "animation": "halicotc.pan"
+}

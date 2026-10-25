@@ -1,0 +1,3 @@
+address	instruction	reason
+1000:008e	JMPF 0xa000:8632	unmapped target a000:8632
+1000:13a1	JMP SI	indirect control flow; targets require validation

@@ -1,0 +1,5 @@
+name	start	end	size	executable	overlay
+CODE_0	1000:0000	1000:1dcf	7632	true	false
+CODE_1	11dd:0000	11dd:0ad3	2772	true	false
+DATA	11dd:0ad4	11dd:4a33	16224	false	false
+HEADER	HEADER::00000000	HEADER::000001ff	512	false	true

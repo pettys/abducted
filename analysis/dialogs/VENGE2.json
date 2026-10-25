@@ -1,0 +1,1730 @@
+{
+  "source": "VENGE2.BIN",
+  "count": 43,
+  "text_file_offset": 950,
+  "declared_text_bytes": 7936,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Venge we are. Suspicious your\nmotives we are. Why here have you\ncome? What with us do you want?\nCareful lest us you anger.",
+      "speech_text_offset": 472,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WANT A PEACE TREATY",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        0,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        472,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Never we shall forgive. Never we\nshall forget. Never for you our\nhatred shall end. You the foe of\nour friend are. You our foe and\nthe friend of our foe are.\nRetribution we bring. Beware. ",
+      "speech_text_offset": 595,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        595,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Knave, our peaceful ship you\ndestroyed. You our people have\nkilled. Now we you kill. Never we\nshall forget. Never we shall\nforgive. Never from us you shall\nescape. Ship for ship from you we\nshall exact.",
+      "speech_text_offset": 783,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        34,
+        -1,
+        783,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "You our friend yourself have shown.\nWe on you can rely. You our\nstarbase welcomes. We to see you\nonce more are pleased.  A friend\nanother friend in need helps. We in\nneed of your help are. You us will\nhelp?",
+      "speech_text_offset": 986,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I'D BE GLAD TO HELP YOU",
+          "text_offset": 46
+        },
+        {
+          "result": 1,
+          "text": "IT DEPENDS ON WHAT YOU WANT",
+          "text_offset": 70
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        46,
+        70,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        986,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "To the Love Alliance we you\nwelcome. We the Venge are. We the\nbackbone of this fine Alliance\nproud are to be. You a fine\naddition to the Alliance we think.\nBut membership responsibility\nimplies. ",
+      "speech_text_offset": 1193,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 98
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        98,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        1193,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "You recklessly the vessels of our\nfriend have attacked. You in any\ncase we now must punish. Fair\nwarning we to you gave. You die\nnow. ",
+      "speech_text_offset": 1389,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        34,
+        -1,
+        1389,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "You ignorantly the vessels of our\nfriends have attacked. You this\nmust immediately cease. Never again\nour friends attack. We to you\nwarning give. At your direst peril\nsuch attacks repeat. You lucky to\nget warning are. No warning if you\nus attack is given. ",
+      "speech_text_offset": 1524,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I SINCERELY APOLOGIZE",
+          "text_offset": 117
+        },
+        {
+          "result": 1,
+          "text": "IT WAS NECESSARY TO ATTACK THEM",
+          "text_offset": 139
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        117,
+        139,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        1524,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "You the Peace and Freedom filth\nhave attacked. You a good friend\nmay become. We our gratitude offer.\nThe bases of the Love Alliance do\nnever attack. They to you as\ntargets forbidden are.  This as a\nfriendly warning accept.",
+      "speech_text_offset": 1781,
+      "choices": [
+        {
+          "result": 0,
+          "text": "JOIN THE LOVE ALLIANCE",
+          "text_offset": 171
+        },
+        {
+          "result": 1,
+          "text": "PEACE TREATY",
+          "text_offset": 98
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        171,
+        98,
+        111,
+        22,
+        -1,
+        -1,
+        40,
+        34,
+        1781,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "You the vile Freedom filth have\nattacked. You a good friend may\nbecome. We our gratitude offer. The\nbases of the Love Alliance do\nnever attack. They to you as\ntargets forbidden are. This as a\nfriendly warning accept. The bases\nof the Peace Alliance vile are.\nTheir bases with our blessing you\nmay destroy. Such destruction we\nencourage.",
+      "speech_text_offset": 2004,
+      "choices": [
+        {
+          "result": 0,
+          "text": "JOIN THE LOVE ALLIANCE",
+          "text_offset": 171
+        },
+        {
+          "result": 1,
+          "text": "PEACE TREATY",
+          "text_offset": 98
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        171,
+        98,
+        111,
+        22,
+        -1,
+        -1,
+        40,
+        34,
+        2004,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "You the vile Peace filth have\nattacked. You a good friend may\nbecome. We our gratitude offer. The\nbases of the Love Alliance do\nnever attack. They to you as\ntargets forbidden are. This as a\nfriendly warning accept. The bases\nof the Freedom Alliance vile are.\nTheir bases with our blessing you\nmay destroy. Such destruction we\nencourage. ",
+      "speech_text_offset": 2341,
+      "choices": [
+        {
+          "result": 0,
+          "text": "JOIN THE LOVE ALLIANCE",
+          "text_offset": 171
+        },
+        {
+          "result": 1,
+          "text": "PEACE TREATY",
+          "text_offset": 98
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 3,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 4,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 5,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        171,
+        98,
+        111,
+        22,
+        -1,
+        -1,
+        40,
+        34,
+        2341,
+        4,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "We that you for peace wish are\npleased. All beings peace should\nknow. Re: treaty with us, an\nobstacle exists. We loyal are. We\nno friends outside the Love\nAlliance recognize. You must the\nLove Alliance join. Then we can a\npeace treaty discuss. ",
+      "speech_text_offset": 2679,
+      "choices": [
+        {
+          "result": 0,
+          "text": "JOIN THE LOVE ALLIANCE",
+          "text_offset": 171
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        171,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        2679,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "The friendship of the Love Alliance\ngood is to join. We to this\nfellowship you welcome. We to you a\npeace treaty of eternal friendship\noffer. We however you warn. To\nreject us do not.\n \n  We the Humans to this treaty\nagree. Never the Venge to harm. \nNever the Humans to betray. The\nVenge the friends of Humans will\nbe. The Humans to the Venge loyal\nwill be.  If the Humans untrue\nprove this treaty null and void\nis.  If the Humans untrue prove\nthe Venge the Humans shall\ndestroy.\n \nYou the peace treaty will sign?",
+      "speech_text_offset": 2924,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AGREE TO SIGN",
+          "text_offset": 194
+        },
+        {
+          "result": 1,
+          "text": "DONATE COMPONENTS",
+          "text_offset": 223
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        194,
+        223,
+        -1,
+        -1,
+        -1,
+        -1,
+        34,
+        -1,
+        2924,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "You must restitution for the\ndestruction of our friends make.\nYou must to us components donate.\nThe components now surrender. ",
+      "speech_text_offset": 3438,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONATE COMPONENTS",
+          "text_offset": 223
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 241
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        223,
+        241,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        3438,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 13,
+      "record_file_offset": 288,
+      "speech": "It necessary was, you say, our\nfriends to attack. We say, it\nnecessary is, for us you to attack.\nSo we now attack.  Turnabout fair\nplay is. ",
+      "speech_text_offset": 3565,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        34,
+        -1,
+        3565,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 14,
+      "record_file_offset": 310,
+      "speech": "We cannot the Alliance your joining\napprove. We loyal to the Jot are.\nWe without their permission no\ntreaties sign. You must to the Jot\ntalk. They will the Love Alliance\nyou permit to join. ",
+      "speech_text_offset": 3706,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PEACE TREATY",
+          "text_offset": 98
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        98,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        3706,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "record_file_offset": 332,
+      "speech": "We to our fellowship you welcome.\nWe shall friends forever be. We\nshall never our trust betray. You\nwill always us in need help. ",
+      "speech_text_offset": 3897,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        111,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        3897,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "record_file_offset": 354,
+      "speech": "You a great risk run. You\nperilously close are, to us\nannoying are. We forgiving entities\nare not. You now must go. When you\nfurther on this matter have\nthought, you may return. ",
+      "speech_text_offset": 4027,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "LEAVE",
+          "text_offset": 40
+        },
+        {
+          "result": 1,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        34,
+        4027,
+        0,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "record_file_offset": 376,
+      "speech": "We to our friends these will give.\nYou under probation are.  Perhaps\nyou a simple mistake made. Perhaps\nnon-fatal this mistake was.\nPerhaps you can trusted be. And\nperhaps not. ",
+      "speech_text_offset": 4206,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        111,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        4206,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 18,
+      "record_file_offset": 398,
+      "speech": "That you with components provide,\nwe do require. To us now the\ncomponents give. Your generosity we\nappreciate. We the components will\nnow take. Great gratitude we\nprovide. You a true friend are.",
+      "speech_text_offset": 4384,
+      "choices": [
+        {
+          "result": 0,
+          "text": "DONATE COMPONENTS",
+          "text_offset": 223
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 241
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        223,
+        241,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        4384,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 19,
+      "record_file_offset": 420,
+      "speech": "Our foes most vulgar are. Their\ncorruption beyond belief is.  You\nour friend are. Thus, you their foe\nare. You must them extirpate.  You\nmust their starbases wrack. You\nmust all their worlds attack. Now\ngo.",
+      "speech_text_offset": 4579,
+      "choices": [
+        {
+          "result": 0,
+          "text": "WE WILL KILL THEM",
+          "text_offset": 248
+        },
+        {
+          "result": 1,
+          "text": "WE CANNOT KILL THEM",
+          "text_offset": 266
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        248,
+        266,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        4579,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 20,
+      "record_file_offset": 442,
+      "speech": "We a severe shortage of starbases\nhave. You a fine starbase possess.\nTo us you must your starbase give.\nWe a great need have.  Surely a\nfriend another friend will not so\nsmall an item refuse?  We your\nstarbase humbly accept. Gratitude\nin advance we proffer. ",
+      "speech_text_offset": 4786,
+      "choices": [
+        {
+          "result": 0,
+          "text": "GIVE STARBASE",
+          "text_offset": 286
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 241
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        286,
+        241,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        4786,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 21,
+      "record_file_offset": 464,
+      "speech": "You doubtful sound. You unwilling\nyour friends to help are?  We to\nyou warning give. To hesitate we\nyou forbid. You lucky to get\nwarning are. You us help? Yes or\nno; you must say. ",
+      "speech_text_offset": 5045,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YES, I'LL HELP",
+          "text_offset": 300
+        },
+        {
+          "result": 1,
+          "text": "I CAN'T MAKE THAT PROMISE",
+          "text_offset": 315
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        300,
+        315,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5045,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 22,
+      "record_file_offset": 486,
+      "speech": "You a false friend have proved. You\nus have betrayed. Never we shall\nforget. Never we shall forgive. You\nmust die. You must die.  All\nhumans must die. This insult shall\nbe avenged. ",
+      "speech_text_offset": 5226,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 34
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        34,
+        -1,
+        5226,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 23,
+      "record_file_offset": 508,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 341
+        },
+        {
+          "result": 1,
+          "text": "THE BROODMASTERS",
+          "text_offset": 351
+        },
+        {
+          "result": 2,
+          "text": "THE VORTICELLA",
+          "text_offset": 368
+        },
+        {
+          "result": 3,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        341,
+        351,
+        368,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        4,
+        0
+      ]
+    },
+    {
+      "index": 24,
+      "record_file_offset": 530,
+      "speech": "You the Acari vowed to destroy. The\nAcari yet live. You must greater\neffort exert. Delenda est!",
+      "speech_text_offset": 5630,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        5630,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 25,
+      "record_file_offset": 552,
+      "speech": "You the Broodmasters vowed to\ndestroy. The Broodmasters yet\nlive.  You must greater effort\nexert. Delenda est!",
+      "speech_text_offset": 5726,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        5726,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 26,
+      "record_file_offset": 574,
+      "speech": "You the Vorticella vowed to\ndestroy. The Vorticella yet live.\nYou must greater effort exert.\nDelenda est!",
+      "speech_text_offset": 5837,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 1,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        5837,
+        1,
+        1
+      ]
+    },
+    {
+      "index": 27,
+      "record_file_offset": 596,
+      "speech": "You honored are. We the Venge you\npraise. Our enemies deceased are.\nOur foes all shall likewise do. We\nwith you very happy are. ",
+      "speech_text_offset": 5943,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE",
+          "text_offset": 111
+        },
+        {
+          "result": 1,
+          "text": "INFORMATION",
+          "text_offset": 22
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        111,
+        22,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        5943,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 28,
+      "record_file_offset": 618,
+      "speech": "To you this information we freely\ngive. Perhaps you it will help.  ",
+      "speech_text_offset": 6072,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        6072,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 29,
+      "record_file_offset": 640,
+      "speech": "Workers for Love they are. They\nagainst us have never a crime\nperpetrated. Of course they free\nwill lack.  Perhaps that the\nreason for their forbearance is.\nBut it unimportant is. ",
+      "speech_text_offset": 6140,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        6140,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 30,
+      "record_file_offset": 662,
+      "speech": "Five hundred twenty and four orbits\nago, an Acari us deeply offended.\nThe Acari's name Kalamastra was.\nThe Venge then retribution swore.\nOur people for the day of reckoning\nhave lived. Someday the Acari\ntheir treachery sorely will\nregret.  Kalamastra's name will in\ninfamy live. The Acari will in\nhorror his name recite. They the\ncatastrophe of the Venge's wrath\nshall know. Today the Dignee and\nthe Cicisbeo, the Acari have\njoined.  Friends of our enemies,\nour enemies are. All of them, we\ndespise.  ",
+      "speech_text_offset": 6321,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        6321,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 31,
+      "record_file_offset": 684,
+      "speech": "The Jot never have us betrayed. The\nJot great powers of psyche\npossess.  The Jot rulers of the\nLove Alliance are. We the Jot\nsupport. ",
+      "speech_text_offset": 6823,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        6823,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 32,
+      "record_file_offset": 706,
+      "speech": "The Broodmasters we detest. The\nBroodmasters we hate. On the\nBroodmasters we shall ruin wreak.\nSixteen orbits ago, the\nBroodmasters to us alliance\noffered. We innocently accepted.\nWe members of the Peace Alliance\nwere. Then, the Broodmasters us\ntreacherously harmed. We lightly a\nfavor asked. A small favor it was.\nYet they refused. Now they must\ndie. Their friends the Dacians are.\nSo, too must the Dacians die. So,\ntoo must all friends of the\nBroodmasters die. ",
+      "speech_text_offset": 6958,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        6958,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 33,
+      "record_file_offset": 728,
+      "speech": "Detestable beings these are.\nDestroyers of innocent ships they\nare. We whenever able them destroy.\nYou as well should them destroy. ",
+      "speech_text_offset": 7422,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        7422,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 34,
+      "record_file_offset": 750,
+      "speech": "We the Venge are. You to a friend\nbe generous, wise are.  Your step\ncarefully watch. ",
+      "speech_text_offset": 7555,
+      "choices": [
+        {
+          "result": 0,
+          "text": "AUTOMATA",
+          "text_offset": 400
+        },
+        {
+          "result": 1,
+          "text": "FREEDOM ALLIANCE",
+          "text_offset": 409
+        },
+        {
+          "result": 2,
+          "text": "JOT",
+          "text_offset": 426
+        },
+        {
+          "result": 3,
+          "text": "PEACE ALLIANCE",
+          "text_offset": 430
+        },
+        {
+          "result": 4,
+          "text": "VORTICELLA",
+          "text_offset": 445
+        },
+        {
+          "result": 5,
+          "text": "YOURSELVES",
+          "text_offset": 456
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 6,
+          "text": "EXIT",
+          "text_offset": 467
+        }
+      ],
+      "raw_words": [
+        400,
+        409,
+        426,
+        430,
+        445,
+        456,
+        467,
+        -1,
+        7555,
+        6,
+        1
+      ]
+    },
+    {
+      "index": 35,
+      "record_file_offset": 772,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 341
+        },
+        {
+          "result": 1,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        341,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 36,
+      "record_file_offset": 794,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 341
+        },
+        {
+          "result": 1,
+          "text": "THE BROODMASTERS",
+          "text_offset": 351
+        },
+        {
+          "result": 2,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        341,
+        351,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        3,
+        0
+      ]
+    },
+    {
+      "index": 37,
+      "record_file_offset": 816,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE ACARI",
+          "text_offset": 341
+        },
+        {
+          "result": 1,
+          "text": "THE VORTICELLA",
+          "text_offset": 368
+        },
+        {
+          "result": 2,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        341,
+        368,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        3,
+        0
+      ]
+    },
+    {
+      "index": 38,
+      "record_file_offset": 838,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE BROODMASTERS",
+          "text_offset": 351
+        },
+        {
+          "result": 1,
+          "text": "THE VORTICELLA",
+          "text_offset": 368
+        },
+        {
+          "result": 2,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        351,
+        368,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        3,
+        0
+      ]
+    },
+    {
+      "index": 39,
+      "record_file_offset": 860,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE BROODMASTERS",
+          "text_offset": 351
+        },
+        {
+          "result": 1,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        351,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 40,
+      "record_file_offset": 882,
+      "speech": "You a fine friend have proved. You\nus have supported. Never we shall\nforget. You are friend are. You the\nenemy of your choice may choose.\nWe grateful shall be, when that\nenemy is destroyed.  Whom do you\nchoose to destroy?",
+      "speech_text_offset": 5408,
+      "choices": [
+        {
+          "result": 0,
+          "text": "THE VORTICELLA",
+          "text_offset": 368
+        },
+        {
+          "result": 1,
+          "text": "I'LL KILL NO ONE",
+          "text_offset": 383
+        }
+      ],
+      "extra_choices": [],
+      "raw_words": [
+        368,
+        383,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5408,
+        2,
+        0
+      ]
+    },
+    {
+      "index": 41,
+      "record_file_offset": 904,
+      "speech": "We the Venge your infestation\nnotice. You parasite grubs\npossess.  Your ship diseased is.\nYou us wish this plague to remove?",
+      "speech_text_offset": 7641,
+      "choices": [
+        {
+          "result": 0,
+          "text": "YES, PLEASE REMOVE THE GRUBS",
+          "text_offset": 7884
+        },
+        {
+          "result": 1,
+          "text": "NO, LEAVE THE GRUBS BE",
+          "text_offset": 7913
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        7884,
+        7913,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        7641,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 42,
+      "record_file_offset": 926,
+      "speech": "The grubs removed are. Your ship\npurified is. Now you we have\nhelped.  Can you us help? We in\ngreat need of help are.",
+      "speech_text_offset": 7766,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I'D BE GLAD TO HELP YOU",
+          "text_offset": 46
+        },
+        {
+          "result": 1,
+          "text": "IT DEPENDS ON WHAT YOU WANT",
+          "text_offset": 70
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 40
+        }
+      ],
+      "raw_words": [
+        46,
+        70,
+        -1,
+        -1,
+        -1,
+        -1,
+        40,
+        -1,
+        7766,
+        2,
+        1
+      ]
+    }
+  ],
+  "overlay": "ovl_33",
+  "animation": "vengec.pan"
+}

@@ -1,0 +1,327 @@
+address	instruction	reason
+1000:0663	JMP word ptr CS:[BX + 0x750]	indirect control flow; targets require validation
+1090:06d4	JMP word ptr CS:[BX + 0x716]	indirect control flow; targets require validation
+1090:0bc5	JMP word ptr CS:[BX + 0xd58]	indirect control flow; targets require validation
+1090:12fd	JMP word ptr CS:[BX + 0x1404]	indirect control flow; targets require validation
+11e1:01a6	CALLF [BX + 0x2]	indirect control flow; targets require validation
+11e1:05d6	CALLF [0x4ca]	indirect control flow; targets require validation
+11e1:0677	JMP word ptr CS:[BX + 0x9a2]	indirect control flow; targets require validation
+11e1:0df8	JMP word ptr CS:[BX + 0xf64]	indirect control flow; targets require validation
+132b:00f7	JMP word ptr CS:[BX + 0x184]	indirect control flow; targets require validation
+132b:09cb	JMP word ptr CS:[BX + 0xa5a]	indirect control flow; targets require validation
+197d:0029	INT 0x21	indirect control flow; targets require validation
+197d:003e	INT 0x21	indirect control flow; targets require validation
+197d:005f	INT 0x21	indirect control flow; targets require validation
+19b0:0010	INT 0x21	indirect control flow; targets require validation
+19b0:001e	INT 0x21	indirect control flow; targets require validation
+19b0:0031	INT 0x21	indirect control flow; targets require validation
+19b0:0037	INT 0x21	indirect control flow; targets require validation
+19b0:004e	INT 0x21	indirect control flow; targets require validation
+19b0:005a	INT 0x21	indirect control flow; targets require validation
+19c7:0027	JMPF CS:[0x14]	indirect control flow; targets require validation
+19c7:004b	JMPF CS:[0x14]	indirect control flow; targets require validation
+19c7:005d	JMPF CS:[0x14]	indirect control flow; targets require validation
+19c7:007f	JMPF CS:[0x14]	indirect control flow; targets require validation
+19c7:0091	JMPF CS:[0x14]	indirect control flow; targets require validation
+19c7:1ce5	JMP word ptr CS:[BX + 0x2]	indirect control flow; targets require validation
+19c7:1ced	JMP word ptr CS:[BX + 0x4]	indirect control flow; targets require validation
+19c7:1cf5	JMP word ptr CS:[BX + 0x6]	indirect control flow; targets require validation
+19c7:1cfd	JMP word ptr CS:[BX + 0x8]	indirect control flow; targets require validation
+19c7:1d41	INT 0x21	indirect control flow; targets require validation
+19c7:1d53	INT 0x21	indirect control flow; targets require validation
+19c7:2856	INT 0x21	indirect control flow; targets require validation
+19c7:285c	INT 0x20	indirect control flow; targets require validation
+19c7:288c	INT 0x21	indirect control flow; targets require validation
+19c7:28b4	INT 0x21	indirect control flow; targets require validation
+19c7:2915	CALL word ptr [0x8ee8]	indirect control flow; targets require validation
+19c7:2924	INT 0x21	indirect control flow; targets require validation
+19c7:2936	INT 0x21	indirect control flow; targets require validation
+19c7:2951	CALLF [0x93a6]	indirect control flow; targets require validation
+19c7:2967	CALLF [0x93a6]	indirect control flow; targets require validation
+19c7:29ba	INT 0x21	indirect control flow; targets require validation
+19c7:2a2d	INT 0x21	indirect control flow; targets require validation
+19c7:2a3a	INT 0x21	indirect control flow; targets require validation
+19c7:2a45	CALLF [0x93a6]	indirect control flow; targets require validation
+19c7:2a51	INT 0x21	indirect control flow; targets require validation
+19c7:2a65	INT 0x21	indirect control flow; targets require validation
+19c7:2a77	CALLF [DI]	indirect control flow; targets require validation
+19c7:2a8f	CALLF [0x8f8c]	indirect control flow; targets require validation
+19c7:2ac6	JMPF [0x8f90]	indirect control flow; targets require validation
+19c7:2c7e	JMPF [0x8f96]	indirect control flow; targets require validation
+19c7:2d3d	INT 0x21	indirect control flow; targets require validation
+19c7:2d6e	INT 0x21	indirect control flow; targets require validation
+19c7:3943	JMP word ptr CS:[BX + 0x3aa0]	indirect control flow; targets require validation
+19c7:3d6d	CALLF [0x90fa]	indirect control flow; targets require validation
+19c7:3d85	CALLF [0x90fe]	indirect control flow; targets require validation
+19c7:3d9e	CALLF [0x9106]	indirect control flow; targets require validation
+19c7:3dbc	CALLF [0x910a]	indirect control flow; targets require validation
+19c7:4106	INT 0x21	indirect control flow; targets require validation
+19c7:413a	INT 0x21	indirect control flow; targets require validation
+19c7:415e	INT 0x21	indirect control flow; targets require validation
+19c7:4171	INT 0x21	indirect control flow; targets require validation
+19c7:4180	INT 0x21	indirect control flow; targets require validation
+19c7:435b	INT 0x21	indirect control flow; targets require validation
+19c7:43ba	INT 0x21	indirect control flow; targets require validation
+19c7:43c7	INT 0x21	indirect control flow; targets require validation
+19c7:43d8	INT 0x21	indirect control flow; targets require validation
+19c7:43ee	INT 0x21	indirect control flow; targets require validation
+19c7:4432	INT 0x21	indirect control flow; targets require validation
+19c7:44c4	INT 0x21	indirect control flow; targets require validation
+19c7:4515	INT 0x21	indirect control flow; targets require validation
+19c7:475f	INT 0x21	indirect control flow; targets require validation
+19c7:47ba	INT 0x21	indirect control flow; targets require validation
+19c7:49df	INT 0x21	indirect control flow; targets require validation
+19c7:4a4a	CALLF [BP + -0xe]	indirect control flow; targets require validation
+19c7:4b52	CALLF [BP + -0x10]	indirect control flow; targets require validation
+19c7:4bad	INT 0x21	indirect control flow; targets require validation
+19c7:4c12	INT 0x21	indirect control flow; targets require validation
+19c7:4e62	INT 0x21	indirect control flow; targets require validation
+19c7:4e70	INT 0x21	indirect control flow; targets require validation
+19c7:4e86	INT 0x16	indirect control flow; targets require validation
+19c7:4e9e	INT 0x1a	indirect control flow; targets require validation
+19c7:4ebc	INT 0x1a	indirect control flow; targets require validation
+19c7:4eca	INT 0x21	indirect control flow; targets require validation
+19c7:4ee4	INT 0x21	indirect control flow; targets require validation
+19c7:4f04	INT 0x21	indirect control flow; targets require validation
+19c7:4f13	INT 0x21	indirect control flow; targets require validation
+19c7:4f23	INT 0x21	indirect control flow; targets require validation
+19c7:4f46	INT 0x21	indirect control flow; targets require validation
+19c7:4f5c	INT 0x21	indirect control flow; targets require validation
+1eea:00b2	JMPF CS:[0x0]	indirect control flow; targets require validation
+1eea:00cb	CALLF [0x0]	indirect control flow; targets require validation
+1eea:00de	JMPF [0x8406]	indirect control flow; targets require validation
+1eea:00e4	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:00eb	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:00f2	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:00f9	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0100	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0107	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0115	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0123	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:012a	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0131	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:015b	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0162	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0169	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0170	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0177	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0193	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:019a	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01a1	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01a8	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01af	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01b6	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01d2	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01d9	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01e0	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01ee	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01f5	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:01fc	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0203	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:020a	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0211	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:023b	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0242	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0249	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:035a	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0361	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:037d	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0384	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:038b	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:03a0	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:03a7	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:03ae	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:03ca	JMPF 0x0000:0000	unmapped target 0000:0000
+1eea:0405	INT 0x21	indirect control flow; targets require validation
+1eea:0419	INT 0x21	indirect control flow; targets require validation
+1eea:0438	INT 0x21	indirect control flow; targets require validation
+1eea:0497	INT 0x21	indirect control flow; targets require validation
+1eea:04b4	INT 0x10	indirect control flow; targets require validation
+1eea:04bc	INT 0x10	indirect control flow; targets require validation
+1eea:04c4	INT 0x10	indirect control flow; targets require validation
+1eea:04cc	INT 0x10	indirect control flow; targets require validation
+1eea:04d0	INT 0x21	indirect control flow; targets require validation
+1eea:04d5	INT 0x21	indirect control flow; targets require validation
+1eea:04e3	INT 0x21	indirect control flow; targets require validation
+1eea:04f8	INT 0x21	indirect control flow; targets require validation
+1eea:051e	INT 0x21	indirect control flow; targets require validation
+1eea:0c7f	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0cc0	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0ce4	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0d20	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0d40	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0d60	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0d88	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0daa	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0e23	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0ef4	JMP BP	indirect control flow; targets require validation
+1eea:0f15	CALLF [0xe077]	indirect control flow; targets require validation
+1eea:0fb9	JMPF CS:[0xf9c]	indirect control flow; targets require validation
+1eea:0fe6	JMPF CS:[0xf9c]	indirect control flow; targets require validation
+1eea:112c	INT 0x33	indirect control flow; targets require validation
+1eea:1140	INT 0x33	indirect control flow; targets require validation
+1eea:1145	INT 0x33	indirect control flow; targets require validation
+1eea:1170	INT 0x33	indirect control flow; targets require validation
+1eea:11ac	INT 0x33	indirect control flow; targets require validation
+1eea:1225	INT 0x33	indirect control flow; targets require validation
+201d:0033	INT 0x21	indirect control flow; targets require validation
+201d:0054	INT 0x21	indirect control flow; targets require validation
+201d:0075	INT 0x21	indirect control flow; targets require validation
+201d:0081	INT 0x21	indirect control flow; targets require validation
+201d:009a	INT 0x21	indirect control flow; targets require validation
+201d:00ae	INT 0x21	indirect control flow; targets require validation
+209f:000f	INT 0x21	indirect control flow; targets require validation
+209f:002c	INT 0x21	indirect control flow; targets require validation
+209f:003e	INT 0x21	indirect control flow; targets require validation
+209f:004c	INT 0x21	indirect control flow; targets require validation
+209f:0069	INT 0x13	indirect control flow; targets require validation
+209f:0073	INT 0x10	indirect control flow; targets require validation
+2120:0108	INT 0x21	indirect control flow; targets require validation
+2120:011c	INT 0x21	indirect control flow; targets require validation
+2120:0128	INT 0x21	indirect control flow; targets require validation
+2120:0132	INT 0x21	indirect control flow; targets require validation
+2120:0137	INT 0x21	indirect control flow; targets require validation
+2120:0171	INT 0x21	indirect control flow; targets require validation
+2120:01c3	INT 0x21	indirect control flow; targets require validation
+2120:01d0	INT 0x21	indirect control flow; targets require validation
+2120:01d9	INT 0x21	indirect control flow; targets require validation
+2120:023d	INT 0x21	indirect control flow; targets require validation
+2120:027d	INT 0x21	indirect control flow; targets require validation
+2120:0295	INT 0x21	indirect control flow; targets require validation
+2120:029f	INT 0x21	indirect control flow; targets require validation
+2120:02d4	INT 0x21	indirect control flow; targets require validation
+2120:02f5	INT 0x21	indirect control flow; targets require validation
+2120:0454	INT 0x21	indirect control flow; targets require validation
+2120:05d4	INT 0x21	indirect control flow; targets require validation
+2120:05de	INT 0x21	indirect control flow; targets require validation
+2120:070c	INT 0x21	indirect control flow; targets require validation
+2120:0751	INT 0x21	indirect control flow; targets require validation
+2120:0766	INT 0x21	indirect control flow; targets require validation
+2120:0792	INT 0x21	indirect control flow; targets require validation
+2120:07f8	INT 0x21	indirect control flow; targets require validation
+2120:0819	INT 0x21	indirect control flow; targets require validation
+2120:0821	INT 0x21	indirect control flow; targets require validation
+2120:082b	INT 0x21	indirect control flow; targets require validation
+2120:0835	INT 0x21	indirect control flow; targets require validation
+2120:0840	INT 0x21	indirect control flow; targets require validation
+2120:0854	INT 0x21	indirect control flow; targets require validation
+2120:085d	INT 0x21	indirect control flow; targets require validation
+2120:086c	INT 0x21	indirect control flow; targets require validation
+2120:0879	INT 0x21	indirect control flow; targets require validation
+2120:08ad	INT 0x21	indirect control flow; targets require validation
+2120:08d7	INT 0x21	indirect control flow; targets require validation
+2120:08db	INT 0x21	indirect control flow; targets require validation
+2120:08e2	INT 0x21	indirect control flow; targets require validation
+2120:08e6	INT 0x21	indirect control flow; targets require validation
+ovl_04::023625	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023667	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02367c	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023691	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0236a6	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0236bb	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0236d0	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0236e5	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0236f7	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023709	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02371e	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023733	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023748	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02375d	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023772	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023787	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02379c	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0237b1	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0237c6	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0237db	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0237f0	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023805	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02381a	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02382f	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023844	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023859	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02386e	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023883	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023898	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0238aa	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0238bc	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0238ce	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0238e0	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0238f2	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023904	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023919	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02392e	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023943	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023958	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::02396d	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023982	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023997	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0239ac	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0239c1	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0239d6	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::0239eb	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a00	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a15	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a2a	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a3f	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a54	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a69	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a7e	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023a93	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023aa8	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023abd	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023acf	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_04::023ae4	CALLF [BP + 0x6]	indirect control flow; targets require validation
+ovl_07::0234df	JMP word ptr CS:[BX + 0xae6]	indirect control flow; targets require validation
+ovl_07::023917	JMP word ptr CS:[BX + 0xbc0]	indirect control flow; targets require validation
+ovl_10::026de1	JMP word ptr CS:[BX + 0x217a]	indirect control flow; targets require validation
+ovl_11::02580e	JMP word ptr CS:[BX + 0x6cc]	indirect control flow; targets require validation
+ovl_11::025c4c	JMP word ptr CS:[BX + 0x9e2]	indirect control flow; targets require validation
+ovl_13::025504	JMP word ptr CS:[BX + 0x2be]	indirect control flow; targets require validation
+ovl_13::0262f9	CALLF [0x7436]	indirect control flow; targets require validation
+ovl_13::0263b1	JMP word ptr CS:[BX + 0xe8a]	indirect control flow; targets require validation
+ovl_14::0268fe	JMP word ptr CS:[BX + 0x19e4]	indirect control flow; targets require validation
+ovl_15::026ccf	CALLF [0x7c86]	indirect control flow; targets require validation
+ovl_15::026cf9	CALLF [0x7c86]	indirect control flow; targets require validation
+ovl_15::026d1b	CALLF [0x7c86]	indirect control flow; targets require validation
+ovl_16::02943e	JMP word ptr CS:[BX + 0x3e2]	indirect control flow; targets require validation
+ovl_16::0294d2	JMP word ptr CS:[BX + 0x476]	indirect control flow; targets require validation
+ovl_16::02963d	JMP word ptr CS:[BX + 0x638]	indirect control flow; targets require validation
+ovl_17::029495	JMP word ptr CS:[BX + 0x446]	indirect control flow; targets require validation
+ovl_17::0296b7	JMP word ptr CS:[BX + 0x6b6]	indirect control flow; targets require validation
+ovl_18::029492	JMP word ptr CS:[BX + 0x45e]	indirect control flow; targets require validation
+ovl_19::0294df	JMP word ptr CS:[BX + 0x494]	indirect control flow; targets require validation
+ovl_20::0293a8	JMP word ptr CS:[BX + 0x33c]	indirect control flow; targets require validation
+ovl_20::029579	JMP word ptr CS:[BX + 0x546]	indirect control flow; targets require validation
+ovl_21::0293b0	JMP word ptr CS:[BX + 0x374]	indirect control flow; targets require validation
+ovl_22::0296ea	JMP word ptr CS:[BX + 0x6e2]	indirect control flow; targets require validation
+ovl_23::029591	JMP word ptr CS:[BX + 0x534]	indirect control flow; targets require validation
+ovl_23::029608	JMP word ptr CS:[BX + 0x5aa]	indirect control flow; targets require validation
+ovl_23::029797	JMP word ptr CS:[BX + 0x7a8]	indirect control flow; targets require validation
+ovl_25::02916c	JMP word ptr CS:[BX + 0x100]	indirect control flow; targets require validation
+ovl_25::0291d2	JMP word ptr CS:[BX + 0x166]	indirect control flow; targets require validation
+ovl_25::029238	JMP word ptr CS:[BX + 0x1cc]	indirect control flow; targets require validation
+ovl_25::02937a	JMP word ptr CS:[BX + 0x30e]	indirect control flow; targets require validation
+ovl_25::029465	JMP word ptr CS:[BX + 0x408]	indirect control flow; targets require validation
+ovl_25::0294dc	JMP word ptr CS:[BX + 0x486]	indirect control flow; targets require validation
+ovl_26::029497	JMP word ptr CS:[BX + 0x43a]	indirect control flow; targets require validation
+ovl_26::02950e	JMP word ptr CS:[BX + 0x4b8]	indirect control flow; targets require validation
+ovl_26::0295c5	JMP word ptr CS:[BX + 0x568]	indirect control flow; targets require validation
+ovl_26::02963c	JMP word ptr CS:[BX + 0x5e6]	indirect control flow; targets require validation
+ovl_26::02984c	JMP word ptr CS:[BX + 0x828]	indirect control flow; targets require validation
+ovl_27::029619	JMP word ptr CS:[BX + 0x5bc]	indirect control flow; targets require validation
+ovl_27::029695	JMP word ptr CS:[BX + 0x66a]	indirect control flow; targets require validation
+ovl_27::0298a8	JMP word ptr CS:[BX + 0x8b2]	indirect control flow; targets require validation
+ovl_28::029790	JMP word ptr CS:[BX + 0x73a]	indirect control flow; targets require validation
+ovl_28::0299cc	JMP word ptr CS:[BX + 0xa0a]	indirect control flow; targets require validation
+ovl_29::029609	JMP word ptr CS:[BX + 0x5ac]	indirect control flow; targets require validation
+ovl_29::029680	JMP word ptr CS:[BX + 0x622]	indirect control flow; targets require validation
+ovl_29::02987e	JMP word ptr CS:[BX + 0x88a]	indirect control flow; targets require validation
+ovl_30::02957b	JMP word ptr CS:[BX + 0x572]	indirect control flow; targets require validation
+ovl_31::0293ff	JMP word ptr CS:[BX + 0x30a]	indirect control flow; targets require validation
+ovl_32::029154	JMP word ptr CS:[BX + 0xf2]	indirect control flow; targets require validation
+ovl_32::0291c5	JMP word ptr CS:[BX + 0x166]	indirect control flow; targets require validation
+ovl_32::02932b	JMP word ptr CS:[BX + 0x2ce]	indirect control flow; targets require validation
+ovl_32::0293a2	JMP word ptr CS:[BX + 0x34c]	indirect control flow; targets require validation
+ovl_33::029b0e	JMP word ptr CS:[BX + 0xac4]	indirect control flow; targets require validation
+ovl_33::029d81	JMP word ptr CS:[BX + 0xdf0]	indirect control flow; targets require validation
+ovl_33::029ec0	JMP word ptr CS:[BX + 0xe26]	indirect control flow; targets require validation

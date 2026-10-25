@@ -1,0 +1,524 @@
+VENGE2.BIN | ovl_33 | vengec.pan
+
+RECORD 0 (0x0002)
+Venge we are. Suspicious your
+motives we are. Why here have you
+come? What with us do you want?
+Careful lest us you anger.
+  [0] I WANT A PEACE TREATY
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 1 (0x0018)
+Never we shall forgive. Never we
+shall forget. Never for you our
+hatred shall end. You the foe of
+our friend are. You our foe and
+the friend of our foe are.
+Retribution we bring. Beware. 
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 2 (0x002e)
+Knave, our peaceful ship you
+destroyed. You our people have
+killed. Now we you kill. Never we
+shall forget. Never we shall
+forgive. Never from us you shall
+escape. Ship for ship from you we
+shall exact.
+  [0] FIGHT
+
+RECORD 3 (0x0044)
+You our friend yourself have shown.
+We on you can rely. You our
+starbase welcomes. We to see you
+once more are pleased.  A friend
+another friend in need helps. We in
+need of your help are. You us will
+help?
+  [0] I'D BE GLAD TO HELP YOU
+  [1] IT DEPENDS ON WHAT YOU WANT
+
+RECORD 4 (0x005a)
+To the Love Alliance we you
+welcome. We the Venge are. We the
+backbone of this fine Alliance
+proud are to be. You a fine
+addition to the Alliance we think.
+But membership responsibility
+implies. 
+  [0] PEACE TREATY
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 5 (0x0070)
+You recklessly the vessels of our
+friend have attacked. You in any
+case we now must punish. Fair
+warning we to you gave. You die
+now. 
+  [0] FIGHT
+
+RECORD 6 (0x0086)
+You ignorantly the vessels of our
+friends have attacked. You this
+must immediately cease. Never again
+our friends attack. We to you
+warning give. At your direst peril
+such attacks repeat. You lucky to
+get warning are. No warning if you
+us attack is given. 
+  [0] I SINCERELY APOLOGIZE
+  [1] IT WAS NECESSARY TO ATTACK THEM
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 7 (0x009c)
+You the Peace and Freedom filth
+have attacked. You a good friend
+may become. We our gratitude offer.
+The bases of the Love Alliance do
+never attack. They to you as
+targets forbidden are.  This as a
+friendly warning accept.
+  [0] JOIN THE LOVE ALLIANCE
+  [1] PEACE TREATY
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+  [5] FIGHT
+
+RECORD 8 (0x00b2)
+You the vile Freedom filth have
+attacked. You a good friend may
+become. We our gratitude offer. The
+bases of the Love Alliance do
+never attack. They to you as
+targets forbidden are. This as a
+friendly warning accept. The bases
+of the Peace Alliance vile are.
+Their bases with our blessing you
+may destroy. Such destruction we
+encourage.
+  [0] JOIN THE LOVE ALLIANCE
+  [1] PEACE TREATY
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+  [5] FIGHT
+
+RECORD 9 (0x00c8)
+You the vile Peace filth have
+attacked. You a good friend may
+become. We our gratitude offer. The
+bases of the Love Alliance do
+never attack. They to you as
+targets forbidden are. This as a
+friendly warning accept. The bases
+of the Freedom Alliance vile are.
+Their bases with our blessing you
+may destroy. Such destruction we
+encourage. 
+  [0] JOIN THE LOVE ALLIANCE
+  [1] PEACE TREATY
+  [2] TRADE
+  [3] INFORMATION
+  [4] LEAVE
+  [5] FIGHT
+
+RECORD 10 (0x00de)
+We that you for peace wish are
+pleased. All beings peace should
+know. Re: treaty with us, an
+obstacle exists. We loyal are. We
+no friends outside the Love
+Alliance recognize. You must the
+Love Alliance join. Then we can a
+peace treaty discuss. 
+  [0] JOIN THE LOVE ALLIANCE
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 11 (0x00f4)
+The friendship of the Love Alliance
+good is to join. We to this
+fellowship you welcome. We to you a
+peace treaty of eternal friendship
+offer. We however you warn. To
+reject us do not.
+ 
+  We the Humans to this treaty
+agree. Never the Venge to harm. 
+Never the Humans to betray. The
+Venge the friends of Humans will
+be. The Humans to the Venge loyal
+will be.  If the Humans untrue
+prove this treaty null and void
+is.  If the Humans untrue prove
+the Venge the Humans shall
+destroy.
+ 
+You the peace treaty will sign?
+  [0] AGREE TO SIGN
+  [1] DONATE COMPONENTS
+  [2] FIGHT
+
+RECORD 12 (0x010a)
+You must restitution for the
+destruction of our friends make.
+You must to us components donate.
+The components now surrender. 
+  [0] DONATE COMPONENTS
+  [1] REFUSE
+
+RECORD 13 (0x0120)
+It necessary was, you say, our
+friends to attack. We say, it
+necessary is, for us you to attack.
+So we now attack.  Turnabout fair
+play is. 
+  [0] FIGHT
+
+RECORD 14 (0x0136)
+We cannot the Alliance your joining
+approve. We loyal to the Jot are.
+We without their permission no
+treaties sign. You must to the Jot
+talk. They will the Love Alliance
+you permit to join. 
+  [0] PEACE TREATY
+  [1] INFORMATION
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 15 (0x014c)
+We to our fellowship you welcome.
+We shall friends forever be. We
+shall never our trust betray. You
+will always us in need help. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 16 (0x0162)
+You a great risk run. You
+perilously close are, to us
+annoying are. We forgiving entities
+are not. You now must go. When you
+further on this matter have
+thought, you may return. 
+  [0] LEAVE
+  [1] FIGHT
+
+RECORD 17 (0x0178)
+We to our friends these will give.
+You under probation are.  Perhaps
+you a simple mistake made. Perhaps
+non-fatal this mistake was.
+Perhaps you can trusted be. And
+perhaps not. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 18 (0x018e)
+That you with components provide,
+we do require. To us now the
+components give. Your generosity we
+appreciate. We the components will
+now take. Great gratitude we
+provide. You a true friend are.
+  [0] DONATE COMPONENTS
+  [1] REFUSE
+
+RECORD 19 (0x01a4)
+Our foes most vulgar are. Their
+corruption beyond belief is.  You
+our friend are. Thus, you their foe
+are. You must them extirpate.  You
+must their starbases wrack. You
+must all their worlds attack. Now
+go.
+  [0] WE WILL KILL THEM
+  [1] WE CANNOT KILL THEM
+
+RECORD 20 (0x01ba)
+We a severe shortage of starbases
+have. You a fine starbase possess.
+To us you must your starbase give.
+We a great need have.  Surely a
+friend another friend will not so
+small an item refuse?  We your
+starbase humbly accept. Gratitude
+in advance we proffer. 
+  [0] GIVE STARBASE
+  [1] REFUSE
+
+RECORD 21 (0x01d0)
+You doubtful sound. You unwilling
+your friends to help are?  We to
+you warning give. To hesitate we
+you forbid. You lucky to get
+warning are. You us help? Yes or
+no; you must say. 
+  [0] YES, I'LL HELP
+  [1] I CAN'T MAKE THAT PROMISE
+
+RECORD 22 (0x01e6)
+You a false friend have proved. You
+us have betrayed. Never we shall
+forget. Never we shall forgive. You
+must die. You must die.  All
+humans must die. This insult shall
+be avenged. 
+  [0] FIGHT
+
+RECORD 23 (0x01fc)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE ACARI
+  [1] THE BROODMASTERS
+  [2] THE VORTICELLA
+  [3] I'LL KILL NO ONE
+
+RECORD 24 (0x0212)
+You the Acari vowed to destroy. The
+Acari yet live. You must greater
+effort exert. Delenda est!
+  [0] INFORMATION
+  [1] LEAVE
+
+RECORD 25 (0x0228)
+You the Broodmasters vowed to
+destroy. The Broodmasters yet
+live.  You must greater effort
+exert. Delenda est!
+  [0] INFORMATION
+  [1] LEAVE
+
+RECORD 26 (0x023e)
+You the Vorticella vowed to
+destroy. The Vorticella yet live.
+You must greater effort exert.
+Delenda est!
+  [0] INFORMATION
+  [1] LEAVE
+
+RECORD 27 (0x0254)
+You honored are. We the Venge you
+praise. Our enemies deceased are.
+Our foes all shall likewise do. We
+with you very happy are. 
+  [0] TRADE
+  [1] INFORMATION
+  [2] LEAVE
+
+RECORD 28 (0x026a)
+To you this information we freely
+give. Perhaps you it will help.  
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 29 (0x0280)
+Workers for Love they are. They
+against us have never a crime
+perpetrated. Of course they free
+will lack.  Perhaps that the
+reason for their forbearance is.
+But it unimportant is. 
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 30 (0x0296)
+Five hundred twenty and four orbits
+ago, an Acari us deeply offended.
+The Acari's name Kalamastra was.
+The Venge then retribution swore.
+Our people for the day of reckoning
+have lived. Someday the Acari
+their treachery sorely will
+regret.  Kalamastra's name will in
+infamy live. The Acari will in
+horror his name recite. They the
+catastrophe of the Venge's wrath
+shall know. Today the Dignee and
+the Cicisbeo, the Acari have
+joined.  Friends of our enemies,
+our enemies are. All of them, we
+despise.  
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 31 (0x02ac)
+The Jot never have us betrayed. The
+Jot great powers of psyche
+possess.  The Jot rulers of the
+Love Alliance are. We the Jot
+support. 
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 32 (0x02c2)
+The Broodmasters we detest. The
+Broodmasters we hate. On the
+Broodmasters we shall ruin wreak.
+Sixteen orbits ago, the
+Broodmasters to us alliance
+offered. We innocently accepted.
+We members of the Peace Alliance
+were. Then, the Broodmasters us
+treacherously harmed. We lightly a
+favor asked. A small favor it was.
+Yet they refused. Now they must
+die. Their friends the Dacians are.
+So, too must the Dacians die. So,
+too must all friends of the
+Broodmasters die. 
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 33 (0x02d8)
+Detestable beings these are.
+Destroyers of innocent ships they
+are. We whenever able them destroy.
+You as well should them destroy. 
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 34 (0x02ee)
+We the Venge are. You to a friend
+be generous, wise are.  Your step
+carefully watch. 
+  [0] AUTOMATA
+  [1] FREEDOM ALLIANCE
+  [2] JOT
+  [3] PEACE ALLIANCE
+  [4] VORTICELLA
+  [5] YOURSELVES
+  [6] EXIT
+
+RECORD 35 (0x0304)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE ACARI
+  [1] I'LL KILL NO ONE
+
+RECORD 36 (0x031a)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE ACARI
+  [1] THE BROODMASTERS
+  [2] I'LL KILL NO ONE
+
+RECORD 37 (0x0330)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE ACARI
+  [1] THE VORTICELLA
+  [2] I'LL KILL NO ONE
+
+RECORD 38 (0x0346)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE BROODMASTERS
+  [1] THE VORTICELLA
+  [2] I'LL KILL NO ONE
+
+RECORD 39 (0x035c)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE BROODMASTERS
+  [1] I'LL KILL NO ONE
+
+RECORD 40 (0x0372)
+You a fine friend have proved. You
+us have supported. Never we shall
+forget. You are friend are. You the
+enemy of your choice may choose.
+We grateful shall be, when that
+enemy is destroyed.  Whom do you
+choose to destroy?
+  [0] THE VORTICELLA
+  [1] I'LL KILL NO ONE
+
+RECORD 41 (0x0388)
+We the Venge your infestation
+notice. You parasite grubs
+possess.  Your ship diseased is.
+You us wish this plague to remove?
+  [0] YES, PLEASE REMOVE THE GRUBS
+  [1] NO, LEAVE THE GRUBS BE
+  [2] LEAVE
+
+RECORD 42 (0x039e)
+The grubs removed are. Your ship
+purified is. Now you we have
+helped.  Can you us help? We in
+great need of help are.
+  [0] I'D BE GLAD TO HELP YOU
+  [1] IT DEPENDS ON WHAT YOU WANT
+  [2] LEAVE

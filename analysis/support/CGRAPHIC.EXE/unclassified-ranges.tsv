@@ -1,0 +1,33 @@
+region	start	end	bytes	status
+CODE_0	1000:0000	1000:000f	16	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0130	1000:061d	1262	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0717	1000:0717	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:076e	1000:076e	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:07ce	1000:07ce	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:08bc	1000:08bc	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:08e1	1000:08e1	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:091b	1000:0cc0	934	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0dc3	1000:0dc3	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0dda	1000:0dda	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0e92	1000:0f08	119	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:0ff2	1000:0ff2	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:11a5	1000:11a5	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:11b2	1000:11b2	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:11c7	1000:11c7	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:11e2	1000:11e2	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:138f	1000:138f	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:146b	1000:1474	10	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:14ad	1000:14f5	73	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:160b	1000:1613	9	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:1659	1000:1661	9	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:16b7	1000:16c0	10	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:16fd	1000:1700	4	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:17b7	1000:17b7	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:17cc	1000:17cc	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:194b	1000:194b	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:1a39	1000:1c92	602	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:1cf7	1000:1cf7	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:1d00	1000:1d00	1	not decoded; may be data, padding, or undiscovered code
+CODE_0	1000:1dc5	1000:1dcf	11	not decoded; may be data, padding, or undiscovered code
+CODE_1	11dd:0000	11dd:0ad3	2772	not decoded; may be data, padding, or undiscovered code
+HEADER	HEADER::00000000	HEADER::000001ff	512	data

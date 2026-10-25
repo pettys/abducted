@@ -1,0 +1,26 @@
+{
+  "source": "CAVE3.PIC",
+  "source_sha256": "19b8bf612abc51ce14e10fac386c5b40ad3cfef81254c1c4feac4b4af81a144e",
+  "width": 320,
+  "height": 200,
+  "pixels": 64000,
+  "palette_entries": 256,
+  "embedded_palette_entries": 128,
+  "used_colors": 39,
+  "blocks": [
+    {
+      "tag": "M0",
+      "offset": 0,
+      "length": 386
+    },
+    {
+      "tag": "X0",
+      "offset": 390,
+      "length": 14566
+    }
+  ],
+  "compression": "MicroProse LZW then 0x90 run-length expansion; X1 packs two pixels per byte",
+  "palette": "6-bit VGA RGB scaled to 8-bit RGB",
+  "inherited_palette_source": "COCKSP2.PIC",
+  "palette_caveat": "Missing palette entries use COCKSP2.PIC as a fallback; palette-less assets can require a different active game-scene palette."
+}

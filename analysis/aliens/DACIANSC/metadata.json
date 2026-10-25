@@ -1,0 +1,76 @@
+{
+  "source": "DACIANSC.PAN",
+  "viewport": [
+    0,
+    0,
+    319,
+    199,
+    1
+  ],
+  "sprite_count": 12,
+  "sprites": [
+    {
+      "index": 0,
+      "width": 144,
+      "height": 66
+    },
+    {
+      "index": 2,
+      "width": 208,
+      "height": 63
+    },
+    {
+      "index": 3,
+      "width": 265,
+      "height": 100
+    },
+    {
+      "index": 4,
+      "width": 188,
+      "height": 63
+    },
+    {
+      "index": 5,
+      "width": 265,
+      "height": 100
+    },
+    {
+      "index": 6,
+      "width": 156,
+      "height": 64
+    },
+    {
+      "index": 7,
+      "width": 126,
+      "height": 65
+    },
+    {
+      "index": 10,
+      "width": 22,
+      "height": 18
+    },
+    {
+      "index": 11,
+      "width": 22,
+      "height": 18
+    },
+    {
+      "index": 12,
+      "width": 22,
+      "height": 18
+    },
+    {
+      "index": 13,
+      "width": 36,
+      "height": 16
+    },
+    {
+      "index": 14,
+      "width": 36,
+      "height": 16
+    }
+  ],
+  "animation_file_offset": 15658,
+  "animation_bytes": 1104,
+  "note": "Sprite sheet only; animation bytecode not executed."
+}

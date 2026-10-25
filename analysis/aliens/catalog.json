@@ -1,0 +1,2419 @@
+[
+  {
+    "source": "ACARIC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 18,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 1,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 2,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 3,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 4,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 5,
+        "width": 37,
+        "height": 55
+      },
+      {
+        "index": 6,
+        "width": 37,
+        "height": 55
+      },
+      {
+        "index": 7,
+        "width": 57,
+        "height": 35
+      },
+      {
+        "index": 8,
+        "width": 57,
+        "height": 35
+      },
+      {
+        "index": 10,
+        "width": 61,
+        "height": 47
+      },
+      {
+        "index": 11,
+        "width": 61,
+        "height": 47
+      },
+      {
+        "index": 12,
+        "width": 61,
+        "height": 47
+      },
+      {
+        "index": 13,
+        "width": 58,
+        "height": 79
+      },
+      {
+        "index": 14,
+        "width": 58,
+        "height": 79
+      },
+      {
+        "index": 20,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 21,
+        "width": 29,
+        "height": 37
+      },
+      {
+        "index": 23,
+        "width": 37,
+        "height": 55
+      },
+      {
+        "index": 24,
+        "width": 37,
+        "height": 55
+      }
+    ],
+    "animation_file_offset": 9998,
+    "animation_bytes": 1024,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "ATHDALDC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 40,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 72,
+        "height": 78
+      },
+      {
+        "index": 1,
+        "width": 72,
+        "height": 78
+      },
+      {
+        "index": 2,
+        "width": 72,
+        "height": 78
+      },
+      {
+        "index": 3,
+        "width": 72,
+        "height": 78
+      },
+      {
+        "index": 10,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 11,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 12,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 13,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 14,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 15,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 16,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 17,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 18,
+        "width": 33,
+        "height": 25
+      },
+      {
+        "index": 19,
+        "width": 33,
+        "height": 25
+      },
+      {
+        "index": 20,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 21,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 22,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 23,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 24,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 25,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 26,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 27,
+        "width": 20,
+        "height": 29
+      },
+      {
+        "index": 30,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 31,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 32,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 33,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 34,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 35,
+        "width": 72,
+        "height": 51
+      },
+      {
+        "index": 40,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 41,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 42,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 43,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 44,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 45,
+        "width": 37,
+        "height": 19
+      },
+      {
+        "index": 50,
+        "width": 54,
+        "height": 38
+      },
+      {
+        "index": 51,
+        "width": 54,
+        "height": 38
+      },
+      {
+        "index": 52,
+        "width": 54,
+        "height": 38
+      },
+      {
+        "index": 53,
+        "width": 54,
+        "height": 38
+      },
+      {
+        "index": 54,
+        "width": 54,
+        "height": 38
+      },
+      {
+        "index": 55,
+        "width": 54,
+        "height": 38
+      }
+    ],
+    "animation_file_offset": 17894,
+    "animation_bytes": 2192,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "AUTOC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 49,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 1,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 2,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 3,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 4,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 5,
+        "width": 33,
+        "height": 20
+      },
+      {
+        "index": 6,
+        "width": 13,
+        "height": 26
+      },
+      {
+        "index": 7,
+        "width": 13,
+        "height": 26
+      },
+      {
+        "index": 8,
+        "width": 13,
+        "height": 26
+      },
+      {
+        "index": 9,
+        "width": 13,
+        "height": 26
+      },
+      {
+        "index": 11,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 12,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 13,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 14,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 15,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 16,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 17,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 18,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 19,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 20,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 21,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 22,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 23,
+        "width": 23,
+        "height": 12
+      },
+      {
+        "index": 24,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 25,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 26,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 27,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 28,
+        "width": 25,
+        "height": 26
+      },
+      {
+        "index": 33,
+        "width": 96,
+        "height": 48
+      },
+      {
+        "index": 34,
+        "width": 96,
+        "height": 48
+      },
+      {
+        "index": 35,
+        "width": 12,
+        "height": 9
+      },
+      {
+        "index": 36,
+        "width": 12,
+        "height": 9
+      },
+      {
+        "index": 37,
+        "width": 12,
+        "height": 9
+      },
+      {
+        "index": 40,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 41,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 42,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 43,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 44,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 45,
+        "width": 16,
+        "height": 3
+      },
+      {
+        "index": 50,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 51,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 52,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 53,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 54,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 55,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 56,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 57,
+        "width": 4,
+        "height": 17
+      },
+      {
+        "index": 60,
+        "width": 77,
+        "height": 58
+      },
+      {
+        "index": 61,
+        "width": 39,
+        "height": 29
+      }
+    ],
+    "animation_file_offset": 8378,
+    "animation_bytes": 1408,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "BATHC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 20,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 115,
+        "height": 111
+      },
+      {
+        "index": 1,
+        "width": 115,
+        "height": 111
+      },
+      {
+        "index": 2,
+        "width": 115,
+        "height": 111
+      },
+      {
+        "index": 3,
+        "width": 115,
+        "height": 111
+      },
+      {
+        "index": 10,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 11,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 12,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 13,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 14,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 15,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 16,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 17,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 20,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 21,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 22,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 23,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 24,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 25,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 26,
+        "width": 17,
+        "height": 17
+      },
+      {
+        "index": 27,
+        "width": 17,
+        "height": 17
+      }
+    ],
+    "animation_file_offset": 12018,
+    "animation_bytes": 736,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "BROOC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 29,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 108,
+        "height": 51
+      },
+      {
+        "index": 1,
+        "width": 108,
+        "height": 51
+      },
+      {
+        "index": 2,
+        "width": 108,
+        "height": 51
+      },
+      {
+        "index": 3,
+        "width": 108,
+        "height": 51
+      },
+      {
+        "index": 4,
+        "width": 108,
+        "height": 51
+      },
+      {
+        "index": 5,
+        "width": 37,
+        "height": 37
+      },
+      {
+        "index": 6,
+        "width": 37,
+        "height": 37
+      },
+      {
+        "index": 7,
+        "width": 26,
+        "height": 14
+      },
+      {
+        "index": 8,
+        "width": 26,
+        "height": 14
+      },
+      {
+        "index": 9,
+        "width": 26,
+        "height": 14
+      },
+      {
+        "index": 10,
+        "width": 34,
+        "height": 27
+      },
+      {
+        "index": 11,
+        "width": 34,
+        "height": 27
+      },
+      {
+        "index": 12,
+        "width": 34,
+        "height": 27
+      },
+      {
+        "index": 13,
+        "width": 34,
+        "height": 27
+      },
+      {
+        "index": 14,
+        "width": 17,
+        "height": 13
+      },
+      {
+        "index": 15,
+        "width": 17,
+        "height": 13
+      },
+      {
+        "index": 21,
+        "width": 47,
+        "height": 18
+      },
+      {
+        "index": 22,
+        "width": 47,
+        "height": 18
+      },
+      {
+        "index": 23,
+        "width": 47,
+        "height": 18
+      },
+      {
+        "index": 24,
+        "width": 47,
+        "height": 18
+      },
+      {
+        "index": 25,
+        "width": 34,
+        "height": 26
+      },
+      {
+        "index": 26,
+        "width": 34,
+        "height": 26
+      },
+      {
+        "index": 27,
+        "width": 34,
+        "height": 26
+      },
+      {
+        "index": 28,
+        "width": 34,
+        "height": 26
+      },
+      {
+        "index": 30,
+        "width": 94,
+        "height": 36
+      },
+      {
+        "index": 31,
+        "width": 94,
+        "height": 36
+      },
+      {
+        "index": 32,
+        "width": 94,
+        "height": 36
+      },
+      {
+        "index": 33,
+        "width": 187,
+        "height": 100
+      },
+      {
+        "index": 34,
+        "width": 54,
+        "height": 73
+      }
+    ],
+    "animation_file_offset": 14054,
+    "animation_bytes": 4640,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "CICISC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 21,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 130,
+        "height": 32
+      },
+      {
+        "index": 1,
+        "width": 130,
+        "height": 33
+      },
+      {
+        "index": 2,
+        "width": 130,
+        "height": 33
+      },
+      {
+        "index": 3,
+        "width": 67,
+        "height": 167
+      },
+      {
+        "index": 4,
+        "width": 57,
+        "height": 18
+      },
+      {
+        "index": 5,
+        "width": 56,
+        "height": 17
+      },
+      {
+        "index": 6,
+        "width": 56,
+        "height": 18
+      },
+      {
+        "index": 7,
+        "width": 19,
+        "height": 41
+      },
+      {
+        "index": 8,
+        "width": 19,
+        "height": 41
+      },
+      {
+        "index": 9,
+        "width": 19,
+        "height": 41
+      },
+      {
+        "index": 10,
+        "width": 45,
+        "height": 35
+      },
+      {
+        "index": 11,
+        "width": 45,
+        "height": 35
+      },
+      {
+        "index": 12,
+        "width": 45,
+        "height": 35
+      },
+      {
+        "index": 13,
+        "width": 10,
+        "height": 3
+      },
+      {
+        "index": 15,
+        "width": 10,
+        "height": 3
+      },
+      {
+        "index": 16,
+        "width": 26,
+        "height": 15
+      },
+      {
+        "index": 17,
+        "width": 26,
+        "height": 15
+      },
+      {
+        "index": 18,
+        "width": 26,
+        "height": 15
+      },
+      {
+        "index": 19,
+        "width": 35,
+        "height": 50
+      },
+      {
+        "index": 20,
+        "width": 10,
+        "height": 3
+      },
+      {
+        "index": 21,
+        "width": 49,
+        "height": 55
+      }
+    ],
+    "animation_file_offset": 6768,
+    "animation_bytes": 736,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "DACIANSC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 12,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 144,
+        "height": 66
+      },
+      {
+        "index": 2,
+        "width": 208,
+        "height": 63
+      },
+      {
+        "index": 3,
+        "width": 265,
+        "height": 100
+      },
+      {
+        "index": 4,
+        "width": 188,
+        "height": 63
+      },
+      {
+        "index": 5,
+        "width": 265,
+        "height": 100
+      },
+      {
+        "index": 6,
+        "width": 156,
+        "height": 64
+      },
+      {
+        "index": 7,
+        "width": 126,
+        "height": 65
+      },
+      {
+        "index": 10,
+        "width": 22,
+        "height": 18
+      },
+      {
+        "index": 11,
+        "width": 22,
+        "height": 18
+      },
+      {
+        "index": 12,
+        "width": 22,
+        "height": 18
+      },
+      {
+        "index": 13,
+        "width": 36,
+        "height": 16
+      },
+      {
+        "index": 14,
+        "width": 36,
+        "height": 16
+      }
+    ],
+    "animation_file_offset": 15658,
+    "animation_bytes": 1104,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "DIDC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 61,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 37,
+        "height": 123
+      },
+      {
+        "index": 1,
+        "width": 37,
+        "height": 123
+      },
+      {
+        "index": 2,
+        "width": 37,
+        "height": 123
+      },
+      {
+        "index": 3,
+        "width": 71,
+        "height": 35
+      },
+      {
+        "index": 4,
+        "width": 71,
+        "height": 36
+      },
+      {
+        "index": 5,
+        "width": 71,
+        "height": 35
+      },
+      {
+        "index": 6,
+        "width": 71,
+        "height": 36
+      },
+      {
+        "index": 7,
+        "width": 71,
+        "height": 35
+      },
+      {
+        "index": 10,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 11,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 12,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 13,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 14,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 15,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 16,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 17,
+        "width": 82,
+        "height": 33
+      },
+      {
+        "index": 20,
+        "width": 260,
+        "height": 31
+      },
+      {
+        "index": 21,
+        "width": 260,
+        "height": 31
+      },
+      {
+        "index": 22,
+        "width": 260,
+        "height": 31
+      },
+      {
+        "index": 30,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 31,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 32,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 33,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 34,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 35,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 36,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 37,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 38,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 39,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 40,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 41,
+        "width": 120,
+        "height": 1
+      },
+      {
+        "index": 50,
+        "width": 52,
+        "height": 39
+      },
+      {
+        "index": 51,
+        "width": 45,
+        "height": 40
+      },
+      {
+        "index": 52,
+        "width": 41,
+        "height": 40
+      },
+      {
+        "index": 53,
+        "width": 38,
+        "height": 41
+      },
+      {
+        "index": 54,
+        "width": 33,
+        "height": 43
+      },
+      {
+        "index": 55,
+        "width": 28,
+        "height": 41
+      },
+      {
+        "index": 56,
+        "width": 29,
+        "height": 31
+      },
+      {
+        "index": 57,
+        "width": 26,
+        "height": 29
+      },
+      {
+        "index": 58,
+        "width": 26,
+        "height": 23
+      },
+      {
+        "index": 59,
+        "width": 25,
+        "height": 21
+      },
+      {
+        "index": 60,
+        "width": 36,
+        "height": 26
+      },
+      {
+        "index": 61,
+        "width": 29,
+        "height": 24
+      },
+      {
+        "index": 62,
+        "width": 21,
+        "height": 22
+      },
+      {
+        "index": 63,
+        "width": 18,
+        "height": 20
+      },
+      {
+        "index": 64,
+        "width": 17,
+        "height": 18
+      },
+      {
+        "index": 65,
+        "width": 16,
+        "height": 18
+      },
+      {
+        "index": 66,
+        "width": 19,
+        "height": 19
+      },
+      {
+        "index": 67,
+        "width": 23,
+        "height": 24
+      },
+      {
+        "index": 68,
+        "width": 24,
+        "height": 24
+      },
+      {
+        "index": 69,
+        "width": 33,
+        "height": 24
+      },
+      {
+        "index": 70,
+        "width": 35,
+        "height": 29
+      },
+      {
+        "index": 71,
+        "width": 34,
+        "height": 32
+      },
+      {
+        "index": 72,
+        "width": 33,
+        "height": 29
+      },
+      {
+        "index": 73,
+        "width": 37,
+        "height": 33
+      },
+      {
+        "index": 74,
+        "width": 31,
+        "height": 28
+      },
+      {
+        "index": 75,
+        "width": 28,
+        "height": 26
+      },
+      {
+        "index": 76,
+        "width": 31,
+        "height": 25
+      },
+      {
+        "index": 77,
+        "width": 25,
+        "height": 31
+      },
+      {
+        "index": 78,
+        "width": 24,
+        "height": 28
+      },
+      {
+        "index": 79,
+        "width": 25,
+        "height": 28
+      }
+    ],
+    "animation_file_offset": 16376,
+    "animation_bytes": 2080,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "DIGNEEC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 23,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 79,
+        "height": 111
+      },
+      {
+        "index": 1,
+        "width": 46,
+        "height": 65
+      },
+      {
+        "index": 2,
+        "width": 28,
+        "height": 17
+      },
+      {
+        "index": 3,
+        "width": 28,
+        "height": 17
+      },
+      {
+        "index": 4,
+        "width": 28,
+        "height": 17
+      },
+      {
+        "index": 5,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "index": 6,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "index": 7,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "index": 8,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "index": 10,
+        "width": 37,
+        "height": 47
+      },
+      {
+        "index": 11,
+        "width": 37,
+        "height": 47
+      },
+      {
+        "index": 12,
+        "width": 25,
+        "height": 49
+      },
+      {
+        "index": 13,
+        "width": 25,
+        "height": 49
+      },
+      {
+        "index": 14,
+        "width": 25,
+        "height": 49
+      },
+      {
+        "index": 15,
+        "width": 42,
+        "height": 46
+      },
+      {
+        "index": 16,
+        "width": 42,
+        "height": 46
+      },
+      {
+        "index": 17,
+        "width": 42,
+        "height": 46
+      },
+      {
+        "index": 18,
+        "width": 46,
+        "height": 47
+      },
+      {
+        "index": 19,
+        "width": 46,
+        "height": 47
+      },
+      {
+        "index": 20,
+        "width": 16,
+        "height": 16
+      },
+      {
+        "index": 21,
+        "width": 16,
+        "height": 16
+      },
+      {
+        "index": 22,
+        "width": 16,
+        "height": 16
+      },
+      {
+        "index": 23,
+        "width": 16,
+        "height": 16
+      }
+    ],
+    "animation_file_offset": 10168,
+    "animation_bytes": 1680,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "FELC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 22,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 78,
+        "height": 50
+      },
+      {
+        "index": 1,
+        "width": 39,
+        "height": 55
+      },
+      {
+        "index": 2,
+        "width": 39,
+        "height": 55
+      },
+      {
+        "index": 3,
+        "width": 39,
+        "height": 55
+      },
+      {
+        "index": 4,
+        "width": 39,
+        "height": 55
+      },
+      {
+        "index": 5,
+        "width": 39,
+        "height": 55
+      },
+      {
+        "index": 6,
+        "width": 79,
+        "height": 33
+      },
+      {
+        "index": 7,
+        "width": 27,
+        "height": 12
+      },
+      {
+        "index": 8,
+        "width": 27,
+        "height": 12
+      },
+      {
+        "index": 9,
+        "width": 3,
+        "height": 18
+      },
+      {
+        "index": 10,
+        "width": 63,
+        "height": 46
+      },
+      {
+        "index": 11,
+        "width": 63,
+        "height": 46
+      },
+      {
+        "index": 12,
+        "width": 63,
+        "height": 46
+      },
+      {
+        "index": 13,
+        "width": 63,
+        "height": 46
+      },
+      {
+        "index": 14,
+        "width": 39,
+        "height": 59
+      },
+      {
+        "index": 15,
+        "width": 39,
+        "height": 59
+      },
+      {
+        "index": 16,
+        "width": 49,
+        "height": 36
+      },
+      {
+        "index": 17,
+        "width": 49,
+        "height": 36
+      },
+      {
+        "index": 18,
+        "width": 49,
+        "height": 36
+      },
+      {
+        "index": 20,
+        "width": 42,
+        "height": 20
+      },
+      {
+        "index": 21,
+        "width": 41,
+        "height": 20
+      },
+      {
+        "index": 22,
+        "width": 52,
+        "height": 78
+      }
+    ],
+    "animation_file_offset": 11904,
+    "animation_bytes": 2816,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "HALICOTC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 37,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 1,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 2,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 3,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 4,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 5,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 6,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 7,
+        "width": 7,
+        "height": 4
+      },
+      {
+        "index": 8,
+        "width": 7,
+        "height": 4
+      },
+      {
+        "index": 10,
+        "width": 23,
+        "height": 23
+      },
+      {
+        "index": 11,
+        "width": 23,
+        "height": 23
+      },
+      {
+        "index": 12,
+        "width": 23,
+        "height": 23
+      },
+      {
+        "index": 13,
+        "width": 23,
+        "height": 23
+      },
+      {
+        "index": 14,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 15,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 16,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 17,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 18,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 19,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "index": 20,
+        "width": 15,
+        "height": 9
+      },
+      {
+        "index": 21,
+        "width": 15,
+        "height": 9
+      },
+      {
+        "index": 22,
+        "width": 15,
+        "height": 9
+      },
+      {
+        "index": 24,
+        "width": 15,
+        "height": 9
+      },
+      {
+        "index": 25,
+        "width": 15,
+        "height": 9
+      },
+      {
+        "index": 26,
+        "width": 28,
+        "height": 40
+      },
+      {
+        "index": 27,
+        "width": 28,
+        "height": 40
+      },
+      {
+        "index": 28,
+        "width": 28,
+        "height": 40
+      },
+      {
+        "index": 30,
+        "width": 26,
+        "height": 12
+      },
+      {
+        "index": 31,
+        "width": 26,
+        "height": 12
+      },
+      {
+        "index": 32,
+        "width": 26,
+        "height": 12
+      },
+      {
+        "index": 33,
+        "width": 26,
+        "height": 12
+      },
+      {
+        "index": 34,
+        "width": 26,
+        "height": 12
+      },
+      {
+        "index": 35,
+        "width": 17,
+        "height": 13
+      },
+      {
+        "index": 36,
+        "width": 33,
+        "height": 7
+      },
+      {
+        "index": 37,
+        "width": 33,
+        "height": 7
+      },
+      {
+        "index": 41,
+        "width": 26,
+        "height": 35
+      },
+      {
+        "index": 42,
+        "width": 26,
+        "height": 35
+      }
+    ],
+    "animation_file_offset": 8368,
+    "animation_bytes": 2640,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "JOTC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 14,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 106,
+        "height": 87
+      },
+      {
+        "index": 2,
+        "width": 20,
+        "height": 10
+      },
+      {
+        "index": 8,
+        "width": 24,
+        "height": 17
+      },
+      {
+        "index": 10,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 11,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 12,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 13,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 14,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 15,
+        "width": 16,
+        "height": 28
+      },
+      {
+        "index": 20,
+        "width": 80,
+        "height": 5
+      },
+      {
+        "index": 21,
+        "width": 106,
+        "height": 81
+      },
+      {
+        "index": 22,
+        "width": 106,
+        "height": 81
+      },
+      {
+        "index": 23,
+        "width": 106,
+        "height": 81
+      },
+      {
+        "index": 24,
+        "width": 22,
+        "height": 8
+      }
+    ],
+    "animation_file_offset": 11236,
+    "animation_bytes": 1040,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "LUTINC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 3,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 53,
+        "height": 100
+      },
+      {
+        "index": 1,
+        "width": 103,
+        "height": 69
+      },
+      {
+        "index": 2,
+        "width": 103,
+        "height": 69
+      }
+    ],
+    "animation_file_offset": 6660,
+    "animation_bytes": 256,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "MONADC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 8,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 1,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 2,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 3,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 10,
+        "width": 274,
+        "height": 95
+      },
+      {
+        "index": 11,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 12,
+        "width": 274,
+        "height": 96
+      },
+      {
+        "index": 13,
+        "width": 274,
+        "height": 96
+      }
+    ],
+    "animation_file_offset": 38314,
+    "animation_bytes": 176,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "STENTORC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 12,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 1,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 2,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 3,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 4,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 5,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 10,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 11,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 12,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 13,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 14,
+        "width": 40,
+        "height": 65
+      },
+      {
+        "index": 15,
+        "width": 40,
+        "height": 65
+      }
+    ],
+    "animation_file_offset": 14724,
+    "animation_bytes": 2320,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "VENGEC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 38,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 84,
+        "height": 60
+      },
+      {
+        "index": 1,
+        "width": 87,
+        "height": 25
+      },
+      {
+        "index": 2,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 3,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 4,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 5,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 6,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 7,
+        "width": 35,
+        "height": 37
+      },
+      {
+        "index": 8,
+        "width": 57,
+        "height": 45
+      },
+      {
+        "index": 9,
+        "width": 57,
+        "height": 45
+      },
+      {
+        "index": 10,
+        "width": 54,
+        "height": 51
+      },
+      {
+        "index": 11,
+        "width": 54,
+        "height": 51
+      },
+      {
+        "index": 12,
+        "width": 54,
+        "height": 51
+      },
+      {
+        "index": 13,
+        "width": 54,
+        "height": 51
+      },
+      {
+        "index": 20,
+        "width": 20,
+        "height": 7
+      },
+      {
+        "index": 21,
+        "width": 20,
+        "height": 7
+      },
+      {
+        "index": 22,
+        "width": 20,
+        "height": 7
+      },
+      {
+        "index": 23,
+        "width": 20,
+        "height": 7
+      },
+      {
+        "index": 24,
+        "width": 56,
+        "height": 40
+      },
+      {
+        "index": 25,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 26,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 27,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 28,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 29,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 30,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 31,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 32,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 33,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 34,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 35,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 36,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 37,
+        "width": 20,
+        "height": 19
+      },
+      {
+        "index": 38,
+        "width": 56,
+        "height": 40
+      },
+      {
+        "index": 39,
+        "width": 56,
+        "height": 40
+      },
+      {
+        "index": 40,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 41,
+        "width": 35,
+        "height": 35
+      },
+      {
+        "index": 42,
+        "width": 56,
+        "height": 40
+      },
+      {
+        "index": 43,
+        "width": 56,
+        "height": 40
+      }
+    ],
+    "animation_file_offset": 20426,
+    "animation_bytes": 2320,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  },
+  {
+    "source": "VORTC.PAN",
+    "viewport": [
+      0,
+      0,
+      319,
+      199,
+      1
+    ],
+    "sprite_count": 22,
+    "sprites": [
+      {
+        "index": 0,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 1,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 2,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 3,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 4,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 5,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 6,
+        "width": 15,
+        "height": 15
+      },
+      {
+        "index": 7,
+        "width": 15,
+        "height": 15
+      },
+      {
+        "index": 8,
+        "width": 15,
+        "height": 15
+      },
+      {
+        "index": 9,
+        "width": 15,
+        "height": 15
+      },
+      {
+        "index": 10,
+        "width": 37,
+        "height": 36
+      },
+      {
+        "index": 11,
+        "width": 37,
+        "height": 37
+      },
+      {
+        "index": 12,
+        "width": 37,
+        "height": 37
+      },
+      {
+        "index": 13,
+        "width": 37,
+        "height": 36
+      },
+      {
+        "index": 14,
+        "width": 37,
+        "height": 37
+      },
+      {
+        "index": 20,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 21,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 22,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 23,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 24,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 25,
+        "width": 29,
+        "height": 76
+      },
+      {
+        "index": 26,
+        "width": 29,
+        "height": 76
+      }
+    ],
+    "animation_file_offset": 6590,
+    "animation_bytes": 4560,
+    "note": "Sprite sheet only; animation bytecode not executed."
+  }
+]

@@ -1,0 +1,4 @@
+address	instruction	reason
+1000:004c	CALLF 0xf000:8c57	unmapped target f000:8c57
+1000:17e2	CALL word ptr CS:[0x150e]	indirect control flow; targets require validation
+1000:2557	JMP SI	indirect control flow; targets require validation

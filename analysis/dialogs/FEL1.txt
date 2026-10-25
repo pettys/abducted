@@ -1,0 +1,216 @@
+FEL1.BIN | ovl_20 | felc.pan
+
+RECORD 0 (0x0002)
+Greetings, friend. Our treaty guaran-
+tees perpetual peace. Your desires?
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 1 (0x0018)
+We are the Fel. What do you wish?
+  [0] INFORMATION
+  [1] TRADE
+  [2] PEACE TREATY
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 2 (0x002e)
+We are suspicious. You may mean to
+harm the Fel. What have you come for?
+  [0] I COME IN PEACE
+  [1] "I JUST WANT SOME INFORMATION"
+  [2] "I MEAN NO HARM. I WANT TO TRADE"
+  [3] LEAVE
+  [4] FIGHT
+
+RECORD 3 (0x0044)
+The Fel and you can never be friends.
+Begone.
+  [0] LEAVE
+
+RECORD 4 (0x005a)
+We would value such a treaty highly.
+But we have not known you long enough.
+Perhaps later, after we have had a
+chance to observe your behavior.
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 5 (0x0070)
+Please sign below :
+As representative of the human
+species, I decree mutual friendship
+and trust with the Fel. Should the
+Fel be baselessly attacked by a third
+party, the humans promise to come to
+the Fel's aid. Should the humans be
+baselessly attacked by a third party,
+the Fel promise to come to humanity's
+aid.
+  [0] SIGN
+  [1] REFUSE TO SIGN
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 6 (0x0086)
+We are not sure you have indeed come
+in peace. We will watch you and your
+actions for a while before coming to
+any conclusions.
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 7 (0x009c)
+We are now friends. You now possess
+the coordinates of habitable planet
+1342. We are glad to welcome your
+species into this cluster.
+  [0] INFORMATION
+  [1] TRADE
+  [2] LEAVE
+  [3] FIGHT
+
+RECORD 8 (0x00b2)
+Nothing is wrong with our treaty. You
+must now leave.
+  [0] LEAVE
+
+RECORD 9 (0x00c8)
+We know little. But we can tell you
+what we know.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 10 (0x00de)
+Great cowards, and very treacherous.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 11 (0x00f4)
+Who?
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 12 (0x010a)
+Bad pirates.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 13 (0x0120)
+We know little, but try to avoid them.
+They are dangerous to talk to.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 14 (0x0136)
+Bad pirates.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 15 (0x014c)
+We know one such planet. We refer to it
+as 1342. We have many foes in the
+cluster and dare not reveal this world's
+location to a stranger. When we know
+you better and have signed a peace
+treaty, we will give you the
+coordinates.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] HUMAN PLANETS
+  [6] EXIT
+
+RECORD 16 (0x0162)
+Great cowards, and very treacherous.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT
+
+RECORD 17 (0x0178)
+Who?
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT
+
+RECORD 18 (0x018e)
+Bad pirates.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT
+
+RECORD 19 (0x01a4)
+We know little, but try to avoid them.
+They are dangerous to talk to.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT
+
+RECORD 20 (0x01ba)
+Bad pirates.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT
+
+RECORD 21 (0x01d0)
+We know little. But we can tell you
+what we know.
+  [0] BROODMASTERS
+  [1] CICISBEO
+  [2] DIDINIUM
+  [3] LUTIN
+  [4] STENTOR
+  [5] EXIT

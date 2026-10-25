@@ -1,0 +1,5 @@
+address	instruction	reason
+1000:0062	INT 0xb	indirect control flow; targets require validation
+1000:0934	INT 0x10	indirect control flow; targets require validation
+1000:14f0	CALL word ptr CS:[0x1228]	indirect control flow; targets require validation
+1000:1fd3	JMP SI	indirect control flow; targets require validation

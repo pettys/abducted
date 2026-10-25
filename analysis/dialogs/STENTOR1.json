@@ -1,0 +1,633 @@
+{
+  "source": "STENTOR1.BIN",
+  "count": 13,
+  "text_file_offset": 290,
+  "declared_text_bytes": 1146,
+  "records": [
+    {
+      "index": 0,
+      "record_file_offset": 2,
+      "speech": "Yuhaf fown dar seek cretbais.  Plisstel nowun.\nShalwee trayd ?",
+      "speech_text_offset": 324,
+      "choices": [
+        {
+          "result": 0,
+          "text": "I WANT A PEACE TREATY.",
+          "text_offset": 0
+        },
+        {
+          "result": 1,
+          "text": "I WANT SOME INFORMATION",
+          "text_offset": 23
+        },
+        {
+          "result": 2,
+          "text": "YES, I'D LIKE TO TRADE",
+          "text_offset": 47
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        0,
+        23,
+        47,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        324,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 1,
+      "record_file_offset": 24,
+      "speech": "Pieces nottin tresting. Note retee.\nTraydor fite ?",
+      "speech_text_offset": 387,
+      "choices": [
+        {
+          "result": 0,
+          "text": "INFORMATION",
+          "text_offset": 82
+        },
+        {
+          "result": 1,
+          "text": "\"I REALLY WANT A PEACE TREATY\"",
+          "text_offset": 94
+        },
+        {
+          "result": 2,
+          "text": "TRADE",
+          "text_offset": 125
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        82,
+        94,
+        125,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        387,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 2,
+      "record_file_offset": 46,
+      "speech": "Uneedin for mayshun. Menoe mutch. Meevin no time\ntravel. In formay shunvall youble. Yumuss\npaiforrit. Wutyu givmi?",
+      "speech_text_offset": 438,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PAY FOR INFORMATION",
+          "text_offset": 222
+        },
+        {
+          "result": 1,
+          "text": "I DON'T NEED INFORMATION AFTER ALL",
+          "text_offset": 1022
+        },
+        {
+          "result": 2,
+          "text": "ASK ABOUT TIME TRAVEL",
+          "text_offset": 256
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        222,
+        1022,
+        256,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        438,
+        3,
+        2
+      ]
+    },
+    {
+      "index": 3,
+      "record_file_offset": 68,
+      "speech": "Meesae traydor fite! Nowfite!",
+      "speech_text_offset": 553,
+      "choices": [],
+      "extra_choices": [
+        {
+          "result": 0,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        70,
+        -1,
+        553,
+        0,
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "record_file_offset": 90,
+      "speech": "Meekan chute yirsh ipthru time. Ittellby biggrand\nbet turr. Buttyu musgivv meeyir spay stay shun.\nOkay?",
+      "speech_text_offset": 918,
+      "choices": [
+        {
+          "result": 0,
+          "text": "TRADE HOME BASE FOR TIME-TRAVELED SHIP",
+          "text_offset": 278
+        },
+        {
+          "result": 1,
+          "text": "REFUSE",
+          "text_offset": 317
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        278,
+        317,
+        -1,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        918,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 5,
+      "record_file_offset": 112,
+      "speech": "Wutyu wishtu no?",
+      "speech_text_offset": 901,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        901,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "record_file_offset": 134,
+      "speech": "Heh veefire powr. Gitbi hyne dem.",
+      "speech_text_offset": 583,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        583,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 7,
+      "record_file_offset": 156,
+      "speech": "Litteish ipz. Bee wear ifyu maykemadd.",
+      "speech_text_offset": 617,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        617,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "record_file_offset": 178,
+      "speech": "Lukfour meinz. Dowont foll oclose bee Hyne.",
+      "speech_text_offset": 687,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        687,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "record_file_offset": 200,
+      "speech": "There nohzgun chute tray tahed. Kanby har umful.",
+      "speech_text_offset": 731,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        731,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "record_file_offset": 222,
+      "speech": "Meeno tyme. Meekan travv elthroo tymalit tilbit.\nIcon travv elyu thru tiemtoo.",
+      "speech_text_offset": 780,
+      "choices": [
+        {
+          "result": 0,
+          "text": "BROODMASTERS",
+          "text_offset": 131
+        },
+        {
+          "result": 1,
+          "text": "CICISBEO",
+          "text_offset": 144
+        },
+        {
+          "result": 2,
+          "text": "FEL",
+          "text_offset": 162
+        },
+        {
+          "result": 3,
+          "text": "LUTIN",
+          "text_offset": 166
+        },
+        {
+          "result": 4,
+          "text": "YOURSELVES",
+          "text_offset": 172
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 5,
+          "text": "EXIT",
+          "text_offset": 183
+        }
+      ],
+      "raw_words": [
+        131,
+        144,
+        162,
+        166,
+        172,
+        -1,
+        183,
+        -1,
+        780,
+        5,
+        1
+      ]
+    },
+    {
+      "index": 11,
+      "record_file_offset": 244,
+      "speech": "Uneedin for mayshun. Menoe mutch. Meevin no time\ntravel. In formay shunvall youble. Yumuss\npaiforrit. Wutyu givmi?",
+      "speech_text_offset": 438,
+      "choices": [
+        {
+          "result": 0,
+          "text": "PAY FOR INFORMATION",
+          "text_offset": 222
+        },
+        {
+          "result": 1,
+          "text": "I DON'T NEED INFORMATION AFTER ALL",
+          "text_offset": 1022
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 2,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 3,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        222,
+        1022,
+        -1,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        438,
+        2,
+        2
+      ]
+    },
+    {
+      "index": 12,
+      "record_file_offset": 266,
+      "speech": "Lemee no wutyune eed. Eye one-two hell pew.",
+      "speech_text_offset": 1057,
+      "choices": [
+        {
+          "result": 0,
+          "text": "ASK ABOUT PEACE TREATY",
+          "text_offset": 1101
+        },
+        {
+          "result": 1,
+          "text": "TRADE",
+          "text_offset": 125
+        },
+        {
+          "result": 2,
+          "text": "ASK ABOUT INFORMATION",
+          "text_offset": 1124
+        }
+      ],
+      "extra_choices": [
+        {
+          "result": 3,
+          "text": "LEAVE",
+          "text_offset": 76
+        },
+        {
+          "result": 4,
+          "text": "FIGHT",
+          "text_offset": 70
+        }
+      ],
+      "raw_words": [
+        1101,
+        125,
+        1124,
+        -1,
+        -1,
+        -1,
+        76,
+        70,
+        1057,
+        3,
+        2
+      ]
+    }
+  ],
+  "overlay": "ovl_19",
+  "animation": "stentorc.pan"
+}
